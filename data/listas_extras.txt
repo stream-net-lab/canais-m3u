@@ -1,0 +1,20 @@
+# =====================================================================
+# LISTAS EXTRAS DE CANAIS E CONTEÚDOS (FUSÃO AUTOMÁTICA)
+# =====================================================================
+# Cole aqui links de listas IPTV extras (um por linha).
+# O robô do GitHub Actions irá automaticamente:
+# 1. Conectar e baixar os canais em alta velocidade (suporte nativo Xtream Codes e M3U).
+# 2. Fundir canais repetidos como fontes alternativas (Opção 1, 2, 3...).
+# 3. Testar a velocidade real (latência/ping) de cada link.
+# 4. Colocar o link MAIS RÁPIDO em 1º lugar (Opção 1) para cada canal.
+# 5. Descartar ou jogar para o fim os links que estiverem fora do ar.
+# 6. Separar filmes e séries automaticamente para o catálogo VOD (Opção A).
+# 6. Separar filmes e séries automaticamente para o catálogo VOD (Opção A).
+#
+# Formatos aceitos:
+# - Link M3U direto: https://meuservidor.com/lista.m3u
+# - Link Xtream Codes: http://servidor.com:8080/get.php?username=XXX&password=YYY&type=m3u_plus
+# - Arquivo local dentro do repositório: data/minha_lista.m3u
+# =====================================================================
+
+http://4t75eg.cloud/get.php?username=hZ9He8&password=1Uf2Uw&type=m3u_plus

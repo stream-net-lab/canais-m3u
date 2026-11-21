@@ -1,0 +1,43 @@
+name: Atualizar Filmes, Series e Animes (1x por dia)
+
+on:
+  schedule:
+    # Uma vez por dia, 06:00 UTC (03:00 de Brasilia)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: atualizar-lista
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Gerar lista completa
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python scripts/atualizar_lista.py
+
+      - name: Publicar (commit unico, sem acumular historico)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteracao."
+            exit 0
+          fi
+          git checkout --orphan publicar
+          git add -A
+          git commit -m "Auto: atualizacao diaria da lista"
+          git push --force origin publicar:main
