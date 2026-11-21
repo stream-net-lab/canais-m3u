@@ -1,14 +1,14 @@
 {
-  "tag": "v3.3.4",
-  "versao": "3.3.4",
-  "codigo": 30304,
+  "tag": "v3.3.5",
+  "versao": "3.3.5",
+  "codigo": 30305,
   "data": "2026-11-21",
-  "notas": "Remocao de opcoes de PIN e esquecer celulares, remocao do icone +18 avulso do topo e atualizacao direta pelo app.",
+  "notas": "Ajustes limpos sem texto extra, versao v3.3.5 exibida na busca de atualizacao e eventos ao vivo restaurados com a API do Saimo.",
   "arquivos": {
     "tvbox": {
       "url": "https://stream-net-lab.github.io/canais-m3u/tv-filmes.apk",
       "bytes": 10653203,
-      "sha256": "1605a521985a8138d3e75cd0df26c8e456e467a023d7c81232f44d28b0c74a2b"
+      "sha256": "d410d7422f988f21746048acaf23a65daf591bf86f6a6311a1432b38c26867f0"
     }
   }
 }
