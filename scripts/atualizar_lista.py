@@ -63,14 +63,20 @@ ORDEM_CATEGORIAS_CANAIS = [
     "TV Aberta",
     "Filmes e Séries",
     "Esportes",
-    "Notícias",
+    "Jogos do Dia",
+    "Premiere",
+    "PPV",
+    "Reality Shows",
+    "24 Horas",
     "Infantil",
     "Documentários",
-    "Pluto TV",
-    "24 Horas",
-    "Variedades",
+    "Notícias",
+    "Religiosos",
     "Músicas",
-    "PPV"
+    "Variedades",
+    "Pluto TV",
+    "Legendados",
+    "4K [FHDR]"
 ]
 
 def baixar_texto(url):
@@ -322,31 +328,75 @@ def eh_conteudo_adulto(nome, categoria=""):
     padrao = r'(?:^|[^a-z0-9])(?:adult|adulto|adultos|xxx|porn|porno|sexo|sex|erotic|erotico|hentai|playboy|sexy\s*hot|venus|sextreme|hustler|redlight|brazzers|private|for\s*man|penthouse|babes|dorcel)(?:[^a-z0-9]|$)|\+18|18\+'
     return bool(re.search(padrao, texto))
 
-def normalizar_categoria(cat):
-    if not cat:
-        return "Variedades"
-    c_low = cat.lower()
+def normalizar_categoria(cat, nome_canal=""):
+    cat_str = (cat or "").strip()
+    nome_str = (nome_canal or "").strip()
+    c_low = cat_str.lower()
+    n_low = nome_str.lower()
+
+    # 1. Conteúdo Adulto (+18)
     if any(k in c_low for k in ["adult", "xxx", "porn", "porno", "sex", "+18", "18+"]):
         return "Adulto"
-    if any(k in c_low for k in ["aberta", "local", "nacional"]):
-        return "TV Aberta"
-    if any(k in c_low for k in ["esporte", "sport", "futebol", "premiere", "espn"]):
-        return "Esportes"
-    if any(k in c_low for k in ["noticia", "news", "jornal"]):
-        return "Notícias"
-    if any(k in c_low for k in ["filme", "serie", "cinema", "telecine", "hbo"]):
-        return "Filmes e Séries"
-    if any(k in c_low for k in ["infantil", "kids", "desenho", "animacao"]):
-        return "Infantil"
-    if any(k in c_low for k in ["doc", "discovery", "history", "animal"]):
-        return "Documentários"
-    if any(k in c_low for k in ["musica", "music", "mtv", "show"]):
-        return "Músicas"
-    if any(k in c_low for k in ["pluto"]):
-        return "Pluto TV"
-    if any(k in c_low for k in ["ppv", "combate"]):
+
+    # 2. 24 Horas: prioridade absoluta para não misturar com Filmes e Séries ou Variedades
+    if "[24h]" in n_low or "24 horas" in n_low or "24h" in c_low or "24 horas" in c_low:
+        return "24 Horas"
+
+    # 3. Jogos do Dia: partidas de futebol ao vivo do dia
+    if "jogos do dia" in c_low or "jogos" in c_low or re.match(r"^\[\d{2}:\d{2}\]", nome_str):
+        return "Jogos do Dia"
+
+    # 4. Reality Shows (A Fazenda, BBB, etc.) - nunca misturar com Músicas
+    if "reality" in c_low or "fazenda" in n_low or "bbb" in n_low or "big brother" in n_low:
+        return "Reality Shows"
+
+    # 5. Premiere
+    if "premiere" in c_low or "pfc" in n_low or "premiere" in n_low:
+        return "Premiere"
+
+    # 6. PPV (Pay-per-view, Combate, etc.)
+    if "ppv" in c_low or "combate" in c_low or "pay-per-view" in c_low:
         return "PPV"
-    return "Variedades"
+
+    # 7. Religiosos
+    if "religio" in c_low:
+        return "Religiosos"
+
+    # 8. TV Aberta
+    if any(k in c_low for k in ["aberto", "aberta", "local", "nacional", "globo", "record"]):
+        return "TV Aberta"
+
+    # 9. Filmes e Séries (HBO, Telecine, Max, etc. - sem os canais 24h)
+    if any(k in c_low for k in ["filme", "serie", "cinema", "telecine", "hbo", "paramount", "disney", "prime video", "apple tv", "max"]):
+        return "Filmes e Séries"
+
+    # 10. Esportes
+    if any(k in c_low for k in ["esporte", "sport", "futebol", "espn", "sportv", "dazn", "nba", "campeonatos", "futsal"]):
+        return "Esportes"
+
+    # 11. Infantil
+    if any(k in c_low for k in ["infantil", "infantis", "kids", "desenho", "animacao"]):
+        return "Infantil"
+
+    # 12. Documentários
+    if any(k in c_low for k in ["doc", "discovery", "history", "animal", "geographic"]):
+        return "Documentários"
+
+    # 13. Notícias
+    if any(k in c_low for k in ["noticia", "news", "jornal", "cnn", "bandnews"]):
+        return "Notícias"
+
+    # 14. Músicas (apenas música pura, sem 'show' genérico)
+    if any(k in c_low for k in ["musica", "music", "mtv", "multishow", "bis"]):
+        return "Músicas"
+
+    # 15. Pluto TV
+    if "pluto" in c_low:
+        return "Pluto TV"
+
+    # 16. Preservar novas categorias em abas próprias em vez de forçar tudo em Variedades
+    limpo = re.sub(r"^canais\s*\|\s*", "", cat_str, flags=re.IGNORECASE).strip()
+    return limpo if limpo else "Variedades"
 
 def extrair_credenciais_xtream(url):
     """Detecta e extrai credenciais de servidores Xtream Codes."""
@@ -520,7 +570,7 @@ def carregar_e_fundir_listas_extras(canais_por_cat, canais_adultos=None):
                         continue
 
                     # Canal normal
-                    cat_normalizada = normalizar_categoria(cat_bruta)
+                    cat_normalizada = normalizar_categoria(cat_bruta, nome_canal)
                     norm = normalizar_nome_canal(nome_canal)
                     norm = aliases.get(norm, norm)
 
@@ -645,7 +695,7 @@ def carregar_e_fundir_listas_extras(canais_por_cat, canais_adultos=None):
                             mapa_adultos[norm] = novo_ch
                             total_adultos += 1
                     else:
-                        cat_normalizada = normalizar_categoria(cat_canal)
+                        cat_normalizada = normalizar_categoria(cat_canal, nome_canal)
                         norm = normalizar_nome_canal(nome_canal)
                         norm = aliases.get(norm, norm)
 
@@ -712,7 +762,8 @@ def processar_canais():
                 f["agente"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
         
         is_adult = eh_conteudo_adulto(canal_atual, categoria_atual)
-        cat_final = "Adulto" if is_adult else categoria_atual
+        cat_normalizada = normalizar_categoria(categoria_atual, canal_atual)
+        cat_final = "Adulto" if is_adult else cat_normalizada
         item_canal = {
             "nome": canal_atual,
             "categoria": cat_final,
@@ -724,7 +775,7 @@ def processar_canais():
         if is_adult:
             canais_adultos.append(item_canal)
         else:
-            canais_por_cat[categoria_atual].append(item_canal)
+            canais_por_cat[cat_final].append(item_canal)
 
     for linha in linhas:
         l = linha.strip()

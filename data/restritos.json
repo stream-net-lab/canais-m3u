@@ -11,7 +11,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 83.4,
+        "latencia_ms": 1197.9,
         "ativo": true
       }
     ]
@@ -23,40 +23,40 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72222.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.2,
+        "latencia_ms": 193.1,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72224.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72222.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 81.1,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts",
-        "nome": "Fonte 3",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 96.4,
+        "latencia_ms": 197.4,
         "ativo": true
       },
       {
         "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72221.ts",
+        "nome": "Fonte 3",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 1215.2,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72224.ts",
         "nome": "Fonte 4",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 108.5,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -67,49 +67,40 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180153.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 85.2,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180156.ts",
-        "nome": "Fonte 2",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 85.4,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts",
-        "nome": "Fonte 3",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 87.5,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180154.ts",
-        "nome": "Fonte 4",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 90.1,
+        "latencia_ms": 188.2,
         "ativo": true
       },
       {
         "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts",
-        "nome": "Fonte 5",
+        "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 90.4,
+        "latencia_ms": 210.5,
         "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180153.ts",
+        "nome": "Fonte 3",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 216.1,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180156.ts",
+        "nome": "Fonte 4",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -125,7 +116,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 81.9,
+        "latencia_ms": 196.6,
         "ativo": true
       }
     ]
@@ -142,7 +133,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 91.8,
+        "latencia_ms": 197.7,
         "ativo": true
       }
     ]
@@ -159,7 +150,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.0,
+        "latencia_ms": 196.8,
         "ativo": true
       }
     ]
@@ -176,8 +167,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.2,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -193,7 +184,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.1,
+        "latencia_ms": 1200.4,
         "ativo": true
       }
     ]
@@ -210,8 +201,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 80.5,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -227,7 +218,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 90.6,
+        "latencia_ms": 335.8,
         "ativo": true
       }
     ]
@@ -244,7 +235,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 107.6,
+        "latencia_ms": 200.6,
         "ativo": true
       }
     ]
@@ -261,8 +252,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 106.0,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -278,7 +269,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 89.8,
+        "latencia_ms": 188.5,
         "ativo": true
       }
     ]
@@ -295,8 +286,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 84.1,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -312,7 +303,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 108.3,
+        "latencia_ms": 1209.9,
         "ativo": true
       }
     ]
@@ -329,7 +320,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.4,
+        "latencia_ms": 317.0,
         "ativo": true
       }
     ]
@@ -346,8 +337,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.5,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -363,7 +354,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.5,
+        "latencia_ms": 190.5,
         "ativo": true
       }
     ]
@@ -380,7 +371,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.3,
+        "latencia_ms": 188.5,
         "ativo": true
       }
     ]
@@ -397,7 +388,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 91.0,
+        "latencia_ms": 195.7,
         "ativo": true
       }
     ]
@@ -414,7 +405,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 82.5,
+        "latencia_ms": 190.3,
         "ativo": true
       }
     ]
@@ -431,8 +422,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 85.8,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -448,7 +439,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.9,
+        "latencia_ms": 338.9,
         "ativo": true
       }
     ]
@@ -465,7 +456,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.3,
+        "latencia_ms": 335.5,
         "ativo": true
       }
     ]
@@ -482,7 +473,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.2,
+        "latencia_ms": 339.7,
         "ativo": true
       }
     ]
@@ -499,7 +490,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.5,
+        "latencia_ms": 209.1,
         "ativo": true
       }
     ]
@@ -516,7 +507,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 92.2,
+        "latencia_ms": 205.3,
         "ativo": true
       }
     ]
@@ -533,7 +524,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 115.4,
+        "latencia_ms": 200.2,
         "ativo": true
       }
     ]
@@ -550,8 +541,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 80.7,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -567,7 +558,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 116.7,
+        "latencia_ms": 189.0,
         "ativo": true
       }
     ]
@@ -584,7 +575,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 105.7,
+        "latencia_ms": 1214.1,
         "ativo": true
       }
     ]
@@ -601,7 +592,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.5,
+        "latencia_ms": 202.2,
         "ativo": true
       }
     ]
@@ -618,7 +609,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 108.8,
+        "latencia_ms": 198.9,
         "ativo": true
       }
     ]
@@ -635,8 +626,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 82.9,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -652,7 +643,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 84.1,
+        "latencia_ms": 192.4,
         "ativo": true
       }
     ]
@@ -669,7 +660,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.3,
+        "latencia_ms": 345.0,
         "ativo": true
       }
     ]
@@ -686,8 +677,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 88.7,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -703,7 +694,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 81.9,
+        "latencia_ms": 1193.9,
         "ativo": true
       }
     ]
@@ -720,7 +711,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.1,
+        "latencia_ms": 228.6,
         "ativo": true
       }
     ]
@@ -737,7 +728,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 96.1,
+        "latencia_ms": 213.6,
         "ativo": true
       }
     ]
@@ -754,8 +745,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 103.7,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -771,7 +762,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 81.6,
+        "latencia_ms": 191.7,
         "ativo": true
       }
     ]
@@ -788,8 +779,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.6,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -805,7 +796,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 87.4,
+        "latencia_ms": 1214.4,
         "ativo": true
       }
     ]
@@ -822,7 +813,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.0,
+        "latencia_ms": 199.0,
         "ativo": true
       }
     ]
@@ -839,7 +830,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.6,
+        "latencia_ms": 225.5,
         "ativo": true
       }
     ]
@@ -856,8 +847,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.1,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -873,7 +864,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.7,
+        "latencia_ms": 215.8,
         "ativo": true
       }
     ]
@@ -890,7 +881,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 80.2,
+        "latencia_ms": 326.2,
         "ativo": true
       }
     ]
@@ -907,8 +898,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 76.6,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -924,7 +915,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.0,
+        "latencia_ms": 200.8,
         "ativo": true
       }
     ]
@@ -941,7 +932,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.7,
+        "latencia_ms": 199.4,
         "ativo": true
       }
     ]
@@ -958,7 +949,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 97.6,
+        "latencia_ms": 208.3,
         "ativo": true
       }
     ]
@@ -975,7 +966,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.5,
+        "latencia_ms": 211.0,
         "ativo": true
       }
     ]
@@ -992,7 +983,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.5,
+        "latencia_ms": 207.2,
         "ativo": true
       }
     ]
@@ -1009,7 +1000,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 82.3,
+        "latencia_ms": 193.9,
         "ativo": true
       }
     ]
@@ -1026,7 +1017,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 96.7,
+        "latencia_ms": 189.5,
         "ativo": true
       }
     ]
@@ -1043,8 +1034,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.3,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -1060,8 +1051,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 98.5,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -1077,8 +1068,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 82.2,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -1094,8 +1085,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.5,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -1111,7 +1102,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.6,
+        "latencia_ms": 219.5,
         "ativo": true
       }
     ]
@@ -1128,7 +1119,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 84.0,
+        "latencia_ms": 215.3,
         "ativo": true
       }
     ]
@@ -1145,8 +1136,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.8,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -1162,7 +1153,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 107.6,
+        "latencia_ms": 187.3,
         "ativo": true
       }
     ]
@@ -1179,7 +1170,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 87.3,
+        "latencia_ms": 223.2,
         "ativo": true
       }
     ]
@@ -1196,7 +1187,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 113.9,
+        "latencia_ms": 213.4,
         "ativo": true
       }
     ]
@@ -1213,7 +1204,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 89.7,
+        "latencia_ms": 207.3,
         "ativo": true
       }
     ]
@@ -1230,7 +1221,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 86.4,
+        "latencia_ms": 191.5,
         "ativo": true
       }
     ]
@@ -1247,8 +1238,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 88.0,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -1264,8 +1255,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 82.9,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -1281,7 +1272,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 96.7,
+        "latencia_ms": 1215.1,
         "ativo": true
       }
     ]
@@ -1298,7 +1289,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 81.6,
+        "latencia_ms": 194.5,
         "ativo": true
       }
     ]
@@ -1315,7 +1306,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 80.0,
+        "latencia_ms": 191.8,
         "ativo": true
       }
     ]
@@ -1332,8 +1323,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 95.5,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -1349,7 +1340,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 91.9,
+        "latencia_ms": 192.3,
         "ativo": true
       }
     ]
@@ -1366,7 +1357,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 80.8,
+        "latencia_ms": 211.2,
         "ativo": true
       }
     ]
@@ -1383,7 +1374,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 83.5,
+        "latencia_ms": 202.9,
         "ativo": true
       }
     ]
@@ -1400,8 +1391,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 109.7,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -1417,8 +1408,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.3,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -1434,7 +1425,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 76.6,
+        "latencia_ms": 215.2,
         "ativo": true
       }
     ]
@@ -1451,8 +1442,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 76.6,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -1468,8 +1459,8 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 80.2,
-        "ativo": true
+        "latencia_ms": 99999.0,
+        "ativo": false
       }
     ]
   },
@@ -1485,7 +1476,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 84.5,
+        "latencia_ms": 192.8,
         "ativo": true
       }
     ]
@@ -1502,7 +1493,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 89.9,
+        "latencia_ms": 221.8,
         "ativo": true
       }
     ]
@@ -1519,7 +1510,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 106.9,
+        "latencia_ms": 217.9,
         "ativo": true
       }
     ]
@@ -1536,7 +1527,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.7,
+        "latencia_ms": 193.6,
         "ativo": true
       }
     ]
