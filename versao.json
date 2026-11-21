@@ -1,14 +1,14 @@
 {
-  "tag": "v3.3.3",
-  "versao": "3.3.3",
-  "codigo": 30303,
-  "data": "2026-11-20",
-  "notas": "Adicionar listas pelo celular (iPhone/Android via navegador) com suporte a M3U e Xtream Codes (usuario/senha).",
+  "tag": "v3.3.4",
+  "versao": "3.3.4",
+  "codigo": 30304,
+  "data": "2026-11-21",
+  "notas": "Remocao de opcoes de PIN e esquecer celulares, remocao do icone +18 avulso do topo e atualizacao direta pelo app.",
   "arquivos": {
     "tvbox": {
       "url": "https://stream-net-lab.github.io/canais-m3u/tv-filmes.apk",
       "bytes": 10653203,
-      "sha256": "614e23c0c0888c1a56624b1fb105687e713b9b397157722a45930a20a1ef7dc0"
+      "sha256": "1605a521985a8138d3e75cd0df26c8e456e467a023d7c81232f44d28b0c74a2b"
     }
   }
 }
