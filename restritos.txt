@@ -8,17 +8,17 @@ agente: Mozilla/5.0
 canal: [+18] Playboy TV FHD
 categoria: Adulto
 logo: http://4t75eg.cloud/static/logos/canais/playboy.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72222.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72222.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72221.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72221.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72224.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72224.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72221.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72221.ts
 agente: Mozilla/5.0
 
 canal: [+18] Sexy Hot 4K
@@ -26,14 +26,14 @@ categoria: Adulto
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180153.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180153.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180154.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180154.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180156.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180156.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180154.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180154.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts
