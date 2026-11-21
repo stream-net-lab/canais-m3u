@@ -64,7 +64,6 @@ ORDEM_CATEGORIAS_CANAIS = [
     "Filmes e Séries",
     "Esportes",
     "Jogos do Dia",
-    "Premiere",
     "PPV",
     "Reality Shows",
     "24 Horas",
@@ -74,9 +73,7 @@ ORDEM_CATEGORIAS_CANAIS = [
     "Religiosos",
     "Músicas",
     "Variedades",
-    "Pluto TV",
-    "Legendados",
-    "4K [FHDR]"
+    "Pluto TV"
 ]
 
 def baixar_texto(url):
@@ -335,7 +332,7 @@ def normalizar_categoria(cat, nome_canal=""):
     n_low = nome_str.lower()
 
     # 1. Conteúdo Adulto (+18)
-    if any(k in c_low for k in ["adult", "xxx", "porn", "porno", "sex", "+18", "18+"]):
+    if any(k in c_low for k in ["adult", "xxx", "porn", "porno", "sex", "+18", "18+"]) or any(k in n_low for k in ["+18", "18+", "playboy", "venus", "sextreme", "hustler"]):
         return "Adulto"
 
     # 2. 24 Horas: prioridade absoluta para não misturar com Filmes e Séries ou Variedades
@@ -350,51 +347,51 @@ def normalizar_categoria(cat, nome_canal=""):
     if "reality" in c_low or "fazenda" in n_low or "bbb" in n_low or "big brother" in n_low:
         return "Reality Shows"
 
-    # 5. Premiere
-    if "premiere" in c_low or "pfc" in n_low or "premiere" in n_low:
-        return "Premiere"
-
-    # 6. PPV (Pay-per-view, Combate, etc.)
-    if "ppv" in c_low or "combate" in c_low or "pay-per-view" in c_low:
+    # 5. PPV (Pay-per-view, Combate, etc.)
+    if "ppv" in c_low or "combate" in c_low or "pay-per-view" in c_low or "combate" in n_low or "bjj" in n_low:
         return "PPV"
 
-    # 7. Religiosos
-    if "religio" in c_low:
-        return "Religiosos"
-
-    # 8. TV Aberta
-    if any(k in c_low for k in ["aberto", "aberta", "local", "nacional", "globo", "record"]):
-        return "TV Aberta"
-
-    # 9. Filmes e Séries (HBO, Telecine, Max, etc. - sem os canais 24h)
-    if any(k in c_low for k in ["filme", "serie", "cinema", "telecine", "hbo", "paramount", "disney", "prime video", "apple tv", "max"]):
-        return "Filmes e Séries"
-
-    # 10. Esportes
-    if any(k in c_low for k in ["esporte", "sport", "futebol", "espn", "sportv", "dazn", "nba", "campeonatos", "futsal"]):
+    # 6. Esportes: inclui Premiere (a pedido do usuário), SporTV, ESPN, DAZN, NBA, Futsal, etc.
+    if any(k in c_low for k in ["esporte", "sport", "futebol", "espn", "sportv", "dazn", "nba", "campeonatos", "futsal", "premiere"]) or any(k in n_low for k in ["premiere", "sportv", "espn", "dazn", "band sports", "tnt sports", "pfc"]):
         return "Esportes"
 
-    # 11. Infantil
-    if any(k in c_low for k in ["infantil", "infantis", "kids", "desenho", "animacao"]):
+    # 7. Religiosos
+    if "religio" in c_low or any(k in n_low for k in ["aparecida", "pai eterno", "cancao nova", "evangelizar", "redavida", "redegospel"]):
+        return "Religiosos"
+
+    # 8. TV Aberta (Globo, Record, SBT, Bandeirantes, etc. - canais 4K abertos ficam aqui)
+    if any(k in c_low for k in ["aberto", "aberta", "local", "nacional", "globo", "record", "sbt", "band"]) or any(k in n_low for k in ["globo", "record", "sbt", "bandeirantes", "band tv", "cultura", "redetv", "rede tv"]):
+        return "TV Aberta"
+
+    # 9. Filmes e Séries (HBO, Telecine, Max, Warner, TNT, AXN, etc. - sem canais 24h)
+    if any(k in c_low for k in ["filme", "serie", "cinema", "telecine", "hbo", "paramount", "disney", "prime video", "apple tv", "max", "legendado"]) or any(k in n_low for k in ["telecine", "hbo", "megapix", "tnt", "space", "axn", "warner", "universal tv", "paramount", "sony"]):
+        return "Filmes e Séries"
+
+    # 10. Infantil
+    if any(k in c_low for k in ["infantil", "infantis", "kids", "desenho", "animacao"]) or any(k in n_low for k in ["cartoon", "gloob", "nickelodeon", "nick jr", "disney jr", "discovery kids", "tooncast", "boomerang"]):
         return "Infantil"
 
-    # 12. Documentários
-    if any(k in c_low for k in ["doc", "discovery", "history", "animal", "geographic"]):
+    # 11. Documentários
+    if any(k in c_low for k in ["doc", "discovery", "history", "animal", "geographic"]) or any(k in n_low for k in ["discovery", "history", "animal planet", "nat geo", "national geographic"]):
         return "Documentários"
 
-    # 13. Notícias
-    if any(k in c_low for k in ["noticia", "news", "jornal", "cnn", "bandnews"]):
+    # 12. Notícias
+    if any(k in c_low for k in ["noticia", "news", "jornal", "cnn", "bandnews"]) or any(k in n_low for k in ["globonews", "cnn brasil", "bandnews", "jovem pan news", "record news"]):
         return "Notícias"
 
-    # 14. Músicas (apenas música pura, sem 'show' genérico)
-    if any(k in c_low for k in ["musica", "music", "mtv", "multishow", "bis"]):
+    # 13. Músicas (apenas música pura, sem 'show' genérico)
+    if any(k in c_low for k in ["musica", "music", "mtv", "multishow", "bis"]) or any(k in n_low for k in ["multishow", "bis", "mtv", "trace"]):
         return "Músicas"
 
-    # 15. Pluto TV
+    # 14. Pluto TV
     if "pluto" in c_low:
         return "Pluto TV"
 
-    # 16. Preservar novas categorias em abas próprias em vez de forçar tudo em Variedades
+    # Não criar abas para tags técnicas de resolução ou idioma (4K, Legendados)
+    if any(k in c_low for k in ["4k", "fhdr", "uhd", "legendado", "legendados"]):
+        return "Variedades"
+
+    # 15. Outras categorias: manter a categoria original limpa em vez de forçar tudo em Variedades
     limpo = re.sub(r"^canais\s*\|\s*", "", cat_str, flags=re.IGNORECASE).strip()
     return limpo if limpo else "Variedades"
 
