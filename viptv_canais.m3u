@@ -1,0 +1,1337 @@
+#EXTM3U url-tvg="http://on.viptv.stream/xmltv.php?username=8788358&password=UXQPPT9" x-tvg-url="http://on.viptv.stream/xmltv.php?username=8788358&password=UXQPPT9"
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="VIP | LIGA PORTUGAL BETCLIC",#### PORTUGAL #### 
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/93.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO EVENT
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/168.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT -  SPORT TV 4 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3308.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | ESPORTES",##### PT - ELEVEN SPORTS #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3309.m3u8
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="EU | PT | ESPORTES",PT - LATIN BENFICA TV FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3311.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/11tv.png" group-title="EU | PT | ESPORTES",PT - CANAL 11 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3313.m3u8
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-logo="https://go4.pw/germany/EUROSPORT.png" group-title="EU | PT | ESPORTES",PT - EUROSPORT 1 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3330.m3u8
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 4 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3334.m3u8
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/NBATV.png" group-title="EU | PT | ESPORTES",PT - SPORT TV NBA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3344.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 1 SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3348.m3u8
+#EXTINF:-1 tvg-id="pfc.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/PFC.png" group-title="EU | PT | ESPORTES",PT - PFC HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3349.m3u8
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-logo="https://go4.pw/EUROPE/sportingg.png" group-title="EU | PT | ESPORTES",PT - SPORTING TV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3357.m3u8
+#EXTINF:-1 tvg-id="kombatsport.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/KOMBATSPORT.png" group-title="EU | PT | ESPORTES",PT - KOMBAT SPORT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3359.m3u8
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-logo="https://go4.pw/germany/EUROSPORT.png" group-title="EU | PT | ESPORTES",PT - EUROSPORT 2 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3368.m3u8
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/NBATV.png" group-title="EU | PT | ESPORTES",PT - NBA TV FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3369.m3u8
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 6 SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3383.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BULGARIA/BTV.png" group-title="EU | PT | ESPORTES",PT - BTV FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3398.m3u8
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT -  ELEVEN SPORTS 3 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3401.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT -  SPORT TV 2 SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3408.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 2 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3409.m3u8
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3414.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BULGARIA/BTV.png" group-title="EU | PT | ESPORTES",PT - BTV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3416.m3u8
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/FUELTV.png" group-title="EU | PT | ESPORTES",PT - FUEL TV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3430.m3u8
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/aglobo.png" group-title="EU | PT | ESPORTES",PT - A BOLA TV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3431.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT -  SPORT TV 4 SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3433.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 5 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3438.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BULGARIA/BTV.png" group-title="EU | PT | ESPORTES",PT - BTV UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3439.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 7 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3448.m3u8
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 2 HD 
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3453.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | ESPORTES",##### PT - DAZN #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3454.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 1 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3461.m3u8
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 5 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3463.m3u8
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/NBATV.png" group-title="EU | PT | ESPORTES",PT - NBA TV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3467.m3u8
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 3 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3471.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 3 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3472.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT -  SPORT TV 3 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3473.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT -  SPORT TV 5 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3484.m3u8
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 3 UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3493.m3u8
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 1 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3496.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 4 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3511.m3u8
+#EXTINF:-1 tvg-id="canal11.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/11tv.png" group-title="EU | PT | ESPORTES",PT - 11 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3514.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT -  SPORT TV 3 SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3516.m3u8
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 3 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3518.m3u8
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV+ HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3526.m3u8
+#EXTINF:-1 tvg-id="canal11.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/11tv.png" group-title="EU | PT | ESPORTES",PT - CANAL 11 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3527.m3u8
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 1 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3529.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 1 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3534.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/MOTORVISION.png" group-title="EU | PT | ESPORTES",PT - MOTORVISION FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3543.m3u8
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 1 HD 
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3544.m3u8
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 2 UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3550.m3u8
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 6 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3556.m3u8
+#EXTINF:-1 tvg-id="porto.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/PORTOCANAL.png" group-title="EU | PT | ESPORTES",PT - PORTO CANAL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3560.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/EUROSPORT.png" group-title="EU | PT | ESPORTES",PT - EUROSPORT 1 UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3563.m3u8
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="EU | PT | ESPORTES",PT - BENFICA TV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3569.m3u8
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 1 UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3573.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 3 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3574.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | ESPORTES",##### PT - DESPORTO #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3576.m3u8
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV + HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3581.m3u8
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 2 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3589.m3u8
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 6 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3590.m3u8
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 4 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3594.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3597.m3u8
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-logo="https://go4.pw/germany/EUROSPORT.png" group-title="EU | PT | ESPORTES",PT - EUROSPORT 1 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3601.m3u8
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 4 UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3745.m3u8
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 6 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3778.m3u8
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 5 UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3846.m3u8
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 6 UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3866.m3u8
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 5 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3877.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 5 SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/196307.m3u8
+#EXTINF:-1 tvg-id="boomerang.pt" tvg-logo="https://go4.pw/EUROPE/GERMANY/BOOMERANG.png" group-title="EU | PT | INFANTIL",PT - BOOMERANG HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3310.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-logo="https://go4.pw/FINLAND/Nickelodeon.png" group-title="EU | PT | INFANTIL",PT - NICKELODEON HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3322.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="EU | PT | INFANTIL",PT - CARTOON NETWORK HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3328.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | INFANTIL",##### PT - INFANTIL #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3345.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-logo="https://go4.pw/usa/17.png" group-title="EU | PT | INFANTIL",PT - DISNEY JUNIOR HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3347.m3u8
+#EXTINF:-1 tvg-id="pandakids.pt" tvg-logo="https://go4.pw/EUROPE/SPAIN/CANALPANDA.png" group-title="EU | PT | INFANTIL",PT - PANDA KIDS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3362.m3u8
+#EXTINF:-1 tvg-id="cartoonito.pt" tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png" group-title="EU | PT | INFANTIL",PT - CARTOONITO HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3382.m3u8
+#EXTINF:-1 tvg-id="babytv.pt" tvg-logo="https://go4.pw/CANADA/BABY_TV_HD.png" group-title="EU | PT | INFANTIL",PT - BABY TV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3449.m3u8
+#EXTINF:-1 tvg-id="boomerang.pt" tvg-logo="https://go4.pw/EUROPE/GERMANY/BOOMERANG.png" group-title="EU | PT | INFANTIL",PT - BOOMERANG SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3459.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/Lolly_Kids_TV.png" group-title="EU | PT | INFANTIL",PT - LOLLY KIDS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3460.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/POLONIA/POLSATJIMJAM.png" group-title="EU | PT | INFANTIL",PT - JIM JAM SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3466.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/Lolly_Kids_TV.png" group-title="EU | PT | INFANTIL",PT - LOLLY KIDS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3470.m3u8
+#EXTINF:-1 tvg-id="biggs.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/BIGGS.png" group-title="EU | PT | INFANTIL",PT - BIGGS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3501.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/KANUCA.TV.png" group-title="EU | PT | INFANTIL",PT - KANUCA TV
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3515.m3u8
+#EXTINF:-1 tvg-id="panda.pt" tvg-logo="https://go4.pw/EUROPE/SPAIN/CANALPANDA.png" group-title="EU | PT | INFANTIL",PT - CANAL PANDA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3552.m3u8
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-logo="https://go4.pw/usa/17.png" group-title="EU | PT | INFANTIL",PT - DISNEY CHANNEL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3555.m3u8
+#EXTINF:-1 tvg-id="biggs.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/BIGGS.png" group-title="EU | PT | INFANTIL",PT - BIGGS SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3584.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/KURDISH/10.png" group-title="EU | PT | ENTRETENIMENTO",PT - ANTENA 1 ANTENA ABERTA SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3312.m3u8
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-logo="https://go4.pw/AMERICA/USA/E!(1).png" group-title="EU | PT | ENTRETENIMENTO",PT - E! ENTERTAINMENT HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3314.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/KURDISH/10.png" group-title="EU | PT | ENTRETENIMENTO",PT - ANTENA 1 CLICK SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3315.m3u8
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/tvireality.png" group-title="EU | PT | ENTRETENIMENTO",PT - TVI REALITY CAMERA 2 SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3331.m3u8
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/tvireality.png" group-title="EU | PT | ENTRETENIMENTO",PT - TVI REALITY HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3351.m3u8
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TRACEURBAN.png" group-title="EU | PT | ENTRETENIMENTO",PT - TRACE URBAN SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3370.m3u8
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/tvificcao.png" group-title="EU | PT | ENTRETENIMENTO",PT - TVI FICCAO
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3378.m3u8
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/tvireality.png" group-title="EU | PT | ENTRETENIMENTO",PT - TVI REALITY CAMERA 3 SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3389.m3u8
+#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-logo="https://go4.pw/NIGERIA/AFRO_MUSIC_POP.png" group-title="EU | PT | ENTRETENIMENTO",PT - AFRO MUSIC HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3396.m3u8
+#EXTINF:-1 tvg-id="mcmpop.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/mcmpop.png" group-title="EU | PT | ENTRETENIMENTO",PT - MCM POP SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3399.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | ENTRETENIMENTO",##### PT - ENTRETENIMENTO #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3400.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | ENTRETENIMENTO",##### PT - MUSIC #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3407.m3u8
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-logo="https://go4.pw/EUROPE/ALBANIA/24-Kitchen.png" group-title="EU | PT | ENTRETENIMENTO",PT - 24 KITCHEN HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3417.m3u8
+#EXTINF:-1 tvg-id="mtv.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/MTVPORTUGAL.png" group-title="EU | PT | ENTRETENIMENTO",PT - MTV PORTUGAL SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3418.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TRAVELCHANNELHD.png" group-title="EU | PT | ENTRETENIMENTO",PT - TRAVEL CHANNEL UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3421.m3u8
+#EXTINF:-1 tvg-id="vh1.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/VH1.png" group-title="EU | PT | ENTRETENIMENTO",PT - VH1 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3428.m3u8
+#EXTINF:-1 tvg-id="amcbreak.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/AMC.png" group-title="EU | PT | ENTRETENIMENTO",PT - AMC BREAK HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3440.m3u8
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/tvireality.png" group-title="EU | PT | ENTRETENIMENTO",PT - TVI REALITY CAMERA 4 SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3441.m3u8
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/fp.png" group-title="EU | PT | ENTRETENIMENTO",PT - FPTV SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3445.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/KURDISH/10.png" group-title="EU | PT | ENTRETENIMENTO",PT - RADIO ALTO MINHO SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3452.m3u8
+#EXTINF:-1 tvg-id="toros.pt" tvg-logo="https://go4.pw/EUROPE/SPAIN/TOROSHD.png" group-title="EU | PT | ENTRETENIMENTO",PT - TOROS TV FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3462.m3u8
+#EXTINF:-1 tvg-id="syfy.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SyFy.png" group-title="EU | PT | ENTRETENIMENTO",PT - SYFY HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3491.m3u8
+#EXTINF:-1 tvg-id="almalusa.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ALMA.png" group-title="EU | PT | ENTRETENIMENTO",PT - ALMA LUSA
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3494.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | ENTRETENIMENTO",##### PT - RADIO #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3505.m3u8
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/Trace-Urban.png" group-title="EU | PT | ENTRETENIMENTO",PT - TRACE URBAN HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3508.m3u8
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TRAVELCHANNELHD.png" group-title="EU | PT | ENTRETENIMENTO",PT - TRAVEL CHANNEL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3509.m3u8
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-logo="https://go4.pw/EUROPE/ALBANIA/24-Kitchen.png" group-title="EU | PT | ENTRETENIMENTO",PT - 24 KITCHEN HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3512.m3u8
+#EXTINF:-1 tvg-id="canalq.pt" tvg-logo="https://go4.pw/EUROPE/FRANCE/canal+.png" group-title="EU | PT | ENTRETENIMENTO",PT - CANAL Q HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3520.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/24-Kitchen.png" group-title="EU | PT | ENTRETENIMENTO",PT - 24 KITCHEN FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3521.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SANTUARIO.png" group-title="EU | PT | ENTRETENIMENTO",PT - CAPELA DE FATIMA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3522.m3u8
+#EXTINF:-1 tvg-id="tracetoca.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/Trace-Toca.png" group-title="EU | PT | ENTRETENIMENTO",PT - TRACE TOCA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3531.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.pt" tvg-logo="https://go4.pw/AMERICA/USA/FOODNETWORK.png" group-title="EU | PT | ENTRETENIMENTO",PT - FOOD NETWORK HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3558.m3u8
+#EXTINF:-1 tvg-id="mezzolivehd.pt" tvg-logo="https://go4.pw/EUROPE/SPAIN/MEZZOLIVEHD.png" group-title="EU | PT | ENTRETENIMENTO",PT - MEZZO LIVE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3567.m3u8
+#EXTINF:-1 tvg-id="mezzolivehd.pt" tvg-logo="https://go4.pw/EUROPE/SPAIN/MEZZOLIVEHD.png" group-title="EU | PT | ENTRETENIMENTO",PT - MEZZO LIVE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3575.m3u8
+#EXTINF:-1 tvg-id="artv.pt" tvg-logo="https://go4.pw/PORTUGAL/3.png" group-title="EU | PT | ENTRETENIMENTO",PT - ARTV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3579.m3u8
+#EXTINF:-1 tvg-id="amccrime.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/AMC.png" group-title="EU | PT | ENTRETENIMENTO",PT - AMC CRIME HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3585.m3u8
+#EXTINF:-1 tvg-id="mtv.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/MTVPORTUGAL.png" group-title="EU | PT | ENTRETENIMENTO",PT - MTV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3591.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/fp.png" group-title="EU | PT | ENTRETENIMENTO",PT - FPTV (NA) SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3592.m3u8
+#EXTINF:-1 tvg-id="almalusa.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ALMA.png" group-title="EU | PT | ENTRETENIMENTO",PT - ALMA LUSA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3593.m3u8
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/tvireality.png" group-title="EU | PT | ENTRETENIMENTO",PT - TVI REALITY CAMERA 1 SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3603.m3u8
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-logo="https://go4.pw/PORTUGAL/13.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - CACA E PESCA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3316.m3u8
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATGEOWILDHD.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - NAT GEO WILD HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3329.m3u8
+#EXTINF:-1 tvg-id="historia.pt" tvg-logo="https://go4.pw/EUROPE/SPAIN/HISTORIA.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - HISTORIA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3341.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - DISCOVERY CHANNEL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3346.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - DISCOVERY HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3356.m3u8
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-logo="https://go4.pw/PORTUGAL/4.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - CASA E COZINHA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3364.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/Cacavision.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - CAÇAVISION HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3371.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - DISCOVERY CHANNEL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3373.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - NATIONAL GEOGRAPHIC FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3391.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/13.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - CACA VISION FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3402.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/Cacavision.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - CAÇAVISION FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3415.m3u8
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-logo="https://go4.pw/PORTUGAL/4.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - CASA E COZINHA SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3419.m3u8
+#EXTINF:-1 tvg-id="tlc.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TLC.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - TLC HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3425.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/HGTV.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - HGTV
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3450.m3u8
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-logo="https://go4.pw/PORTUGAL/4.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - CASA E COZINHA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3456.m3u8
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - NAT GEO GEOGRAPHIC HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3458.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - CRIME INVESTIGATION HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3464.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | DOCUMENTÁRIOS",##### PT - DOCUMENTARIOS #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3475.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/ZAPVIVAHD.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - ZAP VIVA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3478.m3u8
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATGEOWILDHD.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - NATIONAL GEOGRAPHIC WILD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3481.m3u8
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-logo="https://go4.pw/PORTUGAL/13.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - CACA E PESCA SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3498.m3u8
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - CRIME INVESTIGATION SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3513.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - ID INVESTIGATION DISCOVERY HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3533.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - DISCOVERY CHANNEL UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3540.m3u8
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-logo="https://go4.pw/PORTUGAL/8.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - ODISSEIA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3553.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="EU | PT | DOCUMENTÁRIOS",PT - DISCOVERY UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3559.m3u8
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-logo="https://go4.pw/PORTUGAL/RAF.png" group-title="EU | PT | GENERAL",PT - RTP AFRICA SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3319.m3u8
+#EXTINF:-1 tvg-id="splus.pt" tvg-logo="https://go4.pw/PORTUGAL/18.png" group-title="EU | PT | GENERAL",PT - S+ HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3320.m3u8
+#EXTINF:-1 tvg-id="cbsreality.pt" tvg-logo="https://go4.pw/AMERICA/USA/CBS.png" group-title="EU | PT | GENERAL",PT - CBS REALITY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3321.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://go4.pw/PORTUGAL/1.png" group-title="EU | PT | GENERAL",PT - STV NOTÍCIAS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3323.m3u8
+#EXTINF:-1 tvg-id="rtpinternacional.pt" tvg-logo="https://go4.pw/EUROPE/rtp.png" group-title="EU | PT | GENERAL",PT - RTP INT SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3324.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SANTUARIO.png" group-title="EU | PT | GENERAL",PT - SANTUARIO DE FATIMA
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3325.m3u8
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://go4.pw/EUROPE/tviii.png" group-title="EU | PT | GENERAL" timeshift="2",PT - TVI  FHD ◉ 
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3326.m3u8
+#EXTINF:-1 tvg-id="skynews.pt" tvg-logo="https://go4.pw/USA/SD2/10.png" group-title="EU | PT | GENERAL",PT - SKY NEWS SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3332.m3u8
+#EXTINF:-1 tvg-id="euronews.pt" tvg-logo="https://go4.pw/germany/eurns.png" group-title="EU | PT | GENERAL",PT - EURONEWS PORTUGAL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3335.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://go4.pw/PORTUGAL/R1.png" group-title="EU | PT | GENERAL" timeshift="2",PT - RTP 1 HD ◉
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3342.m3u8
+#EXTINF:-1 tvg-id="euronews.pt" tvg-logo="https://go4.pw/germany/eurns.png" group-title="EU | PT | GENERAL",PT - EURONEWS SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3343.m3u8
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/tvi+.png" group-title="EU | PT | GENERAL",PT - TVI V+ HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3350.m3u8
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SIC.png" group-title="EU | PT | GENERAL" timeshift="2",PT - SIC CARAS HD ◉
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3352.m3u8
+#EXTINF:-1 tvg-id="tcvinternational.pt" tvg-logo="https://go4.pw/PORTUGAL/TVC2.png" group-title="EU | PT | GENERAL",PT - TCV INTERNACIONAL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3353.m3u8
+#EXTINF:-1 tvg-id="splus.pt" tvg-logo="https://go4.pw/PORTUGAL/18.png" group-title="EU | PT | GENERAL",PT - S+ FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3355.m3u8
+#EXTINF:-1 tvg-id="localvisaotv.pt" tvg-logo="https://go4.pw/PORTUGAL/6.png" group-title="EU | PT | GENERAL",PT - LOCALVISAO HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3361.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/Cancoa.png" group-title="EU | PT | GENERAL",PT - CANCAO NOVA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3372.m3u8
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-logo="https://go4.pw/EUROPE/AZORESS.png" group-title="EU | PT | GENERAL",PT - AZORES TV FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3379.m3u8
+#EXTINF:-1 tvg-id="tve24h.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TVE24.png" group-title="EU | PT | GENERAL",PT - TVE 24H HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3384.m3u8
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-logo="https://go4.pw/PORTUGAL/R3.png" group-title="EU | PT | GENERAL" timeshift="2",PT - RTP 3 FHD ◉
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3390.m3u8
+#EXTINF:-1 tvg-id="rtpinternacional.pt" tvg-logo="https://go4.pw/EUROPE/rtp.png" group-title="EU | PT | GENERAL",PT - RTP INTERNATIONAL
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3392.m3u8
+#EXTINF:-1 tvg-id="recordnews.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/RECORDNEWS.png" group-title="EU | PT | GENERAL",PT - TV RECORD NEWS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3394.m3u8
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://go4.pw/EUROPE/tviii.png" group-title="EU | PT | GENERAL",PT - TVI (NA) FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3395.m3u8
+#EXTINF:-1 tvg-id="recordtv.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TV-Record-News.png" group-title="EU | PT | GENERAL",PT - TV RECORD HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3397.m3u8
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://go4.pw/EUROPE/tviii.png" group-title="EU | PT | GENERAL" timeshift="2",PT - TVI FHD ◉
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3405.m3u8
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-logo="https://go4.pw/EUROPE/UK/BLOOMBERG-1.png" group-title="EU | PT | GENERAL",PT - BLOOMBERG SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3412.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SIC.png" group-title="EU | PT | GENERAL" timeshift="2",PT - SIC HD ◉
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3413.m3u8
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-logo="https://go4.pw/PORTUGAL/RAC.png" group-title="EU | PT | GENERAL",PT - RTP ACORES HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3420.m3u8
+#EXTINF:-1 tvg-id="tve24h.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TVE24.png" group-title="EU | PT | GENERAL",PT - TVE 24H SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3422.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | GENERAL",##### PT - PORTUGAL #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3429.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://go4.pw/PORTUGAL/R1.png" group-title="EU | PT | GENERAL",PT - RTP 1 UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3432.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://go4.pw/PORTUGAL/R2.png" group-title="EU | PT | GENERAL",PT - RTP 2 UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3435.m3u8
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/Cancoa.png" group-title="EU | PT | GENERAL",PT - CANCOA NOVA SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3437.m3u8
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-logo="https://go4.pw/PORTUGAL/RAC.png" group-title="EU | PT | GENERAL" timeshift="2",PT - RTP ACORES HD ◉
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3442.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SIC.png" group-title="EU | PT | GENERAL",PT - SIC NOTICIAS HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3443.m3u8
+#EXTINF:-1 tvg-id="globonews.pt" tvg-logo="https://go4.pw/USA/globo.png" group-title="EU | PT | GENERAL",PT - GLOBO NEWS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3444.m3u8
+#EXTINF:-1 tvg-id="cnbc.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/cnbc.png" group-title="EU | PT | GENERAL",PT - CNBC SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3446.m3u8
+#EXTINF:-1 tvg-id="cnbc.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/cnbc.png" group-title="EU | PT | GENERAL",PT - CNBC EUROPE SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3455.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SIC.png" group-title="EU | PT | GENERAL",PT - SIC FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3468.m3u8
+#EXTINF:-1 tvg-id="cnn.pt" tvg-logo="https://go4.pw/EUROPE/SPAIN/cnn.png" group-title="EU | PT | GENERAL",PT - CNN HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3469.m3u8
+#EXTINF:-1 tvg-id="tviinternacional.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/tviinterna.png" group-title="EU | PT | GENERAL",PT - TVI INT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3476.m3u8
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-logo="https://go4.pw/PORTUGAL/MEMORIA.png" group-title="EU | PT | GENERAL",PT - RTP MEMORIA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3479.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SIC.png" group-title="EU | PT | GENERAL",PT - SIC NOTICIAS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3482.m3u8
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/CMTV.png" group-title="EU | PT | GENERAL",PT - CMTV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3483.m3u8
+#EXTINF:-1 tvg-id="globo.pt" tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="EU | PT | GENERAL",PT - GLOBO HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3485.m3u8
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-logo="https://go4.pw/EUROPE/SPAIN/cnn.png" group-title="EU | PT | GENERAL",PT - CNN PORTUGAL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3486.m3u8
+#EXTINF:-1 tvg-id="tve24h.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TVE24.png" group-title="EU | PT | GENERAL",PT - TVE 24H HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3488.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SIC.png" group-title="EU | PT | GENERAL",PT - SIC NA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3490.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | PT | GENERAL",PT - BBC WORLD NEWS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3497.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/TVGALICIA.png" group-title="EU | PT | GENERAL",PT - TV GALICIA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3500.m3u8
+#EXTINF:-1 tvg-id="tv5monde.pt" tvg-logo="https://go4.pw/EUROPE/FRANCE/Tv5_monde_HD.png" group-title="EU | PT | GENERAL",PT - TV5 MONDE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3502.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | GENERAL",##### PT - INTERNACIONAIS #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3503.m3u8
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-logo="https://go4.pw/PORTUGAL/RAF.png" group-title="EU | PT | GENERAL",PT - RTP AFRICA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3507.m3u8
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://go4.pw/EUROPE/tviii.png" group-title="EU | PT | GENERAL",PT - TVI UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3510.m3u8
+#EXTINF:-1 tvg-id="tvgalícia.pt" tvg-logo="https://go4.pw/SPAIN/TVGALICIA.png" group-title="EU | PT | GENERAL",PT - TV GALICIA SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3532.m3u8
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SIC.png" group-title="EU | PT | GENERAL" timeshift="2",PT - SIC RADICAL HD ◉
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3538.m3u8
+#EXTINF:-1 tvg-id="sick.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SIC.png" group-title="EU | PT | GENERAL",PT - SIC K HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3549.m3u8
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-logo="https://go4.pw/PORTUGAL/MADEIRA.png" group-title="EU | PT | GENERAL",PT - RTP MADEIRA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3562.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://go4.pw/PORTUGAL/R2.png" group-title="EU | PT | GENERAL" timeshift="2",PT - RTP 2 HD ◉
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3566.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="EU | PT | GENERAL",PT - GLOBO NOW HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3572.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SIC.png" group-title="EU | PT | GENERAL",PT - SIC NOVELAS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3580.m3u8
+#EXTINF:-1 tvg-id="globo.pt" tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="EU | PT | GENERAL",PT - GLOBO SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3582.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/now.png" group-title="EU | PT | GENERAL",PT - NEWS NOW FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3586.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SIC.png" group-title="EU | PT | GENERAL",PT - SIC INTERNACIONAL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3595.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="EU | PT | GENERAL",PT - GLOBO MEO FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3598.m3u8
+#EXTINF:-1 tvg-id="kuriakostv.pt" tvg-logo="https://go4.pw/PORTUGAL/5.png" group-title="EU | PT | GENERAL",PT - KURIAKOS TV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3599.m3u8
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SIC.png" group-title="EU | PT | GENERAL" timeshift="2",PT - SIC MULHER HD ◉
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/195985.m3u8
+#EXTINF:-1 tvg-id="starcrime.pt" tvg-logo="https://go4.pw/PORTUGAL/11.png" group-title="EU | PT | FILMES E SÉRIES",PT - STAR CRIME HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3333.m3u8
+#EXTINF:-1 tvg-id="fox.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/foxx.png" group-title="EU | PT | FILMES E SÉRIES",PT - FOX HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3336.m3u8
+#EXTINF:-1 tvg-id="amchd.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/AMC.png" group-title="EU | PT | FILMES E SÉRIES",PT - AMC HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3338.m3u8
+#EXTINF:-1 tvg-id="starlife.pt" tvg-logo="https://go4.pw/PORTUGAL/12.png" group-title="EU | PT | FILMES E SÉRIES",PT - STAR LIFE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3340.m3u8
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/foxx.png" group-title="EU | PT | FILMES E SÉRIES",PT - FOX MOVIES HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3354.m3u8
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/nos.png" group-title="EU | PT | FILMES E SÉRIES",PT - NOS STUDIOS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3367.m3u8
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-logo="https://go4.pw/ALBANIA/TVCINE.png" group-title="EU | PT | FILMES E SÉRIES",PT - TVCINE EMOTION UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3374.m3u8
+#EXTINF:-1 tvg-id="star.pt" tvg-logo="https://go4.pw/PORTUGAL/starchannel.png" group-title="EU | PT | FILMES E SÉRIES",PT - STAR CHANNEL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3377.m3u8
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-logo="https://go4.pw/ALBANIA/TVCINE.png" group-title="EU | PT | FILMES E SÉRIES",PT - TVCINE TOP UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3380.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/foxx.png" group-title="EU | PT | FILMES E SÉRIES",PT - FOX UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3381.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/foxx.png" group-title="EU | PT | FILMES E SÉRIES",PT - FOX CRIME UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3385.m3u8
+#EXTINF:-1 tvg-id="starlife.pt" tvg-logo="https://go4.pw/PORTUGAL/12.png" group-title="EU | PT | FILMES E SÉRIES",PT - STAR LIFE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3387.m3u8
+#EXTINF:-1 tvg-id="star.pt" tvg-logo="https://go4.pw/PORTUGAL/starchannel.png" group-title="EU | PT | FILMES E SÉRIES",PT - STAR CHANNEL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3393.m3u8
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-logo="https://go4.pw/ALBANIA/TVCINE.png" group-title="EU | PT | FILMES E SÉRIES",PT - TVCINE EDITION UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3404.m3u8
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-logo="https://go4.pw/PORTUGAL/15.png" group-title="EU | PT | FILMES E SÉRIES",PT - TV CINE EDITION FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3411.m3u8
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-logo="https://go4.pw/PORTUGAL/16.png" group-title="EU | PT | FILMES E SÉRIES",PT - TV CINE EMOTION FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3423.m3u8
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/foxx.png" group-title="EU | PT | FILMES E SÉRIES",PT - FOX LIFE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3424.m3u8
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-logo="https://go4.pw/PORTUGAL/9.png" group-title="EU | PT | FILMES E SÉRIES",PT - CINEMUNDO HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3427.m3u8
+#EXTINF:-1 tvg-id="starmovies.pt" tvg-logo="https://go4.pw/PORTUGAL/2.png" group-title="EU | PT | FILMES E SÉRIES",PT - STAR MOVIES HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3451.m3u8
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-logo="https://go4.pw/PORTUGAL/14.png" group-title="EU | PT | FILMES E SÉRIES",PT - TV CINE ACTION FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3457.m3u8
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/HOLLYWOOD.png" group-title="EU | PT | FILMES E SÉRIES",PT - HOLLYWOOD HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3474.m3u8
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-logo="https://go4.pw/germany/axnw.png" group-title="EU | PT | FILMES E SÉRIES",PT - AXN MOVIES HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3480.m3u8
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-logo="https://go4.pw/PORTUGAL/17.png" group-title="EU | PT | FILMES E SÉRIES",PT - TV CINE TOP FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3487.m3u8
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-logo="https://go4.pw/ALBANIA/TVCINE.png" group-title="EU | PT | FILMES E SÉRIES",PT - TVCINE ACTION UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3506.m3u8
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/nos.png" group-title="EU | PT | FILMES E SÉRIES",PT - NOS STUDIOS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3524.m3u8
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/foxx.png" group-title="EU | PT | FILMES E SÉRIES",PT - FOX CRIME HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3525.m3u8
+#EXTINF:-1 tvg-id="starcomedy.pt" tvg-logo="https://go4.pw/PORTUGAL/10.png" group-title="EU | PT | FILMES E SÉRIES" timeshift="2",PT - STAR COMEDY HD ◉
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3536.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-logo="https://go4.pw/germany/axnw.png" group-title="EU | PT | FILMES E SÉRIES",PT - AXN FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3539.m3u8
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-logo="https://go4.pw/germany/axnw.png" group-title="EU | PT | FILMES E SÉRIES",PT - AXN MOVIES FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3542.m3u8
+#EXTINF:-1 tvg-id="starcrime.pt" tvg-logo="https://go4.pw/PORTUGAL/11.png" group-title="EU | PT | FILMES E SÉRIES",PT - STAR CRIME FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3548.m3u8
+#EXTINF:-1 tvg-id="starmovies.pt" tvg-logo="https://go4.pw/PORTUGAL/2.png" group-title="EU | PT | FILMES E SÉRIES",PT - STAR MOVIES SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3554.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/tdc.png" group-title="EU | PT | FILMES E SÉRIES",PT - DIZI CHANNEL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3561.m3u8
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-logo="https://go4.pw/PORTUGAL/17.png" group-title="EU | PT | FILMES E SÉRIES",PT - TV CINE TOP  FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3565.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | FILMES E SÉRIES",##### PT - FILMES E SERIES #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3568.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-logo="https://go4.pw/germany/axnw.png" group-title="EU | PT | FILMES E SÉRIES",PT - AXN WHITE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3570.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-logo="https://go4.pw/germany/axnw.png" group-title="EU | PT | FILMES E SÉRIES",PT - AXN HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3571.m3u8
+#EXTINF:-1 tvg-id="amc.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/AMC.png" group-title="EU | PT | FILMES E SÉRIES",PT - AMC UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3577.m3u8
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/foxx.png" group-title="EU | PT | FILMES E SÉRIES",PT - FOX COMEDY HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3587.m3u8
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-logo="https://go4.pw/germany/axnw.png" group-title="EU | PT | FILMES E SÉRIES",PT - AXN WHITE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3588.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-logo="https://go4.pw/germany/axnw.png" group-title="EU | PT | FILMES E SÉRIES",PT - AXN UHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3602.m3u8
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/HOLLYWOOD.png" group-title="EU | PT | FILMES E SÉRIES",PT - HOLLYWOOD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/3604.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/fazenda.png" group-title="AM | BR | BRAZIL",BR - FAZENDA 07 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21885.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-logo="https://go4.pw/BRAZIL/record.png" group-title="AM | BR | BRAZIL",BR - RECORD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21887.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-logo="https://go4.pw/BRAZIL/record.png" group-title="AM | BR | BRAZIL",BR - RECORD SP FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21889.m3u8
+#EXTINF:-1 tvg-id="recordnews.br" tvg-logo="https://go4.pw/BRAZIL/record.png" group-title="AM | BR | BRAZIL",BR - RECORD NEWS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21891.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://go4.pw/BRAZIL/SP.png" group-title="AM | BR | BRAZIL",BR - SPORTV HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21892.m3u8
+#EXTINF:-1 tvg-id="tcm.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TCMHD.png" group-title="AM | BR | BRAZIL",BR - TCM HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21895.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-logo="https://go4.pw/OSN/OSNANIMALPLANETHD.png" group-title="AM | BR | BRAZIL",BR - ANIMAL PLANET FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21896.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/fazenda.png" group-title="AM | BR | BRAZIL",BR - FAZENDA 05 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21897.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="AM | BR | BRAZIL",BR - TELECINE PREMIUM FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21898.m3u8
+#EXTINF:-1 tvg-id="premiere7.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 7 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21900.m3u8
+#EXTINF:-1 tvg-id="premiere8.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 8 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21902.m3u8
+#EXTINF:-1 tvg-id="premiere4.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 4 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21903.m3u8
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-logo="https://go4.pw/LATINO/HBO+.png" group-title="AM | BR | BRAZIL",BR - HBO PLUS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21905.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/record.png" group-title="AM | BR | BRAZIL",BR - RECORD BAHIA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21906.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/BRASIL/Brasil-1.png" group-title="AM | BR | BRAZIL",##### BRAZIL - SPORT #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21907.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="AM | BR | BRAZIL",BR - TELECINE ACTION FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21908.m3u8
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-logo="https://go4.pw/BRAZIL/HANDH.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY H&H HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21911.m3u8
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-logo="https://go4.pw/SPAIN/NATGEOWILD.png" group-title="AM | BR | BRAZIL",BR - NAT GEO WILD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21912.m3u8
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/RA-TIM-BUMHD-1.png" group-title="AM | BR | BRAZIL",BR - RA TIM BUM HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21913.m3u8
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-logo="https://go4.pw/LATINO/HBO+.png" group-title="AM | BR | BRAZIL",BR - HBO PLUS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21914.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="AM | BR | BRAZIL",BR - CINEMAX FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21915.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-logo="https://go4.pw/BRAZIL/GNT.png" group-title="AM | BR | BRAZIL",BR - GNT HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21916.m3u8
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-logo="https://go4.pw/BRAZIL/APARECIDA.png" group-title="AM | BR | BRAZIL",BR - TV APARECIDA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21917.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-logo="https://go4.pw/BRAZIL/SP3.png" group-title="AM | BR | BRAZIL",BR - SPORTV 3 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21918.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-logo="https://go4.pw/BRAZIL/FAMILY.png" group-title="AM | BR | BRAZIL",BR - HBO FAMILY HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21919.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-logo="https://go4.pw/BRAZIL/FAMILY.png" group-title="AM | BR | BRAZIL",BR - HBO FAMILY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21920.m3u8
+#EXTINF:-1 tvg-id="tcm.br" tvg-logo="https://go4.pw/LATINO/TCM.png" group-title="AM | BR | BRAZIL",BR - TCM FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21921.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-logo="https://go4.pw/BRAZIL/band.png" group-title="AM | BR | BRAZIL",BR - BAND SPORTS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21922.m3u8
+#EXTINF:-1 tvg-id="novotempo.br" tvg-logo="https://go4.pw/BRAZIL/NOVO.png" group-title="AM | BR | BRAZIL",BR - NOVO TEMPO HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21923.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-logo="https://go4.pw/BRAZIL/band.png" group-title="AM | BR | BRAZIL",BR - BAND HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21924.m3u8
+#EXTINF:-1 tvg-id="futura.br" tvg-logo="https://go4.pw/BRAZIL/FUTURA.png" group-title="AM | BR | BRAZIL",BR - FUTURA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21925.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-logo="https://go4.pw/BRAZIL/CO.png" group-title="AM | BR | BRAZIL",BR - COMBATE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21926.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="AM | BR | BRAZIL",BR - PARAMOUNT+ 01 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21929.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/Tooncast.png" group-title="AM | BR | BRAZIL",BR - TOONCAST FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21931.m3u8
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/WARNER-CHANNEL-1.png" group-title="AM | BR | BRAZIL",BR - WARNER CHANNEL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21932.m3u8
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-logo="https://go4.pw/Mexico/studio.png" group-title="AM | BR | BRAZIL",BR - STUDIO UNIVERSAL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21933.m3u8
+#EXTINF:-1 tvg-id="premiere6.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 6 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21934.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-logo="https://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="AM | BR | BRAZIL",BR - NICKELODEON FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21936.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/BRASIL/Brasil-1.png" group-title="AM | BR | BRAZIL",##### BRAZIL - KIDS #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21938.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-logo="https://go4.pw/OSN/NATGEOGRAPHIC-1.png" group-title="AM | BR | BRAZIL",BR - NAT GEO FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21940.m3u8
+#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="AM | BR | BRAZIL",BR - MAX PRIME HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21941.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/BRASIL/DISCOVERY-IDHD-1.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY ID HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21944.m3u8
+#EXTINF:-1 tvg-id="espnextra.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="AM | BR | BRAZIL",BR - ESPN EXTRA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21945.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/fazenda-14.png" group-title="AM | BR | BRAZIL",BR - FAZENDA 01 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21946.m3u8
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-logo="https://go4.pw/BRAZIL/CANCAO.png" group-title="AM | BR | BRAZIL",BR - CANCAO NOVA SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21947.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="AM | BR | BRAZIL",BR - TELECINE ACTION HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21948.m3u8
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/WARNER-CHANNEL-1.png" group-title="AM | BR | BRAZIL",BR - WARNER CHANNEL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21949.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-logo="https://go4.pw/CANADA/HBO_2_.png" group-title="AM | BR | BRAZIL",BR - HBO 2 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21950.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 1 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21953.m3u8
+#EXTINF:-1 tvg-id="premiere2.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 2 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21956.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-logo="https://go4.pw/AMERICA/USA/ANIMALPLANET-1.png" group-title="AM | BR | BRAZIL",BR - ANIMAL PLANET HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21957.m3u8
+#EXTINF:-1 tvg-id="premiere5.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 5 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21959.m3u8
+#EXTINF:-1 tvg-id="premiere5.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 5 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21962.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-logo="https://go4.pw/EUROPE/UK/FOODNETWORK.png" group-title="AM | BR | BRAZIL",BR - FOOD NETWORK FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21963.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-logo="https://go4.pw/BRAZIL/woohoo.png" group-title="AM | BR | BRAZIL",BR - WOOHOO HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21964.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/fazenda.png" group-title="AM | BR | BRAZIL",BR - FAZENDA 02 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21967.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="AM | BR | BRAZIL",BR - HBO HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21968.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISCOVERY-TURBOHD-1.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY TURBO FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21969.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-logo="https://go4.pw/BRAZIL/CO.png" group-title="AM | BR | BRAZIL",BR - COMBATE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21971.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="AM | BR | BRAZIL",BR - CINEMAX HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21972.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="AM | BR | BRAZIL",BR - TELECINE PIPOCA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21973.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-logo="https://go4.pw/ASIA/MALAYSIA/cartoon_network.png" group-title="AM | BR | BRAZIL",BR - CARTOON NETWORK FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21975.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-logo="https://go4.pw/EUROPE/UK/DISNEYJUNIOR.png" group-title="AM | BR | BRAZIL",BR - DISNEY JUNIOR FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21976.m3u8
+#EXTINF:-1 tvg-id="nickjr.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/NICK-JRHD-1.png" group-title="AM | BR | BRAZIL",BR - NICK JR FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21977.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-logo="https://go4.pw/BRAZIL/record.png" group-title="AM | BR | BRAZIL",BR - RECORD HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21978.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="AM | BR | BRAZIL",BR - ESPN FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21980.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="AM | BR | BRAZIL",BR - CINEMAX UP HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21981.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-logo="https://go4.pw/BRAZIL/ES.png" group-title="AM | BR | BRAZIL",BR - ESPN 2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21982.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="AM | BR | BRAZIL",BR - ESPN HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21983.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-logo="https://go4.pw/BRAZIL/bandnews.png" group-title="AM | BR | BRAZIL",BR - BAND NEWS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21984.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SCANDINAVIAN/BOOMERANG.png" group-title="AM | BR | BRAZIL",BR - BOOMERANG FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21985.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-logo="https://go4.pw/BRAZIL/CAT.png" group-title="AM | BR | BRAZIL",BR - CATVE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21986.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/FOOD-NETWORKHD.png" group-title="AM | BR | BRAZIL",BR - FOOD NETWORK HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21987.m3u8
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-logo="https://go4.pw/AMERICA/USA/E%21.png" group-title="AM | BR | BRAZIL",BR - E! HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21988.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-logo="https://go4.pw/BRAZIL/band.png" group-title="AM | BR | BRAZIL",BR - BAND SPORTS HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21989.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="AM | BR | BRAZIL",BR - PARAMOUNT HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21990.m3u8
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-logo="https://go4.pw/BRAZIL/HANDH.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY H&H FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21993.m3u8
+#EXTINF:-1 tvg-id="premiere2.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 2 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21994.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-logo="https://go4.pw/FINLAND/Discovery_Science.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY SCIENCE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21995.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-logo="https://go4.pw/germany/HGTV.png" group-title="AM | BR | BRAZIL",BR - HGTV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21996.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-logo="https://go4.pw/BRAZIL/ES.png" group-title="AM | BR | BRAZIL",BR - ESPN 2 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21997.m3u8
+#EXTINF:-1 tvg-id="Band.br" tvg-logo="https://go4.pw/BRAZIL/band.png" group-title="AM | BR | BRAZIL",BR - BAND CAMPINAS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/21999.m3u8
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-logo="https://go4.pw/USA/E! ENTERTAINMENT.png" group-title="AM | BR | BRAZIL",BR - E! FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22000.m3u8
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="AM | BR | BRAZIL",BR - ESPN BRASIL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22002.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/VIVAHD-1.png" group-title="AM | BR | BRAZIL",BR - VIVA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22005.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/BRASIL/Brasil-1.png" group-title="AM | BR | BRAZIL",##### BRAZIL - FAZENDA #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22006.m3u8
+#EXTINF:-1 tvg-id="premiere4.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 4 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22007.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-logo="https://go4.pw/USA/SD/37.png" group-title="AM | BR | BRAZIL",BR - SYFY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22011.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-logo="https://go4.pw/BRAZIL/SP2.png" group-title="AM | BR | BRAZIL",BR - SPORTV 2 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22012.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISNEY-CHANNELHD-1.png" group-title="AM | BR | BRAZIL",BR - DISNEY CHANNEL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22013.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-logo="https://go4.pw/AMERICA/USA/FOXSPORT.png" group-title="AM | BR | BRAZIL",BR - FOX SPORTS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22014.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="AM | BR | BRAZIL",BR - PARAMOUNT+ 04 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22015.m3u8
+#EXTINF:-1 tvg-id="premiere6.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 6 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22016.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-logo="https://go4.pw/AMERICA/USA/AMC.png" group-title="AM | BR | BRAZIL",BR - AMC FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22018.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/NICKHD.png" group-title="AM | BR | BRAZIL",BR - NICK HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22025.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-logo="https://go4.pw/BRAZIL/SBT.png" group-title="AM | BR | BRAZIL",BR - SBT HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22026.m3u8
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-logo="https://go4.pw/Mexico/studio.png" group-title="AM | BR | BRAZIL",BR - STUDIO UNIVERSAL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22028.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/record.png" group-title="AM | BR | BRAZIL",BR - RECORD RJ HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22030.m3u8
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISCOVERY-KIDSHD-1.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY KIDS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22031.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-logo="https://go4.pw/BRAZIL/redetv.png" group-title="AM | BR | BRAZIL",BR - REDE TV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22033.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/fazenda.png" group-title="AM | BR | BRAZIL",BR - FAZENDA 06 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22034.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-logo="https://go4.pw/BRAZIL/GNT.png" group-title="AM | BR | BRAZIL",BR - GNT HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22035.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-logo="https://go4.pw/AMERICA/USA/FX.png" group-title="AM | BR | BRAZIL",BR - FX HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22036.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-logo="https://go4.pw/ASIA/MALAYSIA/cartoon_network.png" group-title="AM | BR | BRAZIL",BR - CARTOON NETWORK HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22037.m3u8
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-logo="https://go4.pw/BRAZIL/CNNBRAZIL.png" group-title="AM | BR | BRAZIL",BR -  CNN BRASIL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22039.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-logo="https://go4.pw/BRAZIL/SBT.png" group-title="AM | BR | BRAZIL",BR - SBT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22040.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/fazenda.png" group-title="AM | BR | BRAZIL",BR - FAZENDA 03 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22043.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/VIVAHD-1.png" group-title="AM | BR | BRAZIL",BR - VIVA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22045.m3u8
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISCOVERY-KIDSHD-1.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY KIDS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22046.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/FOX.png" group-title="AM | BR | BRAZIL",BR - FOX FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22047.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-logo="https://go4.pw/BRAZIL/redetv.png" group-title="AM | BR | BRAZIL",BR - REDE TV HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22050.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/fazenda.png" group-title="AM | BR | BRAZIL",BR - FAZENDA 08 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22051.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TOONCASTHD.png" group-title="AM | BR | BRAZIL",BR - TOONCAST HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22052.m3u8
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://go4.pw/SCANDINAVIAN/BOOMERANG.png" group-title="AM | BR | BRAZIL",BR - BOOMERANG HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22055.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-logo="https://go4.pw/USA/fx.png" group-title="AM | BR | BRAZIL",BR - FX FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22058.m3u8
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-logo="https://go4.pw/BRAZIL/THEATER.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY THEATER FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22059.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="AM | BR | BRAZIL",BR - PARAMOUNT+ 02 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22060.m3u8
+#EXTINF:-1 tvg-id="History2.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORY-2-1.png" group-title="AM | BR | BRAZIL",BR - HISTORY 2 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22061.m3u8
+#EXTINF:-1 tvg-id="premiere3.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 3 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22064.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-logo="https://go4.pw/BRAZIL/WORLD.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY WORLD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22066.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-logo="https://go4.pw/BRAZIL/woohoo.png" group-title="AM | BR | BRAZIL",BR - WOOHOO HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22071.m3u8
+#EXTINF:-1 tvg-id="redevida.br" tvg-logo="https://go4.pw/BRAZIL/redetv.png" group-title="AM | BR | BRAZIL",BR - REDE VIDA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22072.m3u8
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/discovery.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22073.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/OSN/OSNDISCOVERYIDHD.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY ID FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22077.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/BRASIL/Brasil-1.png" group-title="AM | BR | BRAZIL",##### BRAZIL - MOVIES #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22081.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISCOVERY-WORLDHD-1.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY WORLD HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22084.m3u8
+#EXTINF:-1 tvg-id="premiere7.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 7 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22085.m3u8
+#EXTINF:-1 tvg-id="babytv.br" tvg-logo="https://go4.pw/EUROPE/UK/BABYTV.png" group-title="AM | BR | BRAZIL",BR - BABY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22086.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/record.png" group-title="AM | BR | BRAZIL",BR - RECORD SP HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22088.m3u8
+#EXTINF:-1 tvg-id="lifetime.br" tvg-logo="https://go4.pw/PHILIPINES/Lifetime.png" group-title="AM | BR | BRAZIL",BR - LIFETIME FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22089.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/FOXPREMIUM2.png" group-title="AM | BR | BRAZIL",BR - FOX PREMIUM 2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22096.m3u8
+#EXTINF:-1 tvg-id="recordnews.br" tvg-logo="https://go4.pw/BRAZIL/record.png" group-title="AM | BR | BRAZIL",BR - RECORD NEWS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22097.m3u8
+#EXTINF:-1 tvg-id="curta.br" tvg-logo="https://go4.pw/BRAZIL/CURTA.png" group-title="AM | BR | BRAZIL",BR - CURTA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22099.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISNEY-CHANNELHD-1.png" group-title="AM | BR | BRAZIL",BR - DISNEY CHANNEL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22100.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-logo="https://go4.pw/Mexico/space.png" group-title="AM | BR | BRAZIL",BR - SPACE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22102.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/BRASIL/Brasil-1.png" group-title="AM | BR | BRAZIL",##### BRAZIL - GENERAL #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22103.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE CLUBES HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22106.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/BRASIL/Brasil-1.png" group-title="AM | BR | BRAZIL",##### BRAZIL - NEWS #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22108.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-logo="https://go4.pw/BRAZIL/SP3.png" group-title="AM | BR | BRAZIL",BR - SPORTV 3 HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22110.m3u8
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISCOVERYTHEAERHD-1.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY THEATER HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22112.m3u8
+#EXTINF:-1 tvg-id="nickjr.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/NICK-JRHD-1.png" group-title="AM | BR | BRAZIL",BR - NICK JR HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22114.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/fazenda.png" group-title="AM | BR | BRAZIL",BR - FAZENDA 04 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22115.m3u8
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-logo="https://images.pluto.tv/channels/61c1e7f38413090007c640db/colorLogoPNG.png" group-title="AM | BR | BRAZIL",BR - COMEDY CENTRAL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22116.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-logo="https://go4.pw/BRAZIL/SP2.png" group-title="AM | BR | BRAZIL",BR - SPORTV 2 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22117.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-logo="https://go4.pw/BRAZIL/band.png" group-title="AM | BR | BRAZIL",BR - BAND FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22118.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORYHD-1.png" group-title="AM | BR | BRAZIL",BR - HISTORY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22120.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-logo="https://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="AM | BR | BRAZIL",BR - NICKELODEON HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22122.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://go4.pw/BRAZIL/SP.png" group-title="AM | BR | BRAZIL",BR - SPORTV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22124.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE CLUBES HEVC
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22125.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-logo="https://go4.pw/BRAZIL/band.png" group-title="AM | BR | BRAZIL",BR - BAND SPORT HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22127.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="AM | BR | BRAZIL",BR - PARAMOUNT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22130.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISCOVERY-TURBOHD-1.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY TURBO HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22131.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="AM | BR | BRAZIL",BR - TELECINE FUN FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22132.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-logo="https://go4.pw/BRAZIL/bandnews.png" group-title="AM | BR | BRAZIL",BR - BAND NEWS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22134.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/AMCHD-1.png" group-title="AM | BR | BRAZIL",BR - AMC HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22135.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="AM | BR | BRAZIL",BR - PARAMOUNT+ 03 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22137.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HISTORY-2.png" group-title="AM | BR | BRAZIL",BR - HISTORY 2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22138.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-logo="https://go4.pw/AMERICA/USA/FOXSPORT.png" group-title="AM | BR | BRAZIL",BR - FOX SPORTS 2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22139.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/BRASIL/Brasil-1.png" group-title="AM | BR | BRAZIL",##### BRAZIL - DOCUMANTARY #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22141.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORYHD-1.png" group-title="AM | BR | BRAZIL",BR - HISTORY HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22142.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-logo="https://go4.pw/PORTUGAL/hbo_HD.png" group-title="AM | BR | BRAZIL",BR - HBO FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22143.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="AM | BR | BRAZIL",BR - TELECINE TOUCH FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22147.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="AM | BR | BRAZIL",BR - ESPN BRASIL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22148.m3u8
+#EXTINF:-1 tvg-id="novotempo.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/NOVO-TEMPOHD.png" group-title="AM | BR | BRAZIL",BR - NOVO TEMPO HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22150.m3u8
+#EXTINF:-1 tvg-id="espnextra.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="AM | BR | BRAZIL",BR - ESPN EXTRA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22152.m3u8
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/discovery.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22155.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-logo="https://go4.pw/AMERICA/USA/FOXSPORT.png" group-title="AM | BR | BRAZIL",BR - FOX SPORTS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22156.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MY-HD/FOXLIFE-1.png" group-title="AM | BR | BRAZIL",BR - FOX LIFE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22157.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-logo="https://go4.pw/Mexico/space.png" group-title="AM | BR | BRAZIL",BR - SPACE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22158.m3u8
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="AM | BR | BRAZIL",BR - HBO SIGNATURE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22159.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FINLAND/Discovery_Science.png" group-title="AM | BR | BRAZIL",BR - DISCOVERY SCIENCE SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22160.m3u8
+#EXTINF:-1 tvg-id="curta.br" tvg-logo="https://go4.pw/BRAZIL/CURTA.png" group-title="AM | BR | BRAZIL",BR - CURTA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22162.m3u8
+#EXTINF:-1 tvg-id="lifetime.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/LIFETIMEHD-1.png" group-title="AM | BR | BRAZIL",BR - LIFETIME HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22163.m3u8
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-logo="https://images.pluto.tv/channels/61c1e7f38413090007c640db/colorLogoPNG.png" group-title="AM | BR | BRAZIL",BR - COMEDY CENTRAL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22165.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/redetv.png" group-title="AM | BR | BRAZIL",BR - REDE FAMILIA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22170.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="AM | BR | BRAZIL",BR - CINEMAX HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22171.m3u8
+#EXTINF:-1 tvg-id="babytv.br" tvg-logo="https://go4.pw/EUROPE/UK/BABYTV.png" group-title="AM | BR | BRAZIL",BR - BABY HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22172.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-logo="https://go4.pw/USA/SD/37.png" group-title="AM | BR | BRAZIL",BR - SYFY HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22173.m3u8
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="AM | BR | BRAZIL",BR - HBO SIGNATURE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22178.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-logo="https://go4.pw/CANADA/HBO_2_.png" group-title="AM | BR | BRAZIL",BR - HBO 2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22180.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="AM | BR | BRAZIL",BR - TELECINE CULT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22182.m3u8
+#EXTINF:-1 tvg-id="premiere3.br" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="AM | BR | BRAZIL",BR - PREMIERE 3 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22183.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://go4.pw/USA/SD/42.png" group-title="AM | BR | BRAZIL",BR - TNT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22189.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-logo="https://go4.pw/germany/6.png" group-title="AM | BR | BRAZIL",BR - SONY CHANNEL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22200.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-logo="https://go4.pw/BRAZIL/MULTI.png" group-title="AM | BR | BRAZIL",BR - MULTISHOW HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22203.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-logo="https://go4.pw/BRAZIL/MULTI.png" group-title="AM | BR | BRAZIL",BR - MULTI SHOW FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22206.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO EPTV CAMPINAS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22208.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO FORTALEZA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22212.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/ARTE1HD-1.png" group-title="AM | BR | BRAZIL",BR - ARTE 1 HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22217.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO BRASILA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22219.m3u8
+#EXTINF:-1 tvg-id="tbs.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TBS-1.png" group-title="AM | BR | BRAZIL",BR - TBS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22220.m3u8
+#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/PRIME-BOX%20BRASILHD.png" group-title="AM | BR | BRAZIL",BR - PRIME BOX BRASIL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22226.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO TV DIARIO HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22230.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO RJ HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22231.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO MINAS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22233.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO NORDESTE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22236.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/USA/24_7.png" group-title="AM | BR | BRAZIL",BR - 24/7 IGREJA BATISTA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22241.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="AM | BR | BRAZIL",BR - TELECINE FUN HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22242.m3u8
+#EXTINF:-1 tvg-id="globosp.br" tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO SP HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22246.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-logo="https://go4.pw/USA/tlc.png" group-title="AM | BR | BRAZIL",BR - TLC HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22249.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/BRASIL/Brasil-1.png" group-title="AM | BR | BRAZIL",##### BRAZIL - MUSIC #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22250.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/BRASIL/Brasil-1.png" group-title="AM | BR | BRAZIL",##### 24/7 #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22251.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/ARTE1HD-1.png" group-title="AM | BR | BRAZIL",BR - ARTE 1 SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22253.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/BIS-1.png" group-title="AM | BR | BRAZIL",BR - BIS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22256.m3u8
+#EXTINF:-1 group-title="AM | BR | BRAZIL",BR - TV Destak
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22261.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="AM | BR | BRAZIL",BR - TELECINE CULT HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22272.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-logo="https://go4.pw/CANADA/AE.png" group-title="AM | BR | BRAZIL",BR - A&E HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22278.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/6.png" group-title="AM | BR | BRAZIL",BR - CANAL SONY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22279.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO PLAY HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22285.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22287.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO RJ FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22289.m3u8
+#EXTINF:-1 tvg-id="adultswim.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TBS-1.png" group-title="AM | BR | BRAZIL",BR - TBS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22295.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO TV MIRANTE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22297.m3u8
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-logo="https://go4.pw/BRAZIL/BRASIL.png" group-title="AM | BR | BRAZIL",BR - TV BRASIL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22300.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO NORDESTE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22304.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22307.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO SAT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22309.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO ANHANGUERA GOIANIA SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22313.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="AM | BR | BRAZIL",BR - TELECINE PIPOCA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22314.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-logo="https://go4.pw/BRAZIL/OFF.png" group-title="AM | BR | BRAZIL",BR - OFF HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22315.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="AM | BR | BRAZIL",BR - TELECINE TOUCH HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22318.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO MINAS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22325.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://go4.pw/USA/SD/42.png" group-title="AM | BR | BRAZIL",BR - TNT HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22329.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO RBS PORTO ALEGRE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22330.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO RBS PORTO ALGRE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22347.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO TV SERGIPE HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22348.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="AM | BR | BRAZIL",BR - TELECINE PREMIUM HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22353.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/GLOBO-NEWSHD-1.png" group-title="AM | BR | BRAZIL",BR - GLOBO NEWS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22357.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO BRASILIA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22365.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO TV TRIBUNA SANTOS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22367.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO SAT HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22372.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO RPC TV HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22379.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO TV VERDES MARES FORTALEZA HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22381.m3u8
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-logo="https://go4.pw/BRAZIL/CNNBRAZIL.png" group-title="AM | BR | BRAZIL",BR - CANAL BRASIL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22385.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO PORTUGAL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22388.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/USA/24_7.png" group-title="AM | BR | BRAZIL",BR - 24/7 CAILLOU
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22400.m3u8
+#EXTINF:-1 group-title="AM | BR | BRAZIL",BR - TV PAI ETERNO
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22401.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/BRASIL/Brasil-1.png" group-title="AM | BR | BRAZIL",##### BRAZIL - GLOBO #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22415.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/AXNHD.png" group-title="AM | BR | BRAZIL",BR - AXN HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22418.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/MEGAPIXHD-1.png" group-title="AM | BR | BRAZIL",BR - MEGAPIX HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22421.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO TV TEM BAURU HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22435.m3u8
+#EXTINF:-1 group-title="AM | BR | BRAZIL",BR - TERRA VIVA
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22436.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-logo="https://go4.pw/CANADA/AE.png" group-title="AM | BR | BRAZIL",BR - A&E FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22439.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/GLOBO-NEWSHD-1.png" group-title="AM | BR | BRAZIL",BR - GLOBO NEWS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22442.m3u8
+#EXTINF:-1 tvg-id="tntseries.br" tvg-logo="https://go4.pw/USA/SD/42.png" group-title="AM | BR | BRAZIL",BR - TNT SERIES HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22444.m3u8
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-logo="https://go4.pw/BRAZIL/BRASIL.png" group-title="AM | BR | BRAZIL",BR - TV BRASIL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22447.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-logo="https://go4.pw/USA/tlc.png" group-title="AM | BR | BRAZIL",BR - TLC FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22448.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO TV CABUGI HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22449.m3u8
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-logo="https://go4.pw/BRAZIL/MUSIC.png" group-title="AM | BR | BRAZIL",BR - MUSIC BOX SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22450.m3u8
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/ZOOMOOHD.png" group-title="AM | BR | BRAZIL",BR - ZOOMOO HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22451.m3u8
+#EXTINF:-1 tvg-id="rit.br" tvg-logo="https://go4.pw/BRAZIL/RIT.png" group-title="AM | BR | BRAZIL",BR - RIT TV FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22454.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/MEGAPIXHD-1.png" group-title="AM | BR | BRAZIL",BR - MEGAPIX FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22455.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO TV TRIBUNA SANTOS SD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22459.m3u8
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-logo="https://go4.pw/INDONESIA/zoomoo.png" group-title="AM | BR | BRAZIL",BR - ZOOMOO FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22463.m3u8
+#EXTINF:-1 tvg-id="globosp.br" tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO SP FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22466.m3u8
+#EXTINF:-1 tvg-id="vh1megahits.br" tvg-logo="https://go4.pw/BRAZIL/MEGA.png" group-title="AM | BR | BRAZIL",BR - VH1 MEGA HITS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22467.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/globo.png" group-title="AM | BR | BRAZIL",BR - GLOBO EPTV RIBEIRO PRETO HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22469.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-logo="https://go4.pw/germany/6.png" group-title="AM | BR | BRAZIL",BR - SONY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22471.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/UNIVERSALHD.png" group-title="AM | BR | BRAZIL",BR - UNIVERSAL HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22474.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-logo="https://go4.pw/AMERICA/BRASIL/BIS-1.png" group-title="AM | BR | BRAZIL",BR - BIS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22478.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/MEXICO/FILMANDARTS.png" group-title="AM | BR | BRAZIL",BR - FILM & ARTS HD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22479.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-logo="https://go4.pw/BRAZIL/FISH.png" group-title="AM | BR | BRAZIL",BR - FISH TV FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/22483.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT CZECH BITCH FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27550.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANNA'S PUBLIC MASTURBATION GOES WAY TOO FAR FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27553.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - EROTIC 4 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27558.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT FAKE AGENT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27559.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANASTASIA BROKELYN AND NAUGHTY ROOMIE RUSSIAN ALECIA FOX DILDO PLAY AND 69 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27561.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL WITH EMBER FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27567.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - I SFSV 2023 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27568.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANNA F & NINA A (ACTION 2) FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27569.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL REVENGE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27575.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - 8STREET LATINAS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27576.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANGEL MINX MILF THAT WANTS A BLACK COCK FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27577.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - CLASSIC FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27578.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL SEX WITH COUGAR HELINE (48) FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27579.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - BRATTY SIS ADULT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27580.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANNA F & NINA A (ACTION 1) FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27582.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - MILF FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27583.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - REDLIGHT HD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27584.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX -  ANATOMY OF A SEX SCENE BOSSY BITCH FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27586.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ENO 2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27587.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PUBLIC AGENT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27588.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - REDTRAFFIC HARDCORE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27589.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANGIE ELIF PLAYS HER OWN KINKY TUNES FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27590.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT CASUAL TEEN SEX 1 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27592.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - AREA X69 65 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27594.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT HANDJOB BY KLIXEN FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27596.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANALIZED - LEXI LORE BLONDE SLUT'S ANAL ADVENTURE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27599.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL WITH CHLOE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27600.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - JASMIN.TV HD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27606.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - BLOWJOB 2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27609.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL SLUT STRETCHED AND BOUND FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27610.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANGRY CAFE LAY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27611.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT CLUB SEVENTEEN 1 HD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27612.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PLAYBOY EUROPE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27613.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PRIVATE TV HD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27616.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL WITH BRIELLA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27617.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - VIP PINK EROTIC 3 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27618.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - WUNF 429 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27622.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - RUSSIAN FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27627.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANISSA KATE GETS FUCKED IN HER ASS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27630.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - BRAZZERS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27632.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - REDTRAFFIC MILF FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27635.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - BANG BROS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27636.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - LONDON RIVER DOUBLE DICK DELIGHT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27637.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - GANGBANG FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27638.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PATTY MICHOVA GO WILD OVER ONE BIG COCK FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27639.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - VIP LIVE CAMS ADULT TV FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27640.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANGELINA WHITE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27641.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANDREA RETALI SQUIRTS ON TWO DICKS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27642.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL WITH ANNA CLAIRE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27643.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT AFRICAN CASTING FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27646.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - VISIT-X FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27647.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - HUSTLER FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27649.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANNABELLE MORE IS A 40 YEAR OLD MILFS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27652.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL WITH MY ASIAN STEP-DAUGHTER FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27653.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PUBLICK AGENT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27654.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - VIP MYCAMTV SQUIRT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27657.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANYONE CAN USE MY STEPSIS ON GUYS’ NIGHT! FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27660.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL THERAPY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27665.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - CZECH STREETS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27666.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - EROTIC 1 LA1 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27667.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - EROTIK VON BENAN FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27669.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - EROTIC 2 LA4 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27674.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PRIVATE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27678.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - GOTMYLF FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27681.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - REDTRAFFIC BIG DICK FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27682.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANIE DARLING FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27684.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - DAY WITH A PORNSTAR FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27685.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - HARD ANAL SEX THE WAY I LOVE IT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27687.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27690.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANGELIKA GRAYS BOUNCES HER BOOTY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27691.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/18adult.png" group-title="18+ For Adults XXX",##### FOR ADULTS +18 #####
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27692.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANGELICA HEART PLEASING OLD HANS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27694.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANGEL MINX IS A 51 YEAR OLD MILF WHO FALLS IN LOVE WITH THE BIG BLACK COCK FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27696.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PORNHUB MY PERVY FAMILY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27697.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANISSA KATE & CANELA SKIN SINFUL IN STRAP-ONS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27698.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - SUPERONE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27701.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANALIZED - DOUBLE DICK DELIGHT AUGUST TAYLOR'S INSATIABLE DESIRES FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27703.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - EROTIC 1 LA2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27706.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANGEL MOVES TO THE RHYTHM FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27707.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - CASUAL TEEN SEX 1 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27708.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT DANCING BEAR FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27709.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - VIP POV FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27711.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANASTASIA BROKELYN DEEPTHROATS AND PUSSY FUCKED FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27712.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT EROTIC MUSCLEVIDEOS 2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27713.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL QUEEN EMILY THORNE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27714.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL SHOW FOR THE WHOLE NEIGHBORHOOD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27716.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ENO 1 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27718.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ROUGH FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27724.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - REDTRAFFIC INTERRACIAL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27726.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANGELS OF LOVE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27729.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PENTHOUSE GOLD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27731.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT SCORE GROUP 1 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27732.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL WORK OUT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27738.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - DORCEL CLUB FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27748.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - EROTIC 2 LA6 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27751.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - BIG AND NATURAL TITS 2021 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27753.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT DORCEL CLUB 2021 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27755.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANDREA FUCKS BENNY BY THE HIGHWAY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27756.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PERV MOM FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27758.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ALEXIS CRYSTAL FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27761.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PORNHUB CUCKOLD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27764.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - MEN DANNY D FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27767.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - REDTRAFFIC BIG ASS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27769.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ONLY FANS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27770.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT FIT18 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27771.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - BLOND FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27772.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANGEL WICKY PUNISHED WITH A HUGE COCK FOR HER CRIMES FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27775.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - VIP BALKAN EROTIC FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27776.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT SEX AND SUBMISSION FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27777.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - DORCEL TV AFRICA FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27779.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANASTASIA BROKELYN MASTURBATES HER WET PUSSY IN THE OFFICE AND GETS FUCKED FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27781.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANAL WITH ADREENA WINTERS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27783.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PASSIEXXX FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27786.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - DUSK FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27792.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PRIVATE LA4 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27793.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ASIAN SEXY DIARY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27794.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - BLACK FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27795.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - GAY HD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27797.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - DREED MEN FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27799.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - BLACKED RAW HD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27802.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - SHALINA DEVINE DPD IN WORKPLACE ORGY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27803.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ALBA XXX HD2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27804.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - BLACK GFS ADULT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27805.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PORNHUB MOMS TEACH FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27806.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - REDTRAFFIC POV FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27809.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANALED MILF FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27811.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - REDTRAFFIC BIG TITS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27814.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - REDLIGHT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27815.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - AN INDECENT STORY - SAVAGE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27816.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - BLACK ADULT FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27817.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - PLAYBOY TV LIVE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27819.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANGELA WHITE 12 INCHES UP THE ASS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27820.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANASTASIA SHADES GETS SPOILED WITH TWO BIG COCKS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27822.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANHA BELLISSIMA CASTING FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27823.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANYTHING MORE I COULD DO FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27824.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANALIZED - GOTH BABE DOUBLE STUFFED CHARLOTTE SARTRE'S WILD RIDE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27826.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - N1 PLAY ADULT PIERRE WOODMAN X CASTINGS 2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27827.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - REDTRAFFIC FETISH FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27828.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ENO 4 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27829.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ANITA BLANCHE MEETS OLD HANS FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27830.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - VIP 21 SEXTURY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27834.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ADULT TINY4K 1 HD FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27842.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - AMA SPAIN 2 FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27843.m3u8
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - BEATE UHSE FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27844.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - COMPILATION FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27845.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ADULT.png" group-title="18+ For Adults XXX",XXX - ATLAS GRAN GAY FHD
+http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/live/27846.m3u8
