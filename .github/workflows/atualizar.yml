@@ -28,7 +28,7 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python scripts/atualizar_lista.py
 
-      - name: Publicar (commit unico, sem acumular historico)
+      - name: Publicar atualizacoes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -37,7 +37,6 @@ jobs:
             echo "Nenhuma alteracao."
             exit 0
           fi
-          git checkout --orphan publicar
-          git add -A
           git commit -m "Auto: atualizacao diaria da lista"
-          git push --force origin publicar:main
+          git pull --rebase -X ours origin main || true
+          git push origin main

@@ -432,6 +432,7 @@ def carregar_e_fundir_listas_extras(canais_por_cat, canais_adultos=None):
             user = xtream_info["user"]
             pwd = xtream_info["pwd"]
             try:
+                cache_file = os.path.join(REPO_ROOT, "data", "xtream_cache.json")
                 cat_map = {}
                 url_cat = f"{base}/player_api.php?username={urllib.parse.quote(user)}&password={urllib.parse.quote(pwd)}&action=get_live_categories"
                 texto_cat = baixar_texto(url_cat)
@@ -444,10 +445,32 @@ def carregar_e_fundir_listas_extras(canais_por_cat, canais_adultos=None):
 
                 url_live = f"{base}/player_api.php?username={urllib.parse.quote(user)}&password={urllib.parse.quote(pwd)}&action=get_live_streams"
                 texto_live = baixar_texto(url_live)
-                if not texto_live:
-                    print(f"Aviso: Não foi possível obter canais de {base}")
+                streams = []
+                if texto_live:
+                    try:
+                        streams = json.loads(texto_live)
+                        if streams:
+                            os.makedirs(os.path.dirname(cache_file), exist_ok=True)
+                            with open(cache_file, "w", encoding="utf-8") as cf:
+                                json.dump({"categories": cat_map, "streams": streams}, cf, ensure_ascii=False)
+                    except Exception as ej:
+                        print(f"Aviso ao decodificar JSON ao vivo: {ej}")
+
+                if not streams:
+                    if os.path.exists(cache_file):
+                        print(f"Aviso: Não foi possível obter canais online de {base}. Usando cache local permanente ({cache_file})...")
+                        try:
+                            with open(cache_file, "r", encoding="utf-8") as cf:
+                                cache_data = json.load(cf)
+                                if not cat_map:
+                                    cat_map = cache_data.get("categories", {})
+                                streams = cache_data.get("streams", [])
+                        except Exception as ec:
+                            print(f"Erro ao ler cache xtream: {ec}")
+
+                if not streams:
+                    print(f"Aviso: Nenhum canal obtido para {base}.")
                     continue
-                streams = json.loads(texto_live)
                 print(f"Recebidos {len(streams)} canais ao vivo da lista extra Xtream.")
 
                 for s in streams:
@@ -1293,6 +1316,10 @@ def validar_canais(canais_por_cat, canais_adultos=None):
     return canais_por_cat, canais_adultos
 
 def salvar_canais_json(canais_por_cat):
+    total = sum(len(v) for v in canais_por_cat.values())
+    if total < 500:
+        print(f"PROTEÇÃO ATIVADA: Apenas {total} canais gerados (mínimo exigido: 500). Abortando gravação de data/canais.json para não apagar canais existentes!")
+        return
     caminho = os.path.join(REPO_ROOT, "data", "canais.json")
     os.makedirs(os.path.dirname(caminho), exist_ok=True)
     lista_saida = []
@@ -1404,6 +1431,10 @@ def formatar_adultos_m3u(canais_adultos):
     return resultado
 
 def salvar_catalogo_txt(canais_por_cat):
+    total = sum(len(v) for v in canais_por_cat.values())
+    if total < 500:
+        print(f"PROTEÇÃO ATIVADA: Apenas {total} canais gerados (mínimo de segurança: 500). Abortando gravação de catalogo.txt para não apagar os canais existentes!")
+        return
     caminho = os.path.join(REPO_ROOT, "catalogo.txt")
     linhas = []
     todas_categorias = [c for c in ORDEM_CATEGORIAS_CANAIS if c in canais_por_cat]
@@ -1437,6 +1468,11 @@ def main_aovivo():
     epg_urls = "https://iptv-epg.org/files/epg-br.xml,https://www.open-epg.com/files/brazil3.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml"
     
     canais_por_cat, canais_adultos = processar_canais()
+    total_canais = sum(len(v) for v in canais_por_cat.values())
+    if total_canais < 500:
+        print(f"PROTEÇÃO ATIVADA: Apenas {total_canais} canais gerados (mínimo exigido: 500). Abortando atualização de aovivo.m3u e canais.m3u para proteger as categorias 24h e lista completa!")
+        return
+
     canais_por_cat, canais_adultos = validar_canais(canais_por_cat, canais_adultos)
 
     # 1. Salva canais ao vivo normais (LIVRES de canais adultos)
@@ -1490,6 +1526,11 @@ def main():
 
     # 1. Canais Ao Vivo
     canais_por_cat, canais_adultos = processar_canais()
+    total_canais = sum(len(v) for v in canais_por_cat.values())
+    if total_canais < 500:
+        print(f"PROTEÇÃO ATIVADA: Apenas {total_canais} canais gerados (mínimo exigido: 500). Abortando atualização de aovivo.m3u e canais.m3u para proteger as categorias 24h e lista completa!")
+        return
+
     canais_por_cat, canais_adultos = validar_canais(canais_por_cat, canais_adultos)
     if canais_adultos:
         salvar_restritos_txt(canais_adultos)
