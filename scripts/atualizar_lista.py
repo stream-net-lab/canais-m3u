@@ -1,7 +1,9 @@
 import os
 import re
+import gzip
 import urllib.request
 import urllib.parse
+import urllib.error
 import collections
 import json
 import unicodedata
@@ -75,11 +77,29 @@ ORDEM_CATEGORIAS_CANAIS = [
     "Pluto TV"
 ]
 
+def _ler_resposta_texto(resp, max_bytes=None):
+    """Lê resposta HTTP descompactando gzip automaticamente se necessário."""
+    raw = resp.read(max_bytes) if max_bytes else resp.read()
+    enc = (resp.headers.get("Content-Encoding") or "").lower()
+    if "gzip" in enc or raw[:2] == b"\x1f\x8b":
+        try:
+            raw = gzip.decompress(raw)
+        except Exception:
+            pass
+    return raw.decode("utf-8", errors="ignore")
+
 def baixar_texto(url):
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"})
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, identity",
+            },
+        )
         with urllib.request.urlopen(req, timeout=15) as resp:
-            return resp.read().decode("utf-8", errors="ignore")
+            return _ler_resposta_texto(resp)
     except Exception as e:
         print(f"Aviso ao baixar {url}: {e}")
         return ""
@@ -451,11 +471,15 @@ def mascarar_url_log(url):
 def testar_servidor_lista(url):
     """
     Testa se uma URL de lista enviada pelo painel (Xtream Codes ou M3U) está online e funcional.
+    Suporta gzip, tenta API Xtream com User-Agent padrão e faz fallback direto para M3U.
     Retorna (ok: bool, motivo: str, latencia_ms: float).
     """
     url = url.strip()
     if not url.startswith(("http://", "https://")):
         return (False, "URL inválida (precisa começar com http:// ou https://)", 99999.0)
+
+    ua_browser = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+    motivo_xtream = ""
 
     t0 = time.perf_counter()
     xtream = extrair_credenciais_xtream(url)
@@ -465,31 +489,61 @@ def testar_servidor_lista(url):
         pwd = xtream["pwd"]
         api_url = f"{base}/player_api.php?username={urllib.parse.quote(user)}&password={urllib.parse.quote(pwd)}"
         try:
-            req = urllib.request.Request(api_url, headers={"User-Agent": "VLC/3.0.18 LibVLC/3.0.18"})
-            with urllib.request.urlopen(req, timeout=8.0) as r:
-                raw = r.read(16384).decode("utf-8", errors="ignore")
+            req = urllib.request.Request(
+                api_url,
+                headers={"User-Agent": ua_browser, "Accept": "application/json, */*", "Accept-Encoding": "gzip, identity"},
+            )
+            with urllib.request.urlopen(req, timeout=10.0) as r:
+                raw = _ler_resposta_texto(r, 32768).strip()
             elapsed = (time.perf_counter() - t0) * 1000.0
-            data = json.loads(raw)
-            uinfo = data.get("user_info", {})
-            auth = str(uinfo.get("auth", "0"))
-            status = str(uinfo.get("status", "")).lower()
-            if auth == "1" and status == "active":
-                return (True, f"Xtream ativo ({round(elapsed)}ms)", elapsed)
-            return (False, f"Conta inativa ou expirada (status={status or 'inválido'})", elapsed)
+            if not raw:
+                motivo_xtream = "API Xtream retornou resposta vazia"
+            elif raw.startswith("<"):
+                motivo_xtream = "API Xtream retornou HTML (possível bloqueio de IP de datacenter)"
+            else:
+                data = json.loads(raw)
+                uinfo = data.get("user_info", {})
+                auth = str(uinfo.get("auth", "0"))
+                status = str(uinfo.get("status", "")).lower()
+                if auth == "1" and status == "active":
+                    return (True, f"Xtream ativo ({round(elapsed)}ms)", elapsed)
+                return (False, f"Conta inativa ou expirada (status={status or 'inválido'})", elapsed)
+        except urllib.error.HTTPError as he:
+            motivo_xtream = f"API Xtream retornou HTTP {he.code}"
         except Exception as e:
-            return (False, f"Falha ao conectar no servidor Xtream: {type(e).__name__}", 99999.0)
+            motivo_xtream = f"API Xtream falhou ({type(e).__name__})"
 
-    # Teste para lista M3U direta
+    # Teste direto como lista M3U (também serve como fallback se player_api.php falhar)
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "VLC/3.0.18 LibVLC/3.0.18"})
-        with urllib.request.urlopen(req, timeout=10.0) as r:
-            amostra = r.read(65536).decode("utf-8", errors="ignore")
-        elapsed = (time.perf_counter() - t0) * 1000.0
+        t1 = time.perf_counter()
+        req = urllib.request.Request(
+            url,
+            headers={"User-Agent": ua_browser, "Accept": "*/*", "Accept-Encoding": "gzip, identity"},
+        )
+        with urllib.request.urlopen(req, timeout=12.0) as r:
+            amostra = _ler_resposta_texto(r, 65536).strip()
+        elapsed = (time.perf_counter() - t1) * 1000.0
         if "#EXTINF" in amostra or "#EXTM3U" in amostra:
             return (True, f"Lista M3U ativa ({round(elapsed)}ms)", elapsed)
-        return (False, "Resposta recebida não parece ser uma lista M3U válida", elapsed)
+        if not amostra:
+            det = "Servidor retornou resposta vazia (0 bytes)"
+        elif amostra.startswith("<"):
+            det = "Servidor retornou página HTML (possível bloqueio de IP de datacenter/região)"
+        else:
+            det = "Resposta recebida não é uma lista M3U válida"
+        if motivo_xtream:
+            det = f"{motivo_xtream} | Fallback M3U: {det}"
+        return (False, det, elapsed)
+    except urllib.error.HTTPError as he:
+        det = f"HTTP {he.code} ao baixar lista"
+        if motivo_xtream:
+            det = f"{motivo_xtream} | Fallback M3U: {det}"
+        return (False, det, 99999.0)
     except Exception as e:
-        return (False, f"Servidor M3U inacessível: {type(e).__name__}", 99999.0)
+        det = f"Servidor inacessível ({type(e).__name__})"
+        if motivo_xtream:
+            det = f"{motivo_xtream} | Fallback M3U: {det}"
+        return (False, det, 99999.0)
 
 
 def processar_listas_recebidas_painel():
