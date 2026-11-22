@@ -1,26 +1,25 @@
 #EXTM3U name="Canais Adultos +18 (Restrito)"
-# Lista restrita protegida por controle parental
 
 #EXTINF:-1 tvg-chno="1" tvg-name="[+18] Playboy 4K" tvg-type="live" tvg-logo="http://4t75eg.cloud/static/logos/canais/playboy.png" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Playboy 4K
 http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103483.ts
 #EXTINF:-1 tvg-chno="2" tvg-name="[+18] Playboy TV FHD" tvg-type="live" tvg-logo="http://4t75eg.cloud/static/logos/canais/playboy.png" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Playboy TV FHD (Opção 1)
-http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72221.ts
-#EXTINF:-1 tvg-chno="2" tvg-name="[+18] Playboy TV FHD" tvg-type="live" tvg-logo="http://4t75eg.cloud/static/logos/canais/playboy.png" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Playboy TV FHD (Opção 2)
-http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts
-#EXTINF:-1 tvg-chno="2" tvg-name="[+18] Playboy TV FHD" tvg-type="live" tvg-logo="http://4t75eg.cloud/static/logos/canais/playboy.png" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Playboy TV FHD (Opção 3)
-http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72222.ts
-#EXTINF:-1 tvg-chno="2" tvg-name="[+18] Playboy TV FHD" tvg-type="live" tvg-logo="http://4t75eg.cloud/static/logos/canais/playboy.png" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Playboy TV FHD (Opção 4)
 http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72224.ts
+#EXTINF:-1 tvg-chno="2" tvg-name="[+18] Playboy TV FHD" tvg-type="live" tvg-logo="http://4t75eg.cloud/static/logos/canais/playboy.png" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Playboy TV FHD (Opção 2)
+http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72221.ts
+#EXTINF:-1 tvg-chno="2" tvg-name="[+18] Playboy TV FHD" tvg-type="live" tvg-logo="http://4t75eg.cloud/static/logos/canais/playboy.png" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Playboy TV FHD (Opção 3)
+http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts
+#EXTINF:-1 tvg-chno="2" tvg-name="[+18] Playboy TV FHD" tvg-type="live" tvg-logo="http://4t75eg.cloud/static/logos/canais/playboy.png" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Playboy TV FHD (Opção 4)
+http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72222.ts
 #EXTINF:-1 tvg-chno="3" tvg-name="[+18] Sexy Hot 4K" tvg-type="live" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Sexy Hot 4K (Opção 1)
 http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts
 #EXTINF:-1 tvg-chno="3" tvg-name="[+18] Sexy Hot 4K" tvg-type="live" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Sexy Hot 4K (Opção 2)
-http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts
+http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180154.ts
 #EXTINF:-1 tvg-chno="3" tvg-name="[+18] Sexy Hot 4K" tvg-type="live" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Sexy Hot 4K (Opção 3)
-http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180156.ts
+http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts
 #EXTINF:-1 tvg-chno="3" tvg-name="[+18] Sexy Hot 4K" tvg-type="live" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Sexy Hot 4K (Opção 4)
 http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180153.ts
 #EXTINF:-1 tvg-chno="3" tvg-name="[+18] Sexy Hot 4K" tvg-type="live" group-title="Adulto" http-user-agent="Mozilla/5.0",[+18] Sexy Hot 4K (Opção 5)
-http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180154.ts
+http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180156.ts
 #EXTINF:-1 tvg-chno="4" tvg-name="[24H] [+18] A Casa das Brasileirinhas [Pack 01]" tvg-type="live" tvg-logo="http://24horas.cc:80/images/508f0d666609e140b531f552b60c3478.jpg" group-title="Adulto" http-user-agent="Mozilla/5.0",[24H] [+18] A Casa das Brasileirinhas [Pack 01]
 http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140487.ts
 #EXTINF:-1 tvg-chno="5" tvg-name="[24H] [+18] A Casa das Brasileirinhas [Pack 02]" tvg-type="live" tvg-logo="http://24horas.cc:80/images/508f0d666609e140b531f552b60c3478.jpg" group-title="Adulto" http-user-agent="Mozilla/5.0",[24H] [+18] A Casa das Brasileirinhas [Pack 02]
