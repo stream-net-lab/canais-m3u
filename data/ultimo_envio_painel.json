@@ -1,14 +1,15 @@
 {
-  "data": "2026-11-22T23:09:02.631518+00:00",
+  "data": "2026-11-22T23:17:44.584090+00:00",
   "testadas": 1,
-  "adicionadas": 0,
+  "adicionadas": 1,
   "duplicadas": 0,
-  "rejeitadas": 1,
+  "rejeitadas": 0,
   "detalhes": [
     {
       "servidor": "http://4t75eg.cloud/get.php",
-      "status": "offline",
-      "detalhe": "API Xtream retornou HTML (possível bloqueio de IP de datacenter) | Fallback M3U: Servidor retornou página HTML (possível bloqueio de IP de datacenter/região)"
+      "status": "adicionada",
+      "detalhe": "Xtream ativo (830ms)",
+      "latencia_ms": 829.9
     }
   ]
 }

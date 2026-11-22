@@ -18,3 +18,4 @@
 # =====================================================================
 
 http://4t75eg.cloud/get.php?username=hZ9He8&password=1Uf2Uw&type=m3u_plus
+http://4t75eg.cloud/get.php?username=frc-561250&password=Yrwa1z&type=m3u_plus&output=ts
