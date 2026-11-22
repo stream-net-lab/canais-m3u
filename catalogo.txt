@@ -1,9 +1,9 @@
 canal: Band
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/band.png
-fonte: https://video41.mais.uol.com.br/live/3361.mpd
-qualidade: HD · 1280x720
 fonte: https://eitvplay.appmembers.com.br/event3/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://video41.mais.uol.com.br/live/3361.mpd
 qualidade: HD · 1280x720
 fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/index.m3u8
@@ -33,11 +33,11 @@ fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103450.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72428.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72427.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72429.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72430.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72427.ts
 agente: Mozilla/5.0
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd
 qualidade: HD · 1280x720
@@ -48,6 +48,8 @@ logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
 fonte: https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://eitvplay.appmembers.com.br/event2/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://aovivo.maissbt.com/indexMobile.m3u8
 qualidade: HD · 1280x720
 
 canal: SBT News
@@ -62,13 +64,13 @@ qualidade: HD · 1280x720
 canal: TV Brasil
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-brasil.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72399.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72401.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72400.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72399.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103463.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72401.ts
 agente: Mozilla/5.0
 fonte: https://tvbrasil-stream.ebc.com.br/index.m3u8
 qualidade: SD · 576x324
@@ -76,11 +78,11 @@ qualidade: SD · 576x324
 canal: Globo SP
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72040.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72042.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131212.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72042.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72040.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131215.ts
 agente: Mozilla/5.0
@@ -95,7 +97,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: RedeTV!
 categoria: TV Aberta
 logo: https://www.tvlogo.org/brazil/rede-tv-br.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72300.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72297.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178532.ts
 agente: Mozilla/5.0
@@ -103,14 +105,14 @@ fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72298.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72299.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72297.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72300.ts
 agente: Mozilla/5.0
 fonte: http://170.83.16.50/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
-qualidade: FHD · 1920x1080
 fonte: https://eitvplay.appmembers.com.br/event13/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
+fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
+qualidade: FHD · 1920x1080
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/a63ab32ce3993b81b35d51189d4272ec/error.txt
 qualidade: HD · 1280x720
 referer: https://playerembedcanais.site/
@@ -142,15 +144,15 @@ fonte: https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
 canal: Record News
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/recordnews.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178523.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72273.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178522.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72271.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72272.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178522.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178523.ts
 agente: Mozilla/5.0
 fonte: https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 fonte: https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
@@ -181,15 +183,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Rede Vida
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/redevida.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103475.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72296.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72295.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72294.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72295.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72293.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103475.ts
 agente: Mozilla/5.0
 fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
 qualidade: HD · 1280x720
@@ -205,13 +207,13 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Band SP
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/band.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104943.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/79312.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72597.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/79311.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/79312.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104943.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event3/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -225,21 +227,25 @@ categoria: TV Aberta
 logo: https://img.faz-o-eli.online/sbt.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104939.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/77963.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/77964.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72598.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/77963.ts
-agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event2/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
+fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/03fdb7843c248e296fe465c14e24564a/error.txt
+qualidade: HD · 1280x720
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Record SP
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/record.png
-fonte: https://net11.sattvgo.com.br/RECORD_SP/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 fonte: https://eitvplay.appmembers.com.br/event96/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
+fonte: https://net11.sattvgo.com.br/RECORD_SP/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/8e5022cebc4040b8349ffe66eba1993d/error.txt
 qualidade: HD · 1280x720
 referer: https://playerembedcanais.site/
@@ -256,9 +262,9 @@ categoria: TV Aberta
 logo: https://i.imgur.com/TXJKwzZ.png
 fonte: https://redebrasil.nuvemplay.live/hls/stream.m3u8
 qualidade: HD · 1280x720
+fonte: https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 fonte: https://eitvplay.appmembers.com.br/event15/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
 canal: TV Justiça
 categoria: TV Aberta
@@ -311,19 +317,19 @@ categoria: TV Aberta
 logo: https://i.imgur.com/ZJgD38F.png
 fonte: http://170.83.16.50/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
-qualidade: FHD · 1920x1080
-fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-qualidade: FHD · 1920x1080
 fonte: https://eitvplay.appmembers.com.br/event13/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
+fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
+qualidade: FHD · 1920x1080
 
 canal: TVE Bahia
 categoria: TV Aberta
 logo: http://i.imgur.com/IWGyp65.jpeg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/241553.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/241552.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/241553.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/241551.ts
 agente: Mozilla/5.0
@@ -346,9 +352,9 @@ categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globorj.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131182.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131163.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72025.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131163.ts
 agente: Mozilla/5.0
 fonte: https://net11.sattvgo.com.br/GLOBO_RIO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/23af0b6b04d34b6dbb78bdd5485cb2ec/error.txt
@@ -398,11 +404,11 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Globo DF
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131151.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131116.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131164.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131151.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/37e5fb17c202e86fc6e3cc1b1eb7017e/error.txt
 qualidade: HD · 1280x720
@@ -412,9 +418,9 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Globo MG
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131200.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131159.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131200.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131209.ts
 agente: Mozilla/5.0
@@ -536,11 +542,11 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: SBT RJ
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/sbt.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/108682.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/108683.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/108681.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/108682.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/132fe63228e22e1d1e4de931e110e86b/error.txt
 qualidade: HD · 1280x720
@@ -562,29 +568,29 @@ qualidade: HD · 1280x720
 canal: AgroMais 4K
 categoria: TV Aberta
 logo: http://www.acstatic.co/logos/canais/agromais.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71766.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71767.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71764.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71765.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103532.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71766.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71764.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71767.ts
 agente: Mozilla/5.0
 
 canal: Cultura 4K
 categoria: TV Aberta
 logo: http://acstatic.co/logos/canais/tvcultura.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71854.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71851.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71852.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71853.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71854.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103513.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71852.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71851.ts
 agente: Mozilla/5.0
 
 canal: Futura 4K
@@ -592,23 +598,23 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/futura.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71962.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71964.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71963.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71965.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71964.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103499.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71963.ts
 agente: Mozilla/5.0
 
 canal: Globo EPTV Campinas FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131150.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131210.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71977.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131150.ts
 agente: Mozilla/5.0
 
 canal: Globo EPTV Ribeirao Preto FHD
@@ -624,51 +630,51 @@ agente: Mozilla/5.0
 canal: Globo EPTV Sao Carlos FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72592.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131129.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131141.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72592.ts
 agente: Mozilla/5.0
 
 canal: Globo EPTV Sul de Minas FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71979.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71980.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131201.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71979.ts
 agente: Mozilla/5.0
 
 canal: Globo Inter TV Alto Litoral FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131131.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71983.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71982.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131131.ts
 agente: Mozilla/5.0
 
 canal: Globo Inter TV Cabugi FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71985.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131186.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71986.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71985.ts
 agente: Mozilla/5.0
 
 canal: Globo Inter TV dos Vales FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71990.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71989.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131143.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71989.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71990.ts
 agente: Mozilla/5.0
 
 canal: Globo Inter TV Grande Minas FHD
@@ -676,9 +682,9 @@ categoria: TV Aberta
 logo: http://gstaticontent.com/images/37974de0d1d16f3b56bec27eca38a765.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71991.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131114.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131115.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131114.ts
 agente: Mozilla/5.0
 
 canal: Globo Inter TV Serra Mar FHD
@@ -686,9 +692,9 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71996.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71995.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71994.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71995.ts
 agente: Mozilla/5.0
 
 canal: Globo News 4K
@@ -696,23 +702,23 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globonews.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71998.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90248.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71997.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131112.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90248.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71999.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131112.ts
 agente: Mozilla/5.0
 
 canal: Globo Nordeste FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131157.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72003.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72001.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131157.ts
 agente: Mozilla/5.0
 
 canal: Globo NSC TV Blumenau FHD
@@ -728,21 +734,21 @@ agente: Mozilla/5.0
 canal: Globo NSC TV Centro Oeste FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135432.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135433.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135434.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135432.ts
 agente: Mozilla/5.0
 
 canal: Globo NSC TV Chapeco FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131190.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72008.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131174.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72008.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131190.ts
 agente: Mozilla/5.0
 
 canal: Globo NSC TV Criciuma FHD
@@ -750,19 +756,19 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135428.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135426.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135427.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135426.ts
 agente: Mozilla/5.0
 
 canal: Globo NSC TV Florianopolis FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131183.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72010.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131144.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131183.ts
 agente: Mozilla/5.0
 
 canal: Globo NSC TV Joinville FHD
@@ -770,17 +776,17 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/91034.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/91032.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131167.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/91032.ts
 agente: Mozilla/5.0
 
 canal: Globo RBS TV Caxias do Sul FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72014.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131130.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72014.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131160.ts
 agente: Mozilla/5.0
@@ -790,9 +796,9 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133064.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133065.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133066.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133065.ts
 agente: Mozilla/5.0
 
 canal: Globo RBS TV Pelotas FHD
@@ -808,21 +814,21 @@ agente: Mozilla/5.0
 canal: Globo RBS TV Porto Alegre FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131102.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72017.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131198.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131102.ts
 agente: Mozilla/5.0
 
 canal: Globo RBS TV Santa Maria FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135425.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135424.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135423.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135424.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135425.ts
 agente: Mozilla/5.0
 
 canal: Globo Rede Amazonica Amapa FHD
@@ -830,37 +836,37 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133057.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133055.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133056.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133055.ts
 agente: Mozilla/5.0
 
 canal: Globo Rede Amazonica Boa Vista FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131185.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/93589.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/93588.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131185.ts
 agente: Mozilla/5.0
 
 canal: Globo Rede Amazonica Manaus FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72021.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72019.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72020.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72021.ts
 agente: Mozilla/5.0
 
 canal: Globo Rede Amazonica Porto Velho FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/108684.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131184.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/108684.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/93592.ts
 agente: Mozilla/5.0
@@ -868,21 +874,21 @@ agente: Mozilla/5.0
 canal: Globo Rede Amazonica Rio Branco FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131162.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131148.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131111.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131162.ts
 agente: Mozilla/5.0
 
 canal: Globo Rede Bahia FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131213.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131123.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72024.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131123.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131213.ts
 agente: Mozilla/5.0
 
 canal: Globo RPC Cascavel FHD
@@ -890,9 +896,9 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133060.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133058.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133059.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133058.ts
 agente: Mozilla/5.0
 
 canal: Globo RPC Londrina FHD
@@ -908,11 +914,11 @@ agente: Mozilla/5.0
 canal: Globo RPC Paranavai FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131197.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131170.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72028.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131197.ts
 agente: Mozilla/5.0
 
 canal: Globo RPC TV Curitiba FHD
@@ -928,41 +934,41 @@ agente: Mozilla/5.0
 canal: Globo RPC TV Foz do Iguacu FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131206.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72033.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131149.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131206.ts
 agente: Mozilla/5.0
 
 canal: Globo RPC TV Maringa FHD
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/37974de0d1d16f3b56bec27eca38a765.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131101.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/96888.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131125.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131101.ts
 agente: Mozilla/5.0
 
 canal: Globo RPC TV Ponta Grossa FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131133.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72037.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131189.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131133.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Anhanguera FHD
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/37974de0d1d16f3b56bec27eca38a765.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131124.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131166.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72043.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131124.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Asa Branca FHD
@@ -978,9 +984,9 @@ agente: Mozilla/5.0
 canal: Globo TV Cabo Branco FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131179.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131146.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131179.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131110.ts
 agente: Mozilla/5.0
@@ -988,31 +994,31 @@ agente: Mozilla/5.0
 canal: Globo TV Centro America FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72049.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72051.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72050.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72051.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72049.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Clube Teresina FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131105.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72053.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131196.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131105.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Diario Mogi das Cruzes FHD
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/37974de0d1d16f3b56bec27eca38a765.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/97597.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/97596.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131100.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/97597.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Fronteira Presidente Prudente FHD
@@ -1028,19 +1034,19 @@ agente: Mozilla/5.0
 canal: Globo TV Gazeta Alagoas FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131214.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131142.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131158.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131142.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131214.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Gazeta Sul FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72059.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131099.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72059.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72060.ts
 agente: Mozilla/5.0
@@ -1048,9 +1054,9 @@ agente: Mozilla/5.0
 canal: Globo TV Gazeta Vitoria FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131175.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72061.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131175.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131154.ts
 agente: Mozilla/5.0
@@ -1058,9 +1064,9 @@ agente: Mozilla/5.0
 canal: Globo TV Integracao Araxa FHD
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/37974de0d1d16f3b56bec27eca38a765.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131126.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131203.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131126.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131140.ts
 agente: Mozilla/5.0
@@ -1068,31 +1074,31 @@ agente: Mozilla/5.0
 canal: Globo TV Integracao Juiz de Fora FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131106.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72067.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72068.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131106.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Integracao Uberaba FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133054.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133053.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133052.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133054.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Integracao Uberlandia FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/93599.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/93598.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133051.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/93598.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/93599.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Liberal Belem FHD
@@ -1100,37 +1106,37 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131152.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72072.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72071.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72072.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Mirante Cocais FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133050.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/93601.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/93600.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133050.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Mirante Sao Luis FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131103.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131195.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72074.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131103.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Morena FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72076.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131169.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72076.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131122.ts
 agente: Mozilla/5.0
@@ -1140,9 +1146,9 @@ categoria: TV Aberta
 logo: http://gstaticontent.com/images/37974de0d1d16f3b56bec27eca38a765.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131128.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72082.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72079.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72082.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Sergipe FHD
@@ -1150,17 +1156,17 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131139.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131181.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131156.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131181.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Subae  HD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133067.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133069.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133067.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/133068.ts
 agente: Mozilla/5.0
@@ -1168,9 +1174,9 @@ agente: Mozilla/5.0
 canal: Globo TV Sudoeste FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72093.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72092.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72093.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72094.ts
 agente: Mozilla/5.0
@@ -1188,21 +1194,21 @@ agente: Mozilla/5.0
 canal: Globo TV TEM Itapetininga FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/91436.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131119.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/91435.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/91436.ts
 agente: Mozilla/5.0
 
 canal: Globo TV TEM Sao Jose do Rio Preto FHD
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/37974de0d1d16f3b56bec27eca38a765.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131155.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/91434.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131205.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/91434.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131155.ts
 agente: Mozilla/5.0
 
 canal: Globo TV TEM Sorocaba FHD
@@ -1218,19 +1224,19 @@ agente: Mozilla/5.0
 canal: Globo TV Tribuna Santos FHD
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/37974de0d1d16f3b56bec27eca38a765.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131109.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131165.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131135.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131165.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131109.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Vanguarda S.J dos Campos FHD
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/37974de0d1d16f3b56bec27eca38a765.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/144027.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131211.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/144027.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72624.ts
 agente: Mozilla/5.0
@@ -1238,9 +1244,9 @@ agente: Mozilla/5.0
 canal: Globo TV Vanguarda Taubate FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131187.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/100375.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131187.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/93605.ts
 agente: Mozilla/5.0
@@ -1250,11 +1256,11 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131161.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72080.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131137.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72096.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72080.ts
 agente: Mozilla/5.0
 
 canal: RecordTV Itapoan FHD
@@ -1270,9 +1276,9 @@ agente: Mozilla/5.0
 canal: RecordTV RJ FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/record.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72594.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/106638.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72594.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/96526.ts
 agente: Mozilla/5.0
@@ -1280,13 +1286,13 @@ agente: Mozilla/5.0
 canal: RecordTV SP FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/record.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/77654.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/96522.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72973.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72595.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72973.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/96522.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/77654.ts
 agente: Mozilla/5.0
 
 canal: SBT Rede Massa PR HD
@@ -1316,9 +1322,9 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/record.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/92669.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/92667.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/92666.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/92667.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103462.ts
 agente: Mozilla/5.0
@@ -1328,15 +1334,15 @@ agente: Mozilla/5.0
 canal: TV Gazeta SP 4K
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/2baf5152b328307749ffbafedb684497.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104917.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178520.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104918.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178519.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104917.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72406.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178519.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104918.ts
 agente: Mozilla/5.0
 
 canal: TV Uniao 4K
@@ -1348,33 +1354,33 @@ agente: Mozilla/5.0
 
 canal: TV Uniao Fortaleza FHD
 categoria: TV Aberta
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/100420.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/100423.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/100424.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/100423.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/100420.ts
 agente: Mozilla/5.0
 
 canal: RecordTV Vila Real FHD
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/772255b867c746a532039ecd6dbc6a72.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218786.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218785.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218786.ts
 agente: Mozilla/5.0
 
 canal: RecordTV Thathi Campinas FHD
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/772255b867c746a532039ecd6dbc6a72.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218787.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350090.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218788.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350091.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350090.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350092.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218787.ts
 agente: Mozilla/5.0
 
 canal: RecordTV SIC Rondonia FHD
@@ -1386,9 +1392,9 @@ agente: Mozilla/5.0
 canal: RecordTV RJ Interior FHD
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/772255b867c746a532039ecd6dbc6a72.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218793.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218792.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218793.ts
 agente: Mozilla/5.0
 
 canal: RecordTV Rio Preto FHD
@@ -1402,9 +1408,9 @@ agente: Mozilla/5.0
 canal: RecordTV Paranaiba de Uberlandia FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/record.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218796.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218797.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218796.ts
 agente: Mozilla/5.0
 
 canal: RecordTV Litoral Vale do Parnaiba FHD
@@ -1426,19 +1432,19 @@ agente: Mozilla/5.0
 canal: Globo RBS TV Cruz Alta FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218827.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306687.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306686.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218827.ts
 agente: Mozilla/5.0
 
 canal: RecordTV RS HD
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/772255b867c746a532039ecd6dbc6a72.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72974.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72975.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72974.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218791.ts
 agente: Mozilla/5.0
@@ -1458,11 +1464,11 @@ agente: Mozilla/5.0
 canal: Globo RBS TV Santa Cruz do Sul FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306608.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306607.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306609.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306607.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306608.ts
 agente: Mozilla/5.0
 
 canal: Globo Rede Bahia TV Oeste FHD
@@ -1470,9 +1476,9 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306612.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306611.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306610.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306611.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Morena Ponta Pora FHD
@@ -1480,29 +1486,29 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306615.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306646.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306645.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306646.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Integracao Ituiutaba FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306648.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306649.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306647.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306649.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306648.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Centro America Rondonopolis FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306650.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306651.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306652.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306651.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306650.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Anhanguera Itumbiara FHD
@@ -1518,9 +1524,9 @@ agente: Mozilla/5.0
 canal: Globo RPC TV Guarapuava FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306674.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306676.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306674.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306675.ts
 agente: Mozilla/5.0
@@ -1530,29 +1536,29 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306679.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306678.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306677.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306678.ts
 agente: Mozilla/5.0
 
 canal: Globo RBS TV Santa Rosa FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306682.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306680.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306681.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306680.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306682.ts
 agente: Mozilla/5.0
 
 canal: Globo RBS TV Erechim FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306684.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306683.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306685.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306684.ts
 agente: Mozilla/5.0
 
 canal: Globo RBS TV Bage FHD
@@ -1568,11 +1574,11 @@ agente: Mozilla/5.0
 canal: Globo TV Anhanguera Anapolis FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306751.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306753.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306754.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306751.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Anhanguera Luziania FHD
@@ -1580,9 +1586,9 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306755.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306757.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306756.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306757.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Anhanguera Palmas FHD
@@ -1590,9 +1596,9 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306760.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306758.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306759.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306758.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Anhanguera Rio Verde FHD
@@ -1608,19 +1614,19 @@ agente: Mozilla/5.0
 canal: Globo TV Centro America Sinop FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306765.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306764.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306766.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306764.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306765.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Grande Rio FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306768.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306767.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306768.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306769.ts
 agente: Mozilla/5.0
@@ -1628,11 +1634,11 @@ agente: Mozilla/5.0
 canal: Globo TV Liberal Castanhal FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306770.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306771.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306772.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306771.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306770.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Liberal Maraba FHD
@@ -1648,31 +1654,31 @@ agente: Mozilla/5.0
 canal: Globo TV Mirante Imperatriz FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306778.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306777.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306776.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306778.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Paraiba FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306781.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306780.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306779.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306781.ts
 agente: Mozilla/5.0
 
 canal: Globo Rede Bahia TV Santa Cruz FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306783.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306784.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306782.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306783.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Sao Francisco FHD
@@ -1696,9 +1702,9 @@ categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/record.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350010.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350008.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350009.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350008.ts
 agente: Mozilla/5.0
 
 canal: RecordTV Piaui A10 FHD
@@ -1724,19 +1730,19 @@ agente: Mozilla/5.0
 canal: RecordTV Roraima FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/record.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350062.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350060.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350061.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350062.ts
 agente: Mozilla/5.0
 
 canal: RecordTV Paulista FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/record.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350063.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350064.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350063.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350065.ts
 agente: Mozilla/5.0
@@ -1744,41 +1750,41 @@ agente: Mozilla/5.0
 canal: RecordTV Paraiba TV Correio FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/record.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350067.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350066.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350068.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350066.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350067.ts
 agente: Mozilla/5.0
 
 canal: RecordTV Manaus FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/record.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350070.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350071.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350069.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350071.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350070.ts
 agente: Mozilla/5.0
 
 canal: RecordTV Guararapes FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/record.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350074.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350072.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350073.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350074.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Verdes Mares Cariri FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350077.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350076.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350075.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350077.ts
 agente: Mozilla/5.0
 
 canal: Globo TV Alvorada do Sul FHD
@@ -1804,21 +1810,21 @@ agente: Mozilla/5.0
 canal: Globo Rede Amazonas Arquemes FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350085.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350084.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350086.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350085.ts
 agente: Mozilla/5.0
 
 canal: Globo Inter TV Costa Branca FHD
 categoria: TV Aberta
 logo: http://4t75eg.cloud/static/logos/canais/globo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350088.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350087.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350089.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350087.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350088.ts
 agente: Mozilla/5.0
 
 canal: SBT VTV Santos Campinas FHD
@@ -1826,33 +1832,33 @@ categoria: TV Aberta
 logo: http://gstaticontent.com/images/cdeca592bbb91b4c697cb75440c2bf83.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350094.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350093.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350095.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350093.ts
 agente: Mozilla/5.0
 
 canal: SBT Thathi Vale FHD
 categoria: TV Aberta
 logo: http://gstaticontent.com/images/cdeca592bbb91b4c697cb75440c2bf83.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350097.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350096.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350098.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350096.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/350097.ts
 agente: Mozilla/5.0
 
 canal: AMC
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/amc.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71770.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71771.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71769.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90646.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71768.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71771.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90646.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71770.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event144/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -1864,19 +1870,19 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Megapix
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/megapix.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72167.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131171.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131204.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72169.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131118.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131104.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90680.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131104.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72167.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131171.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131118.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72166.ts
 agente: Mozilla/5.0
@@ -1900,21 +1906,21 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Telecine Action
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecineaction.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90666.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90667.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72346.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90668.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90239.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72348.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90668.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72347.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72349.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90239.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90666.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90667.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/8af55f85d72860a71002d349b1403c69/error.txt
 qualidade: HD · 1280x720
@@ -1924,21 +1930,21 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Telecine Pipoca
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinepipoca.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72361.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90658.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72358.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72359.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90657.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90659.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72361.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72360.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72359.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72358.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90238.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90659.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/85e7fe17fa9e473b356d513f22e0c205/error.txt
 qualidade: HD · 1280x720
@@ -1950,19 +1956,19 @@ categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinepremium.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90237.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72362.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72363.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90655.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72364.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90654.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72365.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72364.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90656.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72362.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72365.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/6f0d337caa4234df5aaf097847ade7ef/error.txt
 qualidade: HD · 1280x720
@@ -1985,19 +1991,23 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Cinemax
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/cinemax.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71836.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90643.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71833.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71834.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71833.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71835.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71836.ts
 agente: Mozilla/5.0
 fonte: https://net11.sattvgo.com.br/CINEMAX/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 fonte: https://eitvplay.appmembers.com.br/event95/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
+fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/cb41b7c35d56ba663f44af563102c7a4/error.txt
+qualidade: HD · 1280x720
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: HBO
 categoria: Filmes e Séries
@@ -2023,15 +2033,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: HBO Family
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbofamily.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72114.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72116.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72115.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90637.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72115.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72114.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72117.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72116.ts
 agente: Mozilla/5.0
 fonte: https://net11.sattvgo.com.br/HBO_FAMILY/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 fonte: https://eitvplay.appmembers.com.br/event90/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
@@ -2044,21 +2054,21 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: HBO Mundi
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbomundi.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90693.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103496.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72122.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72121.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72123.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90693.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90694.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90695.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72123.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103496.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72124.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72122.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90695.ts
 agente: Mozilla/5.0
 fonte: https://cdn-rs1.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 fonte: https://eitvplay.appmembers.com.br/event93/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
@@ -2071,37 +2081,37 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: HBO Plus
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hboplus.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72126.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90691.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72133.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72120.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90692.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72125.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90696.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72126.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72128.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72118.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90635.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90697.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90698.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72127.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90635.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72120.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72118.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90697.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72133.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72127.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90690.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90247.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90696.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72119.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90247.ts
 agente: Mozilla/5.0
 fonte: https://grupoa.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 fonte: https://eitvplay.appmembers.com.br/event89/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
@@ -2114,21 +2124,21 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: HBO Pop
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbopop.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72132.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90687.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90689.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103495.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72129.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72131.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90688.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72132.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90689.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72130.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90687.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72129.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103495.ts
 agente: Mozilla/5.0
 fonte: https://gvtelecom.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 fonte: https://eitvplay.appmembers.com.br/event92/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
@@ -2143,23 +2153,23 @@ categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-signature.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103494.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90685.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72137.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72136.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72134.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90684.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72135.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90685.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90686.ts
 agente: Mozilla/5.0
-fonte: https://net11.sattvgo.com.br/HBO_SIGNATURE/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72135.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72134.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72136.ts
+agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event91/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
+fonte: https://net11.sattvgo.com.br/HBO_SIGNATURE/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbosignature/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -2168,6 +2178,12 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: HBO Xtreme
 categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72140.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72139.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90636.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90683.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72138.ts
@@ -2175,12 +2191,6 @@ agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90681.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72141.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72139.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90636.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72140.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90682.ts
 agente: Mozilla/5.0
@@ -2194,21 +2204,21 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Space
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/space.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90677.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72319.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90675.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72320.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90676.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72318.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72317.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72320.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90675.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72319.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90676.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90633.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90677.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event65/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -2220,19 +2230,19 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: TNT
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tnt.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72377.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72376.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72375.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72379.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90674.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72377.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72375.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90674.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90673.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72378.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72376.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90672.ts
 agente: Mozilla/5.0
@@ -2247,19 +2257,19 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: TNT Séries
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tntseries.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72381.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72383.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72380.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90671.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72382.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90669.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72380.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72384.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90669.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72383.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72381.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90670.ts
 agente: Mozilla/5.0
@@ -2273,15 +2283,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Universal TV
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/universaltv.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72420.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72421.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90632.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72419.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72422.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72421.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90632.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72420.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72422.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/cca511e1e577be2c00631c54f35bbfe4/error.txt
 qualidade: HD · 1280x720
@@ -2295,9 +2305,9 @@ fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72339.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72341.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72338.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72340.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72338.ts
 agente: Mozilla/5.0
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/usa/index.m3u8
 qualidade: FHD
@@ -2309,19 +2319,19 @@ categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinefun.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72354.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103455.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90662.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72357.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72355.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90661.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72356.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90661.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103455.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90660.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72357.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/f7506981418e20d5699229cf5e0b5b93/error.txt
 qualidade: HD · 1280x720
@@ -2331,21 +2341,21 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Telecine Cult
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinecult.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90665.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103456.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90664.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72353.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72350.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90665.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72352.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90664.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90663.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72351.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90663.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72350.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103456.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72352.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/c4d8522cf6c3beb846ee7c8f90cf4358/error.txt
 qualidade: HD · 1280x720
@@ -2355,17 +2365,17 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Telecine Touch
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinetouch.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72369.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103454.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90653.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72366.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72369.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72368.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90652.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103454.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72367.ts
 agente: Mozilla/5.0
@@ -2381,13 +2391,13 @@ categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tntnovelas.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72344.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72345.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72343.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103466.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72345.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72342.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103466.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event157/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -2399,19 +2409,19 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: AXN
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/axn.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90716.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90714.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71783.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90716.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71781.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71783.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71782.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90714.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90645.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71784.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90645.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90715.ts
 agente: Mozilla/5.0
@@ -2455,13 +2465,13 @@ categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/studiouniversal.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72337.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72336.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103467.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72334.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72336.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72335.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103467.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72334.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/aef30eccbd5e90140216a772f4edd2cc/error.txt
 qualidade: HD · 1280x720
@@ -2483,13 +2493,13 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Paramount + 4
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/paramountplus.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72992.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72991.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72989.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103521.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72992.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72990.ts
 agente: Mozilla/5.0
@@ -2561,15 +2571,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Paramount Plus 1
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/paramountplus.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72978.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72977.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103524.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72979.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72977.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72980.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72978.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72979.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/a9b868b1835f8f8a8b23192d879b40c2/error.txt
 qualidade: HD · 1280x720
@@ -2625,13 +2635,13 @@ categoria: Filmes e Séries
 logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgSpdXfXMnvjc83HGXzceyxQxaH7P3ZSaJXZBQdhW8GcsEjkS7MEPDdGU&s=10
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72157.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72154.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72155.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103492.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72156.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72154.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event62/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -2645,35 +2655,35 @@ qualidade: HD · 1280x720
 canal: Canal Brasil 4K
 categoria: Filmes e Séries
 logo: http://4t75eg.cloud/static/logos/canais/canalbrasil.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71819.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71818.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103518.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71817.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71819.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71816.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103518.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71818.ts
 agente: Mozilla/5.0
 
 canal: Canal Sony 4K
 categoria: Filmes e Séries
 logo: http://4t75eg.cloud/static/logos/canais/sony.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71824.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90712.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71827.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71825.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90711.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103517.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71827.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71826.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103517.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90713.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90712.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71824.ts
 agente: Mozilla/5.0
 
 canal: Copa do Brasil 1 FHD
@@ -2689,64 +2699,64 @@ agente: Mozilla/5.0
 canal: Copa do Brasil 2 FHD
 categoria: Filmes e Séries
 logo: http://gstaticontent.com/images/9a2901b02f405b562056854b5ab87abb.jpg
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150502.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150503.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150501.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150502.ts
-agente: Mozilla/5.0
 
 canal: Copa do Brasil 3 FHD
 categoria: Filmes e Séries
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/105789.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/142040.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/142041.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/105789.ts
 agente: Mozilla/5.0
 
 canal: HBO 2 4K
 categoria: Filmes e Séries
 logo: http://4t75eg.cloud/static/logos/canais/hbo2.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72111.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72112.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72110.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90246.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72113.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72112.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72111.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90246.ts
 agente: Mozilla/5.0
 
 canal: Max 1 FHD
 categoria: Filmes e Séries
 logo: http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140510.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140504.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71904.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140510.ts
 agente: Mozilla/5.0
 
 canal: Max 2 FHD
 categoria: Filmes e Séries
 logo: http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71905.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140511.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140505.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71905.ts
 agente: Mozilla/5.0
 
 canal: Max 3 FHD
 categoria: Filmes e Séries
 logo: http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140506.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71906.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140512.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140506.ts
 agente: Mozilla/5.0
 
 canal: Max 4 FHD
@@ -2764,9 +2774,9 @@ categoria: Filmes e Séries
 logo: http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140508.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140514.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/130196.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140514.ts
 agente: Mozilla/5.0
 
 canal: Max 6 FHD
@@ -2774,81 +2784,81 @@ categoria: Filmes e Séries
 logo: http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140509.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140515.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/130197.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140515.ts
 agente: Mozilla/5.0
 
 canal: Paramount + 2 4K
 categoria: Filmes e Séries
 logo: http://gstaticontent.com/images/a2297e25c35601bed705a676d70e41df.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103523.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72983.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72984.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72982.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72981.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72983.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103523.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72982.ts
 agente: Mozilla/5.0
 
 canal: Paramount + 3 4K
 categoria: Filmes e Séries
 logo: http://gstaticontent.com/images/a2297e25c35601bed705a676d70e41df.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103522.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72987.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72988.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72986.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72985.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72988.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103522.ts
-agente: Mozilla/5.0
 
 canal: Paramount Channel 4K
 categoria: Filmes e Séries
 logo: http://4t75eg.cloud/static/logos/canais/paramount.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72219.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90634.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72218.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72220.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90634.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72217.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72218.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72219.ts
 agente: Mozilla/5.0
 
 canal: Disney + 2 FHD
 categoria: Filmes e Séries
 logo: http://gstaticontent.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/129345.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/142035.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/142034.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/129345.ts
 agente: Mozilla/5.0
 
 canal: Disney + 3 FHD
 categoria: Filmes e Séries
 logo: http://gstaticontent.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/142037.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/142036.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/129346.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/142037.ts
 agente: Mozilla/5.0
 
 canal: Disney + 4 FHD
 categoria: Filmes e Séries
 logo: http://gstaticontent.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/142038.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/129347.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/142039.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/142038.ts
 agente: Mozilla/5.0
 
 canal: SYFY 4K
@@ -2860,21 +2870,21 @@ agente: Mozilla/5.0
 canal: Warner Channel 4K
 categoria: Filmes e Séries
 logo: http://4t75eg.cloud/static/logos/canais/warner.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90650.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72433.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90648.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72432.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90236.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72432.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72433.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90650.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72434.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72431.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90649.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90648.ts
 agente: Mozilla/5.0
 
 canal: Copa do Brasil 4 FHD
@@ -2899,9 +2909,9 @@ canal: Brasileirao Serie A FHD
 categoria: Filmes e Séries
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/317063.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/317065.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/317064.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/317065.ts
 agente: Mozilla/5.0
 
 canal: GE TV
@@ -2909,11 +2919,11 @@ categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/ge-tv.png
 fonte: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 qualidade: FHD · 1920x1080
+fonte: https://proxylinkurl.wored85282.workers.dev/https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+qualidade: FHD · 1920x1080
 fonte: https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist1080p.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
-qualidade: FHD · 1920x1080
-fonte: https://proxylinkurl.wored85282.workers.dev/https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/3bcf15978039abcf28be4ad4a9951fad/error.txt
 qualidade: HD · 1280x720
@@ -2923,11 +2933,11 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Premiere 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72240.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72238.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72239.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72240.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72237.ts
 agente: Mozilla/5.0
@@ -2939,15 +2949,15 @@ qualidade: HD · 1280x720
 canal: Premiere 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72241.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72242.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103481.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72243.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72244.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72241.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72242.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72244.ts
 agente: Mozilla/5.0
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
 qualidade: HD · 1280x720
@@ -2957,13 +2967,13 @@ categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72248.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72245.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103480.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72246.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72247.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72245.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103480.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72247.ts
 agente: Mozilla/5.0
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
 qualidade: HD · 1280x720
@@ -2971,13 +2981,13 @@ qualidade: HD · 1280x720
 canal: Premiere 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103479.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72252.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72249.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72250.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103479.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72252.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72250.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72251.ts
 agente: Mozilla/5.0
@@ -2987,7 +2997,7 @@ qualidade: HD · 1280x720
 canal: Premiere 6
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72253.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103478.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72255.ts
 agente: Mozilla/5.0
@@ -2995,7 +3005,7 @@ fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72256.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72254.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103478.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72253.ts
 agente: Mozilla/5.0
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/0bmtb2fxcj/out/v1/b5f50c3632264d32bf857652f631b0fb/cenc.mpd
 qualidade: HD · 1280x720
@@ -3003,15 +3013,15 @@ qualidade: HD · 1280x720
 canal: Premiere 7
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72259.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72260.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103477.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72258.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72257.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72258.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103477.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72260.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72259.ts
 agente: Mozilla/5.0
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/joij38hkop/out/v1/c920c9b42af24588a253530ed2cbd6eb/cenc.mpd
 qualidade: HD · 1280x720
@@ -3019,15 +3029,15 @@ qualidade: HD · 1280x720
 canal: Premiere 8
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180159.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180160.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180162.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180160.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180158.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180161.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180159.ts
 agente: Mozilla/5.0
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/2s8gkqz2id/out/v1/41da2546a9a34238b8615d3beb4ee600/cenc.mpd
 qualidade: HD · 1280x720
@@ -3037,13 +3047,13 @@ categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72265.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72266.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72262.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72264.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72266.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72263.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72264.ts
 agente: Mozilla/5.0
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 qualidade: HD · 1280x720
@@ -3051,15 +3061,15 @@ qualidade: HD · 1280x720
 canal: SporTV
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72329.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131188.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131132.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72330.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72332.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72330.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72329.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131132.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131188.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/a74a05f334e3c32f7a71479530a00981/error.txt
 qualidade: HD · 1280x720
@@ -3069,15 +3079,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: SporTV 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv2.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72321.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131176.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131147.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72321.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72324.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103472.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72324.ts
 agente: Mozilla/5.0
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
 qualidade: HD · 1280x720
@@ -3085,13 +3095,13 @@ qualidade: HD · 1280x720
 canal: SporTV 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv3.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72325.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72326.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131113.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131108.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131113.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72326.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72325.ts
 agente: Mozilla/5.0
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 qualidade: HD · 1280x720
@@ -3114,15 +3124,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: ESPN
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71913.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71914.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90640.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71911.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71912.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71911.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71913.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90640.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71914.ts
 agente: Mozilla/5.0
 fonte: http://181.78.197.59:8000/play/a07z/index.m3u8
 qualidade: FHD · 1920x1080
@@ -3146,7 +3156,6 @@ fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71922.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71921.ts
 agente: Mozilla/5.0
-fonte: https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_2/index.m3u8
 fonte: https://eitvplay.appmembers.com.br/event25/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/e9028ed7fb68f8a1f1d7c4940f184e0d/error.txt
@@ -3157,19 +3166,18 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: ESPN 4
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn4.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71958.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71957.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71959.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71961.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71960.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71961.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71958.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71959.ts
+agente: Mozilla/5.0
 fonte: http://181.78.197.59:8000/play/a07n/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_4/index.m3u8
 fonte: https://eitvplay.appmembers.com.br/event27/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn4/index.m3u8
@@ -3180,15 +3188,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: ESPN 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn5.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71953.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71955.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71952.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71954.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71952.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71955.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71956.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71953.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event28/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -3200,15 +3208,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: ESPN 6
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn6.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71917.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71916.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71918.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103505.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71918.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71915.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71916.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71917.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event23/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -3220,15 +3228,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: BAND SPORTS HD
 categoria: Esportes
 logo: https://img.faz-o-eli.online/bandsports.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71804.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71801.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71802.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103525.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71801.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71803.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71802.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71804.ts
 agente: Mozilla/5.0
 fonte: http://170.83.16.50/BAND_SPORTS/index.m3u8
 qualidade: HD · 1280x720
@@ -3246,13 +3254,13 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Woohoo
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/woohoo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72437.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72436.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103449.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72438.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103449.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72436.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72437.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72435.ts
 agente: Mozilla/5.0
@@ -3264,19 +3272,18 @@ qualidade: HD · 1280x720
 canal: ESPN 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn3.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71907.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103504.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71910.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71908.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71907.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71909.ts
 agente: Mozilla/5.0
 fonte: http://181.78.197.59:8000/play/a081/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_3/index.m3u8
 fonte: https://eitvplay.appmembers.com.br/event26/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn3/index.m3u8
@@ -3289,13 +3296,13 @@ categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/fish-tv.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71928.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71929.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103502.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71931.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71930.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71929.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103502.ts
 agente: Mozilla/5.0
 fonte: http://170.83.16.50/FISH_TV/index.m3u8
 qualidade: HD · 1280x720
@@ -3305,9 +3312,9 @@ qualidade: HD · 1280x720
 canal: X Sports
 categoria: Esportes
 logo: https://img.faz-o-eli.online/xsports.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/340451.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/340449.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/340451.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/340450.ts
 agente: Mozilla/5.0
@@ -3347,9 +3354,9 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Canal GOAT (Jogo 1)
 categoria: Esportes
 logo: http://logos.appscms.xyz/logos/2025/canalgoat.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218847.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218846.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218847.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/218845.ts
 agente: Mozilla/5.0
@@ -3443,15 +3450,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: SportyNet+ 1
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportynet.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184573.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184569.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184571.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184572.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184573.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184570.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184572.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184571.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/bbffcd462acbd91177633798f2f8b20c/error.txt
 qualidade: HD · 1280x720
@@ -3461,15 +3468,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: SportyNet+ 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportynet.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184576.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184575.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184577.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184578.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184574.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184577.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184575.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184576.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/87dd2dfbb8adccbd37960dfe00ba82c0/error.txt
 qualidade: HD · 1280x720
@@ -3479,15 +3486,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: SportyNet+ 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportynet.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184579.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184581.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184582.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184580.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184582.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184583.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184581.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184579.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/f27ce1b85b9fc8110a175c969908584f/error.txt
 qualidade: HD · 1280x720
@@ -3515,10 +3522,10 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: FIFA+ Português
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/fifa-plus.png
-fonte: https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-qualidade: SD
 fonte: https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
 qualidade: SD · 384x216
+fonte: https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+qualidade: SD
 
 canal: Apple TV 01
 categoria: Esportes
@@ -3812,41 +3819,41 @@ agente: Mozilla/5.0
 canal: Brasileirao Serie C 2 FHD
 categoria: Esportes
 logo: http://gstaticontent.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/157410.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/157411.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/157412.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/157411.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/157410.ts
 agente: Mozilla/5.0
 
 canal: Brasileirao Serie C 3 FHD
 categoria: Esportes
 logo: http://gstaticontent.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/157413.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/157415.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/157414.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/157413.ts
 agente: Mozilla/5.0
 
 canal: DAZN 1 FHD
 categoria: Esportes
 logo: http://4t75eg.cloud/static/logos/canais/dazn.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184552.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184550.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184551.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184550.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184552.ts
 agente: Mozilla/5.0
 
 canal: DAZN 2 FHD
 categoria: Esportes
 logo: http://4t75eg.cloud/static/logos/canais/dazn.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184553.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184555.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184554.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184553.ts
 agente: Mozilla/5.0
 
 canal: Liga Futsal 1 FHD
@@ -3854,9 +3861,9 @@ categoria: Esportes
 logo: http://gstaticontent.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155741.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/109225.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/73006.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/109225.ts
 agente: Mozilla/5.0
 
 canal: Liga Futsal 2 FHD
@@ -3864,9 +3871,9 @@ categoria: Esportes
 logo: http://gstaticontent.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155743.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155744.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155742.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155744.ts
 agente: Mozilla/5.0
 
 canal: Liga Futsal 3 FHD
@@ -3892,11 +3899,11 @@ agente: Mozilla/5.0
 canal: NBA League Pass 1 FHD
 categoria: Esportes
 logo: https://i.imgur.com/ynW8fZF.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140517.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140516.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140518.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140517.ts
 agente: Mozilla/5.0
 
 canal: NBA League Pass 2 FHD
@@ -3904,19 +3911,19 @@ categoria: Esportes
 logo: https://i.imgur.com/ynW8fZF.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140519.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140521.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140520.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140521.ts
 agente: Mozilla/5.0
 
 canal: NBA League Pass 3 FHD
 categoria: Esportes
 logo: https://i.imgur.com/ynW8fZF.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140522.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140524.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140523.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140522.ts
 agente: Mozilla/5.0
 
 canal: NBA League Pass 4 FHD
@@ -3932,9 +3939,9 @@ agente: Mozilla/5.0
 canal: NBA League Pass 5 FHD
 categoria: Esportes
 logo: https://i.imgur.com/ynW8fZF.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/141487.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/141488.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/141487.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/141489.ts
 agente: Mozilla/5.0
@@ -3951,11 +3958,11 @@ agente: Mozilla/5.0
 
 canal: SportyNet 4 FHD
 categoria: Esportes
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184586.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184584.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184585.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184586.ts
 agente: Mozilla/5.0
 
 canal: SporTV3 4K
@@ -3967,15 +3974,15 @@ agente: Mozilla/5.0
 canal: SporTV 4 FHD
 categoria: Esportes
 logo: http://4t75eg.cloud/static/logos/canais/sportv2.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/276091.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/276092.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/276093.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/276091.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/276090.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/276089.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/276093.ts
 agente: Mozilla/5.0
 
 canal: [09:30] Manchester City x Fulham
@@ -4065,43 +4072,43 @@ agente: Mozilla/5.0
 canal: Informações em Breve
 categoria: Jogos do Dia
 logo: http://4t75eg.cloud/static/logos/canais/jogos.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/362685.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/361373.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318610.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318611.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318609.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318608.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/361372.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318083.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318086.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318085.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318607.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/361374.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318083.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/362686.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/362687.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318606.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/362688.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318612.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318611.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318613.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318086.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318609.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/362685.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/362686.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/362688.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/361373.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/361372.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318608.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318606.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/362687.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318612.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/362826.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318085.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/361374.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/318610.ts
 agente: Mozilla/5.0
 
 canal: [18:30] Mirassol x Atlético-MG
@@ -4113,15 +4120,15 @@ agente: Mozilla/5.0
 canal: Combate
 categoria: PPV
 logo: https://img.faz-o-eli.online/combate.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71845.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71844.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71843.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71842.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71845.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71846.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71844.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71842.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/a4aaad8d6edc932330eb69f4a466783e/error.txt
 qualidade: HD · 1280x720
@@ -4131,11 +4138,11 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: UFC Fight Pass
 categoria: PPV
 logo: https://img.faz-o-eli.online/ufcfightpass.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184048.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184046.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184047.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/184048.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/ed8001a23f173338d43d0e38f59bd53a/error.txt
 qualidade: HD · 1280x720
@@ -4144,11 +4151,11 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 
 canal: BJJ STARS FHD
 categoria: PPV
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/159277.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/159276.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/159278.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/159277.ts
 agente: Mozilla/5.0
 
 canal: Caze TV FHD
@@ -4159,27 +4166,27 @@ agente: Mozilla/5.0
 canal: Formula 1 TV FHD
 categoria: PPV
 logo: https://imgur.com/a/jyyyawL
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71949.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71947.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71950.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71949.ts
-agente: Mozilla/5.0
 
 canal: OneFootball 1 FHD
 categoria: PPV
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/185801.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/185802.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/185800.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/185801.ts
-agente: Mozilla/5.0
 
 canal: Furacao Live FHD
 categoria: PPV
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/192080.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/192081.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/192080.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/192079.ts
 agente: Mozilla/5.0
@@ -4188,36 +4195,36 @@ canal: Canal Goat 2 FHD
 categoria: PPV
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/242172.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/242173.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/242174.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/242173.ts
 agente: Mozilla/5.0
 
 canal: FCF TV 1 FHD
 categoria: PPV
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/247978.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/247977.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/247976.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/247977.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/247978.ts
 agente: Mozilla/5.0
 
 canal: FCF TV 2 FHD
 categoria: PPV
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/247981.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/247979.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/247980.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/247981.ts
-agente: Mozilla/5.0
 
 canal: Mr. Olympia TV FHD
 categoria: PPV
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/289536.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/289537.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/289535.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/289536.ts
 agente: Mozilla/5.0
 
 canal: Caze TV 2 FHD
@@ -4227,11 +4234,11 @@ agente: Mozilla/5.0
 
 canal: Barretos 2026 FHD
 categoria: PPV
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/393722.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/393724.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/393723.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/393724.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/393722.ts
 agente: Mozilla/5.0
 
 canal: A Fazenda 18 1
@@ -6461,9 +6468,9 @@ agente: Mozilla/5.0
 canal: [24H] Inspetor Bugiganga (1983)
 categoria: 24 Horas
 logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayYkEcvuArO5mpI4Dxnqq3Z5WEQ.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/156656.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/156655.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/156656.ts
 agente: Mozilla/5.0
 
 canal: [24H] Irmao do Jorel
@@ -6741,9 +6748,9 @@ agente: Mozilla/5.0
 canal: [24H] Largados e Pelados [S02]
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/2246772d199347c5251faaac1a270575.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/145929.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/254764.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/145929.ts
 agente: Mozilla/5.0
 
 canal: [24H] Largados e Pelados [S03]
@@ -7369,9 +7376,9 @@ agente: Mozilla/5.0
 canal: [24H] Os Misterios de Frajola e Piu Piu
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/b8c87e1e488092dc5c0d1504de76ed0d.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166349.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/138027.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166349.ts
 agente: Mozilla/5.0
 
 canal: [24H] Os Normais
@@ -7617,9 +7624,9 @@ agente: Mozilla/5.0
 canal: [24H] Os Ursinhos Gummi
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/f48fb74314aded186637579c2047254f.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306857.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140745.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/306857.ts
 agente: Mozilla/5.0
 
 canal: [24H] Patrulha Canina
@@ -8525,41 +8532,41 @@ agente: Mozilla/5.0
 canal: [24H] Supernatural [S01]
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136726.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136741.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136726.ts
 agente: Mozilla/5.0
 
 canal: [24H] Supernatural [S02]
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136727.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136742.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136727.ts
 agente: Mozilla/5.0
 
 canal: [24H] Supernatural [S03]
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136728.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136743.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136728.ts
 agente: Mozilla/5.0
 
 canal: [24H] Supernatural [S04]
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136744.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136729.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136744.ts
 agente: Mozilla/5.0
 
 canal: [24H] Supernatural [S05]
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136745.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136730.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136745.ts
 agente: Mozilla/5.0
 
 canal: [24H] Supernatural [S06]
@@ -8573,17 +8580,17 @@ agente: Mozilla/5.0
 canal: [24H] Supernatural [S07]
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136747.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136732.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136747.ts
 agente: Mozilla/5.0
 
 canal: [24H] Supernatural [S08]
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136748.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136733.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136748.ts
 agente: Mozilla/5.0
 
 canal: [24H] Supernatural [S09]
@@ -8597,9 +8604,9 @@ agente: Mozilla/5.0
 canal: [24H] Supernatural [S10]
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136750.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136735.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136750.ts
 agente: Mozilla/5.0
 
 canal: [24H] Supernatural [S11]
@@ -8613,17 +8620,17 @@ agente: Mozilla/5.0
 canal: [24H] Supernatural [S12]
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136737.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136752.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136737.ts
 agente: Mozilla/5.0
 
 canal: [24H] Supernatural [S13]
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136738.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136753.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/136738.ts
 agente: Mozilla/5.0
 
 canal: [24H] Supernatural [S14]
@@ -8807,9 +8814,9 @@ agente: Mozilla/5.0
 canal: [24H] ThunderCats
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/7e47961ec482b8206a3a15d3a04967b2.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135468.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135489.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/135468.ts
 agente: Mozilla/5.0
 
 canal: [24H] Tico e Teco Defensores da Lei
@@ -10436,13 +10443,13 @@ agente: Mozilla/5.0
 canal: Cartoon Network
 categoria: Infantil
 logo: https://img.faz-o-eli.online/cartoonnetwork.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71828.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71829.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71831.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71830.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71828.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71832.ts
 agente: Mozilla/5.0
@@ -10456,15 +10463,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Cartoonito
 categoria: Infantil
 logo: https://img.faz-o-eli.online/cartoonito.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71814.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71815.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90644.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71815.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71813.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71814.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71812.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71813.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event46/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -10476,13 +10483,13 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Discovery Kids
 categoria: Infantil
 logo: https://img.faz-o-eli.online/discoverykids.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71871.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71873.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71872.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90250.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71871.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71873.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71874.ts
 agente: Mozilla/5.0
@@ -10514,9 +10521,9 @@ qualidade: SD · 720x576
 canal: NickOnline
 categoria: Infantil
 logo: https://x1colegal.com/logo.png
+fonte: https://x1colegal.com/hls/0/stream.m3u8
 fonte: https://x1colegal.com/hls/stream.m3u8
 qualidade: HD · 1280x720
-fonte: https://x1colegal.com/hls/0/stream.m3u8
 
 canal: NickToons Brasil
 categoria: Infantil
@@ -10535,9 +10542,9 @@ categoria: Infantil
 logo: https://img.faz-o-eli.online/gloob.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131117.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72100.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131153.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72100.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72099.ts
 agente: Mozilla/5.0
@@ -10551,15 +10558,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Gloobinho
 categoria: Infantil
 logo: https://logos.imperioapps.top/GLOBINHO.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131173.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90630.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103497.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90629.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90631.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103497.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90630.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131173.ts
 agente: Mozilla/5.0
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloobinho/index.m3u8
 qualidade: FHD
@@ -10569,13 +10576,13 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: TV Rá Tim Bum
 categoria: Infantil
 logo: https://logos.imperioapps.top/TV_RA_TIM_BUM.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72414.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72413.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103458.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72412.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72413.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72414.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72415.ts
 agente: Mozilla/5.0
@@ -10663,29 +10670,29 @@ qualidade: HD · 1280x720
 canal: Zoomoo 4K
 categoria: Infantil
 logo: http://gstaticontent.com/images/5dab2df694584172699383cdb1100c18.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104934.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104937.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104935.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178533.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104936.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178533.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104937.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104934.ts
 agente: Mozilla/5.0
 
 canal: A&E
 categoria: Documentários
 logo: https://img.faz-o-eli.online/ae.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71761.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71762.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71763.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71762.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90647.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71760.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90647.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71761.ts
 agente: Mozilla/5.0
 fonte: https://video39.mais.uol.com.br/live/267.mpd
 qualidade: HD · 1280x720
@@ -10699,15 +10706,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Animal Planet
 categoria: Documentários
 logo: https://img.faz-o-eli.online/animalplanet.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71775.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71774.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71773.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71776.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71774.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71772.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71775.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event34/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -10719,15 +10726,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: History
 categoria: Documentários
 logo: https://img.faz-o-eli.online/history.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72147.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72148.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72149.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72146.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90244.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72146.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72147.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72149.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72148.ts
 agente: Mozilla/5.0
 fonte: http://170.83.16.50/HISTORY/index.m3u8
 qualidade: HD · 1280x720
@@ -10753,15 +10760,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Discovery Channel
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverychannel.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71866.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71864.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71863.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71862.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71865.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71864.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71863.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71866.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event33/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -10773,15 +10780,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Discovery Theater
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverytheater.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71881.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71880.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71882.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71879.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103510.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71881.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71880.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103510.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event40/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -10793,15 +10800,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Discovery Turbo
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryturbo.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71883.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71886.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71885.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71884.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90641.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71885.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71886.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71883.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event36/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -10853,15 +10860,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Discovery World
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryworld.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71888.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103509.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71887.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71890.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71889.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103509.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71888.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71887.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event41/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -10873,15 +10880,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Curta
 categoria: Documentários
 logo: https://img.faz-o-eli.online/curta.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71857.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71855.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71858.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103512.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71857.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71856.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103512.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71855.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/8d994615dd5fbf850ac14f34d5d47963/error.txt
 qualidade: HD · 1280x720
@@ -10897,13 +10904,13 @@ qualidade: HD · 1280x720
 canal: Discovery H&H 4K
 categoria: Documentários
 logo: http://4t75eg.cloud/static/logos/canais/discoveryh%26h.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71870.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90251.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71868.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71870.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71869.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71868.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71867.ts
 agente: Mozilla/5.0
@@ -10911,13 +10918,13 @@ agente: Mozilla/5.0
 canal: H2 4K
 categoria: Documentários
 logo: http://4t75eg.cloud/static/logos/canais/h2.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90245.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72109.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72108.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90245.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72106.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72109.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72108.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72107.ts
 agente: Mozilla/5.0
@@ -10925,33 +10932,33 @@ agente: Mozilla/5.0
 canal: ID 4K
 categoria: Documentários
 logo: http://4t75eg.cloud/static/logos/canais/id.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72153.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72150.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90243.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72153.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72152.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72151.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90243.ts
-agente: Mozilla/5.0
 
 canal: CNN Brasil
 categoria: Notícias
 logo: https://img.faz-o-eli.online/cnnbrasil.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71840.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71838.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71839.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71798.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71838.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71837.ts
 agente: Mozilla/5.0
-fonte: https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
-qualidade: HD · 1280x720
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71840.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71798.ts
+agente: Mozilla/5.0
 fonte: https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
+qualidade: HD · 1280x720
+fonte: https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
 qualidade: HD · 1280x720
 fonte: https://eitvplay.appmembers.com.br/event110/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -10963,15 +10970,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: CNN Brasil Money
 categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/cnn-brasil-money.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295485.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295484.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295483.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295482.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295484.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295486.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295485.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295482.ts
 agente: Mozilla/5.0
 fonte: https://amg01391-amg01391c57-amgplt0026.playout.now3.amagi.tv/playlist/amg01391-amg01391c57-amgplt0026/playlist.m3u8
 qualidade: HD · 1280x720
@@ -10979,19 +10986,19 @@ qualidade: HD · 1280x720
 canal: Jovem Pan News
 categoria: Notícias
 logo: https://www.tvlogo.org/brazil/jovem-pan-news-br.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/134021.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/134025.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/134022.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/134023.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/134025.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/134021.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/134024.ts
 agente: Mozilla/5.0
+fonte: https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 fonte: https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8
 qualidade: HD · 1280x720
-fonte: https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 fonte: http://186.219.52.187/jp_news/index.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://eitvplay.appmembers.com.br/event119/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
@@ -11004,13 +11011,13 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Band News
 categoria: Notícias
 logo: https://img.faz-o-eli.online/bandnews.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103526.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71792.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71789.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71791.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103526.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71792.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71790.ts
 agente: Mozilla/5.0
@@ -11025,31 +11032,31 @@ canal: TVideoNews
 categoria: Notícias
 logo: https://i.imgur.com/vstHOYx.png
 fonte: https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1659802033.m3u8
-fonte: https://eitvplay.appmembers.com.br/event100/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
-qualidade: HD · 1280x720
 fonte: https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 qualidade: FHD · 1920x1080
+fonte: https://eitvplay.appmembers.com.br/event100/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
 
 canal: Canal UOL
 categoria: Notícias
 logo: https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg
-fonte: https://video24.mais.uol.com.br/live/6146.m3u8
-qualidade: FHD · 1920x1080
 fonte: https://video20.mais.uol.com.br/live/4917.m3u8
 qualidade: HD · 1280x720
+fonte: https://video24.mais.uol.com.br/live/6146.m3u8
+qualidade: FHD · 1920x1080
 
 canal: CNBC
 categoria: Notícias
 logo: https://www.portaldosjornalistas.com.br/wp-content/uploads/2024/09/CNBC-logo.webp
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295477.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295481.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295480.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295477.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295479.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295478.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/295481.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event45/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -11063,40 +11070,40 @@ qualidade: HD · 1280x720
 canal: Eurochannel FHD
 categoria: Notícias
 logo: http://gstaticontent.com/images/e319732e23a51cafb209d07c7a26c615.jpg
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104911.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104910.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104913.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104912.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104911.ts
-agente: Mozilla/5.0
 
 canal: France 24 4K
 categoria: Notícias
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103500.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104907.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104906.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104942.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104941.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104907.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103500.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104906.ts
 agente: Mozilla/5.0
 
 canal: TV Aparecida
 categoria: Religiosos
 logo: https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72397.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72395.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72396.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72394.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103464.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72396.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72395.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72397.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event77/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -11108,12 +11115,12 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: TV Pai Eterno
 categoria: Religiosos
 logo: https://img.faz-o-eli.online/tvpaieterno.png
+fonte: https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
+qualidade: FHD · 1920x1080
 fonte: https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://eitvplay.appmembers.com.br/event142/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
-qualidade: FHD · 1920x1080
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/5a59421020bb99de8f579218354615e3/error.txt
 qualidade: HD · 1280x720
 referer: https://playerembedcanais.site/
@@ -11134,15 +11141,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Pai Eterno 4K
 categoria: Religiosos
 logo: https://i.imgur.com/tn1y7Bh.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72214.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72213.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72215.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72216.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72214.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103484.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72216.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72213.ts
 agente: Mozilla/5.0
 
 canal: TV Cancao Nova SD
@@ -11154,15 +11161,15 @@ agente: Mozilla/5.0
 canal: Multishow
 categoria: Músicas
 logo: https://img.faz-o-eli.online/multishow.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131138.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131134.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131193.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131138.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131107.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72182.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131193.ts
 agente: Mozilla/5.0
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/x7aaupxajb/out/v1/49d602c6294147a18d798ce6abbb6957/cenc.mpd
 qualidade: HD · 1280x720
@@ -11170,15 +11177,15 @@ qualidade: HD · 1280x720
 canal: Trace Brazuca
 categoria: Músicas
 logo: https://mondrian.claro.com.br/channels/inverse/trace-brazuca.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72388.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72386.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72389.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72387.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103453.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72389.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72388.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72386.ts
 agente: Mozilla/5.0
 fonte: https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 qualidade: HD · 1280x720
@@ -11228,15 +11235,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: BIS
 categoria: Músicas
 logo: http://www.fontedecanais.me/logos/canais/bis.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71806.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71808.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103527.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71809.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71808.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71806.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71807.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103527.ts
 agente: Mozilla/5.0
 fonte: https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/0459dc3450e68d0846bc2921dc543e03/error.txt
 qualidade: HD · 1280x720
@@ -11246,15 +11253,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: Adult Swim
 categoria: Variedades
 logo: https://img.faz-o-eli.online/adultswim.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/251961.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/251958.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/251957.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/251959.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/251960.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/251961.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/251958.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event48/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -11266,15 +11273,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: GNT
 categoria: Variedades
 logo: https://img.faz-o-eli.online/gnt.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131136.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72103.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72102.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90638.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72104.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90638.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/131136.ts
 agente: Mozilla/5.0
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/h9c8z9m1dq/out/v1/9b1b1aa15b4f471ea19674290554499e/cenc.mpd
 qualidade: HD · 1280x720
@@ -11296,35 +11303,33 @@ qualidade: HD · 1280x720
 canal: Canal Rural
 categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-rural-br.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71823.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178512.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178515.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178514.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178513.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178516.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178512.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71823.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178513.ts
 agente: Mozilla/5.0
 fonte: http://186.219.52.187/canal_rural/index.m3u8
-qualidade: HD · 1280x720
-fonte: http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 qualidade: HD · 1280x720
 
 canal: Rede Gospel
 categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104931.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104930.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104932.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/178531.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104929.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104931.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104930.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104929.ts
 agente: Mozilla/5.0
 fonte: https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 qualidade: FHD · 1920x1080
@@ -11336,15 +11341,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: TV Novo Tempo
 categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72410.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72408.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103459.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72411.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72410.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72409.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72411.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72408.ts
 agente: Mozilla/5.0
 fonte: https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
 qualidade: HD · 1280x720
@@ -11358,9 +11363,9 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: RIT
 categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png
+fonte: https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
 fonte: https://acesso.ecast.site:3648/live/ritlive.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
 fonte: https://eitvplay.appmembers.com.br/event139/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 
@@ -11381,33 +11386,33 @@ qualidade: FHD · 1920x1080
 canal: Canal do Boi
 categoria: Variedades
 logo: https://i.imgur.com/pVM5MhS.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103516.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71822.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71821.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71820.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103516.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71821.ts
+agente: Mozilla/5.0
 fonte: http://170.83.16.50/CANAL_DO_BOI/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://eitvplay.appmembers.com.br/event160/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
-qualidade: HD · 1280x720
 fonte: https://eitvplay.appmembers.com.br/event70/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://eitvplay.appmembers.com.br/event160/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 
 canal: Food Network
 categoria: Variedades
 logo: https://img.faz-o-eli.online/foodnetwork.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71934.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71933.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71935.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71934.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71932.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103501.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71933.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event53/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -11423,11 +11428,11 @@ fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71779.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71778.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71780.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103531.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71777.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71780.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event20/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -11439,13 +11444,13 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: HGTV
 categoria: Variedades
 logo: https://img.faz-o-eli.online/hgtv.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103493.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72144.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72142.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72145.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72144.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103493.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72143.ts
 agente: Mozilla/5.0
@@ -11459,15 +11464,15 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 canal: TLC
 categoria: Variedades
 logo: https://img.faz-o-eli.online/tlc.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72373.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103465.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72371.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72374.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72372.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72373.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103465.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event19/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -11481,13 +11486,13 @@ categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/e!.png
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71903.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103506.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71902.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71901.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71900.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103506.ts
 agente: Mozilla/5.0
 fonte: https://video49.mais.uol.com.br/live/4503.mpd
 qualidade: HD · 1280x720
@@ -11495,15 +11500,15 @@ qualidade: HD · 1280x720
 canal: Sabor & Arte
 categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/sabor-e-arte.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/112015.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/112013.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/112016.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/112014.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/112017.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/112014.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/112015.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/112016.ts
 agente: Mozilla/5.0
 fonte: https://eitvplay.appmembers.com.br/event118/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
@@ -11525,40 +11530,40 @@ qualidade: HD · 1280x720
 canal: DOG TV FHD
 categoria: Variedades
 logo: http://gstaticontent.com/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104908.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/76923.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104909.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/76923.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/76922.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/104908.ts
 agente: Mozilla/5.0
 
 canal: FashionTV 4K
 categoria: Variedades
 logo: https://i.imgur.com/1jtRh4S.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71926.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71927.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71925.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103503.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71924.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71926.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71925.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/71924.ts
 agente: Mozilla/5.0
 
 canal: Markket 4K
 categoria: Variedades
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/164028.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/164027.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/164028.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/164029.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/164030.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/164026.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/164029.ts
 agente: Mozilla/5.0
 
 canal: Mega TV HD
@@ -11571,82 +11576,82 @@ agente: Mozilla/5.0
 canal: Modo Viagem 4K
 categoria: Variedades
 logo: http://gstaticontent.com/images/d93d8875965a86e8f2d5bcc153074e87.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72164.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72165.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103488.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72163.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72162.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103488.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72165.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72164.ts
 agente: Mozilla/5.0
 
 canal: Music Box Brazil 4K
 categoria: Variedades
 logo: http://4t75eg.cloud/static/logos/canais/musicboxbrazil.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72186.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72187.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72185.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103487.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72187.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72184.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72186.ts
 agente: Mozilla/5.0
 
 canal: OFF 4K
 categoria: Variedades
 logo: http://4t75eg.cloud/static/logos/canais/off.png
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72211.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72212.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72209.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/90240.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72210.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72211.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72212.ts
-agente: Mozilla/5.0
 
 canal: Prime Box Brazil 4K
 categoria: Variedades
 logo: http://4t75eg.cloud/static/logos/canais/primeboxbrazil.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72268.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72269.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103476.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72267.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103476.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72270.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72269.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72268.ts
 agente: Mozilla/5.0
 
 canal: Travel Box Brazil 4K
 categoria: Variedades
 logo: http://4t75eg.cloud/static/logos/canais/travelboxbrazil.png
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72393.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72390.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72391.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72392.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103452.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72391.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72390.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72393.ts
 agente: Mozilla/5.0
 
 canal: Live TV FHD
 categoria: Variedades
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/192626.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/192625.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/192629.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/192628.ts
 agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/192625.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/192627.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/192629.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/192626.ts
 agente: Mozilla/5.0
