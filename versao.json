@@ -1,14 +1,14 @@
 {
-  "tag": "v3.3.5",
-  "versao": "3.3.5",
-  "codigo": 30305,
+  "tag": "v4.0.0",
+  "versao": "4.0.0",
+  "codigo": 40000,
   "data": "2026-11-21",
-  "notas": "Versao 3.3.5 definitiva: comparador de versao sincronizado, remocao de aviso falso de atualizacao, inclusao do catalogo completo de radios.",
+  "notas": "TV & Filmes v4.0.0: Aplicativo 100% autonomo e independente. Catalogo proprio com 755 radios, agenda de eventos esportivos propria no GitHub e desvinculacao total de servidores externos.",
   "arquivos": {
     "tvbox": {
       "url": "https://stream-net-lab.github.io/canais-m3u/tv-filmes.apk",
       "bytes": 10673746,
-      "sha256": "dc58e1b59576f558543da9fc67fc15004afcf966b671c59ff8fcc7f5fa20e8a7"
+      "sha256": "0302b676dcc0ac0024d61f4c155fdb62ef344a16556bfe84c371e40c7bd833d6"
     }
   }
 }
