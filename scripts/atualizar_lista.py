@@ -438,6 +438,142 @@ def extrair_credenciais_xtream(url):
         pass
     return None
 
+def mascarar_url_log(url):
+    """Remove credenciais da URL para exibição segura em relatórios/painel."""
+    try:
+        parsed = urllib.parse.urlparse(url)
+        host = parsed.netloc or url
+        return f"{parsed.scheme}://{host}{parsed.path}" if parsed.scheme else host
+    except Exception:
+        return "servidor"
+
+
+def testar_servidor_lista(url):
+    """
+    Testa se uma URL de lista enviada pelo painel (Xtream Codes ou M3U) está online e funcional.
+    Retorna (ok: bool, motivo: str, latencia_ms: float).
+    """
+    url = url.strip()
+    if not url.startswith(("http://", "https://")):
+        return (False, "URL inválida (precisa começar com http:// ou https://)", 99999.0)
+
+    t0 = time.perf_counter()
+    xtream = extrair_credenciais_xtream(url)
+    if xtream:
+        base = xtream["base"]
+        user = xtream["user"]
+        pwd = xtream["pwd"]
+        api_url = f"{base}/player_api.php?username={urllib.parse.quote(user)}&password={urllib.parse.quote(pwd)}"
+        try:
+            req = urllib.request.Request(api_url, headers={"User-Agent": "VLC/3.0.18 LibVLC/3.0.18"})
+            with urllib.request.urlopen(req, timeout=8.0) as r:
+                raw = r.read(16384).decode("utf-8", errors="ignore")
+            elapsed = (time.perf_counter() - t0) * 1000.0
+            data = json.loads(raw)
+            uinfo = data.get("user_info", {})
+            auth = str(uinfo.get("auth", "0"))
+            status = str(uinfo.get("status", "")).lower()
+            if auth == "1" and status == "active":
+                return (True, f"Xtream ativo ({round(elapsed)}ms)", elapsed)
+            return (False, f"Conta inativa ou expirada (status={status or 'inválido'})", elapsed)
+        except Exception as e:
+            return (False, f"Falha ao conectar no servidor Xtream: {type(e).__name__}", 99999.0)
+
+    # Teste para lista M3U direta
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "VLC/3.0.18 LibVLC/3.0.18"})
+        with urllib.request.urlopen(req, timeout=10.0) as r:
+            amostra = r.read(65536).decode("utf-8", errors="ignore")
+        elapsed = (time.perf_counter() - t0) * 1000.0
+        if "#EXTINF" in amostra or "#EXTM3U" in amostra:
+            return (True, f"Lista M3U ativa ({round(elapsed)}ms)", elapsed)
+        return (False, "Resposta recebida não parece ser uma lista M3U válida", elapsed)
+    except Exception as e:
+        return (False, f"Servidor M3U inacessível: {type(e).__name__}", 99999.0)
+
+
+def processar_listas_recebidas_painel():
+    """
+    Recebe novas listas enviadas pelo painel do celular (via variável NOVAS_LISTAS_PAINEL),
+    testa cada servidor, adiciona os ativos à lista mestre (data/listas_extras.txt)
+    e grava um resumo em data/ultimo_envio_painel.json para exibição no painel.
+    """
+    bruto = os.environ.get("NOVAS_LISTAS_PAINEL", "").strip()
+    if not bruto:
+        return
+
+    candidatas = []
+    for linha in re.split(r"[\r\n,]+", bruto):
+        u = linha.strip()
+        if u and u not in candidatas:
+            candidatas.append(u)
+
+    if not candidatas:
+        return
+
+    caminho_extras = os.path.join(REPO_ROOT, "data", "listas_extras.txt")
+    existentes = set()
+    if os.path.exists(caminho_extras):
+        with open(caminho_extras, "r", encoding="utf-8", errors="ignore") as f:
+            for l in f:
+                s = l.strip()
+                if s and not s.startswith("#"):
+                    existentes.add(s)
+
+    adicionadas = []
+    duplicadas = []
+    rejeitadas = []
+    detalhes = []
+
+    print(f"Recebidas {len(candidatas)} lista(s) do painel do celular. Testando servidores...")
+    for url in candidatas:
+        label = mascarar_url_log(url)
+        if url in existentes:
+            duplicadas.append(label)
+            detalhes.append({"servidor": label, "status": "duplicada", "detalhe": "Já está na lista mestre"})
+            print(f"  [DUPLICADA] {label}")
+            continue
+
+        ok, motivo, lat_ms = testar_servidor_lista(url)
+        if ok:
+            existentes.add(url)
+            adicionadas.append(url)
+            detalhes.append({"servidor": label, "status": "adicionada", "detalhe": motivo, "latencia_ms": round(lat_ms, 1)})
+            print(f"  [OK -> ADICIONADA] {label} - {motivo}")
+        else:
+            rejeitadas.append(label)
+            detalhes.append({"servidor": label, "status": "offline", "detalhe": motivo})
+            print(f"  [REJEITADA] {label} - {motivo}")
+
+    if adicionadas:
+        os.makedirs(os.path.dirname(caminho_extras), exist_ok=True)
+        precisa_quebra = False
+        if os.path.exists(caminho_extras):
+            with open(caminho_extras, "rb") as fb:
+                conteudo = fb.read()
+                precisa_quebra = len(conteudo) > 0 and not conteudo.endswith(b"\n")
+        with open(caminho_extras, "a", encoding="utf-8") as f:
+            if precisa_quebra:
+                f.write("\n")
+            for u in adicionadas:
+                f.write(u + "\n")
+        print(f"Adicionada(s) {len(adicionadas)} nova(s) lista(s) ativa(s) em data/listas_extras.txt.")
+
+    from datetime import datetime, timezone
+    resumo = {
+        "data": datetime.now(timezone.utc).isoformat(),
+        "testadas": len(candidatas),
+        "adicionadas": len(adicionadas),
+        "duplicadas": len(duplicadas),
+        "rejeitadas": len(rejeitadas),
+        "detalhes": detalhes,
+    }
+    caminho_resumo = os.path.join(REPO_ROOT, "data", "ultimo_envio_painel.json")
+    os.makedirs(os.path.dirname(caminho_resumo), exist_ok=True)
+    with open(caminho_resumo, "w", encoding="utf-8") as f:
+        json.dump(resumo, f, indent=2, ensure_ascii=False)
+
+
 def carregar_e_fundir_listas_extras(canais_por_cat, canais_adultos=None):
     """
     Lê listas extras de data/listas_extras.txt ou da variável de ambiente M3U_EXTRA_URL.
@@ -508,7 +644,10 @@ def carregar_e_fundir_listas_extras(canais_por_cat, canais_adultos=None):
             user = xtream_info["user"]
             pwd = xtream_info["pwd"]
             try:
-                cache_file = os.path.join(REPO_ROOT, "data", "xtream_cache.json")
+                import hashlib
+                cache_key = hashlib.md5(f"{base}|{user}".encode("utf-8")).hexdigest()[:10]
+                cache_file = os.path.join(REPO_ROOT, "data", f"xtream_cache_{cache_key}.json")
+                legacy_cache = os.path.join(REPO_ROOT, "data", "xtream_cache.json")
                 cat_map = {}
                 url_cat = f"{base}/player_api.php?username={urllib.parse.quote(user)}&password={urllib.parse.quote(pwd)}&action=get_live_categories"
                 texto_cat = baixar_texto(url_cat)
@@ -533,10 +672,11 @@ def carregar_e_fundir_listas_extras(canais_por_cat, canais_adultos=None):
                         print(f"Aviso ao decodificar JSON ao vivo: {ej}")
 
                 if not streams:
-                    if os.path.exists(cache_file):
-                        print(f"Aviso: Não foi possível obter canais online de {base}. Usando cache local permanente ({cache_file})...")
+                    fallback_cache = cache_file if os.path.exists(cache_file) else (legacy_cache if os.path.exists(legacy_cache) else None)
+                    if fallback_cache:
+                        print(f"Aviso: Não foi possível obter canais online de {base}. Usando cache local permanente ({fallback_cache})...")
                         try:
-                            with open(cache_file, "r", encoding="utf-8") as cf:
+                            with open(fallback_cache, "r", encoding="utf-8") as cf:
                                 cache_data = json.load(cf)
                                 if not cat_map:
                                     cat_map = cache_data.get("categories", {})
@@ -1567,6 +1707,7 @@ def salvar_catalogo_txt(canais_por_cat):
 
 def main_aovivo():
     """Atualização rápida: só canais ao vivo. Reaproveita o VOD já gerado."""
+    processar_listas_recebidas_painel()
     print("Atualizando canais ao vivo (separando canais adultos para restritos.txt)...")
     epg_urls = "https://iptv-epg.org/files/epg-br.xml,https://www.open-epg.com/files/brazil3.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml"
     
@@ -1616,6 +1757,7 @@ def main_aovivo():
     print("aovivo.m3u (sem adultos), restritos.txt (adultos com senha) e canais.m3u atualizados.")
 
 def main():
+    processar_listas_recebidas_painel()
     print("Iniciando geração completa da lista IPTV (Canais + Filmes + Séries + Doramas + Animes)...")
     epg_urls = "https://iptv-epg.org/files/epg-br.xml,https://www.open-epg.com/files/brazil3.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml"
     cabecalho = [

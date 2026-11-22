@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
+    inputs:
+      novas_listas:
+        description: 'URL(s) de novas listas M3U ou Xtream enviadas pelo painel do celular (uma por linha)'
+        required: false
+        default: ''
 
 concurrency:
   group: atualizar-lista
@@ -23,6 +28,8 @@ jobs:
           python-version: '3.11'
 
       - name: Atualizar canais ao vivo
+        env:
+          NOVAS_LISTAS_PAINEL: ${{ github.event.inputs.novas_listas }}
         run: python scripts/atualizar_lista.py --aovivo
 
       - name: Publicar atualizacoes
