@@ -9,7 +9,7 @@ import sys
 import concurrent.futures
 import time
 
-# URLs oficiais do Banco do Saimo
+# URLs oficiais do Catálogo Base
 URL_CANAIS = "https://canais-saimo.pages.dev/catalogo.txt"
 URL_DESATIVADAS = "https://saimo-tv.pages.dev/fontes-desativadas.json"
 BASE_FILMES = "https://filmes-saimo.pages.dev/"
@@ -32,7 +32,7 @@ def carregar_fontes_desativadas():
             for d in dados.get("desativados", []):
                 if d and d.strip():
                     _fontes_desativadas_cache.add(d.strip().lower())
-            print(f"Lista de bloqueio oficial do Saimo carregada: {len(_fontes_desativadas_cache)} domínios/regras.")
+            print(f"Lista de bloqueio de segurança carregada: {len(_fontes_desativadas_cache)} domínios/regras.")
         except Exception as e:
             print(f"Aviso ao carregar fontes desativadas: {e}")
     return _fontes_desativadas_cache
@@ -65,7 +65,6 @@ ORDEM_CATEGORIAS_CANAIS = [
     "Esportes",
     "Jogos do Dia",
     "PPV",
-    "Reality Shows",
     "24 Horas",
     "Infantil",
     "Documentários",
@@ -215,7 +214,7 @@ def ordenar_fontes_contingencia(urls):
         # 2. Servidores MP4 diretos autenticados com credenciais (300MB - 800MB)
         if any(h in u_low for h in ["dbonline.tech-cdn.top", "vdcdpstop", "aponteiecair", "corruptx", "fenixhub", "apiflix"]):
             return 90
-        # 3. API de stream do Saimo
+        # 3. API de stream de alta disponibilidade
         if "saimo-tv.pages.dev/api/stream" in u_low:
             return 70
         # 4. HLS com chunks .webp
@@ -325,6 +324,15 @@ def eh_conteudo_adulto(nome, categoria=""):
     padrao = r'(?:^|[^a-z0-9])(?:adult|adulto|adultos|xxx|porn|porno|sexo|sex|erotic|erotico|hentai|playboy|sexy\s*hot|venus|sextreme|hustler|redlight|brazzers|private|for\s*man|penthouse|babes|dorcel)(?:[^a-z0-9]|$)|\+18|18\+'
     return bool(re.search(padrao, texto))
 
+def eh_conteudo_gay_ou_trans(nome):
+    """
+    Detecta canais e conteúdos voltados ao público gay, trans, travesti ou homossexual
+    para remoção completa e definitiva da lista restrita de adultos.
+    """
+    texto = (nome or "").lower()
+    padrao = r'(?:^|[^a-z0-9])(?:trans|travesti|shemale|ladyboy|crossdresser|homossexual|gay|glbt|lgbt|twink|bear|garotos|boys|for\s*man|men)(?:[^a-z0-9]|$)'
+    return bool(re.search(padrao, texto))
+
 def normalizar_categoria(cat, nome_canal=""):
     cat_str = (cat or "").strip()
     nome_str = (nome_canal or "").strip()
@@ -335,55 +343,76 @@ def normalizar_categoria(cat, nome_canal=""):
     if any(k in c_low for k in ["adult", "xxx", "porn", "porno", "sex", "+18", "18+"]) or any(k in n_low for k in ["+18", "18+", "playboy", "venus", "sextreme", "hustler"]):
         return "Adulto"
 
-    # 2. 24 Horas: prioridade absoluta para não misturar com Filmes e Séries ou Variedades
-    if "[24h]" in n_low or "24 horas" in n_low or "24h" in c_low or "24 horas" in c_low:
+    # 2. 24 Horas: prioridade absoluta para NUNCA vazar para Filmes e Séries, Infantil, Músicas ou Variedades
+    if "[24h]" in n_low or re.search(r'\b24\s*h(?:oras)?\b|\b24/7\b|\[24h\]', n_low) or "24h" in c_low or "24 horas" in c_low:
         return "24 Horas"
 
-    # 3. Jogos do Dia: partidas de futebol ao vivo do dia
-    if "jogos do dia" in c_low or "jogos" in c_low or re.match(r"^\[\d{2}:\d{2}\]", nome_str):
+    # 3. Jogos do Dia: partidas de futebol ao vivo do dia com horário marcado [HH:MM]
+    if "jogos do dia" in c_low or re.match(r"^\[\d{2}:\d{2}\]", nome_str):
         return "Jogos do Dia"
 
-    # 4. Reality Shows (A Fazenda, BBB, etc.) - nunca misturar com Músicas
-    if "reality" in c_low or "fazenda" in n_low or "bbb" in n_low or "big brother" in n_low:
-        return "Reality Shows"
-
-    # 5. PPV (Pay-per-view, Combate, etc.)
-    if "ppv" in c_low or "combate" in c_low or "pay-per-view" in c_low or "combate" in n_low or "bjj" in n_low:
+    # 4. PPV: A Fazenda (todas as câmeras e feeds), BBB (Big Brother), feeds de reality shows e eventos PPV / Lutas
+    if any(k in c_low for k in ["ppv", "pay-per-view", "reality", "combate", "ufc", "bjj"]) or any(k in n_low for k in ["fazenda", "bbb", "big brother", "reality", "combate", "ufc", "bjj stars", "furacao live", "onefootball", "mr. olympia", "barretos", "fcf tv"]):
         return "PPV"
 
-    # 6. Esportes: inclui Premiere (a pedido do usuário), SporTV, ESPN, DAZN, NBA, Futsal, etc.
-    if any(k in c_low for k in ["esporte", "sport", "futebol", "espn", "sportv", "dazn", "nba", "campeonatos", "futsal", "premiere"]) or any(k in n_low for k in ["premiere", "sportv", "espn", "dazn", "band sports", "tnt sports", "pfc"]):
-        return "Esportes"
+    # 5. Esportes: Premiere (todas as opções/clubes), SporTV, ESPN, BandSports, TNT Sports, DAZN, Copa do Brasil, Brasileirão, League Cup, NBA, Futsal, etc.
+    # Exceção: "Universal Premiere" é canal de filmes da Universal+
+    eh_universal_filme = "universal premiere" in n_low or "universal+" in n_low
+    if not eh_universal_filme:
+        termos_esporte_cat = ["esporte", "sport", "futebol", "espn", "sportv", "dazn", "nba", "campeonatos", "futsal", "premiere", "copa", "brasileirao", "liga"]
+        termos_esporte_nome = [
+            "premiere", "sportv", "espn", "dazn", "band sports", "bandsports", "tnt sports", "pfc",
+            "copa do brasil", "brasileirao", "league cup", "nba league pass", "liga futsal",
+            "canal goat", "goat", "cazetv", "caze tv", "ge tv", "canal off", "off 4k", "woohoo",
+            "fish tv", "x sports", "n sports", "sportynet", "fifa+", "a bola", "benfica", "canal 11",
+            "eleven"
+        ]
+        if any(k in c_low for k in termos_esporte_cat) or any(k in n_low for k in termos_esporte_nome):
+            return "Esportes"
 
-    # 7. Religiosos
-    if "religio" in c_low or any(k in n_low for k in ["aparecida", "pai eterno", "cancao nova", "evangelizar", "redavida", "redegospel"]):
+    # 6. Religiosos: TV Aparecida, Pai Eterno, Canção Nova, Rede Vida, IMPD, Rede Gospel, TV Novo Tempo, RIT, Evangelizar, etc.
+    termos_relig_cat = ["religio", "gospel", "catolico", "evangelico"]
+    termos_relig_nome = ["aparecida", "pai eterno", "cancao nova", "canção nova", "evangelizar", "redavida", "rede vida", "redegospel", "rede gospel", "novo tempo", "boa vontade"]
+    if any(k in c_low for k in termos_relig_cat) or any(k in n_low for k in termos_relig_nome) or re.search(r'\b(?:rit|impd)\b', n_low):
         return "Religiosos"
 
-    # 8. TV Aberta (Globo, Record, SBT, Bandeirantes, etc. - canais 4K abertos ficam aqui)
-    if any(k in c_low for k in ["aberto", "aberta", "local", "nacional", "globo", "record", "sbt", "band"]) or any(k in n_low for k in ["globo", "record", "sbt", "bandeirantes", "band tv", "cultura", "redetv", "rede tv"]):
-        return "TV Aberta"
-
-    # 9. Filmes e Séries (HBO, Telecine, Max, Warner, TNT, AXN, etc. - sem canais 24h)
-    if any(k in c_low for k in ["filme", "serie", "cinema", "telecine", "hbo", "paramount", "disney", "prime video", "apple tv", "max", "legendado"]) or any(k in n_low for k in ["telecine", "hbo", "megapix", "tnt", "space", "axn", "warner", "universal tv", "paramount", "sony"]):
-        return "Filmes e Séries"
-
-    # 10. Infantil
-    if any(k in c_low for k in ["infantil", "infantis", "kids", "desenho", "animacao"]) or any(k in n_low for k in ["cartoon", "gloob", "nickelodeon", "nick jr", "disney jr", "discovery kids", "tooncast", "boomerang"]):
-        return "Infantil"
-
-    # 11. Documentários
-    if any(k in c_low for k in ["doc", "discovery", "history", "animal", "geographic"]) or any(k in n_low for k in ["discovery", "history", "animal planet", "nat geo", "national geographic"]):
-        return "Documentários"
-
-    # 12. Notícias
-    if any(k in c_low for k in ["noticia", "news", "jornal", "cnn", "bandnews"]) or any(k in n_low for k in ["globonews", "cnn brasil", "bandnews", "jovem pan news", "record news"]):
+    # 7. Notícias: GloboNews, SBT News, Record News, CNN Brasil, BandNews, Jovem Pan News, CNBC Brasil, Canal UOL, France 24
+    termos_notic_cat = ["noticia", "news", "jornal", "cnn", "bandnews", "globonews"]
+    termos_notic_nome = ["globonews", "globo news", "cnn brasil", "bandnews", "band news", "jovem pan news", "record news", "sbt news", "cnbc brasil", "canal uol", "france 24", "tvideonews"]
+    if any(k in c_low for k in termos_notic_cat) or any(k in n_low for k in termos_notic_nome):
         return "Notícias"
 
-    # 13. Músicas (apenas música pura, sem 'show' genérico)
-    if any(k in c_low for k in ["musica", "music", "mtv", "multishow", "bis"]) or any(k in n_low for k in ["multishow", "bis", "mtv", "trace"]):
+    # 8. Infantil: Cartoon, Discovery Kids, Gloob, Nickelodeon, etc.
+    termos_inf_cat = ["infantil", "infantis", "kids", "desenho", "animacao", "anime"]
+    termos_inf_nome = ["cartoon", "gloob", "nickelodeon", "nick jr", "disney jr", "discovery kids", "tooncast", "boomerang", "dumdum", "nickonline", "nicktoons", "tv rá tim bum", "tv ra tim bum", "anime channel", "otaku sign", "geekdot", "loading", "zoomoo"]
+    if any(k in c_low for k in termos_inf_cat) or any(k in n_low for k in termos_inf_nome):
+        return "Infantil"
+
+    # 9. Documentários: Discovery, History, Animal Planet, Nat Geo, Curta, etc.
+    termos_doc_cat = ["doc", "discovery", "history", "animal", "geographic"]
+    termos_doc_nome = ["discovery channel", "discovery theater", "discovery turbo", "discovery science", "discovery id", "discovery home", "discovery world", "discovery h&h", "history", "history 2", "animal planet", "nat geo", "national geographic", "curta", "h2 4k", "id 4k"]
+    if any(k in c_low for k in termos_doc_cat) or any(k in n_low for k in termos_doc_nome):
+        return "Documentários"
+
+    # 10. Músicas: Multishow, BIS, MTV, Trace, Retro Music, Now Rock, Music Box Brazil, Top TV
+    termos_mus_cat = ["musica", "music", "mtv", "multishow", "bis"]
+    termos_mus_nome = ["multishow", "bis", "mtv", "trace", "music box brazil", "now rock", "retro music", "top tv"]
+    if any(k in c_low for k in termos_mus_cat) or any(k in n_low for k in termos_mus_nome):
         return "Músicas"
 
-    # 14. Pluto TV
+    # 11. Filmes e Séries: Telecine, HBO, Warner, Universal TV, Sony, Megapix, TNT Séries, Eurochannel, Paramount, Disney, etc.
+    termos_film_cat = ["filme", "serie", "cinema", "telecine", "hbo", "paramount", "disney", "prime video", "apple tv", "max", "legendado"]
+    termos_film_nome = ["telecine", "hbo", "megapix", "tnt", "space", "axn", "warner", "universal tv", "paramount", "sony", "cinemax", "usa network", "studio universal", "universal premiere", "canal brasil", "eurochannel", "film&arts", "syfy", "tcm", "runtime", "moviesphere", "classique faroeste", "tv clássicos", "amc"]
+    if any(k in c_low for k in termos_film_cat) or any(k in n_low for k in termos_film_nome):
+        return "Filmes e Séries"
+
+    # 12. TV Aberta: Globo, Record, SBT, Band, RedeTV!, TV Cultura, TV Brasil, TV Gazeta e afiliadas regionais (canais 4K abertos ficam aqui)
+    termos_aberta_cat = ["aberto", "aberta", "local", "nacional", "globo", "record", "sbt", "band"]
+    termos_aberta_nome = ["globo", "record", "sbt", "bandeirantes", "band ", "band tv", "cultura", "redetv", "rede tv", "tv brasil", "canal gov", "tv justica", "tv justiça", "tv senado", "canal educacao", "futura", "tv a critica", "tv gazeta", "rede brasil", "playtv", "tv uniao", "tve bahia"]
+    if any(k in c_low for k in termos_aberta_cat) or any(k in n_low for k in termos_aberta_nome):
+        return "TV Aberta"
+
+    # 13. Pluto TV
     if "pluto" in c_low:
         return "Pluto TV"
 
@@ -391,7 +420,7 @@ def normalizar_categoria(cat, nome_canal=""):
     if any(k in c_low for k in ["4k", "fhdr", "uhd", "legendado", "legendados"]):
         return "Variedades"
 
-    # 15. Outras categorias: manter a categoria original limpa em vez de forçar tudo em Variedades
+    # 14. Outras categorias: manter a categoria original limpa em vez de forçar tudo em Variedades
     limpo = re.sub(r"^canais\s*\|\s*", "", cat_str, flags=re.IGNORECASE).strip()
     return limpo if limpo else "Variedades"
 
@@ -534,6 +563,9 @@ def carregar_e_fundir_listas_extras(canais_por_cat, canais_adultos=None):
                     is_adult = (cat_id == "12") or ("adult" in cat_bruta.lower()) or eh_conteudo_adulto(nome_canal, cat_bruta)
 
                     if is_adult:
+                        # Exclui completamente conteúdos gay e trans da lista adulta
+                        if eh_conteudo_gay_ou_trans(nome_canal):
+                            continue
                         norm = normalizar_nome_canal(nome_canal)
                         if norm in mapa_adultos:
                             ch_alvo = mapa_adultos[norm]
@@ -661,6 +693,9 @@ def carregar_e_fundir_listas_extras(canais_por_cat, canais_adultos=None):
                     is_adult = ("adult" in cat_canal.lower()) or eh_conteudo_adulto(nome_canal, cat_canal)
 
                     if is_adult:
+                        # Exclui completamente conteúdos gay e trans da lista adulta
+                        if eh_conteudo_gay_ou_trans(nome_canal):
+                            continue
                         norm = normalizar_nome_canal(nome_canal)
                         if norm in mapa_adultos:
                             ch_alvo = mapa_adultos[norm]
@@ -770,7 +805,8 @@ def processar_canais():
         }
         ordem_global += 1
         if is_adult:
-            canais_adultos.append(item_canal)
+            if not eh_conteudo_gay_ou_trans(canal_atual):
+                canais_adultos.append(item_canal)
         else:
             canais_por_cat[cat_final].append(item_canal)
 
@@ -821,7 +857,7 @@ def formatar_canais_m3u(canais_por_cat):
 
     for cat in ordem_final:
         lista_canais = canais_por_cat[cat]
-        # Padrao oficial do Saimo: preservar a ordem original do catalogo em vez de alfabetica
+        # Preservar a ordem original do catalogo em vez de alfabetica
         lista_canais.sort(key=lambda x: x.get("ordem", 0))
 
         for ch in lista_canais:
@@ -1280,33 +1316,53 @@ def processar_filmes(fichas, destaques):
     return resultado_filmes
 
 def testar_fonte(f):
-    """Teste de disponibilidade e medição precisa de latência (velocidade) com headers."""
+    """
+    Teste de disponibilidade e medição precisa de latência (TTFB / velocidade)
+    com headers otimizados para servidores IPTV e streams HLS/TS.
+    """
     url = f.get("url", "").strip()
     ref = f.get("referer", "").strip()
-    ua = f.get("agente", "").strip() or "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-    headers = {"User-Agent": ua}
+    headers = {
+        "User-Agent": "VLC/3.0.18 LibVLC/3.0.18",
+        "Accept": "*/*",
+        "Range": "bytes=0-1024",
+        "Connection": "close"
+    }
     if ref:
         headers["Referer"] = ref
     t0 = time.perf_counter()
     try:
         req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req, timeout=3.5) as r:
+        with urllib.request.urlopen(req, timeout=3.0) as r:
             chunk = r.read(256)
             elapsed_ms = (time.perf_counter() - t0) * 1000.0
-            if r.status < 400 and (chunk or r.status == 200):
+            if r.status < 400 and (chunk or r.status in (200, 206)):
                 return (True, elapsed_ms)
     except Exception:
-        pass
+        # Fallback rápido com método HEAD
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "VLC/3.0.18 LibVLC/3.0.18"}, method="HEAD")
+            t0 = time.perf_counter()
+            with urllib.request.urlopen(req, timeout=2.5) as r:
+                elapsed_ms = (time.perf_counter() - t0) * 1000.0
+                if r.status < 400:
+                    return (True, elapsed_ms)
+        except Exception:
+            pass
     return (False, 99999.0)
 
 def validar_canais(canais_por_cat, canais_adultos=None):
     """
     Testa os links dos canais ao vivo e adultos, mede latência (ping/velocidade) e coloca
-    o link mais rápido em primeiro lugar (Opção 1).
+    o link mais rápido em primeiro lugar (Opção 1 / Principal).
     Descarta links mortos quando houver links saudáveis ativos.
+    Garante a exclusão de qualquer canal com temática gay/trans dos adultos.
     """
     if canais_adultos is None:
         canais_adultos = []
+
+    # Filtrar gay/trans da lista adulta
+    canais_adultos = [ch for ch in canais_adultos if not eh_conteudo_gay_ou_trans(ch.get("nome", ""))]
 
     todos_normais = [f for lista in canais_por_cat.values() for ch in lista for f in ch["fontes"]]
     todos_adultos = [f for ch in canais_adultos for f in ch["fontes"]]
@@ -1332,15 +1388,12 @@ def validar_canais(canais_por_cat, canais_adultos=None):
     taxa = vivos / len(chaves) if chaves else 0
     print(f"Links respondendo: {vivos}/{len(chaves)} ({taxa*100:.0f}%).")
     
-    if vivos == 0 and len(chaves) > 50:
-        print("Aviso: Nenhum link respondeu (possível falha de rede geral no runner). Mantendo canais originais.")
-        return canais_por_cat, canais_adultos
-        
     def ordenar_lista(lista_canais):
         for ch in lista_canais:
             def sort_key(f):
                 chave = (f["url"], f.get("referer", ""))
                 res = resultado.get(chave, (False, 99999.0))
+                # 0 se ativo, 1 se inativo; depois menor latência (ms)
                 return (0 if res[0] else 1, res[1])
 
             ch["fontes"].sort(key=sort_key)
@@ -1351,10 +1404,11 @@ def validar_canais(canais_por_cat, canais_adultos=None):
                 f["ativo"] = res[0]
                 f["latencia_ms"] = round(res[1], 1)
 
-            ativas = [f for f in ch["fontes"] if f.get("ativo")]
-            inativas = [f for f in ch["fontes"] if not f.get("ativo")]
-            if ativas:
-                ch["fontes"] = ativas + inativas[:1]
+            if vivos > 0:
+                ativas = [f for f in ch["fontes"] if f.get("ativo")]
+                inativas = [f for f in ch["fontes"] if not f.get("ativo")]
+                if ativas:
+                    ch["fontes"] = ativas + inativas[:1]
 
     for lista in canais_por_cat.values():
         ordenar_lista(lista)
@@ -1404,7 +1458,7 @@ def salvar_restritos_txt(canais_adultos):
     """Grava restritos.txt no formato nativo lido pelo app Android apenas após digitar a senha."""
     caminho = OUTPUT_RESTRITOS
     linhas = []
-    canais = sorted(canais_adultos, key=lambda x: x.get("ordem", 0))
+    canais = [ch for ch in sorted(canais_adultos, key=lambda x: x.get("ordem", 0)) if not eh_conteudo_gay_ou_trans(ch.get("nome", ""))]
     for ch in canais:
         linhas.append(f"canal: {ch['nome']}")
         linhas.append("categoria: Adulto")
@@ -1430,7 +1484,7 @@ def salvar_restritos_json(canais_adultos):
     caminho = os.path.join(REPO_ROOT, "data", "restritos.json")
     os.makedirs(os.path.dirname(caminho), exist_ok=True)
     lista_saida = []
-    canais = sorted(canais_adultos, key=lambda x: x.get("ordem", 0))
+    canais = [ch for ch in sorted(canais_adultos, key=lambda x: x.get("ordem", 0)) if not eh_conteudo_gay_ou_trans(ch.get("nome", ""))]
     for ch in canais:
         cid = normalizar_texto(ch["nome"]).replace(" ", "_")
         fontes_lista = []
@@ -1458,7 +1512,8 @@ def salvar_restritos_json(canais_adultos):
 def formatar_adultos_m3u(canais_adultos):
     resultado = []
     numero_canal = 1
-    for ch in sorted(canais_adultos, key=lambda x: x.get("ordem", 0)):
+    canais = [ch for ch in sorted(canais_adultos, key=lambda x: x.get("ordem", 0)) if not eh_conteudo_gay_ou_trans(ch.get("nome", ""))]
+    for ch in canais:
         num_fontes = len(ch["fontes"])
         chno_attr = f' tvg-chno="{numero_canal}"'
         for idx, f in enumerate(ch["fontes"]):
