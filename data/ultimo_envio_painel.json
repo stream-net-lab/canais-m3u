@@ -1,0 +1,14 @@
+{
+  "data": "2026-11-22T22:56:08.268341+00:00",
+  "testadas": 1,
+  "adicionadas": 0,
+  "duplicadas": 0,
+  "rejeitadas": 1,
+  "detalhes": [
+    {
+      "servidor": "http://4t75eg.cloud/get.php",
+      "status": "offline",
+      "detalhe": "Falha ao conectar no servidor Xtream: JSONDecodeError"
+    }
+  ]
+}

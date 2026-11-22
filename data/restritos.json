@@ -11,7 +11,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 40.4,
+        "latencia_ms": 59.7,
         "ativo": true
       }
     ]
@@ -28,16 +28,16 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 39.7,
+        "latencia_ms": 54.5,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72222.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72224.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 42.1,
+        "latencia_ms": 56.9,
         "ativo": true
       },
       {
@@ -46,16 +46,16 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 42.7,
+        "latencia_ms": 59.4,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72224.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72222.ts",
         "nome": "Fonte 4",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.4,
+        "latencia_ms": 60.9,
         "ativo": true
       }
     ]
@@ -67,21 +67,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180156.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 37.9,
+        "latencia_ms": 53.9,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 44.2,
+        "latencia_ms": 58.1,
         "ativo": true
       },
       {
@@ -90,16 +90,16 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 51.9,
+        "latencia_ms": 58.5,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180156.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts",
         "nome": "Fonte 4",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 57.7,
+        "latencia_ms": 59.8,
         "ativo": true
       },
       {
@@ -108,7 +108,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 87.1,
+        "latencia_ms": 63.1,
         "ativo": true
       }
     ]
@@ -125,7 +125,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 40.4,
+        "latencia_ms": 61.4,
         "ativo": true
       }
     ]
@@ -142,7 +142,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 34.5,
+        "latencia_ms": 58.5,
         "ativo": true
       }
     ]
@@ -159,7 +159,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 40.6,
+        "latencia_ms": 66.4,
         "ativo": true
       }
     ]
@@ -176,7 +176,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 71.0,
+        "latencia_ms": 54.9,
         "ativo": true
       }
     ]
@@ -193,7 +193,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 36.7,
+        "latencia_ms": 53.3,
         "ativo": true
       }
     ]
@@ -210,7 +210,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 46.6,
+        "latencia_ms": 58.1,
         "ativo": true
       }
     ]
@@ -227,7 +227,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 28.2,
+        "latencia_ms": 65.9,
         "ativo": true
       }
     ]
@@ -244,7 +244,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 48.6,
+        "latencia_ms": 59.5,
         "ativo": true
       }
     ]
@@ -261,7 +261,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 39.9,
+        "latencia_ms": 64.5,
         "ativo": true
       }
     ]
@@ -278,7 +278,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 33.4,
+        "latencia_ms": 67.7,
         "ativo": true
       }
     ]
@@ -295,7 +295,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 34.5,
+        "latencia_ms": 60.7,
         "ativo": true
       }
     ]
@@ -312,7 +312,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 30.0,
+        "latencia_ms": 55.6,
         "ativo": true
       }
     ]
@@ -329,7 +329,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 26.9,
+        "latencia_ms": 65.7,
         "ativo": true
       }
     ]
@@ -346,7 +346,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 29.5,
+        "latencia_ms": 65.1,
         "ativo": true
       }
     ]
@@ -363,7 +363,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 25.1,
+        "latencia_ms": 64.7,
         "ativo": true
       }
     ]
@@ -380,7 +380,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 40.1,
+        "latencia_ms": 56.8,
         "ativo": true
       }
     ]
@@ -397,7 +397,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 24.5,
+        "latencia_ms": 58.2,
         "ativo": true
       }
     ]
@@ -414,7 +414,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 59.6,
+        "latencia_ms": 59.5,
         "ativo": true
       }
     ]
@@ -431,7 +431,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 37.5,
+        "latencia_ms": 54.6,
         "ativo": true
       }
     ]
@@ -448,7 +448,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 36.2,
+        "latencia_ms": 50.4,
         "ativo": true
       }
     ]
@@ -465,7 +465,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 34.6,
+        "latencia_ms": 51.3,
         "ativo": true
       }
     ]
@@ -482,7 +482,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 36.4,
+        "latencia_ms": 76.1,
         "ativo": true
       }
     ]
@@ -499,7 +499,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 35.1,
+        "latencia_ms": 54.2,
         "ativo": true
       }
     ]
@@ -516,7 +516,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 29.8,
+        "latencia_ms": 54.4,
         "ativo": true
       }
     ]
@@ -533,7 +533,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 37.4,
+        "latencia_ms": 51.5,
         "ativo": true
       }
     ]
@@ -550,7 +550,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 34.5,
+        "latencia_ms": 56.7,
         "ativo": true
       }
     ]
@@ -567,7 +567,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 46.5,
+        "latencia_ms": 52.7,
         "ativo": true
       }
     ]
@@ -584,262 +584,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 53.8,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_01",
-    "nome": "[24H] [+18] Filmes Trans [Pack 01]",
-    "logo": "http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/145382.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 33.0,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_02",
-    "nome": "[24H] [+18] Filmes Trans [Pack 02]",
-    "logo": "http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/145383.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 31.2,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_03",
-    "nome": "[24H] [+18] Filmes Trans [Pack 03]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149546.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 26.3,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_04",
-    "nome": "[24H] [+18] Filmes Trans [Pack 04]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149547.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 29.6,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_05",
-    "nome": "[24H] [+18] Filmes Trans [Pack 05]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150117.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 39.1,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_06",
-    "nome": "[24H] [+18] Filmes Trans [Pack 06]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155441.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 47.4,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_07",
-    "nome": "[24H] [+18] Filmes Trans [Pack 07]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155442.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 45.6,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_08",
-    "nome": "[24H] [+18] Filmes Trans [Pack 08]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155443.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 31.6,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_09",
-    "nome": "[24H] [+18] Filmes Trans [Pack 09]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155444.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 34.1,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_10",
-    "nome": "[24H] [+18] Filmes Trans [Pack 10]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155445.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 32.3,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_11",
-    "nome": "[24H] [+18] Filmes Trans [Pack 11]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155446.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 52.0,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_12",
-    "nome": "[24H] [+18] Filmes Trans [Pack 12]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155447.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 55.9,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_13",
-    "nome": "[24H] [+18] Filmes Trans [Pack 13]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155448.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 57.5,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_15",
-    "nome": "[24H] [+18] Filmes Trans [Pack 15]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155449.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 27.9,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_filmes_trans_pack_16",
-    "nome": "[24H] [+18] Filmes Trans [Pack 16]",
-    "logo": "http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155450.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 29.0,
+        "latencia_ms": 85.1,
         "ativo": true
       }
     ]
@@ -856,7 +601,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 44.0,
+        "latencia_ms": 59.5,
         "ativo": true
       }
     ]
@@ -873,7 +618,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 30.0,
+        "latencia_ms": 53.0,
         "ativo": true
       }
     ]
@@ -890,41 +635,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 36.3,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_homossexual_masculino_pack_01",
-    "nome": "[24H] [+18] Homossexual Masculino [Pack 01]",
-    "logo": "http://24horas.cc:80/images/23282a88114949d0a31f5fbee6dd0733.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140492.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 64.3,
-        "ativo": true
-      }
-    ]
-  },
-  {
-    "id": "24h_18_homossexual_masculino_pack_02",
-    "nome": "[24H] [+18] Homossexual Masculino [Pack 02]",
-    "logo": "http://24horas.cc:80/images/23282a88114949d0a31f5fbee6dd0733.jpg",
-    "categoria": "Adulto",
-    "fontes": [
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140493.ts",
-        "nome": "Principal",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 35.3,
+        "latencia_ms": 56.1,
         "ativo": true
       }
     ]
@@ -941,7 +652,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 55.4,
+        "latencia_ms": 67.9,
         "ativo": true
       }
     ]
@@ -958,7 +669,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 54.9,
+        "latencia_ms": 52.3,
         "ativo": true
       }
     ]
@@ -975,7 +686,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 49.7,
+        "latencia_ms": 60.4,
         "ativo": true
       }
     ]
@@ -992,7 +703,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 57.8,
+        "latencia_ms": 53.9,
         "ativo": true
       }
     ]
@@ -1009,7 +720,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 38.2,
+        "latencia_ms": 64.4,
         "ativo": true
       }
     ]
@@ -1026,7 +737,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 35.0,
+        "latencia_ms": 49.9,
         "ativo": true
       }
     ]
@@ -1043,7 +754,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 38.1,
+        "latencia_ms": 52.1,
         "ativo": true
       }
     ]
@@ -1060,7 +771,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 36.1,
+        "latencia_ms": 57.0,
         "ativo": true
       }
     ]
@@ -1077,7 +788,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 31.0,
+        "latencia_ms": 48.9,
         "ativo": true
       }
     ]
@@ -1094,7 +805,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 45.4,
+        "latencia_ms": 49.6,
         "ativo": true
       }
     ]
@@ -1111,7 +822,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 30.3,
+        "latencia_ms": 50.5,
         "ativo": true
       }
     ]
@@ -1128,7 +839,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 46.3,
+        "latencia_ms": 52.0,
         "ativo": true
       }
     ]
@@ -1145,7 +856,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 28.3,
+        "latencia_ms": 51.2,
         "ativo": true
       }
     ]
@@ -1162,7 +873,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 27.9,
+        "latencia_ms": 52.9,
         "ativo": true
       }
     ]
@@ -1179,7 +890,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 23.9,
+        "latencia_ms": 52.9,
         "ativo": true
       }
     ]
@@ -1196,7 +907,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 41.1,
+        "latencia_ms": 49.2,
         "ativo": true
       }
     ]
@@ -1213,7 +924,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 26.2,
+        "latencia_ms": 54.7,
         "ativo": true
       }
     ]
@@ -1230,7 +941,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 27.2,
+        "latencia_ms": 67.3,
         "ativo": true
       }
     ]
@@ -1247,7 +958,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 44.8,
+        "latencia_ms": 52.5,
         "ativo": true
       }
     ]
@@ -1264,7 +975,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 26.7,
+        "latencia_ms": 47.2,
         "ativo": true
       }
     ]
@@ -1281,7 +992,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 27.5,
+        "latencia_ms": 53.3,
         "ativo": true
       }
     ]
@@ -1298,7 +1009,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 73.8,
+        "latencia_ms": 54.0,
         "ativo": true
       }
     ]
@@ -1315,7 +1026,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 24.4,
+        "latencia_ms": 54.4,
         "ativo": true
       }
     ]
@@ -1332,7 +1043,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 44.1,
+        "latencia_ms": 50.3,
         "ativo": true
       }
     ]
@@ -1349,7 +1060,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 25.3,
+        "latencia_ms": 57.7,
         "ativo": true
       }
     ]
@@ -1366,7 +1077,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 24.6,
+        "latencia_ms": 54.0,
         "ativo": true
       }
     ]
@@ -1383,7 +1094,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 51.3,
+        "latencia_ms": 49.5,
         "ativo": true
       }
     ]
@@ -1400,7 +1111,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 25.6,
+        "latencia_ms": 56.5,
         "ativo": true
       }
     ]
@@ -1417,7 +1128,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 37.2,
+        "latencia_ms": 56.5,
         "ativo": true
       }
     ]
@@ -1434,7 +1145,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 25.2,
+        "latencia_ms": 59.1,
         "ativo": true
       }
     ]
@@ -1451,7 +1162,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 25.0,
+        "latencia_ms": 59.2,
         "ativo": true
       }
     ]
@@ -1468,7 +1179,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 42.5,
+        "latencia_ms": 53.7,
         "ativo": true
       }
     ]
@@ -1485,7 +1196,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 26.2,
+        "latencia_ms": 52.5,
         "ativo": true
       }
     ]
@@ -1502,7 +1213,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 26.2,
+        "latencia_ms": 52.5,
         "ativo": true
       }
     ]
@@ -1519,7 +1230,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 26.8,
+        "latencia_ms": 53.1,
         "ativo": true
       }
     ]
@@ -1536,7 +1247,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 24.8,
+        "latencia_ms": 51.8,
         "ativo": true
       }
     ]
