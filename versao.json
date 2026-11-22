@@ -3,12 +3,12 @@
   "versao": "3.3.5",
   "codigo": 30305,
   "data": "2026-11-21",
-  "notas": "Ajustes limpos sem texto extra, versao v3.3.5 exibida na busca de atualizacao e eventos ao vivo restaurados com a API do Saimo.",
+  "notas": "Versao 3.3.5 definitiva: comparador de versao sincronizado, remocao de aviso falso de atualizacao, inclusao do catalogo completo de radios.",
   "arquivos": {
     "tvbox": {
       "url": "https://stream-net-lab.github.io/canais-m3u/tv-filmes.apk",
-      "bytes": 10653203,
-      "sha256": "d410d7422f988f21746048acaf23a65daf591bf86f6a6311a1432b38c26867f0"
+      "bytes": 10673746,
+      "sha256": "dc58e1b59576f558543da9fc67fc15004afcf966b671c59ff8fcc7f5fa20e8a7"
     }
   }
 }
