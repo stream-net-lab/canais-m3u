@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-22T23:17:44.584090+00:00",
+  "data": "2026-11-23T00:21:03.435394+00:00",
   "testadas": 1,
   "adicionadas": 1,
   "duplicadas": 0,
@@ -8,8 +8,8 @@
     {
       "servidor": "http://4t75eg.cloud/get.php",
       "status": "adicionada",
-      "detalhe": "Xtream ativo (830ms)",
-      "latencia_ms": 829.9
+      "detalhe": "Xtream ativo (872ms)",
+      "latencia_ms": 872.1
     }
   ]
 }
