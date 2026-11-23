@@ -1,11 +1,11 @@
 canal: [+18] Playboy 4K
 categoria: Adulto
 logo: http://4t75eg.cloud/static/logos/canais/playboy.png
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/103483.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/103483.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103483.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/103483.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/103483.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/103483.ts
 agente: Mozilla/5.0
 
 canal: [+18] Playboy TV FHD
@@ -14,8 +14,11 @@ logo: http://4t75eg.cloud/static/logos/canais/playboy.png
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/72224.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/72224.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72221.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72221.ts
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/72222.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/72222.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/72223.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/72223.ts
@@ -23,11 +26,8 @@ agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72222.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72222.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/72222.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/72222.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72221.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72221.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/72221.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/72221.ts
@@ -38,11 +38,26 @@ agente: Mozilla/5.0
 
 canal: [+18] Sexy Hot 4K
 categoria: Adulto
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/180154.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/180154.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/180153.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/180153.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180153.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180153.ts
+agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180156.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180156.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/180156.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/180156.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts
 agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/72310.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/72310.ts
@@ -50,43 +65,28 @@ agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180154.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180154.ts
 agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/180157.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/180157.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180153.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180153.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/180153.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/180153.ts
-agente: Mozilla/5.0
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/180154.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/180154.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] A Casa das Brasileirinhas [Pack 01]
 categoria: Adulto
 logo: http://24horas.cc:80/images/508f0d666609e140b531f552b60c3478.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/140487.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/140487.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140487.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140487.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/140487.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/140487.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] A Casa das Brasileirinhas [Pack 02]
 categoria: Adulto
 logo: http://24horas.cc:80/images/508f0d666609e140b531f552b60c3478.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/140488.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/140488.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140488.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140488.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/140488.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/140488.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] A Casa das Brasileirinhas [Pack 03]
@@ -122,11 +122,11 @@ agente: Mozilla/5.0
 canal: [24H] [+18] All Anal [Pack 01]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/166035.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/166035.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166035.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166035.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/166035.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/166035.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] All Anal [Pack 02]
@@ -142,11 +142,11 @@ agente: Mozilla/5.0
 canal: [24H] [+18] All Anal [Pack 03]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166037.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166037.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/166037.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/166037.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166037.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166037.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] All Anal [Pack 04]
@@ -172,41 +172,41 @@ agente: Mozilla/5.0
 canal: [24H] [+18] All Anal [Pack 06]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/166040.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/166040.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166040.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166040.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/166040.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/166040.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] All Anal [Pack 07]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/166041.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/166041.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166041.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166041.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/166041.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/166041.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Anal Only
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149544.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149544.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/149544.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/149544.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149544.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149544.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 01]
 categoria: Adulto
 logo: http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140536.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140536.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/140536.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/140536.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140536.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140536.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 02]
@@ -262,31 +262,31 @@ agente: Mozilla/5.0
 canal: [24H] [+18] Filmes Adultos [Pack 07]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150115.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150115.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/150115.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/150115.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150115.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150115.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 08]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150116.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150116.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/150116.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/150116.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150116.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150116.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 09]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150492.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150492.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/150492.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/150492.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150492.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150492.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 10]
@@ -302,21 +302,21 @@ agente: Mozilla/5.0
 canal: [24H] [+18] Filmes Adultos [Pack 11]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/155424.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/155424.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155424.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155424.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/155424.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/155424.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 12]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155425.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155425.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/155425.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/155425.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155425.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155425.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 13]
@@ -332,21 +332,21 @@ agente: Mozilla/5.0
 canal: [24H] [+18] Filmes Adultos [Pack 14]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/155427.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/155427.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155427.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155427.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/155427.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/155427.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 15]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155428.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155428.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/155428.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/155428.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155428.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155428.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Fuck Studies [Pack 01]
@@ -372,11 +372,11 @@ agente: Mozilla/5.0
 canal: [24H] [+18] Fuck Studies [Pack 03]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/169087.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/169087.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/169087.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/169087.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/169087.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/169087.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Interesseiras
@@ -412,11 +412,11 @@ agente: Mozilla/5.0
 canal: [24H] [+18] Lets Try Anal [Pack 03]
 categoria: Adulto
 logo: http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/141500.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/141500.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/141500.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/141500.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/141500.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/141500.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] MissaX [Pack 01]
@@ -432,11 +432,11 @@ agente: Mozilla/5.0
 canal: [24H] [+18] MissaX [Pack 02]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/169089.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/169089.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/169089.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/169089.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/169089.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/169089.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] MissaX [Pack 03]
@@ -472,11 +472,11 @@ agente: Mozilla/5.0
 canal: [24H] [+18] MissaX [Pack 06]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/169093.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/169093.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/169093.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/169093.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/169093.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/169093.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] MissaX [Pack 07]
@@ -512,11 +512,11 @@ agente: Mozilla/5.0
 canal: [24H] [+18] Pornhub Yinyleon
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149548.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149548.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/149548.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/149548.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149548.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149548.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Teste de Fudelidade [Pack 01]
@@ -542,11 +542,11 @@ agente: Mozilla/5.0
 canal: [24H] [+18] Teste de Fudelidade [Pack 03]
 categoria: Adulto
 logo: http://24horas.cc:80/images/3e81163f7309a5a4f01613ff430db818.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/145384.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/145384.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/145384.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/145384.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/145384.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/145384.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Tweetney [Pack 01]
@@ -562,11 +562,11 @@ agente: Mozilla/5.0
 canal: [24H] [+18] Filmes Adultos [Pack 33]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225349.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225349.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225349.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/225349.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225349.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225349.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 32]
@@ -592,41 +592,41 @@ agente: Mozilla/5.0
 canal: [24H] [+18] Filmes Adultos [Pack 30]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225346.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225346.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225346.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/225346.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225346.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225346.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 29]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225345.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/225345.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225345.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225345.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225345.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/225345.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 28]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225344.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/225344.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225344.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225344.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225344.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/225344.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 27]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225343.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/225343.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225343.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225343.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225343.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/225343.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 26]
@@ -642,21 +642,21 @@ agente: Mozilla/5.0
 canal: [24H] [+18] Filmes Adultos [Pack 25]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225341.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225341.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225341.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/225341.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225341.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225341.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 24]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225340.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225340.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225340.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/225340.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225340.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225340.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 23]
@@ -672,41 +672,41 @@ agente: Mozilla/5.0
 canal: [24H] [+18] Filmes Adultos [Pack 22]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225338.ts
-url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225338.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225338.ts
 url: http://4t75eg.cloud/live/fernando935/mcPT62/225338.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225338.ts
+url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225338.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 21]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225337.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/225337.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225337.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225337.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225337.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/225337.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 20]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225336.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/225336.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225336.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225336.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225336.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/225336.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 19]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225335.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/225335.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225335.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225335.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225335.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/225335.ts
 agente: Mozilla/5.0
 
 canal: [24H] [+18] Filmes Adultos [Pack 18]
@@ -732,9 +732,9 @@ agente: Mozilla/5.0
 canal: [24H] [+18] Filmes Adultos [Pack 16]
 categoria: Adulto
 logo: http://gstaticontent.com/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
-fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225332.ts
-url: http://4t75eg.cloud/live/fernando935/mcPT62/225332.ts
-agente: Mozilla/5.0
 fonte: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225332.ts
 url: http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225332.ts
+agente: Mozilla/5.0
+fonte: http://4t75eg.cloud/live/fernando935/mcPT62/225332.ts
+url: http://4t75eg.cloud/live/fernando935/mcPT62/225332.ts
 agente: Mozilla/5.0

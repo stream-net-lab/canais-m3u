@@ -1545,18 +1545,47 @@ def testar_fonte(f):
             pass
     return (False, 99999.0)
 
+def eh_canal_portugal(nome, categoria=""):
+    """Identifica canais de Portugal (ex.: 'PT - SportTV 1', 'PT - Benfica TV', 'RTP 1', etc.) para exclusão."""
+    n = (nome or "").strip()
+    c = (categoria or "").strip().lower()
+    nl = n.lower()
+    if re.match(r"^\s*(?:\[\s*pt\s*\]|\(\s*pt\s*\)|pt\s*[-:|/]|pt\s+)", nl):
+        return True
+    if "portugal" in nl or "portugal" in c or re.search(r"\bcanais\s+pt\b", c):
+        return True
+    if re.search(r"\b(?:rtp\s*[123]|sporttv\s*\d|benfica\s*tv|porto\s*canal|a\s*bola\s*tv|canal\s*11|sic\s+not[ií]cias|tvi\s+reality)\b", nl):
+        return True
+    return False
+
+
 def validar_canais(canais_por_cat, canais_adultos=None):
     """
     Testa os links dos canais ao vivo e adultos, mede latência (ping/velocidade) e coloca
     o link mais rápido em primeiro lugar (Opção 1 / Principal).
-    Descarta links mortos quando houver links saudáveis ativos.
-    Garante a exclusão de qualquer canal com temática gay/trans dos adultos.
+    Remove canais 100% fora do ar (0 links ativos), canais de Portugal (PT) e conteúdo gay/trans.
     """
     if canais_adultos is None:
         canais_adultos = []
 
-    # Filtrar gay/trans da lista adulta
-    canais_adultos = [ch for ch in canais_adultos if not eh_conteudo_gay_ou_trans(ch.get("nome", ""))]
+    # Remover canais de Portugal (PT) de todas as categorias
+    removidos_pt = 0
+    for cat in list(canais_por_cat.keys()):
+        antes = len(canais_por_cat[cat])
+        canais_por_cat[cat] = [
+            ch for ch in canais_por_cat[cat]
+            if not eh_canal_portugal(ch.get("nome", ""), cat)
+        ]
+        removidos_pt += antes - len(canais_por_cat[cat])
+    if removidos_pt:
+        print(f"Filtro Portugal (PT): {removidos_pt} canal(is) PT removido(s).")
+
+    # Filtrar gay/trans e PT da lista adulta
+    canais_adultos = [
+        ch for ch in canais_adultos
+        if not eh_conteudo_gay_ou_trans(ch.get("nome", ""))
+        and not eh_canal_portugal(ch.get("nome", ""), "Adulto")
+    ]
 
     todos_normais = [f for lista in canais_por_cat.values() for ch in lista for f in ch["fontes"]]
     todos_adultos = [f for ch in canais_adultos for f in ch["fontes"]]
@@ -1600,14 +1629,32 @@ def validar_canais(canais_por_cat, canais_adultos=None):
 
             if vivos > 0:
                 ativas = [f for f in ch["fontes"] if f.get("ativo")]
-                inativas = [f for f in ch["fontes"] if not f.get("ativo")]
                 if ativas:
-                    ch["fontes"] = ativas + inativas[:1]
+                    ch["fontes"] = ativas
 
     for lista in canais_por_cat.values():
         ordenar_lista(lista)
 
     ordenar_lista(canais_adultos)
+
+    # Remover canais 100% fora do ar (0 links ativos) quando a rede estiver saudável
+    if vivos > 0 and taxa >= 0.25:
+        removidos_mortos = 0
+        for cat in list(canais_por_cat.keys()):
+            antes = len(canais_por_cat[cat])
+            canais_por_cat[cat] = [
+                ch for ch in canais_por_cat[cat]
+                if any(f.get("ativo") for f in ch.get("fontes", []))
+            ]
+            removidos_mortos += antes - len(canais_por_cat[cat])
+        antes_ad = len(canais_adultos)
+        canais_adultos = [
+            ch for ch in canais_adultos
+            if any(f.get("ativo") for f in ch.get("fontes", []))
+        ]
+        removidos_mortos += antes_ad - len(canais_adultos)
+        if removidos_mortos:
+            print(f"Limpeza automática: {removidos_mortos} canal(is) 100% fora do ar removido(s).")
 
     return canais_por_cat, canais_adultos
 
