@@ -1,14 +1,14 @@
 {
-  "tag": "v4.0.3",
-  "versao": "4.0.3",
-  "codigo": 40003,
+  "tag": "v4.0.4",
+  "versao": "4.0.4",
+  "codigo": 40004,
   "data": "2026-11-22",
-  "notas": "TV & Filmes v4.0.3: Correcao definitiva do resolvedor DNS 1.1.1.1 (fe1.smali) que causava fechamento ao abrir canais.",
+  "notas": "TV & Filmes v4.0.4: Sincronizacao completa da versao interna em todas as telas e no comparador de atualizacoes (eliminando falso aviso de update), DNS 1.1.1.1 estavel e verificacao automatica de integridade.",
   "arquivos": {
     "tvbox": {
       "url": "https://stream-net-lab.github.io/canais-m3u/tv-filmes.apk",
       "bytes": 10673746,
-      "sha256": "07d412045d307da3f86054fbccf869ffc1ccbc8a5c714f70c598eaee53f8323d"
+      "sha256": "7ab4783520ba6fa5ed0316d8039621be76887d6c8a1bad461e9a36e49cf72186"
     }
   }
 }
