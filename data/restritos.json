@@ -11,7 +11,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 76.8,
+        "latencia_ms": 60.5,
         "ativo": true
       },
       {
@@ -20,7 +20,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 90.8,
+        "latencia_ms": 70.6,
         "ativo": true
       }
     ]
@@ -32,75 +32,75 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/72221.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.6,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72224.ts",
-        "nome": "Fonte 2",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 78.6,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72223.ts",
-        "nome": "Fonte 3",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 79.0,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/72223.ts",
-        "nome": "Fonte 4",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 85.7,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72222.ts",
-        "nome": "Fonte 5",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 94.7,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/72222.ts",
-        "nome": "Fonte 6",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 97.5,
+        "latencia_ms": 50.3,
         "ativo": true
       },
       {
         "url": "http://4t75eg.cloud/live/fernando935/mcPT62/72224.ts",
-        "nome": "Fonte 7",
+        "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 100.8,
+        "latencia_ms": 52.9,
         "ativo": true
       },
       {
         "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72221.ts",
+        "nome": "Fonte 3",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 53.9,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/72221.ts",
+        "nome": "Fonte 4",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 58.7,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72224.ts",
+        "nome": "Fonte 5",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 60.0,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72222.ts",
+        "nome": "Fonte 6",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 60.1,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/72223.ts",
+        "nome": "Fonte 7",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 80.6,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/72222.ts",
         "nome": "Fonte 8",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 110.8,
+        "latencia_ms": 84.1,
         "ativo": true
       }
     ]
@@ -117,88 +117,88 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 68.3,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/180157.ts",
-        "nome": "Fonte 2",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 70.5,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts",
-        "nome": "Fonte 3",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 76.5,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180156.ts",
-        "nome": "Fonte 4",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 76.7,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180153.ts",
-        "nome": "Fonte 5",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 77.8,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/180153.ts",
-        "nome": "Fonte 6",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 78.5,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180154.ts",
-        "nome": "Fonte 7",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 78.9,
-        "ativo": true
-      },
-      {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts",
-        "nome": "Fonte 8",
-        "referer": "",
-        "agente": "Mozilla/5.0",
-        "chave": "",
-        "latencia_ms": 78.9,
+        "latencia_ms": 61.8,
         "ativo": true
       },
       {
         "url": "http://4t75eg.cloud/live/fernando935/mcPT62/72310.ts",
-        "nome": "Fonte 9",
+        "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 83.3,
+        "latencia_ms": 62.1,
         "ativo": true
       },
       {
         "url": "http://4t75eg.cloud/live/fernando935/mcPT62/180156.ts",
+        "nome": "Fonte 3",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 64.4,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/180157.ts",
+        "nome": "Fonte 4",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 69.9,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180154.ts",
+        "nome": "Fonte 5",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 72.4,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180156.ts",
+        "nome": "Fonte 6",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 72.6,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/72310.ts",
+        "nome": "Fonte 7",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 78.1,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/180153.ts",
+        "nome": "Fonte 8",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 84.5,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180153.ts",
+        "nome": "Fonte 9",
+        "referer": "",
+        "agente": "Mozilla/5.0",
+        "chave": "",
+        "latencia_ms": 88.0,
+        "ativo": true
+      },
+      {
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/180157.ts",
         "nome": "Fonte 10",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 100.3,
+        "latencia_ms": 89.8,
         "ativo": true
       }
     ]
@@ -215,7 +215,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 70.7,
+        "latencia_ms": 60.2,
         "ativo": true
       },
       {
@@ -224,7 +224,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 76.8,
+        "latencia_ms": 60.7,
         "ativo": true
       }
     ]
@@ -241,7 +241,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.7,
+        "latencia_ms": 49.7,
         "ativo": true
       },
       {
@@ -250,7 +250,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 90.5,
+        "latencia_ms": 62.3,
         "ativo": true
       }
     ]
@@ -267,7 +267,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 82.7,
+        "latencia_ms": 53.6,
         "ativo": true
       },
       {
@@ -276,7 +276,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 99.8,
+        "latencia_ms": 57.6,
         "ativo": true
       }
     ]
@@ -293,7 +293,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.7,
+        "latencia_ms": 59.0,
         "ativo": true
       },
       {
@@ -302,7 +302,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.3,
+        "latencia_ms": 65.4,
         "ativo": true
       }
     ]
@@ -319,7 +319,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 70.3,
+        "latencia_ms": 54.5,
         "ativo": true
       },
       {
@@ -328,7 +328,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 94.6,
+        "latencia_ms": 58.4,
         "ativo": true
       }
     ]
@@ -340,21 +340,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/166035.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166035.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 76.3,
+        "latencia_ms": 48.5,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166035.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/166035.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 76.9,
+        "latencia_ms": 67.5,
         "ativo": true
       }
     ]
@@ -366,21 +366,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/166036.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166036.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 99.0,
+        "latencia_ms": 51.2,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166036.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/166036.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 159.7,
+        "latencia_ms": 71.8,
         "ativo": true
       }
     ]
@@ -392,21 +392,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/166037.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166037.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.5,
+        "latencia_ms": 70.3,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166037.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/166037.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 87.8,
+        "latencia_ms": 82.7,
         "ativo": true
       }
     ]
@@ -423,7 +423,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.8,
+        "latencia_ms": 54.8,
         "ativo": true
       },
       {
@@ -432,7 +432,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 89.3,
+        "latencia_ms": 56.5,
         "ativo": true
       }
     ]
@@ -444,21 +444,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166039.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/166039.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.5,
+        "latencia_ms": 45.9,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/166039.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166039.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1125.6,
+        "latencia_ms": 55.0,
         "ativo": true
       }
     ]
@@ -470,21 +470,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/166040.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166040.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 90.2,
+        "latencia_ms": 66.4,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166040.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/166040.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1106.3,
+        "latencia_ms": 68.5,
         "ativo": true
       }
     ]
@@ -496,21 +496,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166041.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/166041.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 67.1,
+        "latencia_ms": 68.7,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/166041.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/166041.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 80.1,
+        "latencia_ms": 71.3,
         "ativo": true
       }
     ]
@@ -522,21 +522,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149544.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/149544.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 73.4,
+        "latencia_ms": 59.0,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/149544.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149544.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 91.6,
+        "latencia_ms": 63.0,
         "ativo": true
       }
     ]
@@ -548,21 +548,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/140536.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140536.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.7,
+        "latencia_ms": 54.3,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140536.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/140536.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.8,
+        "latencia_ms": 58.6,
         "ativo": true
       }
     ]
@@ -579,7 +579,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 72.1,
+        "latencia_ms": 62.5,
         "ativo": true
       },
       {
@@ -588,7 +588,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 88.7,
+        "latencia_ms": 62.6,
         "ativo": true
       }
     ]
@@ -605,7 +605,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 90.3,
+        "latencia_ms": 53.5,
         "ativo": true
       },
       {
@@ -614,7 +614,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1121.9,
+        "latencia_ms": 62.2,
         "ativo": true
       }
     ]
@@ -626,21 +626,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140539.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/140539.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 94.3,
+        "latencia_ms": 53.4,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/140539.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140539.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1131.4,
+        "latencia_ms": 54.6,
         "ativo": true
       }
     ]
@@ -652,21 +652,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140540.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/140540.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 85.5,
+        "latencia_ms": 48.6,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/140540.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140540.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1112.4,
+        "latencia_ms": 54.8,
         "ativo": true
       }
     ]
@@ -678,21 +678,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149545.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/149545.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 88.9,
+        "latencia_ms": 58.9,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/149545.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149545.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 108.6,
+        "latencia_ms": 67.0,
         "ativo": true
       }
     ]
@@ -704,21 +704,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/150115.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150115.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 75.0,
+        "latencia_ms": 58.6,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150115.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/150115.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.0,
+        "latencia_ms": 70.8,
         "ativo": true
       }
     ]
@@ -730,21 +730,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/150116.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150116.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.3,
+        "latencia_ms": 70.4,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150116.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/150116.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1107.7,
+        "latencia_ms": 75.0,
         "ativo": true
       }
     ]
@@ -756,21 +756,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150492.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/150492.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 81.2,
+        "latencia_ms": 74.4,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/150492.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150492.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1103.8,
+        "latencia_ms": 81.4,
         "ativo": true
       }
     ]
@@ -782,21 +782,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150493.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/150493.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.9,
+        "latencia_ms": 74.0,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/150493.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/150493.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1105.8,
+        "latencia_ms": 74.7,
         "ativo": true
       }
     ]
@@ -813,7 +813,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 76.9,
+        "latencia_ms": 61.0,
         "ativo": true
       },
       {
@@ -822,7 +822,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1112.8,
+        "latencia_ms": 69.0,
         "ativo": true
       }
     ]
@@ -839,7 +839,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 81.0,
+        "latencia_ms": 61.4,
         "ativo": true
       },
       {
@@ -848,7 +848,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 130.4,
+        "latencia_ms": 70.7,
         "ativo": true
       }
     ]
@@ -860,21 +860,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155426.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/155426.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 70.0,
+        "latencia_ms": 63.7,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/155426.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155426.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 107.9,
+        "latencia_ms": 71.4,
         "ativo": true
       }
     ]
@@ -886,21 +886,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/155427.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155427.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 75.9,
+        "latencia_ms": 64.2,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155427.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/155427.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1112.1,
+        "latencia_ms": 72.3,
         "ativo": true
       }
     ]
@@ -912,21 +912,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/155428.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155428.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 64.3,
+        "latencia_ms": 66.5,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/155428.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/155428.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 72.8,
+        "latencia_ms": 69.7,
         "ativo": true
       }
     ]
@@ -943,7 +943,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 75.3,
+        "latencia_ms": 61.2,
         "ativo": true
       },
       {
@@ -952,7 +952,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.6,
+        "latencia_ms": 74.0,
         "ativo": true
       }
     ]
@@ -964,21 +964,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/169086.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/169086.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 94.7,
+        "latencia_ms": 57.7,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/169086.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/169086.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 118.9,
+        "latencia_ms": 65.8,
         "ativo": true
       }
     ]
@@ -995,7 +995,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 73.6,
+        "latencia_ms": 58.4,
         "ativo": true
       },
       {
@@ -1004,7 +1004,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 117.4,
+        "latencia_ms": 58.8,
         "ativo": true
       }
     ]
@@ -1016,21 +1016,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149606.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/149606.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 90.3,
+        "latencia_ms": 55.4,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/149606.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/149606.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 91.4,
+        "latencia_ms": 60.3,
         "ativo": true
       }
     ]
@@ -1042,21 +1042,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/140760.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140760.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 71.0,
+        "latencia_ms": 53.1,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/140760.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/140760.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 85.9,
+        "latencia_ms": 62.2,
         "ativo": true
       }
     ]
@@ -1068,21 +1068,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/141499.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/141499.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 67.7,
+        "latencia_ms": 58.1,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/141499.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/141499.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 115.7,
+        "latencia_ms": 58.5,
         "ativo": true
       }
     ]
@@ -1099,7 +1099,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 64.5,
+        "latencia_ms": 59.7,
         "ativo": true
       },
       {
@@ -1108,7 +1108,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 69.6,
+        "latencia_ms": 60.0,
         "ativo": true
       }
     ]
@@ -1125,7 +1125,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 63.8,
+        "latencia_ms": 53.6,
         "ativo": true
       },
       {
@@ -1134,7 +1134,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.7,
+        "latencia_ms": 59.8,
         "ativo": true
       }
     ]
@@ -1151,7 +1151,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 73.5,
+        "latencia_ms": 54.3,
         "ativo": true
       },
       {
@@ -1160,7 +1160,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 90.6,
+        "latencia_ms": 58.2,
         "ativo": true
       }
     ]
@@ -1177,7 +1177,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 82.7,
+        "latencia_ms": 57.1,
         "ativo": true
       },
       {
@@ -1186,7 +1186,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 90.4,
+        "latencia_ms": 57.3,
         "ativo": true
       }
     ]
@@ -1203,7 +1203,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 82.9,
+        "latencia_ms": 56.5,
         "ativo": true
       },
       {
@@ -1212,7 +1212,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1037.3,
+        "latencia_ms": 57.6,
         "ativo": true
       }
     ]
@@ -1229,7 +1229,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 107.3,
+        "latencia_ms": 87.9,
         "ativo": true
       },
       {
@@ -1238,7 +1238,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1025.3,
+        "latencia_ms": 89.0,
         "ativo": true
       }
     ]
@@ -1250,21 +1250,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/169093.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/169093.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 71.6,
+        "latencia_ms": 63.9,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/169093.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/169093.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 103.4,
+        "latencia_ms": 70.6,
         "ativo": true
       }
     ]
@@ -1281,7 +1281,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 70.0,
+        "latencia_ms": 60.4,
         "ativo": true
       },
       {
@@ -1290,7 +1290,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1114.4,
+        "latencia_ms": 89.3,
         "ativo": true
       }
     ]
@@ -1307,7 +1307,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 73.0,
+        "latencia_ms": 53.3,
         "ativo": true
       },
       {
@@ -1316,7 +1316,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 99.1,
+        "latencia_ms": 73.6,
         "ativo": true
       }
     ]
@@ -1333,7 +1333,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1029.6,
+        "latencia_ms": 60.7,
         "ativo": true
       },
       {
@@ -1342,7 +1342,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1090.1,
+        "latencia_ms": 80.4,
         "ativo": true
       }
     ]
@@ -1359,7 +1359,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 69.9,
+        "latencia_ms": 53.7,
         "ativo": true
       },
       {
@@ -1368,7 +1368,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 93.4,
+        "latencia_ms": 67.0,
         "ativo": true
       }
     ]
@@ -1385,7 +1385,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 62.8,
+        "latencia_ms": 58.9,
         "ativo": true
       },
       {
@@ -1394,7 +1394,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.6,
+        "latencia_ms": 72.2,
         "ativo": true
       }
     ]
@@ -1411,7 +1411,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 96.8,
+        "latencia_ms": 49.1,
         "ativo": true
       },
       {
@@ -1420,7 +1420,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1008.9,
+        "latencia_ms": 54.1,
         "ativo": true
       }
     ]
@@ -1437,7 +1437,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.3,
+        "latencia_ms": 57.0,
         "ativo": true
       },
       {
@@ -1446,7 +1446,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.4,
+        "latencia_ms": 61.1,
         "ativo": true
       }
     ]
@@ -1458,21 +1458,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/169097.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/169097.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 86.8,
+        "latencia_ms": 65.6,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/169097.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/169097.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1137.1,
+        "latencia_ms": 78.1,
         "ativo": true
       }
     ]
@@ -1484,21 +1484,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225349.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225349.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.0,
+        "latencia_ms": 54.7,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225349.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225349.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1127.3,
+        "latencia_ms": 70.1,
         "ativo": true
       }
     ]
@@ -1515,7 +1515,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.9,
+        "latencia_ms": 54.1,
         "ativo": true
       },
       {
@@ -1524,7 +1524,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 80.3,
+        "latencia_ms": 90.9,
         "ativo": true
       }
     ]
@@ -1541,7 +1541,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 84.8,
+        "latencia_ms": 47.5,
         "ativo": true
       },
       {
@@ -1550,7 +1550,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 91.7,
+        "latencia_ms": 66.2,
         "ativo": true
       }
     ]
@@ -1567,7 +1567,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 76.6,
+        "latencia_ms": 59.8,
         "ativo": true
       },
       {
@@ -1576,7 +1576,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 79.9,
+        "latencia_ms": 65.9,
         "ativo": true
       }
     ]
@@ -1588,21 +1588,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225345.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225345.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 72.7,
+        "latencia_ms": 57.4,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225345.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225345.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.7,
+        "latencia_ms": 63.4,
         "ativo": true
       }
     ]
@@ -1619,7 +1619,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 80.3,
+        "latencia_ms": 55.5,
         "ativo": true
       },
       {
@@ -1628,7 +1628,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 1098.7,
+        "latencia_ms": 72.6,
         "ativo": true
       }
     ]
@@ -1645,7 +1645,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 66.8,
+        "latencia_ms": 53.8,
         "ativo": true
       },
       {
@@ -1654,7 +1654,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 75.4,
+        "latencia_ms": 72.2,
         "ativo": true
       }
     ]
@@ -1671,7 +1671,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 72.5,
+        "latencia_ms": 63.6,
         "ativo": true
       },
       {
@@ -1680,7 +1680,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 82.2,
+        "latencia_ms": 72.1,
         "ativo": true
       }
     ]
@@ -1692,21 +1692,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225341.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225341.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 73.8,
+        "latencia_ms": 52.2,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225341.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225341.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.8,
+        "latencia_ms": 56.7,
         "ativo": true
       }
     ]
@@ -1723,7 +1723,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 80.0,
+        "latencia_ms": 55.5,
         "ativo": true
       },
       {
@@ -1732,7 +1732,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 81.2,
+        "latencia_ms": 62.5,
         "ativo": true
       }
     ]
@@ -1744,21 +1744,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225339.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225339.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 70.2,
+        "latencia_ms": 54.9,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225339.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225339.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 74.4,
+        "latencia_ms": 56.8,
         "ativo": true
       }
     ]
@@ -1775,7 +1775,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 75.1,
+        "latencia_ms": 63.0,
         "ativo": true
       },
       {
@@ -1784,7 +1784,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 78.0,
+        "latencia_ms": 64.1,
         "ativo": true
       }
     ]
@@ -1796,21 +1796,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225337.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225337.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 91.6,
+        "latencia_ms": 50.8,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225337.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225337.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 99.3,
+        "latencia_ms": 86.1,
         "ativo": true
       }
     ]
@@ -1822,21 +1822,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225336.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225336.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 77.5,
+        "latencia_ms": 56.1,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225336.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225336.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 84.0,
+        "latencia_ms": 66.3,
         "ativo": true
       }
     ]
@@ -1848,21 +1848,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225335.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225335.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 68.6,
+        "latencia_ms": 71.8,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225335.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225335.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 82.5,
+        "latencia_ms": 82.9,
         "ativo": true
       }
     ]
@@ -1879,7 +1879,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 73.8,
+        "latencia_ms": 52.5,
         "ativo": true
       },
       {
@@ -1888,7 +1888,7 @@
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 108.1,
+        "latencia_ms": 62.3,
         "ativo": true
       }
     ]
@@ -1900,21 +1900,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225333.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225333.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 72.3,
+        "latencia_ms": 57.8,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225333.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225333.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 81.5,
+        "latencia_ms": 66.8,
         "ativo": true
       }
     ]
@@ -1926,21 +1926,21 @@
     "categoria": "Adulto",
     "fontes": [
       {
-        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225332.ts",
+        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225332.ts",
         "nome": "Fonte 1",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 67.4,
+        "latencia_ms": 65.2,
         "ativo": true
       },
       {
-        "url": "http://4t75eg.cloud/live/fernando935/mcPT62/225332.ts",
+        "url": "http://4t75eg.cloud/live/hZ9He8/1Uf2Uw/225332.ts",
         "nome": "Fonte 2",
         "referer": "",
         "agente": "Mozilla/5.0",
         "chave": "",
-        "latencia_ms": 76.4,
+        "latencia_ms": 68.3,
         "ativo": true
       }
     ]
