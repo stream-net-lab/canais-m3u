@@ -1,14 +1,14 @@
 {
-  "tag": "v4.1.0",
-  "versao": "4.1.0",
-  "codigo": 40100,
-  "data": "2026-11-26",
-  "notas": "TV & Filmes v4.1.0: Novo layout Cinema Lumina 10-Foot (fundo escuro e foco ambar dourado), APK ultraleve (~4 MB), compilado do codigo-fonte Kotlin limpo (zero referencias externas), DNS 1.1.1.1 sempre ativo, player mais estavel e nova tela de Acessibilidade.",
+  "tag": "v4.0.4",
+  "versao": "4.0.4",
+  "codigo": 40004,
+  "data": "2026-11-22",
+  "notas": "TV & Filmes v4.0.4: Sincronizacao completa da versao interna em todas as telas e no comparador de atualizacoes (eliminando falso aviso de update), DNS 1.1.1.1 estavel e verificacao automatica de integridade.",
   "arquivos": {
     "tvbox": {
       "url": "https://stream-net-lab.github.io/canais-m3u/tv-filmes.apk",
-      "bytes": 4758650,
-      "sha256": "4deb875dc4f01a66a2327e8c71db1a46a72b201b8d42d06e0f4a5770b26d2d1f"
+      "bytes": 10673746,
+      "sha256": "7ab4783520ba6fa5ed0316d8039621be76887d6c8a1bad461e9a36e49cf72186"
     }
   }
 }
