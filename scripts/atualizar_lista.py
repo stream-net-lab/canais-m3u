@@ -1667,6 +1667,7 @@ def validar_canais(canais_por_cat, canais_adultos=None):
 
     # Salva relatório de saúde dos links para aviso no painel.html
     try:
+        from datetime import datetime, timezone
         links_testados = len(resultado)
         links_caidos = max(0, links_testados - vivos)
         saude_path = os.path.join(REPO_ROOT, "data", "saude_links.json")
