@@ -1,0 +1,397 @@
+A Qualquer Custo	dub=0:34874,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=338766&versao=dub	leg=0:62175,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=338766&versao=leg
+A Qualquer Preço (2015)	dub=2:1874662,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=289191&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=289191&versao=leg
+A Queda	dub=0:54272,0:37585,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=985939&versao=dub	leg=0:62191,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=985939&versao=leg
+A Queda 2: No Limite (2026)	dub=https://saimo-tv.pages.dev/api/proxy?url=http%3A%2F%2Ffenixflix.fenixhub.online%2Fr%2FsSXCIBe8DnarUXsSA5ubWXSRYaOV_nbs7f8D_dQ33ycnGGvsRxG8ChFFurL6J-yFc-DaucDFjDXP2ld0GZdEMzZvM-DW6Nz1TW0,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1101412&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1101412&versao=leg
+A Queda (2022)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=985939&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=985939&versao=leg
+A Queda! As Últimas Horas de Hitler	dub=0:22974,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=613&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=613&versao=leg
+A queda da Terra (2015)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=353257&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=353257&versao=leg
+A Queda de Berlim	dub=0:43707,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=429886&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=429886&versao=leg
+A Queda do Céu	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1275250&versao=dub	leg=0:97228,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1275250&versao=leg
+A QUEDA DO QUARTERBACK A ESPOSA QUIETA E UMA HERDEIRA	dub=0:301700
+A Queda e a Ascensão do Lutador Vampiro	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=619272&versao=dub	leg=0:62181,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=619272&versao=leg
+A Queima Roupa	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=319&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=319&versao=leg
+A QUERIDA DO CEO NO KANSAS - CEO'S KANSAS SWEETHEART	dub=0:301706
+A QUERIDINHA DO GANGSTER	leg=0:302395,0:302412
+A QUERIDINHA PRECIOSA DO CAUDILHO MILITAR	leg=0:302399
+A Quimica do Amor	dub=0:12702,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=406668&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=406668&versao=leg
+A Química que Há Entre Nós	dub=0:54277,0:22979,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=621013&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=621013&versao=leg
+As Quatro Chaves Mágicas	dub=0:8770,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=372879&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=372879&versao=leg
+As Quatro Estações do Amor	dub=0:54674,0:43947,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1059073&versao=dub	leg=0:64976,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1059073&versao=leg
+As Quatro Irmãs	dub=6:4708144,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=553453&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=553453&versao=leg
+As Quíntuplas: O Filme	dub=0:8759	leg=0:64981
+O QUARTERBACK DO VIZINHO	leg=0:301761
+O QUARTERBACK PERDIDO RETORNA	dub=0:302123
+O Quarteto Fantástico (1994)	dub=0:6703,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22059&versao=dub
+O quarto 1408	dub=0:50789
+O Quarto 404	dub=0:909,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1290213&versao=dub	leg=0:83514,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1290213&versao=leg
+O Quarto ao Lado	dub=https://embedplayer2.xyz/cdn/hls/316674b6d4188fb0c012bb3ae08f5a8f/master.txt,0:57644,0:29621,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1088514&versao=dub	leg=0:83524,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1088514&versao=leg
+O Quarto de Jack	dub=0:29630,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=264644&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=264644&versao=leg
+O Quarto de Vidro	dub=0:29626,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=498155&versao=dub	leg=0:83508,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=498155&versao=leg
+O Quarto do Bebê	dub=0:251254,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15021&versao=dub	leg=0:251234,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15021&versao=leg
+O Quarto do Panico (2002)	dub=0:50799,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4547&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4547&versao=leg
+O Quarto dos Desejos	dub=0:50804,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=582913&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=582913&versao=leg
+O Quarto Escuro (2017)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=425931&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=425931&versao=leg
+O Quarto Passageiro	dub=https://embedplayer2.xyz/cdn/hls/a5b682969882ceb13a246a26dd7f90d5/master.txt,0:17963,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=791333&versao=dub	leg=0:83519,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=791333&versao=leg
+O Quarto Sábio	dub=0:29635,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=81268&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=81268&versao=leg
+O Quarto Secreto	dub=0:45409,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=80184&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=80184&versao=leg
+O Que A Natureza Te Conta	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1418849&versao=dub	leg=2:1815588,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1418849&versao=leg
+O que Acontece Depois	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=970948&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=970948&versao=leg
+O que Acontece Depois (2023)	dub=https://embedplayer2.xyz/cdn/hls/6353a608ec6b4694f6304a21c462799e/master.txt,0:42475,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=970948&versao=dub	leg=0:83540,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=970948&versao=leg
+O Que Aconteceu com o Rei dos Golfinhos?	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1046532&versao=dub	leg=0:83535,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1046532&versao=leg
+O Que de Verdade Importa	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=340270&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=340270&versao=leg
+O Que de Verdade Importa (2017)	dub=https://embedplayer2.xyz/cdn/hls/dc9704b712351c88979a180bad79efa0/master.txt,0:29639,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=340270&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=340270&versao=leg
+O Que Deixamos Pelo Caminho	dub=0:29640,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1333087&versao=dub	leg=0:83545,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1333087&versao=leg
+O Que é Saúde	dub=2:1867526,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=415086&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=415086&versao=leg
+O Que Esperar Quando Você Está Esperando	dub=0:42480,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=76494&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=76494&versao=leg
+O Que Faria Jesus?	dub=2:1862168,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=58913&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=58913&versao=leg
+O Que Faria Jesus	dub=2:1862168,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=58913&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=58913&versao=leg
+O Que Fazemos nas Sombras (2014)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=246741&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=246741&versao=leg
+O Que Fica por Dizer	dub=6:6246643,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1632473&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1632473&versao=leg
+O Que Ficou Para Tras (2020)	dub=0:29649,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=575774&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=575774&versao=leg
+O Que Ficou Perdido	dub=0:17968,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=574188&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=574188&versao=leg
+O Que Jennifer Fez?	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1261924&versao=dub	leg=0:83551,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1261924&versao=leg
+O Que Lucía Viu	dub=0:29645,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=929453&versao=dub	leg=0:83556,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=929453&versao=leg
+O Que Me Faz Pular (2020)	dub=2:1865221,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=653758&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=653758&versao=leg
+O Que Me Traz Até Você	dub=0:59312,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=975043&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=975043&versao=leg
+O QUE NAO TE MATA	leg=0:302146
+O Que Nós Fizemos no Nosso Feriado	dub=0:17969,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=276843&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=276843&versao=leg
+O Que Nós Veremos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=651472&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=651472&versao=leg
+O Que Pode Dar Errado?	dub=https://embedplayer2.xyz/cdn/hls/63b0262a60158e5d2ce7b06987cdca0c/master.txt,0:17978,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1000643&versao=dub	leg=0:83561,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1000643&versao=leg
+O que se Esconde nas Sombras	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1296753&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1296753&versao=leg
+O que se Esconde nas Sombras (2024)	dub=https://embedplayer2.xyz/cdn/hls/d0b80fab7f28e4c48deab9a9fcec43de/master.txt,0:97621,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1296753&versao=dub	leg=0:97579,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1296753&versao=leg
+O Que Se Esconde Sob as Águas	dub=0:50809,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1330167&versao=dub	leg=0:83567,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1330167&versao=leg
+O Que Sera de Nozes	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227783&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227783&versao=leg
+O Que Será de Nozes?	dub=0:10447,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227783&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227783&versao=leg
+O Que Será de Nozes 2	dub=0:10456,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=335777&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=335777&versao=leg
+O Que Sobrou de Nós	dub=0:250081,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1162475&versao=dub	leg=0:250096,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1162475&versao=leg
+O Que Te Faz Mais Forte	dub=0:29655,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=395993&versao=dub	leg=0:83572,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=395993&versao=leg
+O Que Terá Acontecido a Baby Jane?	dub=0:50814,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10242&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10242&versao=leg
+O Que Tiver Que Ser	dub=0:57649,0:29651,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1214484&versao=dub	leg=0:83584,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1214484&versao=leg
+O Quebra Cabeca	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=466877&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=466877&versao=leg
+O Quebra-Cabeça (2018)	dub=0:29659,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=492998&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=492998&versao=leg
+O Quebra Gelo	dub=0:5948,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=393277&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=393277&versao=leg
+O Quebra Nozes	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=439504&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=439504&versao=leg
+O Quebra Nozes e os Quatro Reinos	dub=0:34420,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=426543&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=426543&versao=leg
+O Queridinho da Vovó (2006)	dub=2:1811503,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9900&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9900&versao=leg
+O QUERIDINHO DO PROFESSOR - PROFESSOR'S PET	leg=0:302052
+O Quinto Elemento	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18&versao=leg
+O Quinto Elemento (1997)	dub=https://embedplayer2.xyz/cdn/hls/9990d4658e2b7f3704040152eb3cc795/master.txt,0:5952,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18&versao=dub	leg=0:308377,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18&versao=leg
+O Quinto Poder	dub=0:290812,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=162903&versao=dub	leg=0:290777,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=162903&versao=leg
+O Quiosque	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1037113&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1037113&versao=leg
+O Quiosque (2024)	dub=0:300784,0:57659,0:17973,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1037113&versao=dub	leg=0:83577,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1037113&versao=leg
+Os Quatro 2 - Reino Sem Lei	dub=0:6421,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=251749&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=251749&versao=leg
+Os Quatro (2012)	dub=0:53906,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=120143&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=120143&versao=leg
+Os Quatro 3: A Batalha Final (2014)	dub=2:1857466,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=299738&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=299738&versao=leg
+Os Quatro Cavaleiros do Apocalipse	dub=0:37127,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=50474&versao=dub	leg=0:85404,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=50474&versao=leg
+Os Quatro da Ave Maria (1968)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11874&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11874&versao=leg
+Os Quatro Guerreiros (2015)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=346838&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=346838&versao=leg
+Os Quatro Pais	dub=https://embedplayer2.xyz/cdn/hls/f384621c13b225db37f93eb09ead8b4b/master.txt,0:18370,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=608755&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=608755&versao=leg
+Os Quatro Paralamas	dub=2:1866373,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=745887&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=745887&versao=leg
+Os Quebra-Nozes	dub=0:57927,0:18388,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1203236&versao=dub	leg=0:85396,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1203236&versao=leg
+Os Queridinhos da América	dub=0:18379,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11467&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11467&versao=leg
+Quad Gods	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1275790&versao=dub	leg=0:87212,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1275790&versao=leg
+QUADRIGEMEOS DO TIO DO MEU EX	dub=0:303069
+Quadrilha de Sádicos 2	dub=0:51551,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18477&versao=dub	leg=0:87207,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18477&versao=leg
+Quadrilha Maldita	dub=0:98927,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=37481&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=37481&versao=leg
+Qual Seu Número?	dub=0:18936,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=63492&versao=dub	leg=0:87218,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=63492&versao=leg
+Qualquer Gato Vira-Lata	dub=0:39161,http://corruptx.org:80/movie/3llohwk4g9/kwf099q30o/2450754.avi,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=74053&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=74053&versao=leg
+Qualquer Gato Vira Lata 2	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=322977&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=322977&versao=leg
+Qualquer Gato Vira-Lata 2 (2015)	dub=https://embedplayer2.xyz/cdn/hls/180213015bee6f11bae113beebfc9404/master.txt,0:39146,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=322977&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=322977&versao=leg
+Quand vient lautomne	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1171634&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1171634&versao=leg
+Quando A Festa Acabar (1993)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=102408&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=102408&versao=leg
+Quando a Guerra Acabar	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1120543&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1120543&versao=leg
+Quando a Guerra Acabar (2023)	dub=https://embedplayer2.xyz/cdn/hls/279412e7fe8d2de8afce7d3ee91bafa2/master.txt,0:37146,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1120543&versao=dub	leg=0:87213,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1120543&versao=leg
+QUANDO A JUSTICA VOLTA DA MORTE	leg=0:302782
+Quando a Luz Arrebenta	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1257407&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1257407&versao=leg
+Quando a Morte Chega	dub=0:45818,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=934641&versao=dub	leg=0:87223,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=934641&versao=leg
+Quando a Morte Sussurra	dub=0:51557,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1134433&versao=dub	leg=0:87228,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1134433&versao=leg
+Quando a Morte Sussurra 2	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1247019&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1247019&versao=leg
+Quando a Morte Sussurra 2 (2024)	dub=https://embedplayer2.xyz/cdn/hls/c39922979523d095522370fec6a435d0/master.txt,0:51567,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1247019&versao=dub	leg=0:87259,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1247019&versao=leg
+Quando a Morte Sussurra 3	dub=https://embedplayer2.xyz/cdn/hls/cbe5a57c3fcd45d4df65afeb458e09a9/master.txt,0:97343,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1410399&versao=dub	leg=0:97285,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1410399&versao=leg
+Quando a Sorte Acaba	dub=0:18939,2:1861833,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=678585&versao=dub	leg=0:87266,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=678585&versao=leg
+Quando A Verdade Veio A Tona Um Amor Ardente	leg=0:303364
+Quando a Vida Acontece	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=754800&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=754800&versao=leg
+Quando a Vida Acontece (2020)	dub=https://embedplayer2.xyz/cdn/hls/565770bf40a6c822f59f40a76d4aaee5/master.txt,0:30861,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=754800&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=754800&versao=leg
+Quando Anjos Cantam	dub=0:18941,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=57210&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=57210&versao=leg
+Quando as Luzes se Apagam	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=345911&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=345911&versao=leg
+Quando as Luzes se Apagam (2016)	dub=https://embedplayer2.xyz/cdn/hls/2ecfd08eb6206dd6c56c6342a4fb77a5/master.txt,0:51562,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=345911&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=345911&versao=leg
+Quando as Metralhadoras Cospem	dub=0:30867,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8446&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8446&versao=leg
+Quando as Mulheres Querem Provas	dub=0:256505,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=184158&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=184158&versao=leg
+Quando Brota o Amor	dub=0:42704,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=48207&versao=dub	leg=0:87233,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=48207&versao=leg
+Quando Chega a Calmaria	dub=0:36429,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=748412&versao=dub	leg=0:87234,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=748412&versao=leg
+Quando dois mundos colidem (2016)	dub=2:1865112,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=373442&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=373442&versao=leg
+QUANDO ELA DESAPARECEU	dub=0:301659
+Quando Em Roma	dub=0:18944,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13477&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13477&versao=leg
+Quando Encontrei Você	dub=0:42709,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=769749&versao=dub	leg=0:87239,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=769749&versao=leg
+Quando Eu Me Encontrar	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1136603&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1136603&versao=leg
+Quando Eu Me Encontrar (2024)	dub=0:314631,0:314672,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1136603&versao=dub	leg=0:314563,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1136603&versao=leg
+Quando Eu Penso no Natal	dub=0:40241,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1028543&versao=dub	leg=0:87244,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1028543&versao=leg
+Quando Explode a Vingança	dub=0:35232,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=336&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=336&versao=leg
+Quando Hitler Roubou o Coelho Cor-de-Rosa	dub=0:30878,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=581518&versao=dub	leg=0:87249,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=581518&versao=leg
+Quando Lembro de Chico (2019)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=568029&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=568029&versao=leg
+QUANDO MEUS GEMEOS ENCONTRAM SEU PAI	leg=0:302706
+Quando Meus Gêmeos Encontraram Seu Pai	leg=0:303375
+Quando Meus Pais Salvaram a Terra	dub=0:18946,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27295&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27295&versao=leg
+Quando Nasce o Amor (2023)	dub=https://embedplayer2.xyz/cdn/hls/aa214a3b6726dbfdcd5ea593cb4a0942/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1067821&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1067821&versao=leg
+Quando Nos Conhecemos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=433310&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=433310&versao=leg
+Quando Nos Conhecemos (2018)	dub=https://embedplayer2.xyz/cdn/hls/b3b575ace60baad14cba2c36e290259b/master.txt,0:18950,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=433310&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=433310&versao=leg
+Quando o Amor Acontece	dub=0:42713,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9715&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9715&versao=leg
+Quando o Amor Acontece (1998)	dub=0:42713,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9715&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9715&versao=leg
+Quando o amor Chega Tarde Demais	leg=0:303153
+QUANDO O AMOR DE REPENTE ACONTECE (2020)	leg=0:301775
+QUANDO O AMOR NAO BASTA	leg=0:302321
+Quando o Amor Não É Suficiente	dub=0:30873
+QUANDO O AMOR SE FOI	dub=0:301774
+QUANDO O AMOR SE FOI (2024)	leg=0:302287
+QUANDO O AMOR SECOU	leg=0:302788
+QUANDO O AMOR VIRA TRAICAO	dub=0:301660	leg=0:301742
+Quando o Ceu se Engana (2025)	dub=https://embedplayer2.xyz/cdn/hls/222fa510297ab4054d07d528ec3dc631/master.txt,0:58218,0:1052,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1114967&versao=dub	leg=0:87278,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1114967&versao=leg
+Quando o Coracao Bate Mais Forte 2	dub=0:30881,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=826680&versao=dub	leg=0:87254,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=826680&versao=leg
+Quando o Demônio Chama	dub=0:51569,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=752721&versao=dub	leg=0:87273,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=752721&versao=leg
+Quando o Galo Cantar Pela Terceira Vez Renegarás Tua Mãe (2017)	dub=2:1874427,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=488582&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=488582&versao=leg
+QUANDO O GUARDA VIROU AMOR	dub=0:301652
+Quando O Jogo Esta Alto	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=232679&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=232679&versao=leg
+Quando o Jogo está Alto	dub=0:30884,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=232679&versao=dub	leg=0:310037,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=232679&versao=leg
+Quando o Mal Chega	dub=https://embedplayer2.xyz/cdn/hls/e908c6ab307ad84c9a1ea2da77e602ac/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=744857&versao=dub	leg=0:87264,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=744857&versao=leg
+Quando o Mal Desperta	dub=0:253663,0:254819,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1301122&versao=dub	leg=0:253661,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1301122&versao=leg
+QUANDO O SANGUE VIROU VENENO	dub=0:301657
+Quando o Sol se Põe	dub=0:30895,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=697806&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=697806&versao=leg
+Quando o Tempo Cair	dub=0:39156,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=676777&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=676777&versao=leg
+Quando os Anjos Dormem	dub=0:30888,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=533992&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=533992&versao=leg
+Quando os Anjos Falam	dub=0:30893,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=50225&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=50225&versao=leg
+Quando os Bravos se Calam	dub=0:37141,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13935&versao=dub	leg=0:87284,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13935&versao=leg
+Quando Os Gritos Começam	dub=0:256514,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=853094&versao=dub	leg=0:256490,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=853094&versao=leg
+Quando os Sinos Tocam	dub=0:34640,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1039571&versao=dub	leg=0:87286,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1039571&versao=leg
+QUANDO PAREI DE TE SALVAR	dub=0:301654
+QUANDO SUAS MENTIRAS BATERAM NO LIMITE	dub=0:301463
+Quando Te Conheci (2015)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=301875&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=301875&versao=leg
+Quando Te Encontrei	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=769749&versao=dub	leg=0:302319,0:302323,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=769749&versao=leg
+Quando Te Encontrei - Love In Time	dub=0:302932
+Quando Tudo Parece Perdido (2015)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=465032&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=465032&versao=leg
+Quando um Estranho Chama	dub=0:51575,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=45964&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=45964&versao=leg
+Quando um Homem Ama uma Mulher	dub=0:30898,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10449&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10449&versao=leg
+Quando Um Homem É Homem (1963)	dub=2:2334981,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15263&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15263&versao=leg
+Quando Voce Chegou	dub=0:18960,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=375785&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=375785&versao=leg
+Quando Voce Menos Espera (2019)	dub=0:18955,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=565326&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=565326&versao=leg
+Quando Você Terminar de Salvar o Mundo	dub=0:30906,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=691422&versao=dub	leg=0:87292,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=691422&versao=leg
+Quanto Mais Idiota Melhor (1992)	dub=2:1811553,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8872&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8872&versao=leg
+Quanto Mais Idiota Melhor 2 (1993)	dub=2:1811389,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8873&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8873&versao=leg
+Quanto Vale?	dub=0:58209,0:30901,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=649394&versao=dub	leg=0:87297,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=649394&versao=leg
+Quantos Dias Quantas Noites	dub=2:1865704,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1174335&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1174335&versao=leg
+Quarentão	dub=0:51586,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=949270&versao=dub	leg=0:87303,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=949270&versao=leg
+Quarentena	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13812&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13812&versao=leg
+Quarentena 2	dub=0:51579,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=59115&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=59115&versao=leg
+Quarentena (2008)	dub=https://embedplayer2.xyz/cdn/hls/2db05ef6fcb595aa26b291d6574a70df/master.txt,0:51573,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13812&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13812&versao=leg
+Quarentena Pra Quem? (2021)	dub=2:1867512,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=861750&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=861750&versao=leg
+Quarta Série	dub=0:30914,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857446&versao=dub	leg=0:87313,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857446&versao=leg
+Quarteto Amigo	dub=0:18956,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=510334&versao=dub	leg=0:312559,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=510334&versao=leg
+Quarteto Fantastico 1	dub=0:6703
+Quarteto Fantastico 2	dub=0:6710,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1979&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1979&versao=leg
+Quarteto Fantastico 3	dub=0:6706
+Quarteto Fantástico e o Surfista Prateado (2007)	dub=6:6377547,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1979&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1979&versao=leg
+Quarteto Fantastico Primeiros Passos (2025)	dub=https://embedplayer2.xyz/cdn/hls/ee842c7919fc5d185935dfae94b5396e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=617126&versao=dub	leg=0:87308,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=617126&versao=leg
+Quarteto Fantástico: Primeiros Passos (2025)	dub=https://saimo-tv.pages.dev/api/proxy?url=http%3A%2F%2Ffenixflix.fenixhub.online%2Fr%2FNYBdoVDZfbawEbCSUxahmuNY5AfIvSC7-ZlJaZCB96gIvJFmtRfE4jIs6Ql8-y8b4T-6hOsb6B0abFRcjxaNPYLUo3_MRjClT-TZkjM,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=617126&versao=dub
+Quarto 212 (2019)	dub=https://embedplayer2.xyz/cdn/hls/d66610f0fd72d3c0bf655f90bd35d6dd/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=595867&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=595867&versao=leg
+Quarto de Guerra	dub=0:41001,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=323272&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=323272&versao=leg
+Quarto do Pânico	dub=0:97354,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1404023&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1404023&versao=leg
+Quartos Vazios	dub=0:97484,0:1054,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1525091&versao=dub	leg=0:87346,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1525091&versao=leg
+Quase 18 (2016)	dub=https://embedplayer2.xyz/cdn/hls/e3d0fcb09c80aa517818de85584e27b1/master.txt,0:18965,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=376660&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=376660&versao=leg
+Quase Amigos	dub=0:30924,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=436459&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=436459&versao=leg
+QUASE AMOR	dub=0:302771,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1011301&versao=dub	leg=0:302318,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1011301&versao=leg
+Quase Apaixonados	dub=0:42715,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1270003&versao=dub	leg=0:87360,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1270003&versao=leg
+Quase Deserto	dub=0:250950,0:254820,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1540605&versao=dub	leg=0:250936,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1540605&versao=leg
+Quase Deuses	dub=0:30911,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20544&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20544&versao=leg
+Quase Dois Irmãos	dub=0:30928,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49449&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49449&versao=leg
+Quase Famosos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=786&versao=dub	leg=0:87318,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=786&versao=leg
+Quase Famosos (2000)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=786&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=786&versao=leg
+Quase Famosos (2019)	dub=0:18983,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=641004&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=641004&versao=leg
+Quase Igual aos Outros	dub=0:314436,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24548&versao=dub	leg=0:314564,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24548&versao=leg
+Quase Irmãos (2008)	dub=2:1811608,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12133&versao=dub
+Quase Morta	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=791295&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=791295&versao=leg
+Quase Morta (2023)	dub=https://embedplayer2.xyz/cdn/hls/805412546289d6c500135ae8bb5d0573/master.txt,0:58221,0:18974,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=791295&versao=dub	leg=0:87323,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=791295&versao=leg
+Quase o Paraíso	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1232732&versao=dub	leg=0:87328,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1232732&versao=leg
+Quase Trinta - Em Busca do Amor	dub=https://embedplayer2.xyz/cdn/hls/c004f1560dbd67edd287b36dcd430361/master.txt,0:97562,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1160124&versao=dub	leg=0:97595,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1160124&versao=leg
+Quase Uma Noiva (2024)	dub=https://embedplayer2.xyz/cdn/hls/66d197705b4fd719036a0b66e30fffd1/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1148745&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1148745&versao=leg
+Quase uma Rockstar	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=615466&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=615466&versao=leg
+Quase uma Rockstar (2020)	dub=https://embedplayer2.xyz/cdn/hls/5e7e2c2e486532fc687a17b89065433f/master.txt,0:30933,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=615466&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=615466&versao=leg
+Quasimodo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1480665&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1480665&versao=leg
+Quasimodo (2023)	dub=0:58223,0:18969,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=893752&versao=dub	leg=0:87334,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=893752&versao=leg
+Quatro Amigas e um Casamento	dub=0:18979,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=84174&versao=dub	leg=0:87387,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=84174&versao=leg
+Quatro Amigas e um Jeans Viajante	dub=0:30939,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9779&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9779&versao=leg
+Quatro Amigas e um Jeans Viajante 2 (2008)	dub=https://embedplayer2.xyz/cdn/hls/792d51e75228bc1667e9cdec8b58631b/master.txt,0:30937,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10188&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10188&versao=leg
+Quatro Amigas Numa Fria	dub=0:18992,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=884571&versao=dub	leg=0:87340,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=884571&versao=leg
+QUATRO BEBES DO REGENTE	dub=0:301782
+Quatro Cavaleiros do Apocalipse	dub=0:37127,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=50474&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=50474&versao=leg
+Quatro Cavaleiros do Apocalipse (2022)	dub=0:51584,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=969686&versao=dub	leg=0:87399,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=969686&versao=leg
+Quatro Dias com Eduardo	dub=2:2325816,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=651880&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=651880&versao=leg
+Quatro Dias com Ela (2021)	dub=0:26255,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=641960&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=641960&versao=leg
+Quatro Gerações	dub=0:30944,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1026822&versao=dub	leg=0:87349,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1026822&versao=leg
+Quatro Histórias de Desejo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1451944&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1451944&versao=leg
+Quatro Histórias de Desejo 2	dub=0:30953,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1136736&versao=dub	leg=0:87370,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1136736&versao=leg
+Quatro Histórias de Desejo (2018)	dub=https://embedplayer2.xyz/cdn/hls/0b48d542c7f507f602e7706ec6f77b8d/master.txt,0:30948,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=530154&versao=dub	leg=0:87335,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=530154&versao=leg
+Quatro Histórias de Desejo 3	dub=6:6075555,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1451944&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1451944&versao=leg
+Quatro Historias de Fantasmas (2020)	dub=https://embedplayer2.xyz/cdn/hls/3122b5241005d96600962ee373d2d98c/master.txt,0:51593,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=601643&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=601643&versao=leg
+Quatro Irmãos	dub=2:1859146,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8292&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8292&versao=leg
+Quatro Irmas Imploram Me Para Ir Para Casa	leg=0:302711
+Quatro Mães	dub=0:254305,0:254825,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1081196&versao=dub	leg=0:254662,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1081196&versao=leg
+Quatro Mulheres e Um Destino (1994)	dub=0:56697,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11853&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11853&versao=leg
+Quatro Vidas de um Cachorro	dub=0:18988,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=381289&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=381289&versao=leg
+Que a Festa Comece (1975)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=76482&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=76482&versao=leg
+Que a Força Materna Esteja com Você	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1284004&versao=dub	leg=0:87358,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1284004&versao=leg
+Que Culpa Tem o Carma?	dub=0:42719,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=648743&versao=dub	leg=0:87352,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=648743&versao=leg
+Que Do	dub=0:14566,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=3981&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=3981&versao=leg
+QUE EU CONQUISTE PODER E DESEJO	leg=0:302618
+Que Família é Essa?	dub=0:18997,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=391700&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=391700&versao=leg
+Que Haja Luz	dub=0:30954,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=480881&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=480881&versao=leg
+Que Horas Ela Volta (2015)	dub=https://embedplayer2.xyz/cdn/hls/de1aba65ede983104330f2a79ad8bbbe/master.txt,0:39152,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=310569&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=310569&versao=leg
+Que Horas Eu Te Pego (2023)	dub=https://embedplayer2.xyz/cdn/hls/ed802bb981266c79093194eccf474614/master.txt,0:58228,0:19002,0:301405,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=884605&versao=dub	leg=0:301230,0:87364,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=884605&versao=leg
+Que Léon (2018)	dub=https://embedplayer2.xyz/cdn/hls/be4184a0ecb6f51b896fba2b07cf6f4f/master.txt,0:42751,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=567452&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=567452&versao=leg
+Que Mãe Sou Eu? (2025)	dub=https://embedplayer2.xyz/cdn/hls/45a7ae916f7be42ce58b1594c44d034b/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=729713&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=729713&versao=leg
+Que Mal Eu Fiz a Deus?	dub=0:19011,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=262391&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=262391&versao=leg
+Que Mal Eu Fiz a Deus? 2	dub=0:19006,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=505436&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=505436&versao=leg
+Que Mal Que Faz	dub=0:310654,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=464043&versao=dub	leg=0:310693,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=464043&versao=leg
+Que Mal Tem? (2008)	dub=2:1819863,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10358&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10358&versao=leg
+QUE O PODER DOS TRES ME LIBERTE	leg=0:302156
+Qué perra vida	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=520236&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=520236&versao=leg
+Que Sorte Danada!	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20242&versao=dub	leg=0:87394,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20242&versao=leg
+Quebra de Confiança (2007)	dub=2:1875575,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4169&versao=dub
+Quebra de Fidelidade	dub=0:290740,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=37567&versao=dub	leg=0:290784,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=37567&versao=leg
+Quebrando a Banca	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8065&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8065&versao=leg
+Quebrando a Banca (2008)	dub=https://embedplayer2.xyz/cdn/hls/6ab3572c40f0db751d3806e52c587468/master.txt,0:30959,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8065&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8065&versao=leg
+Quebrando as Regras 4	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=763025&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=763025&versao=leg
+Quebrando as Regras 4 (2021)	dub=https://embedplayer2.xyz/cdn/hls/4cd5c3eeae1d5fea2bf67ef68e0bd574/master.txt,0:6715,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=763025&versao=dub	leg=0:87376,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=763025&versao=leg
+Quebrando Correntes	dub=0:30963,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=841575&versao=dub	leg=0:87404,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=841575&versao=leg
+Quebrando o Gelo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15489&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1032412&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1032412&versao=leg
+Quebrando o Gelo (2022)	dub=0:53261,0:302264,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1032412&versao=dub	leg=0:301231,0:87371,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1032412&versao=leg
+Quebrando Regras	dub=https://embedplayer2.xyz/cdn/hls/a2d83ed1d330ab733eabef5713a312f5/master.txt,0:30968,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8456&versao=dub	leg=0:87382,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8456&versao=leg
+Quebrando Regras 2	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=70006&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=70006&versao=leg
+Quebrando Regras 2 (2011)	dub=https://embedplayer2.xyz/cdn/hls/20ec23b6961472d74d6b3211ecce1c6e/master.txt,0:30973,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=70006&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=70006&versao=leg
+Quebrando Regras (2025)	dub=https://embedplayer2.xyz/cdn/hls/a2d83ed1d330ab733eabef5713a312f5/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1379520&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1379520&versao=leg
+Quebrando Regras 3	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=391757&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=391757&versao=leg
+Quebrando Regras 3: Não Se Rendam	dub=0:310662,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=391757&versao=dub	leg=0:310694,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=391757&versao=leg
+QUEBRE MEU CORACAO NOVAMENTE	leg=0:302731
+Queda Livre: A Tragédia do Caso Boeing (2022)	dub=2:1867441,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=913862&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=913862&versao=leg
+Queda Livre: As Consequências do Caso Boeing	dub=0:313105,0:313126,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1688804&versao=dub	leg=0:313117,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1688804&versao=leg
+QUEDAR-SE DE VONTADE NO NOSSO CARMA	leg=0:302786
+Queen And Slim	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=536743&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=536743&versao=leg
+Queen e Slim	dub=0:30978
+Queen Of Spades Through The Looking Glass	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=575361&versao=dub	leg=0:47109,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=575361&versao=leg
+Queen & Slim	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=536743&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=536743&versao=leg
+Queen - The Freddie Mercury Tribute Concert 10th Anniversary Documentary (2002)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=719202&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=719202&versao=leg
+Queen Tut	dub=0:98609,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1020386&versao=dub	leg=0:98683,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1020386&versao=leg
+Queens	dub=0:19016,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1596318&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1596318&versao=leg
+Queer	dub=https://embedplayer2.xyz/cdn/hls/9b8e1315c78f547ebcd4e92adbfb5144/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1059128&versao=dub	leg=0:87410,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1059128&versao=leg
+Queima de Arquivo	dub=0:6718,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9268&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9268&versao=leg
+Queimando o Filme	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1204892&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1204892&versao=leg
+Queimando o Filme (2025)	dub=https://embedplayer2.xyz/cdn/hls/36a4ffe7a508946b05d3956cfe26abf0/master.txt,0:58232,0:42723,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1204892&versao=dub	leg=0:87416,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1204892&versao=leg
+QUEIMANDO PONTES	leg=0:303015
+Queimando Por Dentro	dub=0:97312,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1362523&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1362523&versao=leg
+Queimando Tudo	dub=0:19012,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11455&versao=dub	leg=0:87426,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11455&versao=leg
+QUEIMAR O AMOR AO ANOITECER	leg=0:302329
+Queime Depois de Ler	dub=0:19025,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4944&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4944&versao=leg
+QUEIME MEU AMOR	leg=0:302211
+Queime Todas Minhas Cartas	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=845605&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=845605&versao=leg
+Queime Todas Minhas Cartas (2022)	dub=https://embedplayer2.xyz/cdn/hls/ab6c060cde58e4aa37dbe7ec4aeabe20/master.txt,0:1057,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=845605&versao=dub	leg=0:87420,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=845605&versao=leg
+Quem Acabou com o Montreal Expos?	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1544623&versao=dub	leg=0:87436,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1544623&versao=leg
+Quem Cantara as suas Cancoes	dub=0:30985,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438373&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438373&versao=leg
+Quem Chamou o Charlie? (2023)	dub=https://embedplayer2.xyz/cdn/hls/43df454519c9db9e85c81d69d0780cbf/master.txt,0:19021,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1042279&versao=dub	leg=0:87431,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1042279&versao=leg
+Quem com Ferro Fere	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=25507&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=25507&versao=leg
+Quem com Ferro Fere (2019)	dub=https://embedplayer2.xyz/cdn/hls/e1387252e937441f7604b39a1396e0a5/master.txt,0:45804,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=574376&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=574376&versao=leg
+Quem Dispara Primeiro? (1968)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=131229&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=131229&versao=leg
+Quem é Essa?	dub=0:19052,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26827&versao=dub	leg=0:87500,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26827&versao=leg
+Quem é JonBenet (2017)	dub=2:1880308,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=430826&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=430826&versao=leg
+Quem E Morto Sempre Aparece	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1434161&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1434161&versao=leg
+Quem é Morto Sempre Aparece	dub=0:58239,0:19027,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1434161&versao=dub	leg=0:87505,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1434161&versao=leg
+Quem é Morto Sempre Aparece (2005)	dub=https://embedplayer2.xyz/cdn/hls/caa5c5525ce4fc82418b7c96f5ad6be7/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9968&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9968&versao=leg
+QUEM E O PROTAGONISTA - APAGANDO VOCE DA MINHA MENTE	leg=0:301593
+Quem é seu Pai?	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1163402&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1163402&versao=leg
+Quem é seu Pai? (2023)	dub=0:313109,0:313127,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1163402&versao=dub	leg=0:313118,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1163402&versao=leg
+Quem Está Aí?	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1551521&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1551521&versao=leg
+Quem Está Aí? (2022)	dub=0:45813,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=986718&versao=dub	leg=0:87443,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=986718&versao=leg
+Quem Está no Controle?	dub=0:45809,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=896713&versao=dub	leg=0:87441,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=896713&versao=leg
+Quem Está Rindo Agora?	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=749047&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=749047&versao=leg
+Quem Está Rindo Agora? (2020)	dub=https://embedplayer2.xyz/cdn/hls/0f0c5d74aaa139b7e0737177fb0dd654/master.txt,0:51607,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=749047&versao=dub	leg=0:87448,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=749047&versao=leg
+Quem Eu Mais Quero Conhecer	dub=0:30987,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1033910&versao=dub	leg=0:87453,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1033910&versao=leg
+Quem Fica com o Bar? (2022)	dub=https://embedplayer2.xyz/cdn/hls/7eda8dbb34f27ef10c161d17db7fabd7/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=862553&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=862553&versao=leg
+Quem Fizer Ganha (2023)	dub=https://embedplayer2.xyz/cdn/hls/479d04a9c9a3c9cca0d9411c688359c1/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=621587&versao=dub	leg=0:87460,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=621587&versao=leg
+Quem Matou? (2023)	dub=https://embedplayer2.xyz/cdn/hls/489183f341d6576ab55005283d1ae597/master.txt,0:19030,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1034335&versao=dub	leg=0:87467,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1034335&versao=leg
+Quem Matou Eloá?	dub=0:53759,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=433069&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=433069&versao=leg
+Quem Matou Lady Winsley ?	dub=0:21823,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=511468&versao=dub	leg=0:87462,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=511468&versao=leg
+Quem Matou Meu Filho?	dub=0:45832,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=890466&versao=dub	leg=0:87472,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=890466&versao=leg
+Quem Matou Pixote?	dub=0:255405,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8442&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8442&versao=leg
+Quem Matou Rosemary	dub=0:51589,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44247&versao=dub	leg=0:87477,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44247&versao=leg
+QUEM ME DEU LUZ ME AFOGOU NO ESCURO	dub=0:301530
+Quem Quer Ser Famoso?	dub=0:51595,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=943919&versao=dub	leg=0:87479,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=943919&versao=leg
+Quem Quer Ser um Milionario?	dub=0:30992,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12405&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12405&versao=leg
+Quem Se Importa?	dub=2:1866479,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=179810&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=179810&versao=leg
+Quem Se Importa Com O Coração De Uma Plantinha	leg=0:303088
+Quem Somos Agora	dub=0:30996,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=466410&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=466410&versao=leg
+Quem Somos Nós: Uma Crônica do Racismo na América (2022)	dub=2:1866947,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=803737&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=803737&versao=leg
+Quem Sou Eu? (1998)	dub=https://embedplayer2.xyz/cdn/hls/c7937c8e9d178bcc277a7123d5800605/master.txt,0:6725,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8697&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8697&versao=leg
+Quem Tem Medo de Lobisomem?	dub=0:53360,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=358608&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=358608&versao=leg
+Quem Tem Medo de Virginia Woolf?	dub=2:2053225,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=396&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=396&versao=leg
+Quem Vai Ficar com Mário?	dub=0:19033,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=668780&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=668780&versao=leg
+Quem Vai Ficar com Mary	dub=0:42733,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=544&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=544&versao=leg
+Quem Vai Ficar com Masha?	dub=0:6721,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591662&versao=dub	leg=0:87484,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591662&versao=leg
+Quem Vai Salvar o Natal 2 (2025)	dub=https://embedplayer2.xyz/cdn/hls/d9b910ba91bb8b6d305e7287070fb2f4/master.txt,0:310514,0:1061,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1196207&versao=dub	leg=0:87488,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1196207&versao=leg
+Quem Vê Cara	dub=0:19047,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2616&versao=dub	leg=0:87491,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2616&versao=leg
+Quem Vê Cara Não Vê Coração	dub=0:19043,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2616&versao=dub	leg=0:87496,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2616&versao=leg
+Quem Você Levaria Para Uma Ilha Deserta	dub=0:19038,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=586333&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=586333&versao=leg
+Quem Você Pensa que Sou?	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=544404&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=544404&versao=leg
+Quem Você Pensa que Sou? (2019)	dub=https://embedplayer2.xyz/cdn/hls/72adeb5bb380362aef44a7298d932469/master.txt,0:31002,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=544404&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=544404&versao=leg
+Quentin Tarantino Os Oito Primeiros	dub=2:1864204,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=631143&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=631143&versao=leg
+Querem Acabar Comigo (2005)	dub=https://embedplayer2.xyz/cdn/hls/6f8bfffdccd511e2aa0aaef269969c5a/master.txt,0:312000,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11637&versao=dub	leg=0:312024,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11637&versao=leg
+Queremos Matar Gunther (2017)	dub=https://embedplayer2.xyz/cdn/hls/02d5ae2b59538e778a9acbfd778ecc2a/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=412547&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=412547&versao=leg
+Querencia	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=576079&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=576079&versao=leg
+Querência	dub=0:30997,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=576079&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=576079&versao=leg
+Queria Que Você fosse A Minha Esposa	leg=0:303363
+Queria Você Aqui	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=842328&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=842328&versao=leg
+Queria Você Aqui (2025)	dub=https://embedplayer2.xyz/cdn/hls/1e344d0d8a67bbb1c5b05976e2bd50eb/master.txt,0:42728,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=842328&versao=dub	leg=0:87508,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=842328&versao=leg
+Querida	dub=0:58234,0:45823,0:254822,2:1811401,2:1851563,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1205515&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=619730&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1075523&versao=dub	leg=0:87522,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1205515&versao=leg,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=619730&versao=leg,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1075523&versao=leg
+Querida Elizabeth	dub=0:19057,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=659551&versao=dub	leg=0:87517,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=659551&versao=leg
+Querida! Encolhi as Crianças	dub=0:19061,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9354&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9354&versao=leg
+Querida Estranha	dub=https://embedplayer2.xyz/cdn/hls/721c5940556b60aac2db0cc3649501d2/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1029281&versao=dub	leg=0:87512,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1029281&versao=leg
+Querida Léa	dub=0:31007,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=833428&versao=dub	leg=0:87528,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=833428&versao=leg
+Querida Mamae	dub=0:39165,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=480636&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=480636&versao=leg
+Querida por Favor nao Case com ele	leg=0:303151
+Querida Zoe	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=646473&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=646473&versao=leg
+Querida Zoe (2022)	dub=https://embedplayer2.xyz/cdn/hls/f04e9fea826dcfe67b63cc01e4d242fc/master.txt,0:31008,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=646473&versao=dub	leg=0:87529,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=646473&versao=leg
+Queridinhas	dub=0:19066,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27458&versao=dub	leg=0:87539,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27458&versao=leg
+Querido	dub=0:19071,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1074074&versao=dub	leg=0:87544,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1074074&versao=leg
+Querido David	dub=0:19075,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1059372&versao=dub	leg=0:87534,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1059372&versao=leg
+Querido Evan Hansen	dub=0:31014,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=567690&versao=dub	leg=0:87545,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=567690&versao=leg
+QUERIDO IRMAO SEU AMOR VEIO TARDE DEMAIS	dub=0:301477	leg=0:302341
+Querido John	dub=0:42738,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22971&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22971&versao=leg
+QUERIDO MARIDO VAMOS NOS DIVORCIAR	leg=0:301777
+Querido Menino	dub=0:58244,0:31012,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=451915&versao=dub	leg=0:87562,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=451915&versao=leg
+Querido Natal	dub=0:40242,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=744941&versao=dub	leg=0:87550,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=744941&versao=leg
+Querido Papai Noel	dub=0:58247,0:19080,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1097870&versao=dub	leg=0:87556,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1097870&versao=leg
+Querido Rider: a História de Jake Burton	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=884573&versao=dub	leg=0:87559,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=884573&versao=leg
+QUERIDO VOCE ESTA FRITO	dub=0:301571
+Querô (2007)	dub=2:1879858,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=46645&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=46645&versao=leg
+Quero Dizer que te Amo	dub=0:42742,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=46029&versao=dub	leg=0:87567,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=46029&versao=leg
+Quero Ficar Com Polly	dub=0:19089,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5966&versao=dub	leg=0:87572,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5966&versao=leg
+Quero Matar Meu Chefe	dub=0:19084,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=51540&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=51540&versao=leg
+Quero Matar Meu Chefe 2	dub=0:19086,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227159&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227159&versao=leg
+Quero Ser Grande	dub=0:19094,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2280&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2280&versao=leg
+Quero Ser John Malkovich	dub=0:19097,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=492&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=492&versao=leg
+Quero-te Tanto!	dub=0:19099,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=611674&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=611674&versao=leg
+Quero Viver Ate O Fim	leg=0:303099
+Quero Você	dub=0:42747,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1300116&versao=dub	leg=0:87596,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1300116&versao=leg
+Questão de Escolha	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1552422&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1552422&versao=leg
+Questão de Escolha (2014)	dub=0:31024,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=294866&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=294866&versao=leg
+Questao de Honra	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=881&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=881&versao=leg
+Questão de Honra	dub=0:31018,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=881&versao=dub	leg=0:87575,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=881&versao=leg
+Questão de Honra (2022)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1291945&versao=dub	leg=2:1811942,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1291945&versao=leg
+Questão de Sobrevivência	dub=https://embedplayer2.xyz/cdn/hls/93584e24272d5e7822a54d8979529b6b/master.txt,0:250112,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=100110&versao=dub	leg=0:250098,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=100110&versao=leg
+Questão de Tempo	dub=0:19103,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=122906&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=122906&versao=leg
+Questões de Família	dub=https://embedplayer2.xyz/cdn/hls/a16b61be24932da3164fb8599bb37dba/master.txt,0:31025,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=536331&versao=dub	leg=0:87579,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=536331&versao=leg
+Quincas Berro d'Água	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43676&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43676&versao=leg
+Quíntuplos (2000)	dub=0:301892,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=101514&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=101514&versao=leg
+Quintuplos Nao Brinque com a Mamae	leg=0:303368
+Quinze	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1418582&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1418582&versao=leg
+Quinze Dias	dub=0:313106,0:312569,0:312578,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1418582&versao=dub	leg=0:312560,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1418582&versao=leg
+Quinze Quase Dezesseis	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1169149&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1169149&versao=leg
+Quinze Quase Dezesseis (2023)	dub=0:314633,0:314673,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1169149&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1169149&versao=leg
+Quiz Lady	dub=0:58250,0:19106,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=787781&versao=dub	leg=0:87584,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=787781&versao=leg
+The Quintessential Quintuplets: O Filme (2022)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=820067&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=820067&versao=leg

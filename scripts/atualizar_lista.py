@@ -793,6 +793,7 @@ def carregar_e_fundir_listas_extras(canais_por_cat, canais_adultos=None):
                         continue
 
                     # Canal normal
+                    is_leg = eh_fonte_legendada(nome_canal)
                     cat_normalizada = normalizar_categoria(cat_bruta, nome_canal)
                     norm = normalizar_nome_canal(nome_canal)
                     norm = aliases.get(norm, norm)
@@ -805,7 +806,8 @@ def carregar_e_fundir_listas_extras(canais_por_cat, canais_adultos=None):
                                 "url": url_canal,
                                 "referer": "",
                                 "agente": "Mozilla/5.0",
-                                "qualidade": ""
+                                "qualidade": "",
+                                "legendado": is_leg
                             })
                             total_fundidos += 1
                             if not ch_alvo.get("logo") and logo_canal:
@@ -819,7 +821,8 @@ def carregar_e_fundir_listas_extras(canais_por_cat, canais_adultos=None):
                                 "url": url_canal,
                                 "referer": "",
                                 "agente": "Mozilla/5.0",
-                                "qualidade": ""
+                                "qualidade": "",
+                                "legendado": is_leg
                             }],
                             "ordem": ordem_global
                         }
@@ -1545,6 +1548,12 @@ def testar_fonte(f):
             pass
     return (False, 99999.0)
 
+def eh_fonte_legendada(nome):
+    """Retorna True se o nome original indicar áudio em inglês / legendado ([LEG], ENG, SAP, etc.)."""
+    nl = (nome or "").lower()
+    return bool(re.search(r"\[leg\]|\(leg\)|\b(?:leg|legendado|eng|english|sap|original)\b", nl))
+
+
 def eh_canal_portugal(nome, categoria=""):
     """Identifica canais de Portugal (ex.: 'PT - SportTV 1', 'PT - Benfica TV', 'RTP 1', etc.) para exclusão."""
     n = (nome or "").strip()
@@ -1616,8 +1625,8 @@ def validar_canais(canais_por_cat, canais_adultos=None):
             def sort_key(f):
                 chave = (f["url"], f.get("referer", ""))
                 res = resultado.get(chave, (False, 99999.0))
-                # 0 se ativo, 1 se inativo; depois menor latência (ms)
-                return (0 if res[0] else 1, res[1])
+                # 1o: ativo; 2o: audio Portugues/Dublado antes de [LEG]/Ingles; 3o: menor latencia (ms)
+                return (0 if res[0] else 1, 1 if f.get("legendado") else 0, res[1])
 
             ch["fontes"].sort(key=sort_key)
 
@@ -1964,6 +1973,13 @@ def main():
     salvar_cache_capas()
     mb_vod = os.path.getsize(OUTPUT_VOD) / (1024 * 1024)
     print(f"Sucesso! vod.m3u gerado em: {OUTPUT_VOD} ({mb_vod:.2f} MB).")
+
+    # 9. Gera o catálogo VOD fatiado (pasta vod/) para o app TV & Filmes
+    try:
+        import gerar_vod
+        gerar_vod.gerar_vod_fatiado(OUTPUT_VOD)
+    except Exception as e:
+        print(f"Aviso ao gerar catálogo VOD fatiado: {e}")
 
 if __name__ == "__main__":
     if "--aovivo" in sys.argv:

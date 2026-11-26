@@ -1,0 +1,182 @@
+A Wedding for Belle (2025)	dub=https://embedplayer2.xyz/cdn/hls/0b585d48f27981304cfc757bdf57f021/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1501192&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/423358260e83239d6c23f29af7842227/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1501192&versao=leg
+A Weekend to Forget	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1174928&versao=dub	leg=0:62725,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1174928&versao=leg
+As We Speak: Rap Music on Trial (2024)	dub=https://embedplayer2.xyz/cdn/hls/7202f0166bc517fd0a5f480a2df6d6a1/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1214516&versao=dub	leg=0:65047,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1214516&versao=leg
+The Wandering Earth	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1231322&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1231322&versao=leg
+The War With Grandpa	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=425001&versao=dub	leg=0:14837,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=425001&versao=leg
+The Wave	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=619263&versao=dub	leg=0:92061,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=619263&versao=leg
+The Way Back	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49009&versao=dub	leg=0:24458,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49009&versao=leg
+The Wedding Guest Legendado	leg=0:92057
+The Wedding Trip (2021)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=886806&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=886806&versao=leg
+The Weekend	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=188962&versao=dub	leg=0:308659,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=188962&versao=leg
+The Weekly Special Edition Framing Britney Spears	leg=0:92071
+The Weight (2026)	dub=6:6386304,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1433583&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1433583&versao=leg
+The Welcome Table	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1699970&versao=dub	leg=0:307312,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1699970&versao=leg
+The Wheel (2019)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=630737&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=630737&versao=leg
+The Whistleblower	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=65760&versao=dub	leg=0:12524,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=65760&versao=leg
+The White Storm 2 Drug Lords	dub=0:32159,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=512731&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=512731&versao=leg
+The Wild Goose Lake	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848784&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848784&versao=leg
+The Witcher: Lenda do Lobo	dub=0:7545,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=666243&versao=dub	leg=0:92081,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=666243&versao=leg
+The Witcher: Sereias das Profundezas	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1203329&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1203329&versao=leg
+The Witcher: Sereias das Profundezas (2025)	dub=https://embedplayer2.xyz/cdn/hls/17b6cc757a4324188fb3ecf2bd52ba4d/master.txt,0:11502,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1203329&versao=dub	leg=0:92092,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1203329&versao=leg
+The Witches	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10166&versao=dub	leg=0:2947,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10166&versao=leg
+The Wolf of Snow Hollow	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=652004&versao=dub	leg=2:1874534,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=652004&versao=leg
+The Wonderful: Stories from the Space Station	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=840346&versao=dub	leg=0:92107,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=840346&versao=leg
+The Wonders: O Sonho Não Acabou	dub=0:19877,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9591&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9591&versao=leg
+The World Will Tremble	dub=https://embedplayer2.xyz/cdn/hls/fe234f404144bad54e876f39a929949a/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1419826&versao=dub	leg=0:92109,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1419826&versao=leg
+The Wretched	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=605804&versao=dub	leg=0:46621,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=605804&versao=leg
+Waiting For Anya	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=525428&versao=dub	leg=0:29299,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=525428&versao=leg
+Waiting For The Barbarians	dub=https://embedplayer2.xyz/cdn/hls/d510229c174a82ba92eabd9aa0520403/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=505707&versao=dub	leg=0:95888,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=505707&versao=leg
+WALL-E	dub=0:11782,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10681&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10681&versao=leg
+Wall Street: O Dinheiro Nunca Dorme	dub=2:1880215,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=33909&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=33909&versao=leg
+Wall Street: Poder e Cobiça	dub=0:33233,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10673&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10673&versao=leg
+Wallace &amp; Gromit: A Batalha dos Vegetais (2005)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=533&versao=dub
+Wallace &amp; Gromit: As Calças Erradas (1993)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=531&versao=dub
+Wallace &amp; Gromit - Avengança (2024)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=929204&versao=dub
+Wallace &amp; Gromit: Tosa Completa (1996)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=532&versao=dub
+Wallace & Gromit: A Batalha dos Vegetais	dub=0:11787,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=533&versao=dub	leg=0:308839,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=533&versao=leg
+Wallace & Gromit - Avengança (2024)	dub=https://embedplayer2.xyz/cdn/hls/6c8ec97c53d2d7becefe2751c8071b4f/master.txt,0:11791,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=929204&versao=dub	leg=0:95894,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=929204&versao=leg
+Wallbanger	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1217048&versao=dub	leg=0:95899,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1217048&versao=leg
+WALLE (2008)	dub=https://embedplayer2.xyz/cdn/hls/aa414130bd4216ccfc38d8d2ce70b85d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10681&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10681&versao=leg
+Walt Antes do Mickey	dub=0:33243,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=278247&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=278247&versao=leg
+Walt nos Bastidores de Mary Poppins	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=140823&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=140823&versao=leg
+Walt nos Bastidores de Mary Poppins (2013)	dub=0:300949,0:20946,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=140823&versao=dub	leg=0:254280,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=140823&versao=leg
+Waltzing with Brando	dub=https://embedplayer2.xyz/cdn/hls/223b571870cf117a9ce2fcf0941d8536/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=574452&versao=dub	leg=0:95910,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=574452&versao=leg
+Wander	dub=0:46470,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=540023&versao=dub	leg=0:95905,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=540023&versao=leg
+Wander Darkly: Sem Rumo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=540023&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=540023&versao=leg
+Wander to Wonder	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1156605&versao=dub	leg=0:95915,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1156605&versao=leg
+Wanted Man (2024)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1550004&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1550004&versao=leg
+Wanted Man: Marcado Para Morrer	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=666035&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=666035&versao=leg
+Wanted Man: Marcado Para Morrer (2024)	dub=https://embedplayer2.xyz/cdn/hls/d0d2c6383c1da9ce58bd7df4805e829f/master.txt,0:59301,0:8164,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=666035&versao=dub	leg=0:95920,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=666035&versao=leg
+Wanted: O Procurado (1967)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=112570&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=112570&versao=leg
+War (2019)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=585268&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=585268&versao=leg
+War in the USA	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1465609&versao=dub	leg=0:95931,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1465609&versao=leg
+Warcraft O Primeiro Encontro de Dois Mundos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=68735&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=68735&versao=leg
+Warcraft O Primeiro Encontro de Dois Mundos (2016)	dub=https://embedplayer2.xyz/cdn/hls/1b137b249a8a07fa9a635ffb15ba1add/master.txt,0:8172,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=68735&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=68735&versao=leg
+Warfighter	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=486606&versao=dub	leg=0:95926,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=486606&versao=leg
+Warlock 2: O Armageddon (1993)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24126&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24126&versao=leg
+Warlock 3: O Fim da Inocência (1999)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26042&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26042&versao=leg
+Warning	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=583081&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=583081&versao=leg
+Warning (2021)	dub=https://embedplayer2.xyz/cdn/hls/c1a0fdf37fe64251fc4abde090e61a35/master.txt,0:36714,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=583081&versao=dub	leg=0:95937,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=583081&versao=leg
+Warpath	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=170492&versao=dub	leg=0:95940,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=170492&versao=leg
+Warren Jeffs: Profeta da Lei (2014)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=279171&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=279171&versao=leg
+Warriors - Os Selvagens da Noite	dub=0:8168,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11474&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11474&versao=leg
+Wasabi	dub=0:8176,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2110&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2110&versao=leg
+Wasp Network	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=451184&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=451184&versao=leg
+Wasp Network: Rede de Espiões	dub=0:33238,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=451184&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=451184&versao=leg
+Wastelander - Guerreiros do Deserto	dub=0:36726,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=497985&versao=dub	leg=0:95960,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=497985&versao=leg
+Wasteman	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1307373&versao=dub	leg=0:314606,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1307373&versao=leg
+Watchmen: Capítulo 1	dub=0:59306,0:11795,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1155058&versao=dub	leg=0:95949,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1155058&versao=leg
+Watchmen: Capítulo 2	dub=https://embedplayer2.xyz/cdn/hls/1fcde96318b3eb936009bde84147128a/master.txt,0:59307,0:11799,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1299652&versao=dub	leg=0:95954,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1299652&versao=leg
+Watchmen: Capitulo II (2024)	dub=https://embedplayer2.xyz/cdn/hls/1fcde96318b3eb936009bde84147128a/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1299652&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1299652&versao=leg
+Watchmen O Filme	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13183&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13183&versao=leg
+Watchmen: O Filme	dub=0:36723,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13183&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13183&versao=leg
+Waterworld: O Segredo das Águas	dub=https://embedplayer2.xyz/cdn/hls/e61d5c753efb875c4524de2e126f9747/master.txt,0:36729,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9804&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9804&versao=leg
+Waves	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=533444&versao=dub	leg=0:24007,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=533444&versao=leg
+Way Down	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=630004&versao=dub	leg=0:2155,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=630004&versao=leg
+WCW Greed (2001)	dub=0:15438,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227138&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227138&versao=leg
+We Bury the Dead	dub=https://embedplayer2.xyz/cdn/hls/010dbf9ed83b3250492886483de72e8e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1198984&versao=dub	leg=0:96950,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1198984&versao=leg
+We Still Steal the Old Way	dub=0:306334,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=351281&versao=dub	leg=0:306414,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=351281&versao=leg
+We Summon the Darkness (2020)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=546724&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/8b3bd3bcd794412fac1efef2877ca0d5/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=546724&versao=leg
+We Take the Low Road (2019)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=506410&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=506410&versao=leg
+We Will Dance Again	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1254258&versao=dub	leg=0:98381,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1254258&versao=leg
+Weak Layers	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1187718&versao=dub	leg=0:95977,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1187718&versao=leg
+Wendell &amp; Wild (2022)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=511817&versao=dub
+Wendell & Wild	dub=0:11803,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=511817&versao=dub	leg=0:95973,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=511817&versao=leg
+Wendy	dub=https://embedplayer2.xyz/cdn/hls/e5e130f435ea1ebd866e2ee3041e57b0/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=39345&versao=dub	leg=0:95988,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=39345&versao=leg
+Wendy Wu: A Garota Kung-Fu	dub=0:20941,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=61717&versao=dub	leg=0:95983,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=61717&versao=leg
+Went Up the Hill (2025)	dub=https://embedplayer2.xyz/cdn/hls/bf377073e285524306882c4058488f2c/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1037352&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1037352&versao=leg
+Were Broke My Lord	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1126444&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1126444&versao=leg
+Werewolves	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=970450&versao=dub	leg=0:95994,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=970450&versao=leg
+Westworld - Onde Ninguém Tem Alma	dub=0:36733,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2362&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2362&versao=leg
+Wet Season	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=258579&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=258579&versao=leg
+WHAM!: Last Christmas - Uma Canção de Natal	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1398264&versao=dub	leg=0:96006,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1398264&versao=leg
+What Lies Below	dub=0:52724,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=716703&versao=dub	leg=0:96004,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=716703&versao=leg
+What Men Want Legendado	leg=0:96012
+What You Wish For	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1126934&versao=dub	leg=2:1868811,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1126934&versao=leg
+Wheelman (2017)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=471014&versao=dub
+Wheelman: Motorista de Fuga (2017)	dub=https://embedplayer2.xyz/cdn/hls/d04bfe9ee05fa497fb3e96ec193aca39/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=471014&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=471014&versao=leg
+Wheely - Velozes e Divertidos	dub=0:11807,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=488397&versao=dub	leg=0:96024,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=488397&versao=leg
+When Love Springs	dub=0:53394,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1067821&versao=dub	leg=0:96018,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1067821&versao=leg
+When Love Strikes	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1355945&versao=dub	leg=0:96029,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1355945&versao=leg
+Which Brings Me to You	dub=0:59312,0:43392,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=975043&versao=dub	leg=0:96042,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=975043&versao=leg
+Whindersson Nunes: Adulto (2019)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=623392&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=623392&versao=leg
+Whindersson Nunes: É de Mim Mesmo	dub=0:39624,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=934861&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=934861&versao=leg
+Whindersson Nunes: Isso não é um culto (2023)	dub=2:1864827,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1086351&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1086351&versao=leg
+Whiplash Em Busca da Perfeicao	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=244786&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=244786&versao=leg
+Whiplash: Em Busca da Perfeicao (2014)	dub=https://embedplayer2.xyz/cdn/hls/9fddc40c346c170fea386cc5d856603f/master.txt,0:33245,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=244786&versao=dub	leg=0:250506,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=244786&versao=leg
+Whiplash: Em Busca da Perfeição (2014)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=244786&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=244786&versao=leg
+White Boy Rick	dub=0:59315,0:33248,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438808&versao=dub	leg=0:311900,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438808&versao=leg
+White Lie	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1651644&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1651644&versao=leg
+Whitney	dub=0:46466,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=507256&versao=dub	leg=0:96036,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=507256&versao=leg
+Who Are You Charlie Brown	dub=https://embedplayer2.xyz/cdn/hls/105080c9a62e61589af2b06026380a83/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=836919&versao=dub	leg=0:96047,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=836919&versao=leg
+Why	dub=0:11816,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1522689&versao=dub	leg=0:96053,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1522689&versao=leg
+Wicked	dub=https://comprarebom.xyz/cdn/down/3967ec1fd747373c3a1f67b5/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=402431&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=402431&versao=leg
+Wicked (2024)	dub=https://embedplayer2.xyz/cdn/hls/d2f93c93a207b0a1e0edc4a91726847d/master.txt,0:40620,0:34841,https://comprarebom.xyz/cdn/down/3967ec1fd747373c3a1f67b5/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=402431&versao=dub	leg=0:40625,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=402431&versao=leg
+Wicked Parte 2 (2025)	dub=https://embedplayer2.xyz/cdn/hls/55e41eaf36dd498a31a3a3ee6e1d86e7/master.txt,https://comprarebom.xyz/cdn/down/5b89d38d44b2378a03a416e3/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=967941&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=967941&versao=leg
+Wicked: Parte II	dub=https://embedplayer2.xyz/cdn/hls/55e41eaf36dd498a31a3a3ee6e1d86e7/master.txt,0:59318,0:1323,https://comprarebom.xyz/cdn/down/5b89d38d44b2378a03a416e3/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=967941&versao=dub	leg=0:96058,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=967941&versao=leg
+WiFi Ralph: Quebrando a Internet	dub=0:59323,0:11813,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=404368&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=404368&versao=leg
+Wild Bill	dub=0:35340,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=65796&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=65796&versao=leg
+Wild Bill - Uma Lenda No Oeste (1995)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=65796&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=65796&versao=leg
+Wild Card - A Queda de um Falastrão do Rádio	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=746764&versao=dub	leg=2:2343472,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=746764&versao=leg
+Wild Girl (2021)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=809708&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=809708&versao=leg
+Wildcat	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1448560&versao=dub	leg=0:96068,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1448560&versao=leg
+Wildcat - Prisioneira de Guerra	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=762735&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=762735&versao=leg
+Wildcat - Prisioneira de Guerra (2021)	dub=https://embedplayer2.xyz/cdn/hls/5a8b2bd7108641477c4261714804205c/master.txt,0:37220,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=762735&versao=dub	leg=0:96063,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=762735&versao=leg
+Wildling: Criaturas Noturnas	dub=0:99233,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=362826&versao=dub	leg=0:99176,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=362826&versao=leg
+Will &amp; Harper (2024)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1214506&versao=dub
+Will: Em Busca do Sonho (2011)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=91979&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=91979&versao=leg
+Will & Harper	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1214506&versao=dub	leg=0:96073,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1214506&versao=leg
+William Tell	dub=0:308096,0:308169,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1195631&versao=dub	leg=0:308138,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1195631&versao=leg
+William Tell O Guerreiro (2025)	dub=https://embedplayer2.xyz/cdn/hls/92ef10b355da79733a3c4b1b1cf2911c/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1195631&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1195631&versao=leg
+Willow - Na Terra da Magia (1988)	dub=2:1855945,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=847&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=847&versao=leg
+Willow: Nos Bastidores da Magia	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1076366&versao=dub	leg=0:96090,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1076366&versao=leg
+Willy&#039;s Wonderland: Parque Maldito (2021)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=643586&versao=dub
+Willy's Wonderland: Parque Maldito	dub=0:52729,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=643586&versao=dub	leg=0:96079,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=643586&versao=leg
+Willys Wonderland	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=643586&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=643586&versao=leg
+Wimbledon - O Jogo do Amor	dub=0:43401,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11823&versao=dub	leg=0:96095,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11823&versao=leg
+Winchester &#039;73 (1967)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=320919&versao=dub
+Winchester 73	dub=0:35344,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14551&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14551&versao=leg
+Wind & Fire (To Be Celestial vs. That's the Weight of the World)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1361071&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1361071&versao=leg
+Wings Over Everest (1934)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=233669&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=233669&versao=leg
+Winner	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=40346&versao=dub	leg=0:96100,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=40346&versao=leg
+Winter on Fire: Ukraine&#039;s Fight for Freedom (2015)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=355020&versao=dub
+Winter on Fire: Ukraine's Fight for Freedom	dub=2:1864428,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=355020&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=355020&versao=leg
+Winter Thaw	dub=0:314463,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=428471&versao=dub	leg=0:314127,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=428471&versao=leg
+Wintertide (2023)	dub=https://embedplayer2.xyz/cdn/hls/7187a1677eb90ca7e223d22bda496d40/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1095025&versao=dub	leg=0:96122,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1095025&versao=leg
+Wish: O Poder dos Desejos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1022796&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1022796&versao=leg
+Wish: O Poder dos Desejos (2023)	dub=https://embedplayer2.xyz/cdn/hls/db9229e827166394422a5fb1a4e2e226/master.txt,0:59328,0:11811,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1022796&versao=dub	leg=0:96105,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1022796&versao=leg
+Wish You Were Here	dub=https://embedplayer2.xyz/cdn/hls/1e344d0d8a67bbb1c5b05976e2bd50eb/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=46976&versao=dub	leg=0:96110,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=46976&versao=leg
+Witch (2024)	dub=https://embedplayer2.xyz/cdn/hls/612aa2ad12307d7f02d5e368bda3a1b2/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=310131&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/001c2f53b90e4145b2dc4d1a0cfbd954/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=310131&versao=leg
+Witchblade - O Filme (2000)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=174797&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=174797&versao=leg
+Witchboard (2025)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1107325&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/6618c0b3ee6c0cb2a05e27ba655c0006/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1107325&versao=leg
+Witches in the Woods (2019)	dub=https://embedplayer2.xyz/cdn/hls/54bdaa73dbbcd682edd246cba3923233/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=614204&versao=dub	leg=0:96112,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=614204&versao=leg
+Witness Unprotected (2018)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=513180&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=513180&versao=leg
+Wizkid De Lagos Para o Mundo (2025)	dub=https://embedplayer2.xyz/cdn/hls/91e8729421980845168fdbd3525228ee/master.txt,0:53493,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1465743&versao=dub	leg=0:96117,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1465743&versao=leg
+Wolf	dub=0:46480,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=106646&versao=dub	leg=0:96144,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=106646&versao=leg
+Wolf Creek: Viagem ao Inferno (2005)	dub=2:1870668,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9885&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9885&versao=leg
+Wolf King (2021)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=844596&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=844596&versao=leg
+Wolf Pack: Unidade de Combate	dub=0:8180,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=662894&versao=dub	leg=0:96139,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=662894&versao=leg
+Wolfgang: O Chef Celebridade (2021)	dub=2:1865177,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=674419&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=674419&versao=leg
+Wolfwalkers	dub=0:8184,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=441130&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=441130&versao=leg
+Wolverine Imortal	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=76170&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=76170&versao=leg
+Wolverine: Imortal	dub=0:59333,0:8188,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=76170&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=76170&versao=leg
+Wolves	dub=0:33253,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1527451&versao=dub	leg=0:96128,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1527451&versao=leg
+Woman at War Legendado	leg=0:96133
+Woman in the Maze (2023)	dub=https://embedplayer2.xyz/cdn/hls/8fb2854018b1f7029247f1af28226176/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1145028&versao=dub	leg=0:96160,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1145028&versao=leg
+Women Is Losers	dub=0:33258,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=623273&versao=dub	leg=0:96149,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=623273&versao=leg
+Women & the Wind	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1500112&versao=dub	leg=2:2329323,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1500112&versao=leg
+Wonder Woman (1984)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=297762&versao=dub	leg=0:57107,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=297762&versao=leg
+Wonderland	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1318621&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1318621&versao=leg
+Wonderland (2024)	dub=0:36738,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=635996&versao=dub	leg=0:96162,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=635996&versao=leg
+Wonka	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=787699&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=787699&versao=leg
+Wonka (2023)	dub=https://embedplayer2.xyz/cdn/hls/484e4769e3190e2326f136e9103d4463/master.txt,0:59338,0:20948,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=787699&versao=dub	leg=0:96167,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=787699&versao=leg
+Working Girls	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=264757&versao=dub	leg=0:96200,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=264757&versao=leg
+Wormtown	dub=https://embedplayer2.xyz/cdn/hls/41ea51d4fcdc3100cdb68402bd75ea55/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1235192&versao=dub	leg=0:253598,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1235192&versao=leg
+Would You Rather	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=97051&versao=dub	leg=0:96173,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=97051&versao=leg
+Wrath of Man	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=637649&versao=dub	leg=0:56320,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=637649&versao=leg
+Wrong Numbers	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1113224&versao=dub	leg=0:96186,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1113224&versao=leg
+Wrong Turn	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9902&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9902&versao=leg
+Wrongful Death (2023)	dub=https://embedplayer2.xyz/cdn/hls/be86ffc201dbc1b8bb3de4a4b981a506/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1183563&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/308422a10757040f4567fdaf6c8391c4/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1183563&versao=leg
+Wu Kong Contra a Ira dos Deuses (2017)	dub=https://embedplayer2.xyz/cdn/hls/1400ebe783ec7542c88205cd32d3c862/master.txt,0:300852,0:8197,0:306292,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=452910&versao=dub	leg=0:256228,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=452910&versao=leg
+WWE Wrestlepalooza	dub=0:8193,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1533300&versao=dub	leg=0:96195,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1533300&versao=leg
+Wyatt Earp	dub=0:35349,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12160&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12160&versao=leg

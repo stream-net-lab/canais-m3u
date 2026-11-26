@@ -1,0 +1,798 @@
+A Observadora	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1215077&versao=dub	leg=0:249201,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1215077&versao=leg
+A OBSESSAO DA MAFIA	leg=0:302387
+A Obsessão de Celine	dub=https://embedplayer2.xyz/cdn/hls/efc47a4563f84c83e9e006f694eae389/master.txt,0:43668,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1243186&versao=dub	leg=0:61917,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1243186&versao=leg
+A Obsessao Secreta do Ceo Milionario	leg=0:303252
+A Ocasião Faz O Ladrão (2010)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=53172&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=53172&versao=leg
+A Ocupante	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1280444&versao=dub	leg=2:1883108,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1280444&versao=leg
+A Odisseia	dub=0:310643,https://comprarebom.xyz/cdn/down/fa670151c587c19a1f03b7fb/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1368337&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1368337&versao=leg
+A Odisseia (2026)	dub=0:22881,https://comprarebom.xyz/cdn/down/fa670151c587c19a1f03b7fb/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1368337&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1368337&versao=leg
+A Odisseia De Jacques	dub=0:22881
+A Odisseia dos Tontos	dub=0:256181,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=596054&versao=dub	leg=0:300990,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=596054&versao=leg
+A Oitava Cláusula	dub=0:22883,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=841524&versao=dub	leg=0:61931,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=841524&versao=leg
+A Oitava Cor do Arco-íris	dub=0:290796,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=316670&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=316670&versao=leg
+A Oitava Noite	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=604360&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=604360&versao=leg
+A Oitava Noite (2021)	dub=https://embedplayer2.xyz/cdn/hls/d48e1f863b7f6056e55cbc0237ffd6e6/master.txt,0:43673,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=604360&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=604360&versao=leg
+A Oitava Página	dub=0:43683,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=73358&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=73358&versao=leg
+A Onda	dub=0:228,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=336882&versao=dub	leg=0:61926,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=336882&versao=leg
+A Onda da Vida - Uma História de Amor &amp; Surf (2014)	dub=2:1827466,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=279383&versao=dub
+A Onda dos Sonhos	dub=0:41229,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9266&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9266&versao=leg
+A Onda dos Sonhos 2 (2011)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=58443&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=58443&versao=leg
+A Onda Perfeita (2014)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=251979&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=251979&versao=leg
+A Oportunidade quase Perfeita	dub=0:12666,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=835678&versao=dub	leg=0:61940,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=835678&versao=leg
+A Oração Não Falha	dub=0:40685,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=377625&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=377625&versao=leg
+A Ordem	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1082195&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1082195&versao=leg
+A Ordem (2024)	dub=https://embedplayer2.xyz/cdn/hls/a24c092d32358d4c2e1e8cd1e45fed73/master.txt,0:54255,0:21077,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1082195&versao=dub	leg=0:61936,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1082195&versao=leg
+A Ordem do Tempo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1031601&versao=dub	leg=0:61942,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1031601&versao=leg
+A Orfa	dub=0:47287,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=21208&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=21208&versao=leg
+A Origem	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27205&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27205&versao=leg
+A Origem (2010)	dub=0:33498,0:33503,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27205&versao=dub	leg=0:311850,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27205&versao=leg
+A Origem do Dragão (2017)	dub=2:1860707,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=408266&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=408266&versao=leg
+A Origem dos Guardiões	dub=0:8479,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=81188&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=81188&versao=leg
+A Origem dos Red Hot Chili Peppers: Nosso Irmão Hillel	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1482168&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1482168&versao=leg
+A Outra	dub=0:22888,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=754&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=754&versao=leg
+A Outra Face	dub=0:1706,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=754&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=754&versao=leg
+A Outra Face da Guerra	dub=0:22893,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=567566&versao=dub	leg=0:61961,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=567566&versao=leg
+A Outra Face de Dorian Gray	dub=0:47291,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1179188&versao=dub	leg=0:61951,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1179188&versao=leg
+A Outra Filha (2018)	dub=0:43678,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=461337&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=461337&versao=leg
+A Outra Historia Americana	dub=0:22898,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=73&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=73&versao=leg
+A Outra Mae	dub=0:22895,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=465353&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=465353&versao=leg
+A Outra Mulher (2018)	dub=2:1817819,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=499722&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=499722&versao=leg
+A Outra Terra	dub=0:22908,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=55420&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=55420&versao=leg
+A Outra Zoey	dub=0:54260,0:41235,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912916&versao=dub	leg=0:61946,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912916&versao=leg
+A Ouvinte	dub=https://embedplayer2.xyz/cdn/hls/c0c3ccf54303c730243c73addf594613/master.txt,0:97628,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=914243&versao=dub	leg=0:97636,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=914243&versao=leg
+As Ondas	dub=0:24007,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=533444&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=533444&versao=leg
+As Outras	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=105532&versao=dub	leg=0:64961,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=105532&versao=leg
+As Ovelhas Detetives	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1301421&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1301421&versao=leg
+As Ovelhas Detetives (2026)	dub=https://embedplayer2.xyz/cdn/hls/a20ff3f87f9836f59ef0401eb88237e4/master.txt,0:307228,0:307229,0:307245,0:307345,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1301421&versao=dub	leg=0:307270,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1301421&versao=leg
+O&#039;Dessa (2025)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1075456&versao=dub
+o Amante	dub=0:96703,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10995&versao=dub	leg=0:96891,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10995&versao=leg
+o Anjo das Trevas (2001)	dub=2:1880021,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11380&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11380&versao=leg
+o Assassino	dub=2:2053312,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9696&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9696&versao=leg
+o Assassino (2001)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9696&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/76e1d41d5d4541fe17c0849031030f2b/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9696&versao=leg
+o Assassino BTK	dub=2:1864714,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1550785&versao=dub	leg=2:1864714,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1550785&versao=leg
+o Bárbaro	dub=2:1857352,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9387&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9387&versao=leg
+o Bárbaro (1982)	dub=https://embedplayer2.xyz/cdn/hls/22a209b4ec2eabe878dae34ef5865a76/master.txt,2:1857352,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9387&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9387&versao=leg
+o Bart e o Loki	dub=2:1822637,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=846214&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=846214&versao=leg
+o Bom de Cama (1979)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=320618&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=320618&versao=leg
+o Caçador	dub=2:1864543,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=781791&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=781791&versao=leg
+o Caçador de Tesouros (2006)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=243463&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=243463&versao=leg
+o Carneiro: Aventura de Natal	dub=0:19427,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=785545&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=785545&versao=leg
+o Carneiro: O Filme (2015)	dub=2:1826113,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=263109&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=263109&versao=leg
+o Carneiro - O Filme A Fazenda Contra-Ataca	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=422803&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=422803&versao=leg
+o Carneiro - O Filme: A Fazenda Contra-Ataca	dub=2:1863996,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=422803&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=422803&versao=leg
+o Coelho de Brinquedo e a Máquina do Tempo	dub=2:1861515,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=168875&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=168875&versao=leg
+o Compadre de Picasso	dub=2:1864442,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=396021&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=396021&versao=leg
+o Cupido Trapalhão	dub=2:1862917,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=243664&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=243664&versao=leg
+o Curioso	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9975&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9975&versao=leg
+o Curioso: Aventuras no Mar	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=918832&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=918832&versao=leg
+o Curioso Aventuras no Mar	dub=0:10289,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=918832&versao=dub	leg=0:81625,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=918832&versao=leg
+o Curioso: Aventuras no Mar (2021)	dub=https://embedplayer2.xyz/cdn/hls/7ee9c46e5cec22e3a265faf8534ad159/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=918832&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=918832&versao=leg
+o Cyborg do Futuro	dub=0:33765,2:1827118,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9886&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10134&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9886&versao=leg,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10134&versao=leg
+O'Dessa	dub=0:57793,0:36296,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1075456&versao=dub	leg=0:84484,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1075456&versao=leg
+o Destruidor (1984)	dub=https://embedplayer2.xyz/cdn/hls/ceec766e5ac14bf0e30ea5a4669db512/master.txt,2:1856861,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9610&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9610&versao=leg
+o Dilúvio (2024)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1119203&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1119203&versao=leg
+o Exterminador de Aço	dub=2:2325255,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=67221&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=67221&versao=leg
+o Fantasma Trapalhão (1998)	dub=2:1861259,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=128449&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=128449&versao=leg
+o Fantasminha Camarada	dub=0:34328,2:1855371,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8839&versao=dub	leg=0:308650,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8839&versao=leg
+o Filho do Brasil (2010)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43615&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43615&versao=leg
+o Filme	dub=2:1819554,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=64397&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=64397&versao=leg
+o Filme (2015)	dub=2:1824189,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227973&versao=dub
+o Filme: Mewtwo Contra-Ataca - Evolução	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10228&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10228&versao=leg
+o Filme Segredos da Selva	dub=0:10357,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=662708&versao=dub	leg=0:82204,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=662708&versao=leg
+o Filme: Segredos da Selva	dub=2:1822535,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=662708&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=662708&versao=leg
+o Filme: Segredos da Selva (2020)	dub=https://embedplayer2.xyz/cdn/hls/1822116a12d08898d9f280fc058e2c10/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=662708&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=662708&versao=leg
+o Fim e o Meio	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=129414&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=129414&versao=leg
+O.G.	dub=0:30064,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=506558&versao=dub	leg=0:84507,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=506558&versao=leg
+o Gigante Cão Vermelho	dub=0:10373,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=585245&versao=dub	leg=0:82291,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=585245&versao=leg
+o Gladiador	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43332&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43332&versao=leg
+o Golfinho	dub=2:1863239,2:1863116,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=565839&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=62837&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=565839&versao=leg,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=62837&versao=leg
+o Golfinho 2	dub=2:1863095,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227735&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227735&versao=leg
+o Golfinho 2 (2014)	dub=https://embedplayer2.xyz/cdn/hls/11fda433e8bb3859b054001093512e80/master.txt,2:1863095,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227735&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=227735&versao=leg
+o Homem-Ideia	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1273196&versao=dub	leg=2:1867282,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1273196&versao=leg
+o Impulso e a Razão	dub=https://embedplayer2.xyz/cdn/hls/f8af1915311ac0e218f8f3bfd85ad33e/master.txt,0:251736,0:254790,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1588155&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1588155&versao=leg
+o Justiceiro (1987)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27342&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27342&versao=leg
+o Maestro (2017)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=466870&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=466870&versao=leg
+o Menino Jacaré	dub=2:1824089,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=763568&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=763568&versao=leg
+o Milionário Irresistível	dub=2:1816578,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49012&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49012&versao=leg
+o Milionário Sedutor (1981)	dub=0:313713,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13665&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13665&versao=leg
+O Observador (2000)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10685&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10685&versao=leg
+O Odio que Voce Semeia	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=470044&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=470044&versao=leg
+O Oficial e o Espião	dub=0:29399,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=399121&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=399121&versao=leg
+O OFICIAL SE APAIXONOU POR MIM	leg=0:302597
+O Oleo de Lorenzo	dub=0:29395,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2007&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2007&versao=leg
+O Olhar Misterioso do Flamingo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=896096&versao=dub	leg=0:307694,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=896096&versao=leg
+O Olho	dub=https://embedplayer2.xyz/cdn/hls/6f4f5a8bf72261adec88d30e41ddd460/master.txt,0:53565,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1182166&versao=dub	leg=0:83155,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1182166&versao=leg
+O OLHO DA FORTUNA	dub=0:301461
+O Olho do Demonio	dub=0:50724,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=597722&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=597722&versao=leg
+O Olho do Mal	dub=0:50727,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9030&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9030&versao=leg
+O Olho e a Faca	dub=0:29404,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=555819&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=555819&versao=leg
+O Olho e o Muro	dub=https://embedplayer2.xyz/cdn/hls/58033bee317941e8b5cb413d64839d1d/master.txt,0:36230,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=771220&versao=dub	leg=0:83166,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=771220&versao=leg
+O Olho que Tudo Vê	dub=0:50730,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16077&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16077&versao=leg
+O Onibus Perdido (2025)	dub=https://embedplayer2.xyz/cdn/hls/13a81839166e2fefd40cff09b2f2800b/master.txt,0:30011,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1236470&versao=dub	leg=0:84349,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1236470&versao=leg
+O Operário	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4553&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4553&versao=leg
+O Operário (2004)	dub=0:45356,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4553&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4553&versao=leg
+O Oposto do Sexo	dub=0:306319,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9844&versao=dub	leg=0:306393,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9844&versao=leg
+O Orfanato	dub=0:29408,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6537&versao=dub	leg=0:83169,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6537&versao=leg
+O Orfanato 0000	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=716359&versao=dub
+O Otário	dub=0:17842,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24062&versao=dub	leg=0:83172,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24062&versao=leg
+O Ourives	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=999278&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=999278&versao=leg
+O Ourives (2022)	dub=https://embedplayer2.xyz/cdn/hls/a07a649cf8464a67ba725c7a6929ac09/master.txt,0:50735,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=999278&versao=dub	leg=0:83178,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=999278&versao=leg
+O Ouro de Mackenna	dub=0:35111,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18118&versao=dub	leg=0:83183,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18118&versao=leg
+O Ouro de Ulisses	dub=0:29413,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=55306&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=55306&versao=leg
+O Ouro do Mal	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1174487&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1174487&versao=leg
+O Outro (2021)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=784685&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=784685&versao=leg
+O Outro Lado da Dor (2023)	dub=https://embedplayer2.xyz/cdn/hls/71ddaa2e04896ec737987dabf244af72/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1036619&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1036619&versao=leg
+O Outro Lado da Rua	dub=0:307333,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=77705&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=77705&versao=leg
+O Outro Lado das Redes (2026)	dub=0:39642,https://apiflix.duckdns.org/media/hls/index.m3u8?url=https%3A%2F%2Fwatch.brstream.cc%2Fm3u8%2F12%2Fbeab831c783550ad003eddaed2d0849d%2Fmaster.txt%3Fs%3D1%26id%3D41843%26cache%3D1&ua=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F127.0.0.0%20Mobile%20Safari%2F537.36&referer=https%3A%2F%2Fwatch.brstream.cc%2Fwatch%3Fv%3DCFI9RNH1&seg=direct,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1281331&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1281331&versao=leg
+O Outro Lado do Céu 2: Fogo da Fé	dub=0:29418,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=555748&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=555748&versao=leg
+O Outro Lado do Céu (2001)	dub=2:1826179,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16651&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16651&versao=leg
+O Outro Lado do Lago	dub=0:50740,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=566556&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=566556&versao=leg
+O Outro Lado do Paraíso	dub=0:313976,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=282475&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=282475&versao=leg
+O Outro Mundo de Sofia (2023)	dub=2:1865522,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1135378&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1135378&versao=leg
+O Outro Pai (2019)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=588001&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=588001&versao=leg
+o Palhaço Assassino (2018)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=608260&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=608260&versao=leg
+o Passageiro da Agonia (1977)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=178032&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=178032&versao=leg
+o Piloto Sumiu	dub=https://embedplayer2.xyz/cdn/hls/28d6c4f05ad40638f8d2813b0ecd8cc7/master.txt,0:17891,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=813&versao=dub	leg=0:83308,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=813&versao=leg
+o Piloto Sumiu 2 (1982)	dub=2:1811660,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2665&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2665&versao=leg
+o Pimentinha Ataca Novamente	dub=2:1861388,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=45242&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=45242&versao=leg
+o Pistoleiro Implacável (1966)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6474&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6474&versao=leg
+o Policial e o Diabo	dub=0:307660,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=581528&versao=dub	leg=0:307682,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=581528&versao=leg
+o Preto Que Virou Mar	dub=2:1888225,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=651299&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=651299&versao=leg
+o Rei Leão (1994)	dub=2:2335089,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=256285&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=256285&versao=leg
+o Repórter	dub=2:1808598,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=95753&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=95753&versao=leg
+O.S Rejeitados: Operação Submarino	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1417502&versao=dub	leg=0:84496,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1417502&versao=leg
+o Super-Herói (1986)	dub=2:1827502,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10658&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10658&versao=leg
+o Super Sayajin	dub=https://embedplayer2.xyz/cdn/hls/1d7598d33f0fd9b9a47ab0a388b36e5d/master.txt,0:10525
+O.T.H.E.R - Presença Maligna	dub=0:97243,0:289510,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1314452&versao=dub	leg=0:97225,0:289503,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1314452&versao=leg
+o Unicórnio	dub=2:1825373,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=57752&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=57752&versao=leg
+o Vagabundo	dub=0:53995,2:1861251,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=189883&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=512895&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=189883&versao=leg,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=512895&versao=leg
+o Viking (1989)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11828&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11828&versao=leg
+o Vilão (1979)	dub=2:1890631,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=163907&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=163907&versao=leg
+o Vingador (1971)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1485&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1485&versao=leg
+o Xerife (1948)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=203822&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=203822&versao=leg
+Oak	dub=0:301361,0:301397,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1101383&versao=dub	leg=0:301201,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1101383&versao=leg
+Oasis (2002)	dub=6:6251311,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26955&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=733912&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=733912&versao=leg
+Obcecada	dub=0:21755,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=761190&versao=dub	leg=0:84502,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=761190&versao=leg
+OBCECADA EM UM AMOR TARDIO	leg=0:302718
+Obcecado por Cinema	dub=https://embedplayer2.xyz/cdn/hls/2687c400006b15fda19aae11a4730fc2/master.txt,0:957,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=980996&versao=dub	leg=0:84512,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=980996&versao=leg
+Obi-Wan Kenobi: O Retorno do Jedi	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1015606&versao=dub	leg=0:84517,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1015606&versao=leg
+Objetivo Final	dub=0:96782,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=71010&versao=dub	leg=0:96875,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=71010&versao=leg
+Objetos Raros	dub=0:30069,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=899328&versao=dub	leg=0:84522,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=899328&versao=leg
+Oblivion	dub=0:34460,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75612&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75612&versao=leg
+Obra (2014)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=287620&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=287620&versao=leg
+Obra & Vida	dub=2:1865812,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1188577&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1188577&versao=leg
+Obrigada Por Tudo	dub=0:18109,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=642532&versao=dub	leg=0:84535,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=642532&versao=leg
+Obrigada por Tudo! Julie Newmar	dub=2:1809394,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9090&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9090&versao=leg
+Obrigado Por Fumar	dub=0:18136,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9388&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9388&versao=leg
+Obrigado Por Ligar	dub=0:18131,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=369772&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=369772&versao=leg
+Observador	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=807356&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=807356&versao=leg
+Observador (2022)	dub=https://embedplayer2.xyz/cdn/hls/2e0c8089672f0006e4e155d37134ec63/master.txt,0:57788,0:45477,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=807356&versao=dub	leg=0:84524,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=807356&versao=leg
+Observadores	dub=0:57798,0:6203,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=645710&versao=dub	leg=0:84529,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=645710&versao=leg
+Obsessao	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339713&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339713&versao=leg
+Obsessão	dub=0:307692,0:308089,0:45478,0:307698,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339713&versao=dub	leg=0:307695,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339713&versao=leg
+Obsessão (2026)	dub=https://saimo-tv.pages.dev/api/proxy?url=http%3A%2F%2Ffenixflix.fenixhub.online%2Fr%2FOri1Ag83BIEOmK4JoVYKa-1MjK5ECsvVELlfQ-ODBLxvjNPKuMFPtEmNxK_aF8F59VcB77tPBlJj14tvAun7putThop5rZB03f4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339713&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339713&versao=leg
+Obsessão Não-Escrita (2017)	dub=2:1822310,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=473258&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=473258&versao=leg
+Obsessão Perigosa (2014)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=214140&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=415311&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=415311&versao=leg
+Obsessao Secreta	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=612152&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=612152&versao=leg
+Obsessão Secreta	dub=0:57802,0:30073,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=612152&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=612152&versao=leg
+OBSESSAO SECRETA DO MEU CHEFE	leg=0:301766
+Obsessiva	dub=0:307379,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=17335&versao=dub	leg=0:307410,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=17335&versao=leg
+Obstinação	dub=0:98900,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=31593&versao=dub	leg=0:99088,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=31593&versao=leg
+Occupied City	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371469&versao=dub	leg=0:84545,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371469&versao=leg
+Oceano Fantástico (2013)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=147703&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=147703&versao=leg
+Oceanos com David Attenborough	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1448497&versao=dub	leg=0:84540,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1448497&versao=leg
+Octagon: Escola para Assassinos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24825&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24825&versao=leg
+Octonautas e As Cavernas de Sac Actun	dub=0:10548,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=726940&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=726940&versao=leg
+Octonautas e o Circulo de Fogo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=765684&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=765684&versao=leg
+Octonautas e o Círculo de Fogo (2021)	dub=https://embedplayer2.xyz/cdn/hls/e1edc46c6221b0d918b15cbed7772268/master.txt,0:6206,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=765684&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=765684&versao=leg
+Oddbods: Natal Atrapalhado	dub=0:315664,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=567788&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=567788&versao=leg
+Oddity	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1216191&versao=dub	leg=0:84561,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1216191&versao=leg
+Oddity - Objetos Obscuros	dub=0:84555,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1216191&versao=dub	leg=0:84550,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1216191&versao=leg
+Oddly Coupled (1970)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=369577&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=369577&versao=leg
+Ode To Passion	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=584257&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=584257&versao=leg
+ODEIO COMO TE AMO (1948)	leg=0:301763
+ODessa (2025)	dub=https://embedplayer2.xyz/cdn/hls/619e0895ccdfdcc6bceb90259a92b007/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1075456&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1075456&versao=leg
+ODIADA PELO ALFA	leg=0:301786
+ODIEI O MOMENTO EM QUE TE AMEI	leg=0:301770
+Odiosamente Seu - Hatefully Yours	leg=0:303073
+Odisseu e a Ilha da Neblina	dub=0:290721,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=29220&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=29220&versao=leg
+OES: Operação Especial Sexual	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=210498&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=210498&versao=leg
+Oeste Outra Vez	dub=https://embedplayer2.xyz/cdn/hls/076a2e21cd0ca54b11aa5fc4bed4f040/master.txt,0:38932,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1314750&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1314750&versao=leg
+Oeste sem Lei	dub=0:42514,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=223485&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=223485&versao=leg
+Ofélia	dub=0:42519,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1512682&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1512682&versao=leg
+Oferenda à Tempestade	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=673174&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=673174&versao=leg
+Oferenda à Tempestade (2020)	dub=https://embedplayer2.xyz/cdn/hls/475516555840c4527b7233816e3c4cd3/master.txt,0:45486,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=673174&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=673174&versao=leg
+Oferenda ao Demônio	dub=0:57807,0:51001,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=955991&versao=dub	leg=0:84567,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=955991&versao=leg
+Off the Air	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1480107&versao=dub	leg=0:307411,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1480107&versao=leg
+Off the Grid	dub=https://embedplayer2.xyz/cdn/hls/ac3b7b70105280244db24a50536fc71e/master.txt,0:307579,0:307585,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371151&versao=dub	leg=0:84577,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371151&versao=leg
+Off the Record	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=610765&versao=dub	leg=0:84579,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=610765&versao=leg
+Offshoot	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1306599&versao=dub	leg=0:84573,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1306599&versao=leg
+Oficina do Diabo	dub=0:57812,0:38937,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1159596&versao=dub	leg=0:84589,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1159596&versao=leg
+Oficina do Diabo (2025)	dub=https://embedplayer2.xyz/cdn/hls/9f872c1f81944fc3442fede7b22fda29/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1159596&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1159596&versao=leg
+Oh Minha Orgulhosa Herdeira	leg=0:303389
+OH NAO! EU DORMI COM MEU MARIDO!	leg=0:302888
+Ohio	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18208&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27176&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18208&versao=leg,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27176&versao=leg
+Ohio (2005)	dub=2:1814931,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27176&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27176&versao=leg
+Ohio State: Uma História de Abusos (2025)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1465569&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/e4fa7163c07cc4da7841a7de291a0463/master.txt,0:84584,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1465569&versao=leg
+Oi Sumido (2025)	dub=https://embedplayer2.xyz/cdn/hls/6dd5a407fb81acbd302c4fc029c8cf4f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339658&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339658&versao=leg
+Oitava Serie	dub=0:18140,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=489925&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=489925&versao=leg
+Oito Mulheres e um Segredo	dub=0:18144,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=402900&versao=dub	leg=0:84603,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=402900&versao=leg
+Oito Noites de Loucura de Adam Sandler	dub=0:10543,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13376&versao=dub	leg=0:84599,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13376&versao=leg
+Okja	dub=0:30083,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=387426&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=387426&versao=leg
+Okko e Os Espíritos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=521296&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=521296&versao=leg
+Okko e Os Espíritos (2018)	dub=https://embedplayer2.xyz/cdn/hls/fd034de82fd2beeb12966281e3cacccd/master.txt,0:10552,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=521296&versao=dub	leg=0:84594,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=521296&versao=leg
+Olaf em uma Nova Aventura Congelante de Frozen (2017)	dub=https://embedplayer2.xyz/cdn/hls/1134e6c9242591bd38cafe6f127a6862/master.txt,https://comprarebom.xyz/cdn/down/30a4d81618f45d27090d0c25/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=460793&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=460793&versao=leg
+Olavo Tem Razão - O Filme	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1098648&versao=dub	leg=0:84605,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1098648&versao=leg
+Oldboy	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=87516&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=87516&versao=leg
+Oldboy (2003)	dub=0:45483,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=670&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=670&versao=leg
+Oldboy: Dias de Vingança	dub=0:6214,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=87516&versao=dub	leg=0:84608,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=87516&versao=leg
+Olga	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=749142&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=749142&versao=leg
+Olga (2004)	dub=0:30088,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=34671&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=34671&versao=leg
+Olha Nos Meus Olhos	dub=2:1865530,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=951029&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=951029&versao=leg
+OLHA O QUE VOCE ME FEZ FAZER	leg=0:302821
+Olha Quem Está Falando (1989)	dub=2:1819943,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9494&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9494&versao=leg
+Olha Quem Esta Falando Agora	dub=0:42523,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11982&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11982&versao=leg
+Olha Quem Está Falando Também (1990)	dub=2:1817906,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9356&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9356&versao=leg
+Olhar Alheio	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1067714&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1067714&versao=leg
+Olhar Alheio (2023)	dub=https://embedplayer2.xyz/cdn/hls/34c2c9137aa4ec18905502d84fb0c7ef/master.txt,0:51010,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1067714&versao=dub	leg=0:84617,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1067714&versao=leg
+Olhar de Anjo	dub=0:30084,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5852&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5852&versao=leg
+Olhar de Nise	dub=0:249899,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=413209&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=413209&versao=leg
+Olhar Instigado	dub=2:1864169,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=420328&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=420328&versao=leg
+Olhe Nos Meus Olhos	leg=0:84612
+Olho Por Olho	dub=0:97349,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1199869&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1199869&versao=leg
+Olhos Assassinos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=79649&versao=dub	leg=0:84627,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=79649&versao=leg
+Olhos da Justica	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=290751&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=290751&versao=leg
+Olhos da Justiça	dub=0:30098,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=290751&versao=dub	leg=0:84633,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=290751&versao=leg
+Olhos de Dragão	dub=0:6210,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=100683&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=100683&versao=leg
+Olhos de Gato	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=667520&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=667520&versao=leg
+Olhos de Gato (2020)	dub=https://embedplayer2.xyz/cdn/hls/c96249d880217ca4401e1d7927689bfe/master.txt,0:10556,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=667520&versao=dub	leg=0:84622,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=667520&versao=leg
+Olhos de Serpente	dub=0:45491,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8688&versao=dub	leg=0:84638,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8688&versao=leg
+Olhos Famintos	dub=0:51015,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8922&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8922&versao=leg
+Olhos Famintos 2	dub=0:51025,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11351&versao=dub	leg=0:84648,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11351&versao=leg
+Olhos Famintos 3	dub=0:51029,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=55341&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=55341&versao=leg
+Olhos Famintos 4: Renascimento	dub=0:57815,0:51034,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=717728&versao=dub	leg=0:84658,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=717728&versao=leg
+Olhos Frios	dub=0:253575,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=204553&versao=dub	leg=0:253594,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=204553&versao=leg
+Olhos Selvagens e Perversos	dub=https://embedplayer2.xyz/cdn/hls/6f94697eee281ea3a6d198e291faaeb1/master.txt,0:51039,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1197830&versao=dub	leg=0:84642,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1197830&versao=leg
+Olhos Sonhadores (2019)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=618010&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=618010&versao=leg
+Oliver!	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12233&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12233&versao=leg
+Oliver! (1968)	dub=0:30093,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=17917&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=17917&versao=leg
+Oliver e Sua Turma	dub=0:10561,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12233&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12233&versao=leg
+Oliver Grafite	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=644083&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=644083&versao=leg
+Oliver Twist (2005)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=257&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=257&versao=leg
+OMG! ESTOU CERCADA POR TRES PRINCIPES	leg=0:302310
+OMG Voltei aos 18 e Casei com o meu CRUSH	leg=0:303387
+Omniscient Reader: The Prophecy	dub=https://embedplayer2.xyz/cdn/hls/7fec8d94e59f8ea8240b2ef847786ed9/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1131759&versao=dub	leg=0:84653,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1131759&versao=leg
+On the Rocks	dub=0:57818,0:18149,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=575417&versao=dub	leg=0:84664,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=575417&versao=leg
+Once Upon A Time In Hollywood Legendado	leg=0:84659
+Onda de Calor	dub=0:45495,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=928270&versao=dub	leg=0:84670,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=928270&versao=leg
+Onda de Choque	dub=0:6219,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=441531&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=441531&versao=leg
+Onda de choque 2	dub=0:6227,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=559974&versao=dub	leg=0:84679,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=559974&versao=leg
+Onda de crimes	dub=0:18153,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=529207&versao=dub	leg=0:84675,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=529207&versao=leg
+Onda de Violência	dub=0:961,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1319895&versao=dub	leg=0:84681,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1319895&versao=leg
+ONDAS ESCONDIDAS DE AMOR	leg=0:302122
+Onde Aterrar	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1187431&versao=dub	leg=0:253595,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1187431&versao=leg
+Onde Começa o Inferno	dub=0:35167,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=301&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=301&versao=leg
+ONDE ESTA A FELICIDADE	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=85812&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=85812&versao=leg
+Onde Está a Vovó?	dub=0:18158,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=492353&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=492353&versao=leg
+Onde Está Ane?	dub=0:30102,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=736203&versao=dub	leg=0:84686,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=736203&versao=leg
+Onde Esta Deus	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1436304&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1436304&versao=leg
+Onde Esta Deus? (2015)	dub=0:40969,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=372227&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=372227&versao=leg
+Onde Está Rose?	dub=https://embedplayer2.xyz/cdn/hls/51dbac7dd8a82c330e7329b44a799e51/master.txt,0:51044,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=721930&versao=dub	leg=0:84697,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=721930&versao=leg
+Onde Esta Segunda	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=406990&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=406990&versao=leg
+Onde Está Segunda? (2017)	dub=https://embedplayer2.xyz/cdn/hls/073d4d737dba8782f1714e771bdeed09/master.txt,0:34470,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=406990&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=406990&versao=leg
+Onde Estão as Crianças?	dub=0:30107,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=244239&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=244239&versao=leg
+Onde Estiver Estarei Uma Paixao Rubro Negra (2026)	dub=0:290819,0:308668,0:308679,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1703741&versao=dub	leg=0:308653,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1703741&versao=leg
+Onde Eu Moro	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=869602&versao=dub	leg=0:84692,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=869602&versao=leg
+Onde Fica o Paraíso	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=523977&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=523977&versao=leg
+Onde Fica o Paraíso (2020)	dub=https://embedplayer2.xyz/cdn/hls/c270d72610ea62eab84c0f76505c2773/master.txt,0:30112,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=523977&versao=dub	leg=0:84702,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=523977&versao=leg
+Onde Imperam as Balas (1956)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=136228&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=136228&versao=leg
+Onde Nasce a Esperança	dub=0:30117,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=243352&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=243352&versao=leg
+Onde Nasce o Amor (2011)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=81450&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=81450&versao=leg
+Onde o Amor Está	dub=0:97888,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=45272&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=45272&versao=leg
+ONDE O AMOR NAO PODE PASSAR	leg=0:302604
+Onde o Mal Habita (2024)	dub=https://embedplayer2.xyz/cdn/hls/08383ad34359417f8aea2d225ae4adbf/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1032321&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/d765b45d1d51b44e23d88ef292c78443/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1032321&versao=leg
+Onde o Orgulho Não Chega	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1203320&versao=dub	leg=0:84707,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1203320&versao=leg
+Onde os Fracos Não Têm Vez	dub=0:21764,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6977&versao=dub	leg=0:84711,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6977&versao=leg
+Onde Vivem os Monstros	dub=2:1862056,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16523&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16523&versao=leg
+One Chicago Crossover Event	dub=0:6223,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1701720&versao=dub	leg=0:84713,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1701720&versao=leg
+One Day as a Lion	dub=0:6230,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1070777&versao=dub	leg=0:84719,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1070777&versao=leg
+One Day At Disney	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=655571&versao=dub	leg=2:1864569,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=655571&versao=leg
+One Hit Wonder	dub=0:42533,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1428210&versao=dub	leg=0:84722,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1428210&versao=leg
+One Night In Bangkok	dub=https://embedplayer2.xyz/cdn/hls/b9dc0a4ca23a4a18a7b25b261b2cc22d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=721452&versao=dub	leg=0:84725,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=721452&versao=leg
+One Night Off	dub=0:6231,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=920977&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=920977&versao=leg
+One Piece 3D: Straw Hat Chase	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=838072&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=838072&versao=leg
+One Piece 3D2Y	dub=0:52835,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=290271&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=290271&versao=leg
+One Piece: Aventura em Nebulândia	dub=0:52835,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=373879&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=373879&versao=leg
+One Piece: Baron Omatsuri and the Secret Island	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44729&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44729&versao=leg
+One Piece: Coração de Ouro (2016)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=433157&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=433157&versao=leg
+One Piece: Episódio de Alabasta - A Princesa do Deserto e os Piratas	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=25278&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=25278&versao=leg
+One Piece: Episódio de Skypiea (2018)	dub=0:52835,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=545742&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=545742&versao=leg
+ONE PIECE: Episódio do East Blue (2017)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=541867&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=541867&versao=leg
+One Piece Film: Red	dub=0:290723,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=900667&versao=dub	leg=0:290781,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=900667&versao=leg
+One Piece Gold: O Filme	dub=0:10563,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=374205&versao=dub	leg=0:84742,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=374205&versao=leg
+ONE PIECE HEROINES	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1659389&versao=dub	leg=2:2382128,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1659389&versao=leg
+One Piece: O Grande Pirata do Ouro!	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=19576&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=19576&versao=leg
+One Piece Red (2022)	dub=https://embedplayer2.xyz/cdn/hls/63e7adfdf2341cfdb2549e062631a7bf/master.txt,0:10565,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=900667&versao=dub	leg=0:84736,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=900667&versao=leg
+One Piece  S01E1000	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1000&versao=dub	leg=5:1000,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1000&versao=leg
+One Piece  S01E1001	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1001&versao=dub	leg=5:1001,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1001&versao=leg
+One Piece  S01E1002	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1002&versao=dub	leg=5:1002,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1002&versao=leg
+One Piece  S01E1003	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1003&versao=dub	leg=5:1003,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1003&versao=leg
+One Piece  S01E1004	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1004&versao=dub	leg=5:1004,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1004&versao=leg
+One Piece  S01E1005	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1005&versao=dub	leg=5:1005,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1005&versao=leg
+One Piece  S01E1006	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1006&versao=dub	leg=5:1006,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1006&versao=leg
+One Piece  S01E1007	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1007&versao=dub	leg=5:1007,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1007&versao=leg
+One Piece  S01E1008	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1008&versao=dub	leg=5:1008,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1008&versao=leg
+One Piece  S01E1009	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1009&versao=dub	leg=5:1009,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1009&versao=leg
+One Piece  S01E1010	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1010&versao=dub	leg=5:1010,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1010&versao=leg
+One Piece  S01E1011	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1011&versao=dub	leg=5:1011,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1011&versao=leg
+One Piece  S01E1012	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1012&versao=dub	leg=5:1012,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1012&versao=leg
+One Piece  S01E1013	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1013&versao=dub	leg=5:1013,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1013&versao=leg
+One Piece  S01E1014	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1014&versao=dub	leg=5:1014,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1014&versao=leg
+One Piece  S01E1015	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1015&versao=dub	leg=5:1015,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1015&versao=leg
+One Piece  S01E1016	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1016&versao=dub	leg=5:1016,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1016&versao=leg
+One Piece  S01E1017	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1017&versao=dub	leg=5:1017,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1017&versao=leg
+One Piece  S01E1018	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1018&versao=dub	leg=5:1018,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1018&versao=leg
+One Piece  S01E1019	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1019&versao=dub	leg=5:1019,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1019&versao=leg
+One Piece  S01E1020	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1020&versao=dub	leg=5:1020,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1020&versao=leg
+One Piece  S01E1021	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1021&versao=dub	leg=5:1021,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1021&versao=leg
+One Piece  S01E1022	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1022&versao=dub	leg=5:1022,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1022&versao=leg
+One Piece  S01E1023	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1023&versao=dub	leg=5:1023,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1023&versao=leg
+One Piece  S01E1024	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1024&versao=dub	leg=5:1024,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1024&versao=leg
+One Piece  S01E1025	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1025&versao=dub	leg=5:1025,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1025&versao=leg
+One Piece  S01E1026	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1026&versao=dub	leg=5:1026,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1026&versao=leg
+One Piece  S01E1027	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1027&versao=dub	leg=5:1027,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1027&versao=leg
+One Piece  S01E1028	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1028&versao=dub	leg=5:1028,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1028&versao=leg
+One Piece  S01E1029	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1029&versao=dub	leg=5:1029,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1029&versao=leg
+One Piece  S01E1030	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1030&versao=dub	leg=5:1030,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1030&versao=leg
+One Piece  S01E1031	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1031&versao=dub	leg=5:1031,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1031&versao=leg
+One Piece  S01E1032	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1032&versao=dub	leg=5:1032,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1032&versao=leg
+One Piece  S01E1033	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1033&versao=dub	leg=5:1033,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1033&versao=leg
+One Piece  S01E1034	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1034&versao=dub	leg=5:1034,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1034&versao=leg
+One Piece  S01E1035	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1035&versao=dub	leg=5:1035,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1035&versao=leg
+One Piece  S01E1036	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1036&versao=dub	leg=5:1036,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1036&versao=leg
+One Piece  S01E1037	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1037&versao=dub	leg=5:1037,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1037&versao=leg
+One Piece  S01E1038	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1038&versao=dub	leg=5:1038,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1038&versao=leg
+One Piece  S01E1039	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1039&versao=dub	leg=5:1039,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1039&versao=leg
+One Piece  S01E1040	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1040&versao=dub	leg=5:1040,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1040&versao=leg
+One Piece  S01E1041	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1041&versao=dub	leg=5:1041,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1041&versao=leg
+One Piece  S01E1042	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1042&versao=dub	leg=5:1042,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1042&versao=leg
+One Piece  S01E1043	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1043&versao=dub	leg=5:1043,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1043&versao=leg
+One Piece  S01E1044	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1044&versao=dub	leg=5:1044,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1044&versao=leg
+One Piece  S01E1045	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1045&versao=dub	leg=5:1045,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1045&versao=leg
+One Piece  S01E1046	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1046&versao=dub	leg=5:1046,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1046&versao=leg
+One Piece  S01E1047	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1047&versao=dub	leg=5:1047,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1047&versao=leg
+One Piece  S01E1048	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1048&versao=dub	leg=5:1048,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1048&versao=leg
+One Piece  S01E1049	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1049&versao=dub	leg=5:1049,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1049&versao=leg
+One Piece  S01E1050	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1050&versao=dub	leg=5:1050,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1050&versao=leg
+One Piece  S01E1051	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1051&versao=dub	leg=5:1051,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1051&versao=leg
+One Piece  S01E1052	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1052&versao=dub	leg=5:1052,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1052&versao=leg
+One Piece  S01E1053	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1053&versao=dub	leg=5:1053,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1053&versao=leg
+One Piece  S01E1054	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1054&versao=dub	leg=5:1054,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1054&versao=leg
+One Piece  S01E1055	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1055&versao=dub	leg=5:1055,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1055&versao=leg
+One Piece  S01E1056	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1056&versao=dub	leg=5:1056,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1056&versao=leg
+One Piece  S01E1057	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1057&versao=dub	leg=5:1057,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1057&versao=leg
+One Piece  S01E1058	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1058&versao=dub	leg=5:1058,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1058&versao=leg
+One Piece  S01E1059	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1059&versao=dub	leg=5:1059,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1059&versao=leg
+One Piece  S01E1060	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1060&versao=dub	leg=5:1060,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1060&versao=leg
+One Piece  S01E1061	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1061&versao=dub	leg=5:1061,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1061&versao=leg
+One Piece  S01E1062	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1062&versao=dub	leg=5:1062,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1062&versao=leg
+One Piece  S01E1063	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1063&versao=dub	leg=5:1063,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1063&versao=leg
+One Piece  S01E1064	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1064&versao=dub	leg=5:1064,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1064&versao=leg
+One Piece  S01E1065	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1065&versao=dub	leg=5:1065,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1065&versao=leg
+One Piece  S01E1066	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1066&versao=dub	leg=5:1066,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1066&versao=leg
+One Piece  S01E1067	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1067&versao=dub	leg=5:1067,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1067&versao=leg
+One Piece  S01E1068	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1068&versao=dub	leg=5:1068,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1068&versao=leg
+One Piece  S01E1069	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1069&versao=dub	leg=5:1069,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1069&versao=leg
+One Piece  S01E1070	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1070&versao=dub	leg=5:1070,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1070&versao=leg
+One Piece  S01E1071	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1071&versao=dub	leg=5:1071,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1071&versao=leg
+One Piece  S01E1072	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1072&versao=dub	leg=5:1072,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1072&versao=leg
+One Piece  S01E1073	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1073&versao=dub	leg=5:1073,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1073&versao=leg
+One Piece  S01E1074	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1074&versao=dub	leg=5:1074,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1074&versao=leg
+One Piece  S01E1075	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1075&versao=dub	leg=5:1075,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1075&versao=leg
+One Piece  S01E1076	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1076&versao=dub	leg=5:1076,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1076&versao=leg
+One Piece  S01E1077	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1077&versao=dub	leg=5:1077,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1077&versao=leg
+One Piece  S01E1078	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1078&versao=dub	leg=5:1078,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1078&versao=leg
+One Piece  S01E1079	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1079&versao=dub	leg=5:1079,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1079&versao=leg
+One Piece  S01E1080	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1080&versao=dub	leg=5:1080,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1080&versao=leg
+One Piece  S01E1081	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1081&versao=dub	leg=5:1081,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1081&versao=leg
+One Piece  S01E1082	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1082&versao=dub	leg=5:1082,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1082&versao=leg
+One Piece  S01E1083	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1083&versao=dub	leg=5:1083,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1083&versao=leg
+One Piece  S01E1084	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1084&versao=dub	leg=5:1084,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1084&versao=leg
+One Piece  S01E1085	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1085&versao=dub	leg=5:1085,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1085&versao=leg
+One Piece  S01E1086	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1086&versao=dub	leg=5:1086,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1086&versao=leg
+One Piece  S01E1087	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1087&versao=dub	leg=5:1087,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1087&versao=leg
+One Piece  S01E1088	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1088&versao=dub	leg=5:1088,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1088&versao=leg
+One Piece  S01E1089	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1089&versao=dub	leg=32:1089,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1089&versao=leg
+One Piece  S01E1090	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1090&versao=dub	leg=32:1090,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1090&versao=leg
+One Piece  S01E1091	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1091&versao=dub	leg=32:1091,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1091&versao=leg
+One Piece  S01E1092	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1092&versao=dub	leg=32:1092,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1092&versao=leg
+One Piece  S01E1093	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1093&versao=dub	leg=32:1093,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1093&versao=leg
+One Piece  S01E1094	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1094&versao=dub	leg=32:1094,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1094&versao=leg
+One Piece  S01E1095	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1095&versao=dub	leg=32:1095,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1095&versao=leg
+One Piece  S01E1096	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1096&versao=dub	leg=32:1096,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1096&versao=leg
+One Piece  S01E1097	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1097&versao=dub	leg=32:1097,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1097&versao=leg
+One Piece  S01E1098	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1098&versao=dub	leg=32:1098,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1098&versao=leg
+One Piece  S01E1099	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1099&versao=dub	leg=32:1099,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1099&versao=leg
+One Piece  S01E1100	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1100&versao=dub	leg=32:1100,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1100&versao=leg
+One Piece  S01E1101	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1101&versao=dub	leg=32:1101,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1101&versao=leg
+One Piece  S01E1102	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1102&versao=dub	leg=32:1102,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1102&versao=leg
+One Piece  S01E1103	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1103&versao=dub	leg=32:1103,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1103&versao=leg
+One Piece  S01E1104	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1104&versao=dub	leg=32:1104,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1104&versao=leg
+One Piece  S01E1105	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1105&versao=dub	leg=32:1105,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1105&versao=leg
+One Piece  S01E1106	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1106&versao=dub	leg=32:1106,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1106&versao=leg
+One Piece  S01E1107	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1107&versao=dub	leg=32:1107,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1107&versao=leg
+One Piece  S01E1108	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1108&versao=dub	leg=32:1108,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1108&versao=leg
+One Piece  S01E1109	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1109&versao=dub	leg=32:1109,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1109&versao=leg
+One Piece  S01E1110	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1110&versao=dub	leg=32:1110,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1110&versao=leg
+One Piece  S01E1111	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1111&versao=dub	leg=32:1111,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1111&versao=leg
+One Piece  S01E1112	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1112&versao=dub	leg=32:1112,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1112&versao=leg
+One Piece  S01E1113	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1113&versao=dub	leg=32:1113,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1113&versao=leg
+One Piece  S01E1114	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1114&versao=dub	leg=32:1114,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1114&versao=leg
+One Piece  S01E1115	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1115&versao=dub	leg=32:1115,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1115&versao=leg
+One Piece  S01E1116	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1116&versao=dub	leg=32:1116,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1116&versao=leg
+One Piece  S01E1117	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1117&versao=dub	leg=32:1117,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1117&versao=leg
+One Piece  S01E1118	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1118&versao=dub	leg=32:1118,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1118&versao=leg
+One Piece  S01E1119	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1119&versao=dub	leg=32:1119,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1119&versao=leg
+One Piece  S01E1120	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1120&versao=dub	leg=32:1120,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1120&versao=leg
+One Piece  S01E1121	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1121&versao=dub	leg=32:1121,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1121&versao=leg
+One Piece  S01E1122	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1122&versao=dub	leg=32:1122,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1122&versao=leg
+One Piece  S01E1123	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1123&versao=dub	leg=32:1123,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1123&versao=leg
+One Piece  S01E1124	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1124&versao=dub	leg=32:1124,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1124&versao=leg
+One Piece  S01E1125	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1125&versao=dub	leg=32:1125,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1125&versao=leg
+One Piece  S01E1126	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1126&versao=dub	leg=32:1126,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1126&versao=leg
+One Piece  S01E1127	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1127&versao=dub	leg=32:1127,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1127&versao=leg
+One Piece  S01E1128	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1128&versao=dub	leg=32:1128,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1128&versao=leg
+One Piece  S01E1129	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1129&versao=dub	leg=32:1129,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1129&versao=leg
+One Piece  S01E1130	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1130&versao=dub	leg=32:1130,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1130&versao=leg
+One Piece  S01E1131	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1131&versao=dub	leg=32:1131,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1131&versao=leg
+One Piece  S01E1132	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1132&versao=dub	leg=32:1132,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1132&versao=leg
+One Piece  S01E1133	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1133&versao=dub	leg=32:1133,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1133&versao=leg
+One Piece  S01E1134	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1134&versao=dub	leg=32:1134,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1134&versao=leg
+One Piece  S01E1135	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1135&versao=dub	leg=23:120819,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1135&versao=leg
+One Piece  S01E1136	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1136&versao=dub	leg=32:1136,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1136&versao=leg
+One Piece  S01E1137	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1137&versao=dub	leg=32:1137,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1137&versao=leg
+One Piece  S01E1138	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1138&versao=dub	leg=32:1138,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1138&versao=leg
+One Piece  S01E1139	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1139&versao=dub	leg=32:1139,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1139&versao=leg
+One Piece  S01E1140	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1140&versao=dub	leg=32:1140,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1140&versao=leg
+One Piece  S01E1141	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1141&versao=dub	leg=32:1141,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1141&versao=leg
+One Piece  S01E1142	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1142&versao=dub	leg=32:1142,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1142&versao=leg
+One Piece  S01E1143	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1143&versao=dub	leg=32:1143,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1143&versao=leg
+One Piece  S01E1144	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1144&versao=dub	leg=32:1144,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1144&versao=leg
+One Piece  S01E1145	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1145&versao=dub	leg=32:1145,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1145&versao=leg
+One Piece  S01E1146	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1146&versao=dub	leg=32:1146,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1146&versao=leg
+One Piece  S01E1147	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1147&versao=dub	leg=32:1147,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1147&versao=leg
+One Piece  S01E1148	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1148&versao=dub	leg=32:1148,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1148&versao=leg
+One Piece  S01E1149	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1149&versao=dub	leg=32:1149,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1149&versao=leg
+One Piece  S01E1150	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1150&versao=dub	leg=32:1150,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1150&versao=leg
+One Piece  S01E1151	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1151&versao=dub	leg=32:1151,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1151&versao=leg
+One Piece  S01E1152	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1152&versao=dub	leg=32:1152,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1152&versao=leg
+One Piece  S01E1153	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1153&versao=dub	leg=32:1153,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1153&versao=leg
+One Piece  S01E1154	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1154&versao=dub	leg=32:1154,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1154&versao=leg
+One Piece  S01E1155	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1155&versao=dub	leg=32:1155,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1155&versao=leg
+One Piece  S01E1156	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1156&versao=dub	leg=23:217857,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1156&versao=leg
+One Piece  S01E1157	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1157&versao=dub	leg=23:217858,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1157&versao=leg
+One Piece  S01E1158	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1158&versao=dub	leg=23:217934,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1158&versao=leg
+One Piece  S01E1159	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1159&versao=dub	leg=23:218033,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1159&versao=leg
+One Piece  S01E1160	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1160&versao=dub	leg=23:218150,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1160&versao=leg
+One Piece  S01E1161	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1161&versao=dub	leg=23:218260,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1161&versao=leg
+One Piece  S01E1162	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1162&versao=dub	leg=23:218371,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1162&versao=leg
+One Piece  S01E1163	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1163&versao=dub	leg=23:218497,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1163&versao=leg
+One Piece  S01E1164	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1164&versao=dub	leg=23:218602,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1164&versao=leg
+One Piece  S01E1165	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1165&versao=dub	leg=23:218720,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1165&versao=leg
+One Piece  S01E1166	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1166&versao=dub	leg=23:218803,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1166&versao=leg
+One Piece  S01E1167	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1167&versao=dub	leg=23:218912,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1167&versao=leg
+One Piece  S01E1168	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1168&versao=dub	leg=23:219005,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1168&versao=leg
+One Piece  S01E1169	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1169&versao=dub	leg=23:219225,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1169&versao=leg
+One Piece  S01E1170	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1170&versao=dub	leg=23:219363,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1170&versao=leg
+One Piece  S01E1171	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1171&versao=dub	leg=23:219486,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1171&versao=leg
+One Piece  S01E1172	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1172&versao=dub	leg=23:219636,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1172&versao=leg
+One Piece  S01E1173	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1173&versao=dub	leg=23:219750,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1173&versao=leg
+One Piece  S01E1174	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1174&versao=dub	leg=23:219898,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1174&versao=leg
+One Piece  S01E1175	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1175&versao=dub	leg=23:220012,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1175&versao=leg
+One Piece  S01E1176	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1176&versao=dub	leg=23:220146,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1176&versao=leg
+One Piece  S01E1177	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1177&versao=dub	leg=23:220277,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1177&versao=leg
+One Piece  S01E1178	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1178&versao=dub	leg=23:220411,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1178&versao=leg
+One Piece  S01E1179	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1179&versao=dub	leg=23:220531,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1179&versao=leg
+One Piece  S01E1180	dub=https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1180&versao=dub	leg=23:220617,https://saimo-tv.pages.dev/api/stream?tipo=series&id=37854&s=1&e=1180&versao=leg
+One Piece  S21E1000	leg=5:1000
+One Piece  S21E1001	leg=5:1001
+One Piece  S21E1002	leg=5:1002
+One Piece  S21E1003	leg=5:1003
+One Piece  S21E1004	leg=5:1004
+One Piece  S21E1005	leg=5:1005
+One Piece  S21E1006	leg=5:1006
+One Piece  S21E1007	leg=5:1007
+One Piece  S21E1008	leg=5:1008
+One Piece  S21E1009	leg=5:1009
+One Piece  S21E1010	leg=5:1010
+One Piece  S21E1011	leg=5:1011
+One Piece  S21E1012	leg=5:1012
+One Piece  S21E1013	leg=5:1013
+One Piece  S21E1014	leg=5:1014
+One Piece  S21E1015	leg=5:1015
+One Piece  S21E1016	leg=5:1016
+One Piece  S21E1017	leg=5:1017
+One Piece  S21E1018	leg=5:1018
+One Piece  S21E1019	leg=5:1019
+One Piece  S21E1020	leg=5:1020
+One Piece  S21E1021	leg=5:1021
+One Piece  S21E1022	leg=5:1022
+One Piece  S21E1023	leg=5:1023
+One Piece  S21E1024	leg=5:1024
+One Piece  S21E1025	leg=5:1025
+One Piece  S21E1026	leg=5:1026
+One Piece  S21E1027	leg=5:1027
+One Piece  S21E1028	leg=5:1028
+One Piece  S21E1029	leg=5:1029
+One Piece  S21E1030	leg=5:1030
+One Piece  S21E1031	leg=5:1031
+One Piece  S21E1032	leg=5:1032
+One Piece  S21E1033	leg=5:1033
+One Piece  S21E1034	leg=5:1034
+One Piece  S21E1035	leg=5:1035
+One Piece  S21E1036	leg=5:1036
+One Piece  S21E1037	leg=5:1037
+One Piece  S21E1038	leg=5:1038
+One Piece  S21E1039	leg=5:1039
+One Piece  S21E1040	leg=5:1040
+One Piece  S21E1041	leg=5:1041
+One Piece  S21E1042	leg=5:1042
+One Piece  S21E1043	leg=5:1043
+One Piece  S21E1044	leg=5:1044
+One Piece  S21E1045	leg=5:1045
+One Piece  S21E1046	leg=5:1046
+One Piece  S21E1047	leg=5:1047
+One Piece  S21E1048	leg=5:1048
+One Piece  S21E1049	leg=5:1049
+One Piece  S21E1050	leg=5:1050
+One Piece  S21E1051	leg=5:1051
+One Piece  S21E1052	leg=5:1052
+One Piece  S21E1053	leg=5:1053
+One Piece  S21E1054	leg=5:1054
+One Piece  S21E1055	leg=5:1055
+One Piece  S21E1056	leg=5:1056
+One Piece  S21E1057	leg=5:1057
+One Piece  S21E1058	leg=5:1058
+One Piece  S21E1059	leg=5:1059
+One Piece  S21E1060	leg=5:1060
+One Piece  S21E1061	leg=5:1061
+One Piece  S21E1062	leg=5:1062
+One Piece  S21E1063	leg=5:1063
+One Piece  S21E1064	leg=5:1064
+One Piece  S21E1065	leg=5:1065
+One Piece: Stampede	dub=0:10574,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=568012&versao=dub	leg=0:84752,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=568012&versao=leg
+One Piece: Strong World	dub=2:1857539,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=41498&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=41498&versao=leg
+One Piece: The Giant Mechanical Soldier of Karakuri Castle	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44730&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44730&versao=leg
+One Piece: Z (2012)	dub=https://embedplayer2.xyz/cdn/hls/09c01a95ca2db1e7096610ccdde10701/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=176983&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=176983&versao=leg
+One to One: John & Yoko	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1320392&versao=dub	leg=0:84747,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1320392&versao=leg
+ONEFOUR: Contra Tudo e Contra Todos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1170618&versao=dub	leg=0:84761,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1170618&versao=leg
+Ong Bak 2 - O Guerreiro Sagrado Voltou	dub=0:6235,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16353&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16353&versao=leg
+Ong-Bak 3	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43209&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43209&versao=leg
+Ong-Bak 3 (2010)	dub=https://embedplayer2.xyz/cdn/hls/cfe1aef897dab7ae10e75648bb6e8ed8/master.txt,0:6240,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43209&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43209&versao=leg
+Ong-Bak: Guerreiro Sagrado (2003)	dub=0:6239,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9316&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9316&versao=leg
+Only Mine	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=575923&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=575923&versao=leg
+Only Mine (2019)	dub=https://embedplayer2.xyz/cdn/hls/23e6b8026dba23aec9a5f082664d8299/master.txt,0:30123,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=575923&versao=dub	leg=0:84757,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=575923&versao=leg
+Onoda - 10 Mil Noites Na Selva (2021)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695089&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695089&versao=leg
+Onward	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=508439&versao=dub	leg=0:55559,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=508439&versao=leg
+Onye Egwu	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1318563&versao=dub	leg=0:84763,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1318563&versao=leg
+Onze Homens e um Segredo	dub=0:45500,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=161&versao=dub	leg=0:308378,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=161&versao=leg
+Onze Homens e Um Segredo (1960)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=299&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=299&versao=leg
+OPA! MEU NOVO MARIDO DIRIGE A ESCOLA DO MEU FILHO!	dub=0:301771
+Opa Virei Madrasta de Minha Inimiga	leg=0:302921
+Open: Abrindo a Relação	dub=0:18163,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=552990&versao=dub	leg=0:84775,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=552990&versao=leg
+Operação 49	dub=0:308557,0:308563,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1060456&versao=dub	leg=0:308558,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1060456&versao=leg
+Operacao Arma Secreta (2023)	dub=https://embedplayer2.xyz/cdn/hls/6c26d3767e53c5b64a9a9225acf2c512/master.txt,0:6256,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1149381&versao=dub	leg=0:84791,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1149381&versao=leg
+OPERACAO ARMADILHA DE NATAL	leg=0:302315
+Operação Arriscada	dub=0:253328,0:254806,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1255788&versao=dub	leg=0:253640,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1255788&versao=leg
+Operacao Baba	dub=0:30122,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10022&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10022&versao=leg
+Operação Beijo de Natal	dub=https://embedplayer2.xyz/cdn/hls/96883bc724f0f22d3b29e919c4d73d70/master.txt,0:969,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1380956&versao=dub	leg=0:84796,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1380956&versao=leg
+Operacao Big Hero	dub=2:1825342,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=177572&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=177572&versao=leg
+Operação Camanducaia	dub=2:1866499,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=789242&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=789242&versao=leg
+Operação Cerveja	dub=0:57823,0:37087,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=597922&versao=dub	leg=0:84786,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=597922&versao=leg
+Operação Chromite	dub=0:37092,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=407887&versao=dub	leg=0:84801,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=407887&versao=leg
+Operacao Condor: Um Kickboxer Muito Louco (1991)	dub=https://embedplayer2.xyz/cdn/hls/672573924ba585ad9dd0289aa21ca7c4/master.txt,0:6269,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10975&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10975&versao=leg
+Operação Corvo	dub=0:6273,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14943&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14943&versao=leg
+Operação Corvo 2	dub=0:6277,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=25716&versao=dub	leg=0:84815,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=25716&versao=leg
+Operação Corvo 3: Explode	dub=0:6286,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=253451&versao=dub	leg=0:84806,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=253451&versao=leg
+Operacao Cupido	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9820&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9820&versao=leg
+Operação Cupido	dub=0:18164,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9820&versao=dub	leg=0:84817,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9820&versao=leg
+Operação de Espionagem	dub=2:1867444,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1406491&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1406491&versao=leg
+Operação de Risco	dub=0:6282,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=739405&versao=dub	leg=0:84811,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=739405&versao=leg
+Operação Divórcio	dub=0:18172,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=755437&versao=dub	leg=0:84826,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=755437&versao=leg
+Operacao Dragao	dub=0:6248,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9461&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9461&versao=leg
+Operação Escorpião	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18855&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18855&versao=leg
+Operação Escorpião (2018)	dub=0:6290,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=914434&versao=dub	leg=0:84822,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=914434&versao=leg
+Operacao Esperanca As Criancas perdidas na Amazon	dub=2:1864677,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1280368&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1280368&versao=leg
+Operação Esperança: As Crianças perdidas na Amazônia	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1280368&versao=dub	leg=2:1864677,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1280368&versao=leg
+Operação Feliz Natal: O Golpe dos Duendes	dub=0:40227,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=914241&versao=dub	leg=0:84828,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=914241&versao=leg
+Operação Filhote	dub=0:53230,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=727057&versao=dub	leg=0:84839,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=727057&versao=leg
+Operacao Final	dub=0:30127,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=493551&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=493551&versao=leg
+Operação Fox Hunt	dub=0:289924,0:289966,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=729684&versao=dub	leg=0:289945,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=729684&versao=leg
+Operação França	dub=0:6293,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1051&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1051&versao=leg
+Operação França 2	dub=0:6294,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10711&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10711&versao=leg
+Operação França II	dub=0:6294,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10711&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10711&versao=leg
+Operacao Fronteira	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=399361&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=399361&versao=leg
+Operação Fronteira	dub=https://embedplayer2.xyz/cdn/hls/33c6ef081e2051f47abaa6ee22a6044b/master.txt,0:6243,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=399361&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=399361&versao=leg
+Operação Fronteira (2019)	dub=https://embedplayer2.xyz/cdn/hls/33c6ef081e2051f47abaa6ee22a6044b/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=399361&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=399361&versao=leg
+Operacao Hunt (2022)	dub=0:45506,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=727340&versao=dub	leg=0:84774,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=727340&versao=leg
+Operação Ilegal	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1090868&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1090868&versao=leg
+Operação Ilegal (2023)	dub=https://embedplayer2.xyz/cdn/hls/b9603fd25666519490e04fe821f06cdf/master.txt,0:30132,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1090868&versao=dub	leg=0:84845,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1090868&versao=leg
+Operação Invasão	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=94329&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=94329&versao=leg
+Operacao Invasao 2	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=180299&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=180299&versao=leg
+Operação Invasão 2	dub=0:6254,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=180299&versao=dub	leg=0:301203,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=180299&versao=leg
+Operação Lua	dub=0:36305,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=651135&versao=dub	leg=0:84842,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=651135&versao=leg
+Operação Maldoror	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=959596&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=959596&versao=leg
+Operação Maldoror (2024)	dub=https://embedplayer2.xyz/cdn/hls/6b47dcb8c080535509c4a96d9fff938c/master.txt,0:52962,0:315416,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=959596&versao=dub	leg=0:84852,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=959596&versao=leg
+Operação Matador	dub=0:37097,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=811646&versao=dub	leg=0:84850,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=811646&versao=leg
+Operação Narco	dub=0:6298,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=706972&versao=dub	leg=0:84862,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=706972&versao=leg
+Operação Natal	dub=https://comprarebom.xyz/cdn/down/f43fd9cbb41667def2f00dd6/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=845781&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=845781&versao=leg
+Operação Natal (2024)	dub=https://embedplayer2.xyz/cdn/hls/21d1e8eebe7d0875cecca8144dda0bd6/master.txt,0:57828,0:40231,https://comprarebom.xyz/cdn/down/f43fd9cbb41667def2f00dd6/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=845781&versao=dub	leg=0:84857,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=845781&versao=leg
+Operacao Obscura (2020)	dub=https://embedplayer2.xyz/cdn/hls/86aca5806852a6595fd7fe22909933f8/master.txt,0:51054,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=513268&versao=dub	leg=0:84873,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=513268&versao=leg
+Operacao Overlord	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438799&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438799&versao=leg
+Operação Overlord	dub=0:51049,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438799&versao=dub	leg=0:84883,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438799&versao=leg
+Operação Panda	dub=https://embedplayer2.xyz/cdn/hls/32dd2916e90f9bdc2e10a307b3dc2021/master.txt,0:6307,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1160956&versao=dub	leg=0:84867,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1160956&versao=leg
+Operação Panda: A Tribo Mágica	dub=2:2381351,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1421552&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1421552&versao=leg
+Operação Pizzagate	dub=0:51069,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=733049&versao=dub	leg=0:84878,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=733049&versao=leg
+Operação Portugal	dub=0:18176,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=642684&versao=dub	leg=0:84889,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=642684&versao=leg
+Operacao Presente	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=51052&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=51052&versao=leg
+Operação Presente (2011)	dub=0:10578,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=51052&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=51052&versao=leg
+Operacao Red Sparrow	dub=0:45503,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=401981&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=401981&versao=leg
+Operação Resgate	dub=2:1880243,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1382406&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1382406&versao=leg
+Operação Resgate – Caverna na Tailândia	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=542784&versao=dub	leg=0:84895,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=542784&versao=leg
+Operacao Resgate Na Tailandia	dub=0:6265,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=542784&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=542784&versao=leg
+Operação Sombra	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1419406&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1419406&versao=leg
+Operação Sombra (2025)	dub=0:311333,0:311357,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1419406&versao=dub	leg=0:311342,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1419406&versao=leg
+Operacao Sombra Jack Ryan	dub=0:6261,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=137094&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=137094&versao=leg
+Operacao Supletivo Agora Vai	dub=0:18167,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=454293&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=454293&versao=leg
+Operação Tempestade	dub=0:37106,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75605&versao=dub	leg=0:84915,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75605&versao=leg
+Operação Terra	dub=0:6303,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10640&versao=dub	leg=0:84900,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10640&versao=leg
+Operacao Valquiria	dub=0:30136,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2253&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2253&versao=leg
+Operacao Vingança (2025)	dub=https://embedplayer2.xyz/cdn/hls/75962edb0712a797787407b8ee424289/master.txt,0:57833,0:84910,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1087891&versao=dub	leg=0:84905,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1087891&versao=leg
+Operação Zodíaco (2012)	dub=https://embedplayer2.xyz/cdn/hls/fd09e30ad8dd2bd9dd3d6c1cd322c924/master.txt,0:6311,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=98567&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=98567&versao=leg
+Operación Esperanza: Los niños perdidos en el Amazonas	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1280368&versao=dub	leg=2:1864677,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1280368&versao=leg
+Operações Especiais	dub=0:38941,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=363925&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=363925&versao=leg
+Operasjon Arktis	dub=0:313910,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=285200&versao=dub	leg=0:313952,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=285200&versao=leg
+Ophelia	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=428836&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=428836&versao=leg
+Oportunistas	dub=0:30141,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=468198&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=468198&versao=leg
+Oppenheimer	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=872585&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=872585&versao=leg
+Oppenheimer (2023)	dub=https://embedplayer2.xyz/cdn/hls/e77c672e47605971cbbdf6da31cb613d/master.txt,0:57838,0:30146,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=872585&versao=dub	leg=0:84920,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=872585&versao=leg
+Oppy	dub=2:1866632,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=972545&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=972545&versao=leg
+Oprah and the Color Purple Journey	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1218168&versao=dub	leg=2:1866887,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1218168&versao=leg
+Oprah & The Color Purple Journey	dub=2:1866887,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1218168&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1218168&versao=leg
+OPS! A GAROTA NERD E MINHA GATINHA	dub=0:302243
+Opt ilustrate din lumea ideală	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1265746&versao=dub	leg=0:84941,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1265746&versao=leg
+Opus	dub=0:51059,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1202479&versao=dub	leg=0:84936,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1202479&versao=leg
+Oração Diabólica	dub=0:51073,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=636879&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=636879&versao=leg
+Oracle	dub=https://embedplayer2.xyz/cdn/hls/5de3dd4f3948922cdcb125e6c1bbcc0f/master.txt,0:51083,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1615902&versao=dub	leg=0:84946,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1615902&versao=leg
+Orações Para Bobby	dub=0:40963,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=21634&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=21634&versao=leg
+Oraculo (2023)	dub=https://embedplayer2.xyz/cdn/hls/5de3dd4f3948922cdcb125e6c1bbcc0f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=787761&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=787761&versao=leg
+Orangutan	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1648678&versao=dub	leg=0:253381,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1648678&versao=leg
+Orca: A Baleia Assassina	dub=0:51064,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12707&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12707&versao=leg
+Organ Trail: Sobrevivência	dub=0:57843,0:51078,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=950141&versao=dub	leg=0:84951,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=950141&versao=leg
+Organização Monstro	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=677157&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=677157&versao=leg
+Organização Monstro (2023)	dub=https://embedplayer2.xyz/cdn/hls/59e6a9955635a3594ea8c200382fe975/master.txt,0:34486,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=677157&versao=dub	leg=0:84956,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=677157&versao=leg
+Orgulho &amp; Revolução (2023)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1045862&versao=dub
+Orgulho e Compaixão	dub=0:30152,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1030009&versao=dub	leg=0:84966,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1030009&versao=leg
+Orgulho e Esperança (2014)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=234200&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=234200&versao=leg
+Orgulho e Preconceito	dub=0:30149,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4348&versao=dub	leg=0:84977,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4348&versao=leg
+Orgulho e Preconceito e Zumbis	dub=0:18181,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=58431&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=58431&versao=leg
+Orgulho e Preconceito: Tornando-se Elizabeth Bennet	dub=0:42531,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=641163&versao=dub	leg=0:84999,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=641163&versao=leg
+Orgulho Preconceito e Azevinho	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=535810&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=535810&versao=leg
+Orgulho & Revolução	dub=0:30171,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1045862&versao=dub	leg=0:84961,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1045862&versao=leg
+Origens Secretas	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438396&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438396&versao=leg
+Origens Secretas (2020)	dub=https://embedplayer2.xyz/cdn/hls/ec59eff1121a54ef3eadc68b8ff23874/master.txt,0:30161,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438396&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438396&versao=leg
+Origin (2023)	dub=https://embedplayer2.xyz/cdn/hls/ec2efe820eb286fe4773914ac7def1d3/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=753336&versao=dub	leg=0:84972,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=753336&versao=leg
+Original Gangster	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=778844&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=778844&versao=leg
+Original Gangster (2020)	dub=https://embedplayer2.xyz/cdn/hls/11ec184d6325d03e7c6fc97dbdc64981/master.txt,0:21760,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=778844&versao=dub	leg=0:84983,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=778844&versao=leg
+Orin: Música Para os Orixás	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=544491&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=544491&versao=leg
+Orion e o Escuro	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139829&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139829&versao=leg
+Orion e o Escuro (2024)	dub=https://embedplayer2.xyz/cdn/hls/5dae87c6d5ab66e06a07899e6fd461fd/master.txt,0:10583,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139829&versao=dub	leg=0:84988,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139829&versao=leg
+Oro	dub=0:30156,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=436830&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=436830&versao=leg
+Oro - A Cidade Perdida	dub=0:306286,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=436830&versao=dub	leg=0:301204,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=436830&versao=leg
+Orquestra dos Meninos	dub=0:30166,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=79734&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=79734&versao=leg
+Orquestra Popular do Nordeste	dub=2:1864448,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=558070&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=558070&versao=leg
+Orquídea Selvagem	dub=0:97894,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5203&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5203&versao=leg
+Orwell: 2+2=5	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1098534&versao=dub	leg=0:84994,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1098534&versao=leg
+OS BROTHERS DA MINHA EX	leg=0:303033
+OS CINCO TESOUROS DO GERVASIO	leg=0:302891
+os Filhos Esquecidos (2015)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=361705&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=361705&versao=leg
+os Guerreiros do Futuro	dub=https://embedplayer2.xyz/cdn/hls/b98ae0ff4fc26ba698d83f2bd6387767/master.txt,2:1880894,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=39324&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=39324&versao=leg
+OS HERDEIROS DO CEO A FUGA DA ESPOSA	dub=0:303001
+OS IRMAOS QUE ME PEDIRAM PERDAO	leg=0:302705
+os Meus e os Nossos (2005)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13499&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13499&versao=leg
+Os Observadores	dub=0:57902,0:45535,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1086747&versao=dub	leg=0:85317,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1086747&versao=leg
+Os Octonautas e As Cavernas de Sac Actun (2020)	dub=0:10548,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=726940&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=726940&versao=leg
+Os Odiados do Casamento	dub=0:18342,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=802372&versao=dub	leg=0:85329,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=802372&versao=leg
+Os Oito Odiados	dub=0:30269,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=273248&versao=dub	leg=0:85334,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=273248&versao=leg
+Os Olhos de Júlia (2010)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=52274&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=52274&versao=leg
+Os Olhos de Tammy Faye	dub=0:30270,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=601470&versao=dub	leg=0:85335,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=601470&versao=leg
+Os Olhos Negros de Marilyn	dub=0:18338,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=776328&versao=dub	leg=0:85341,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=776328&versao=leg
+Os Opostos Sempre Se Atraem	dub=0:18347,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=785985&versao=dub	leg=0:85348,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=785985&versao=leg
+Os Orfaos	dub=0:30283,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=492611&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=492611&versao=leg
+Os Ossos da Saudade	dub=2:1865745,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=900685&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=900685&versao=leg
+Os Outros	dub=0:51168,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1933&versao=dub	leg=0:307413,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1933&versao=leg
+Os Outros (2001)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1933&versao=dub
+Os Outros Caras	dub=0:6400,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27581&versao=dub	leg=0:301212,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27581&versao=leg
+os Pivetes de Kátia (1984)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=232771&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=232771&versao=leg
+OS TRES FILHOS MIMAM A MAMAE	leg=0:302730
+OS TRES PRETENDENTES DEVOTADOS DA ESPOSA TRAIDA	leg=0:302154
+Oscar	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1601243&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1601243&versao=leg
+Oscar (2021)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=725649&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=725649&versao=leg
+Oscar Minha Filha Quer Casar	dub=0:18443,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11890&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11890&versao=leg
+Oscar Shaw	dub=https://embedplayer2.xyz/cdn/hls/b2d7741c4a292032004d88e4f0a54cf7/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1601243&versao=dub	leg=0:249883,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1601243&versao=leg
+Osiris	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1241470&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1241470&versao=leg
+Osíris (2025)	dub=https://embedplayer2.xyz/cdn/hls/882868d0453cc47e3ec339fded2e2720/master.txt,0:51173,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1241470&versao=dub	leg=0:85525,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1241470&versao=leg
+Oslo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75233&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75233&versao=leg
+Oslo (2021)	dub=0:57932,0:30347,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=553087&versao=dub	leg=0:85530,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=553087&versao=leg
+Osmose Jones - Uma Aventura Radical pelo Corpo Humano	dub=0:12054,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12610&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12610&versao=leg
+Osso Duro	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=326284&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=326284&versao=leg
+Ossos e Rock ’n’ Roll (2015)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=322075&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=322075&versao=leg
+Ostatnia góra (2019)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=629053&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=629053&versao=leg
+Ostinato	dub=2:1886952,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=74181&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=74181&versao=leg
+Ostinato (2021)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=788037&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=788037&versao=leg
+OTHER - Presenca Maligna (2025)	dub=https://embedplayer2.xyz/cdn/hls/b9886106404042c14df79702f9b9560b/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1314452&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1314452&versao=leg
+Otis: O Ninfomaníaco (2008)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15527&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15527&versao=leg
+ou os 120 Dias de Sodoma (1976)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5336&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/418bd979918f293f540dc8ee4b5c4dd6/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5336&versao=leg
+OUCA-ME SO MAIS UMA VEZ	leg=0:302128
+Ouca o Vento Dizer eu te Amo	leg=0:303366
+Ouija 3: E o Jogo Continua (2016)	dub=2:1868783,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=431392&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=431392&versao=leg
+Ouija: A Casa Amaldiçoada	dub=0:51187,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=501851&versao=dub	leg=0:85551,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=501851&versao=leg
+Ouija: Exorcismo (2015)	dub=2:1871224,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=363844&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=363844&versao=leg
+Ouija - Invocando o Mal	dub=0:51183,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=720018&versao=dub	leg=0:85534,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=720018&versao=leg
+Ouija: O Jogo dos Espíritos (2014)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=242512&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=242512&versao=leg
+Ouija: Onde Tudo Começou (2011)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=207475&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=207475&versao=leg
+Ouija: Origem do Mal	dub=0:51192,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=335796&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=335796&versao=leg
+Our Father (2021)	dub=0:15886,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=795617&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=795617&versao=leg
+Our Man in L.A. (2024)	dub=https://embedplayer2.xyz/cdn/hls/68bb8696b25edbdcb39aec55f0e6c26e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1370313&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/b9ff3a92854b4af69a952aeda3ff45a4/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1370313&versao=leg
+Our Son	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=983223&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=983223&versao=leg
+Our Son (2023)	dub=https://embedplayer2.xyz/cdn/hls/f461c6c9b41102bc1c0efe731f1ffe32/master.txt,0:30351,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=983223&versao=dub	leg=0:85545,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=983223&versao=leg
+Our Towns - Uma Viagem ao Coração dos EUA	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=812018&versao=dub	leg=0:85539,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=812018&versao=leg
+Our Uniform	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1140605&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1140605&versao=leg
+Ouro Branco	dub=0:313332,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13098&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13098&versao=leg
+Ouro e Cobiça	dub=0:30356,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=334524&versao=dub	leg=0:310689,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=334524&versao=leg
+Ouro Negro	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26339&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26339&versao=leg
+Ouro Negro (2018)	dub=https://embedplayer2.xyz/cdn/hls/ec7d03fddc0dadeae5968a5842f1b89b/master.txt,0:30360,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=522530&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=522530&versao=leg
+Out Come the Wolves	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1216103&versao=dub	leg=0:85562,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1216103&versao=leg
+Out of Death	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=774714&versao=dub	leg=0:3769,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=774714&versao=leg
+Outback	dub=0:35206,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=614626&versao=dub	leg=0:85567,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=614626&versao=leg
+Outback - Uma Galera Animal (2012)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=136405&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=136405&versao=leg
+Outland: Comando Titânio	dub=0:36318,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10540&versao=dub	leg=0:85557,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10540&versao=leg
+Outlander Guerreiro vs Predador	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10529&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10529&versao=leg
+Outlander: Guerreiro vs Predador	dub=0:6458,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10529&versao=dub	leg=0:308128,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10529&versao=leg
+Outono em Nova York	dub=0:98905,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10641&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10641&versao=leg
+Outra Chance para o Amor	dub=0:42547,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1029330&versao=dub	leg=0:85579,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1029330&versao=leg
+OUTRA CHANCE VOLTEI PARA (2002)	dub=0:301765,0:301767
+Outra Mamãe (2026)	dub=https://apiflix.duckdns.org/media/hls/index.m3u8?url=https%3A%2F%2Fwatch.brstream.cc%2Fm3u8%2F12%2Fff16d86ffe81cfaa7f6e627ed1679c1b%2Fmaster.txt%3Fs%3D1%26id%3D41841%26cache%3D1&ua=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F127.0.0.0%20Mobile%20Safari%2F537.36&referer=https%3A%2F%2Fwatch.brstream.cc%2Fwatch%3Fv%3DVN5OYL48&seg=direct,https://mgeb.space/cache/hls/e480574fc2dedc1a394958c1002a404c.m3u8,https://saimo-tv.pages.dev/api/proxy?url=http%3A%2F%2Ffenixflix.fenixhub.online%2Fr%2FALIXQJoHtdAQgH2L05zftenRaPNLaspJgov4UMdqUthxgXzMSjbvtpilrR6w5LX9dWAfUdD7Gy-NoG-CAQX5QfWcNnp_vfrhanY,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1400837&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1400837&versao=leg
+Outras Versões do Amor	dub=0:42548,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=514975&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=514975&versao=leg
+Outro Amor Fora do Tempo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1429520&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1429520&versao=leg
+Outro Amor Fora do Tempo (2025)	dub=https://embedplayer2.xyz/cdn/hls/0d0b61f79e7fa3f76a0fd944721f2dc9/master.txt,0:313324,0:313327,0:989,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1429520&versao=dub	leg=0:85569,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1429520&versao=leg
+Outro Conto da Nova Cinderela	dub=0:18448,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15157&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15157&versao=leg
+Outro Mundo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=510657&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=510657&versao=leg
+Outro Pequeno Favor	dub=0:57942,0:45550,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=974573&versao=dub	leg=0:85574,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=974573&versao=leg
+Outro Sem Razão (1991)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=23303&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=23303&versao=leg
+Ouvir Não é o Bastante	dub=https://embedplayer2.xyz/cdn/hls/724b8f6a08695ee12b9008651a7f7b8a/master.txt,0:30375,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1040738&versao=dub	leg=0:85581,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1040738&versao=leg
+Ovelha Negra (2012)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=84203&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=84203&versao=leg
+Overcomer	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=527776&versao=dub	leg=0:40872,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=527776&versao=leg
+Overdose	dub=0:57947,0:6455,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=896485&versao=dub	leg=0:85586,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=896485&versao=leg
+Overlord: O Herói Sombrio	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=477449&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=477449&versao=leg
+Overlord: O Rei Zumbi	dub=2:2068392,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=477447&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=477447&versao=leg
+OVERLORD: O Reino Sagrado	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1014505&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1014505&versao=leg
+OVERLORD: O Reino Sagrado (2024)	dub=https://embedplayer2.xyz/cdn/hls/157a5de3a5bf0d3a73f72127f27bdbfe/master.txt,0:10721,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1014505&versao=dub	leg=0:85592,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1014505&versao=leg
+Own The Room	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=794836&versao=dub	leg=2:1865515,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=794836&versao=leg
+Oxigênio	dub=0:36327,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=471498&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=471498&versao=leg
+Oz (1976)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=51560&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=51560&versao=leg
+Oz - Magico e Poderoso	dub=0:34531,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=68728&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=68728&versao=leg
+Ozzy: No Escape from Now	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1508191&versao=dub	leg=2:1867495,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1508191&versao=leg
+The Observance (2026)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1575534&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/83d6570b2c7cfbf0988b0a5070f55a6c/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1575534&versao=leg
+The Old Guard	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=547016&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=547016&versao=leg
+The Old Guard 2	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=846422&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=846422&versao=leg
+The Old Guard 2 (2025)	dub=https://embedplayer2.xyz/cdn/hls/8a8da94962532e89b15a0816dea50143/master.txt,0:58783,0:7525,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=846422&versao=dub	leg=0:91746,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=846422&versao=leg
+The Old Guard (2020)	dub=https://embedplayer2.xyz/cdn/hls/85f5b00ff57e1056bf4bafe68e91005c/master.txt,0:7521,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=547016&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=547016&versao=leg
+The One And Only Ivan	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=508570&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=508570&versao=leg
+The Order	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1082195&versao=dub	leg=0:91750,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1082195&versao=leg
+The Other Lamb	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=617786&versao=dub	leg=0:50819,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=617786&versao=leg
+The Outer Wild	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=505860&versao=dub	leg=0:91760,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=505860&versao=leg
+The Outrun	dub=https://embedplayer2.xyz/cdn/hls/53a9fa91f8548faba787bda35c19ce87/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=785542&versao=dub	leg=0:91771,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=785542&versao=leg
+The Outsider	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=199928&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=199928&versao=leg
+The Outwaters (2023)	dub=https://embedplayer2.xyz/cdn/hls/f05c8eb093d590b888b101046af72880/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=752867&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/2dc11be2f78110a550948f5a691973d3/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=752867&versao=leg
+The Owners	dub=https://embedplayer2.xyz/cdn/hls/781ef3b70917ab87413a387183c93c49/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=659986&versao=dub	leg=0:91776,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=659986&versao=leg

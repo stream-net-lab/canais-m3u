@@ -1,0 +1,4 @@
+O Rastreador		0	55
+Rancho Dutton		0	9
+Reacher		0	32
+Rivais		0	146

@@ -2,8 +2,8 @@ name: Atualizar Filmes, Series e Animes (1x por dia)
 
 on:
   schedule:
-    # Uma vez por dia, 06:00 UTC (03:00 de Brasilia)
-    - cron: '0 6 * * *'
+    # Uma vez a cada 2 dias, 06:00 UTC (03:00 de Brasilia)
+    - cron: '0 6 */2 * *'
   workflow_dispatch:
 
 concurrency:

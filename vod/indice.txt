@@ -1,0 +1,87 @@
+base: 0 http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/
+base: 1 http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/
+base: 2 http://aponteiecair.lat:80/movie/65689527/29278256/
+base: 3 http://64.31.23.207:80/series/96795792/50165825/
+base: 4 https://nsrv.classotaku.app/file/classgg/750/
+base: 5 https://nsrv.classotaku.app/file/classgg/2722/
+base: 6 http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/
+base: 7 https://nsrv.classotaku.app/file/classgg/1169/
+base: 8 https://nsrv.classotaku.app/file/classgg/2772/
+base: 9 https://nsrv.classotaku.app/file/classgg/3079/
+base: 10 https://nsrv.classotaku.app/file/classgg/2720/
+base: 11 https://nsrv.classotaku.app/file/classgg/1165/
+base: 12 https://nsrv.classotaku.app/file/classgg/6805/
+base: 13 https://nsrv.classotaku.app/file/classgg/1171/
+base: 14 https://nsrv.classotaku.app/file/classgg/1170/
+base: 15 https://nsrv.classotaku.app/file/classgg/1173/
+base: 16 https://nsrv.classotaku.app/file/classgg/2719/
+base: 17 https://nsrv.classotaku.app/file/classgg/1162/
+base: 18 https://nsrv.classotaku.app/file/classgg/1172/
+base: 19 https://nsrv.classotaku.app/file/classgg/2183/
+base: 20 https://nsrv.classotaku.app/file/classgg/291/
+base: 21 https://nsrv.classotaku.app/file/classgg/1166/
+base: 22 https://nsrv.classotaku.app/file/classgg/6843/
+base: 23 https://nsrv.classotaku.app/file/classtaku/00_lanc/
+base: 24 https://nsrv.classotaku.app/file/classgg/2868/
+base: 25 https://nsrv.classotaku.app/file/classgg/2184/
+base: 26 https://nsrv.classotaku.app/file/classgg/1160/
+base: 27 https://nsrv.classotaku.app/file/classgg/2867/
+base: 28 https://nsrv.classotaku.app/file/classgg/6974/
+base: 29 https://nsrv.classotaku.app/file/classgg/1164/
+base: 30 https://nsrv.classotaku.app/file/classgg/2764/
+base: 31 https://nsrv.classotaku.app/file/classgg/1163/
+base: 32 https://nsrv.classotaku.app/file/classgg/2723/
+base: 33 https://nsrv.classotaku.app/file/classgg/4240/
+base: 34 https://nsrv.classotaku.app/file/classgg/6918/
+base: 35 https://nsrv.classotaku.app/file/classgg/2758/
+base: 36 https://nsrv.classotaku.app/file/classgg/2767/
+base: 37 https://nsrv.classotaku.app/file/classgg/6920/
+base: 38 https://nsrv.classotaku.app/file/classgg/6862/
+base: 39 https://nsrv.classotaku.app/file/classgg/1157/
+base: 40 https://nsrv.classotaku.app/file/classgg/7010/
+base: 41 https://nsrv.classotaku.app/file/classgg/7006/
+base: 42 https://nsrv.classotaku.app/file/classgg/1167/
+base: 43 https://nsrv.classotaku.app/file/classgg/4241/
+base: 44 https://nsrv.classotaku.app/file/classgg/2834/
+base: 45 https://nsrv.classotaku.app/file/classgg/2835/
+base: 46 https://nsrv.classotaku.app/file/classgg/2836/
+base: 47 https://nsrv.classotaku.app/file/classgg/2837/
+base: 48 https://nsrv.classotaku.app/file/classgg/2864/
+base: 49 https://nsrv.classotaku.app/file/classgg/2804/
+base: 50 https://nsrv.classotaku.app/file/classgg/2805/
+base: 51 https://nsrv.classotaku.app/file/classgg/2839/
+base: 52 https://nsrv.classotaku.app/file/classgg/2841/
+base: 53 https://nsrv.classotaku.app/file/classgg/2762/
+base: 54 https://nsrv.classotaku.app/file/classgg/2766/
+base: 55 https://nsrv.classotaku.app/file/classgg/1843/
+base: 56 https://nsrv.classotaku.app/file/classgg/2865/
+base: 57 https://nsrv.classotaku.app/file/classgg/2840/
+base: 58 https://nsrv.classotaku.app/file/classgg/2842/
+base: 59 https://nsrv.classotaku.app/file/classgg/2522/
+#	739	0	0
+A	2173	3	0
+B	1245	3	0
+C	2455	7	0
+D	1657	11	0
+E	1437	0	0
+F	1104	1	0
+G	814	1	0
+H	797	2	0
+I	665	1	0
+J	602	3	0
+K	220	0	0
+L	954	4	0
+M	2422	4	0
+N	974	3	0
+O	798	4	0
+P	1884	3	0
+Q	397	1	0
+R	1123	4	0
+S	2034	10	0
+T	1277	1	0
+U	1248	2	0
+V	928	2	0
+W	182	0	0
+X	41	0	0
+Y	45	1	0
+Z	110	0	0
