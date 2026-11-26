@@ -1,4 +1,4 @@
-name: Atualizar Filmes, Series e Animes (1x por dia)
+name: Atualizar Filmes, Series e Animes (a cada 2 dias)
 
 on:
   schedule:

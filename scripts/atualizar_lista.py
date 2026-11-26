@@ -1647,8 +1647,8 @@ def validar_canais(canais_por_cat, canais_adultos=None):
     ordenar_lista(canais_adultos)
 
     # Remover canais 100% fora do ar (0 links ativos) quando a rede estiver saudável
+    removidos_mortos = 0
     if vivos > 0 and taxa >= 0.25:
-        removidos_mortos = 0
         for cat in list(canais_por_cat.keys()):
             antes = len(canais_por_cat[cat])
             canais_por_cat[cat] = [
@@ -1664,6 +1664,23 @@ def validar_canais(canais_por_cat, canais_adultos=None):
         removidos_mortos += antes_ad - len(canais_adultos)
         if removidos_mortos:
             print(f"Limpeza automática: {removidos_mortos} canal(is) 100% fora do ar removido(s).")
+
+    # Salva relatório de saúde dos links para aviso no painel.html
+    try:
+        links_testados = len(resultado)
+        links_caidos = max(0, links_testados - vivos)
+        saude_path = os.path.join(REPO_ROOT, "data", "saude_links.json")
+        os.makedirs(os.path.dirname(saude_path), exist_ok=True)
+        with open(saude_path, "w", encoding="utf-8") as fp:
+            json.dump({
+                "data": datetime.now(timezone.utc).isoformat(),
+                "links_testados": links_testados,
+                "links_ativos": vivos,
+                "links_caidos": links_caidos,
+                "canais_removidos": removidos_mortos,
+            }, fp, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"Aviso ao salvar data/saude_links.json: {e}")
 
     return canais_por_cat, canais_adultos
 

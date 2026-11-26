@@ -1,8 +1,9 @@
-name: Atualizar Canais Ao Vivo (a cada 30 min)
+name: Atualizar Canais Ao Vivo (todo dia)
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    # Todo dia as 08:00 UTC (05:00 de Brasilia)
+    - cron: '0 8 * * *'
   workflow_dispatch:
     inputs:
       novas_listas:

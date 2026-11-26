@@ -13,14 +13,14 @@
   <style>
     :root {
       color-scheme: dark;
-      --bg: #0b0f17;
-      --card: #151b26;
-      --border: #273042;
+      --bg: #000000;
+      --card: #111216;
+      --border: #242730;
       --accent: #2ea043;
       --accent-blue: #2f81f7;
       --accent-purple: #8957e5;
       --text: #f0f6fc;
-      --sub: #8b949e;
+      --sub: #9aa2ad;
       --warn: #d29922;
       --err: #f85149;
     }
@@ -261,14 +261,22 @@
   <div class="wrap">
     <header>
       <h1>Painel TV &amp; Robô</h1>
-      <span class="pill" id="versaoBadge">v4.0.4</span>
+      <span class="pill" id="versaoBadge">v4.1.2</span>
     </header>
+
+    <div id="alertaLinks" class="msg" style="margin-top:0;margin-bottom:14px"></div>
 
     <div class="card">
       <h2>Catálogo no Servidor</h2>
       <div class="stats">
         <div class="stat"><b id="qtdCanais">--</b><span>Canais ao Vivo</span></div>
         <div class="stat"><b id="qtdAdultos">--</b><span>Canais +18 (Senha)</span></div>
+        <div class="stat"><b id="qtdFilmes">--</b><span>Filmes On Demand</span></div>
+        <div class="stat"><b id="qtdSeries">--</b><span>Séries &amp; Animes</span></div>
+      </div>
+      <div style="margin-top:10px;padding:9px 10px;background:#090a0d;border:1px solid var(--border);border-radius:8px;font-size:12px;line-height:1.6;color:var(--sub)">
+        <div>📺 <b style="color:var(--text)">Canais ao Vivo:</b> atualiza automaticamente <b>todo dia</b> (05:00 BRT)</div>
+        <div>🎬 <b style="color:var(--text)">Filmes, Séries e Animes:</b> atualiza automaticamente <b>de 2 em 2 dias</b> (03:00 BRT)</div>
       </div>
       <p class="hint" id="ultimaAtualizacao">Carregando status...</p>
     </div>
@@ -443,19 +451,66 @@
     async function carregarContagens() {
       const ts = Date.now();
       try {
-        const [rc, ra, rv, re] = await Promise.all([
+        const [rc, ra, rv, re, rvod, rsl, rsv] = await Promise.all([
           fetch(`${BASE}/data/canais.json?t=${ts}`),
           fetch(`${BASE}/data/restritos.json?t=${ts}`),
           fetch(`${BASE}/versao.json?t=${ts}`),
-          fetch(`${BASE}/data/ultimo_envio_painel.json?t=${ts}`)
+          fetch(`${BASE}/data/ultimo_envio_painel.json?t=${ts}`),
+          fetch(`${BASE}/vod/indice.txt?t=${ts}`),
+          fetch(`${BASE}/data/saude_links.json?t=${ts}`),
+          fetch(`${BASE}/data/saude_vod.json?t=${ts}`)
         ]);
+        const alerta = document.getElementById('alertaLinks');
+        let avisos = [];
+        let temQueda = false;
+        if (rsl.ok) {
+          const sl = await rsl.json();
+          const caidos = sl.links_caidos || 0;
+          const ativos = sl.links_ativos || 0;
+          const rem = sl.canais_removidos || 0;
+          if (caidos > 0 || rem > 0) {
+            temQueda = true;
+            avisos.push(`📺 <b>Ao Vivo:</b> ${caidos.toLocaleString('pt-BR')} link(s) caíram (${ativos.toLocaleString('pt-BR')} ativos)${rem > 0 ? ` • ${rem} canal(is) sem sinal removidos` : ''}`);
+          } else if (ativos > 0) {
+            avisos.push(`📺 <b>Ao Vivo:</b> ${ativos.toLocaleString('pt-BR')} links online (0 caídos)`);
+          }
+        }
+        if (rsv.ok) {
+          const sv = await rsv.json();
+          const vCaidos = sv.servidores_caidos || 0;
+          const vAtivos = sv.servidores_ativos || 0;
+          if (vCaidos > 0) {
+            temQueda = true;
+            avisos.push(`🎬 <b>Filmes/Séries (VOD):</b> ${vCaidos} servidor(es) offline (${vAtivos} ativos)`);
+          } else if (vAtivos > 0) {
+            avisos.push(`🎬 <b>Filmes/Séries (VOD):</b> ${vAtivos} servidor(es) online (0 offline)`);
+          }
+        }
+        if (avisos.length) {
+          alerta.className = temQueda ? 'msg err' : 'msg ok';
+          alerta.innerHTML = (temQueda ? '<b>⚠️ Aviso de links fora do ar:</b><br>' : '<b>✅ Saúde dos links:</b><br>') + avisos.join('<br>');
+        }
         if (rc.ok) {
           const c = await rc.json();
-          document.getElementById('qtdCanais').textContent = Array.isArray(c) ? c.length : '--';
+          document.getElementById('qtdCanais').textContent = Array.isArray(c) ? c.length.toLocaleString('pt-BR') : '--';
         }
         if (ra.ok) {
           const a = await ra.json();
-          document.getElementById('qtdAdultos').textContent = Array.isArray(a) ? a.length : '--';
+          document.getElementById('qtdAdultos').textContent = Array.isArray(a) ? a.length.toLocaleString('pt-BR') : '--';
+        }
+        if (rvod.ok) {
+          const txt = await rvod.text();
+          let totalF = 0, totalS = 0;
+          for (const linha of txt.split(/\r?\n/)) {
+            if (!linha || linha.startsWith('base:')) continue;
+            const p = linha.split('\t');
+            if (p.length >= 3) {
+              totalF += parseInt(p[1], 10) || 0;
+              totalS += parseInt(p[2], 10) || 0;
+            }
+          }
+          document.getElementById('qtdFilmes').textContent = totalF.toLocaleString('pt-BR');
+          document.getElementById('qtdSeries').textContent = totalS.toLocaleString('pt-BR');
         }
         if (rv.ok) {
           const v = await rv.json();

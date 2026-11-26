@@ -261,6 +261,24 @@ def gerar_vod_fatiado(m3u_path: str = VOD_M3U, out_dir: str = VOD_DIR, testar_ve
     # Mede velocidade dos servidores VOD
     latencias = medir_hosts(amostras_host, pular_teste=not testar_velocidade)
 
+    # Salva saúde dos servidores VOD para aviso no painel.html
+    try:
+        import json
+        from datetime import datetime, timezone
+        hosts_caidos = sorted([h for h, l in latencias.items() if l >= 90000])
+        saude_vod = os.path.join(REPO_DIR, "data", "saude_vod.json")
+        os.makedirs(os.path.dirname(saude_vod), exist_ok=True)
+        with open(saude_vod, "w", encoding="utf-8") as fp:
+            json.dump({
+                "data": datetime.now(timezone.utc).isoformat(),
+                "servidores_testados": len(latencias),
+                "servidores_ativos": len(latencias) - len(hosts_caidos),
+                "servidores_caidos": len(hosts_caidos),
+                "hosts_caidos": hosts_caidos[:15],
+            }, fp, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"Aviso ao salvar data/saude_vod.json: {e}")
+
     def chave_url(u: str) -> tuple:
         host = urllib.parse.urlsplit(u).netloc.lower()
         # Evita colocar proxy externo lento na frente de links diretos rápidos
