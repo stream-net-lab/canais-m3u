@@ -80,26 +80,31 @@ def extrair_genero(grupo: str) -> str:
     return ""
 
 
-def testar_host_latencia(amostra_url: str, timeout: float = 3.5) -> float:
+def testar_host_latencia(amostra_url: str, timeout: float = 4.0) -> float:
+    parsed = urllib.parse.urlsplit(amostra_url)
+    origin = f"{parsed.scheme}://{parsed.netloc}/"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 13; TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+        "Referer": origin,
+        "Range": "bytes=0-1023",
+    }
     inicio = time.monotonic()
     try:
-        req = urllib.request.Request(
-            amostra_url,
-            method="HEAD",
-            headers={"User-Agent": "TVFilmes/4.1"},
-        )
+        req = urllib.request.Request(amostra_url, headers=headers)
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             if resp.status < 500:
                 return (time.monotonic() - inicio) * 1000.0
+    except urllib.error.HTTPError as e:
+        # 403/405/416 ainda provam que o servidor HTTP está vivo e respondendo
+        if e.code in (401, 403, 405, 416):
+            return (time.monotonic() - inicio) * 1000.0
     except Exception:
         pass
-    # Tenta GET com Range mínimo caso o servidor recuse HEAD
+    # Fallback HEAD simples
     inicio = time.monotonic()
     try:
-        req = urllib.request.Request(
-            amostra_url,
-            headers={"User-Agent": "TVFilmes/4.1", "Range": "bytes=0-1023"},
-        )
+        req = urllib.request.Request(amostra_url, method="HEAD", headers={"User-Agent": headers["User-Agent"]})
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             if resp.status < 500:
                 return (time.monotonic() - inicio) * 1000.0

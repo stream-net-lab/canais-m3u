@@ -274,9 +274,12 @@
         <div class="stat"><b id="qtdFilmes">--</b><span>Filmes On Demand</span></div>
         <div class="stat"><b id="qtdSeries">--</b><span>Séries &amp; Animes</span></div>
       </div>
-      <div style="margin-top:10px;padding:9px 10px;background:#090a0d;border:1px solid var(--border);border-radius:8px;font-size:12px;line-height:1.6;color:var(--sub)">
-        <div>📺 <b style="color:var(--text)">Canais ao Vivo:</b> atualiza automaticamente <b>todo dia</b> (05:00 BRT)</div>
-        <div>🎬 <b style="color:var(--text)">Filmes, Séries e Animes:</b> atualiza automaticamente <b>de 2 em 2 dias</b> (03:00 BRT)</div>
+      <div
+        style="margin-top:10px;padding:9px 10px;background:#090a0d;border:1px solid var(--border);border-radius:8px;font-size:12px;line-height:1.6;color:var(--sub)">
+        <div>📺 <b style="color:var(--text)">Canais ao Vivo:</b> atualiza automaticamente <b>todo dia</b> (05:00 BRT)
+        </div>
+        <div>🎬 <b style="color:var(--text)">Filmes, Séries e Animes:</b> atualiza automaticamente <b>de 2 em 2 dias</b>
+          (03:00 BRT)</div>
       </div>
       <p class="hint" id="ultimaAtualizacao">Carregando status...</p>
     </div>
@@ -285,8 +288,10 @@
       <h2>Enviar Nova Lista para o Robô</h2>
       <textarea id="inputNovasListas"
         placeholder="Cole aqui o link da lista M3U ou Xtream (um por linha)&#10;Ex: https://meuservidor.com/lista.m3u&#10;Ex: http://servidor.com/get.php?username=USER&amp;password=SENHA&amp;type=m3u_plus"></textarea>
-      <button class="btn btn-purple" id="btnEnviarLista" onclick="enviarNovasListas()">Enviar, Testar e Adicionar na Lista Mestre</button>
-      <p class="hint">O robô testa cada servidor enviado, adiciona apenas os que estiverem funcionando à lista mestre, mede a velocidade de cada canal e ordena do mais rápido para o mais lento.</p>
+      <button class="btn btn-purple" id="btnEnviarLista" onclick="enviarNovasListas()">Enviar, Testar e Adicionar na
+        Lista Mestre</button>
+      <p class="hint">O robô testa cada servidor enviado, adiciona apenas os que estiverem funcionando à lista mestre,
+        mede a velocidade de cada canal e ordena do mais rápido para o mais lento.</p>
       <div id="msgLista" class="msg"></div>
       <div id="resumoEnvio" class="resumo-box"></div>
     </div>
@@ -301,17 +306,19 @@
             style="color:#3fb950;font-size:16px;font-weight:700;letter-spacing:1px">6665514</code></div>
         <div style="margin-top:6px;word-break:break-all"><b>Link Direto:</b> <code
             style="color:#58a6ff;font-size:12px">https://stream-net-lab.github.io/canais-m3u/tv-filmes.apk</code></div>
-        <div style="color:var(--sub);font-size:12px;margin-top:6px">No app <b>Downloader</b> da TV, digite o código <b>6665514</b> para baixar sempre a versão mais recente do <b>TV &amp; Filmes</b>.
+        <div style="color:var(--sub);font-size:12px;margin-top:6px">No app <b>Downloader</b> da TV, digite o código
+          <b>6665514</b> para baixar sempre a versão mais recente do <b>TV &amp; Filmes</b>.
         </div>
       </div>
     </div>
 
     <div class="card">
-      <h2>Executar Robô Agora</h2>
-      <button class="btn btn-green" id="btnAoVivo" onclick="disparar('aovivo.yml')">Atualizar Canais Ao Vivo</button>
-      <button class="btn btn-blue" id="btnCompleto" onclick="disparar('atualizar.yml')">Atualização Completa (TV +
-        Filmes)</button>
+      <h2>Executar Robô Agora (PC Pai Joaquim)</h2>
+      <button class="btn btn-green" id="btnAoVivo" onclick="acionarPC('aovivo')">📺 Atualizar Canais Ao Vivo (PC Pai Joaquim)</button>
+      <button class="btn btn-blue" id="btnCompleto" onclick="acionarPC('completo')">🎬 Atualização Completa TV + Filmes (PC Pai Joaquim)</button>
+      <button class="btn btn-sec" style="margin-top:4px" onclick="disparar('aovivo.yml')">☁️ Plano B: Rodar na Nuvem (GitHub Actions)</button>
       <div id="msgDisparo" class="msg"></div>
+      <div id="statusPC" class="resumo-box"></div>
     </div>
 
     <div class="card">
@@ -381,35 +388,79 @@
       msg.textContent = `Enviando ${linhas.length} lista(s) para o robô testar e mesclar...`;
 
       try {
-        const r = await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/aovivo.yml/dispatches`, {
-          method: 'POST',
-          headers: {
-            'Authorization': `Bearer ${token}`,
-            'Accept': 'application/vnd.github+json',
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({
-            ref: 'main',
-            inputs: {
-              novas_listas: linhas.join('\n')
-            }
-          })
-        });
-        if (r.status === 204) {
+        const ok = await enviarComandoPJ('aovivo', linhas.join('\n'), msg);
+        if (ok) {
           msg.className = 'msg ok';
-          msg.textContent = `Recebido! O robô está testando ${linhas.length} servidor(es), adicionando os ativos à lista mestre e ordenando por velocidade (1 a 2 min).`;
+          msg.textContent = `Enviado para o PC de Pai Joaquim! Ele vai testar ${linhas.length} servidor(es) no IP local, adicionar os ativos e publicar na nuvem (1 a 2 min).`;
           document.getElementById('inputNovasListas').value = '';
-          setTimeout(carregarTudo, 5000);
-        } else {
-          const d = await r.json().catch(() => ({}));
-          msg.className = 'msg err';
-          msg.textContent = `Erro (${r.status}): ${d.message || 'Verifique se o Token tem permissão Actions/Workflow.'}`;
+          setTimeout(carregarTudo, 8000);
         }
       } catch (e) {
         msg.className = 'msg err';
         msg.textContent = 'Falha de conexão com o GitHub.';
       } finally {
         btn.disabled = false;
+      }
+    }
+
+    async function enviarComandoPJ(modo, novasListas, msgEl) {
+      const token = getToken();
+      const url = `https://api.github.com/repos/${REPO}/contents/data/comando_pj.json`;
+      const headers = {
+        'Authorization': `Bearer ${token}`,
+        'Accept': 'application/vnd.github+json',
+        'Content-Type': 'application/json'
+      };
+      let sha = undefined;
+      const rGet = await fetch(url, { headers });
+      if (rGet.ok) {
+        const cur = await rGet.json();
+        sha = cur.sha;
+      }
+      const payload = {
+        id: String(Date.now()),
+        modo,
+        novas_listas: novasListas || '',
+        solicitado_em: new Date().toISOString(),
+        status: 'pendente'
+      };
+      const bytes = new TextEncoder().encode(JSON.stringify(payload, null, 2));
+      let bin = '';
+      bytes.forEach(b => bin += String.fromCharCode(b));
+      const body = {
+        message: `Comando painel: ${modo} (PC Pai Joaquim)`,
+        content: btoa(bin),
+        branch: 'main'
+      };
+      if (sha) body.sha = sha;
+      const rPut = await fetch(url, { method: 'PUT', headers, body: JSON.stringify(body) });
+      if (rPut.ok) return true;
+      const d = await rPut.json().catch(() => ({}));
+      msgEl.className = 'msg err';
+      msgEl.textContent = `Erro (${rPut.status}): ${d.message || 'Verifique se o Token tem permissão Contents (Write).'}`;
+      return false;
+    }
+
+    async function acionarPC(modo) {
+      const token = getToken();
+      const msg = document.getElementById('msgDisparo');
+      if (!token) {
+        msg.className = 'msg err';
+        msg.textContent = 'Cole e salve seu GitHub Token abaixo antes de acionar o robô.';
+        return;
+      }
+      msg.className = 'msg info';
+      msg.textContent = 'Enviando comando para o computador de Pai Joaquim...';
+      try {
+        const ok = await enviarComandoPJ(modo, '', msg);
+        if (ok) {
+          msg.className = 'msg ok';
+          msg.textContent = 'Comando enviado! Em até 20 segundos o computador de Pai Joaquim inicia a atualização pelo IP local e envia para a nuvem.';
+          setTimeout(carregarTudo, 10000);
+        }
+      } catch (e) {
+        msg.className = 'msg err';
+        msg.textContent = 'Falha de conexão com o GitHub.';
       }
     }
 
@@ -451,15 +502,24 @@
     async function carregarContagens() {
       const ts = Date.now();
       try {
-        const [rc, ra, rv, re, rvod, rsl, rsv] = await Promise.all([
+        const [rc, ra, rv, re, rvod, rsl, rsv, rcmd] = await Promise.all([
           fetch(`${BASE}/data/canais.json?t=${ts}`),
           fetch(`${BASE}/data/restritos.json?t=${ts}`),
           fetch(`${BASE}/versao.json?t=${ts}`),
           fetch(`${BASE}/data/ultimo_envio_painel.json?t=${ts}`),
           fetch(`${BASE}/vod/indice.txt?t=${ts}`),
           fetch(`${BASE}/data/saude_links.json?t=${ts}`),
-          fetch(`${BASE}/data/saude_vod.json?t=${ts}`)
+          fetch(`${BASE}/data/saude_vod.json?t=${ts}`),
+          fetch(`${BASE}/data/comando_pj.json?t=${ts}`)
         ]);
+        if (rcmd.ok) {
+          const cmd = await rcmd.json();
+          const boxPc = document.getElementById('statusPC');
+          const dt = new Date(cmd.executado_em || cmd.solicitado_em).toLocaleString('pt-BR');
+          const ic = cmd.status === 'concluido' ? '✅' : (cmd.status === 'erro' ? '❌' : '⏳');
+          boxPc.innerHTML = `<b>${ic} PC Pai Joaquim (${cmd.modo || 'aovivo'}):</b> ${cmd.status} • ${dt}`;
+          boxPc.style.display = 'block';
+        }
         const alerta = document.getElementById('alertaLinks');
         let avisos = [];
         let temQueda = false;
@@ -481,7 +541,10 @@
           const vAtivos = sv.servidores_ativos || 0;
           if (vCaidos > 0) {
             temQueda = true;
-            avisos.push(`🎬 <b>Filmes/Séries (VOD):</b> ${vCaidos} servidor(es) offline (${vAtivos} ativos)`);
+            const listaHosts = (sv.hosts_caidos || []).length
+              ? `<details style="margin-top:4px"><summary style="cursor:pointer;font-size:12px">Ver servidores offline</summary><div style="font-size:11px;margin-top:4px;opacity:.9">${sv.hosts_caidos.join(', ')}</div></details>`
+              : '';
+            avisos.push(`🎬 <b>Filmes/Séries (VOD):</b> ${vCaidos} servidor(es) offline (${vAtivos} ativos)${listaHosts}`);
           } else if (vAtivos > 0) {
             avisos.push(`🎬 <b>Filmes/Séries (VOD):</b> ${vAtivos} servidor(es) online (0 offline)`);
           }
