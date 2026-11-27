@@ -1,9 +1,9 @@
 base: 0 http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/
 base: 1 http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/
 base: 2 http://aponteiecair.lat:80/movie/65689527/29278256/
-base: 3 http://64.31.23.207:80/series/96795792/50165825/
-base: 4 https://nsrv.classotaku.app/file/classgg/750/
-base: 5 https://nsrv.classotaku.app/file/classgg/2722/
+base: 3 https://nsrv.classotaku.app/file/classgg/750/
+base: 4 https://nsrv.classotaku.app/file/classgg/2722/
+base: 5 http://64.31.23.207:80/series/96795792/50165825/
 base: 6 http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/
 base: 7 https://nsrv.classotaku.app/file/classgg/1169/
 base: 8 https://nsrv.classotaku.app/file/classgg/2772/
@@ -62,25 +62,25 @@ base: 59 https://nsrv.classotaku.app/file/classgg/2522/
 A	2173	3	0
 B	1245	3	0
 C	2455	7	0
-D	1657	11	0
-E	1437	0	0
+D	1657	9	0
+E	1437	1	0
 F	1104	1	0
-G	814	1	0
-H	797	2	0
+G	814	0	0
+H	797	1	0
 I	665	1	0
-J	602	3	0
+J	602	2	0
 K	220	0	0
-L	954	4	0
-M	2422	4	0
+L	954	3	0
+M	2422	3	0
 N	974	3	0
-O	798	4	0
-P	1884	3	0
+O	798	5	0
+P	1884	2	0
 Q	397	1	0
 R	1123	4	0
-S	2034	10	0
-T	1277	1	0
-U	1248	2	0
-V	928	2	0
+S	2034	11	0
+T	1277	2	0
+U	1248	0	0
+V	928	1	0
 W	182	0	0
 X	41	0	0
 Y	45	1	0

@@ -1,4 +1,4 @@
 O Rastreador		0	55
+R.J. Decker: Investigador Privado		0	9
 Rancho Dutton		0	9
-Reacher		0	32
-Rivais		0	146
+Rivais		0	14

@@ -10,9 +10,9 @@ A RAINHA DO GELO SORRIU	leg=0:301861
 A Rainha do Xadrez	dub=0:97396,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1596291&versao=dub	leg=0:97039,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1596291&versao=leg
 A Rainha dos Condenados	dub=0:47362,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11979&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11979&versao=leg
 A Rainha dos Likes	dub=0:12711,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=590560&versao=dub	leg=0:62187,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=590560&versao=leg
-A Rainha dos Meus Sonhos	dub=https://embedplayer2.xyz/cdn/hls/5fd6551d5186dee44ba3768a20e95c71/master.txt,0:22991,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1122584&versao=dub	leg=0:62202,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1122584&versao=leg
+A Rainha dos Meus Sonhos	dub=0:22991,https://embedplayer2.xyz/cdn/hls/5fd6551d5186dee44ba3768a20e95c71/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1122584&versao=dub	leg=0:62202,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1122584&versao=leg
 A Rainha Guerreira	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=975902&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=975902&versao=leg
-A Rainha Guerreira (2023)	dub=https://embedplayer2.xyz/cdn/hls/064f2c15040b12f660c431fba87f1e24/master.txt,0:36811,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=975902&versao=dub	leg=0:62197,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=975902&versao=leg
+A Rainha Guerreira (2023)	dub=0:36811,https://embedplayer2.xyz/cdn/hls/064f2c15040b12f660c431fba87f1e24/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=975902&versao=dub	leg=0:62197,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=975902&versao=leg
 A RAINHA NÃO AMA SÓ CONQUISTA	leg=0:302950
 A Rainha Nzinga Chegou	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=574968&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=574968&versao=leg
 A Rainy Day In New York	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=475303&versao=dub	leg=0:20255,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=475303&versao=leg
@@ -23,7 +23,7 @@ A Razão do Amor (2012)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=
 A Rebeliao	dub=0:33518,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=429471&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=429471&versao=leg
 A Rebelião das Máquinas	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=296&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=296&versao=leg
 A Rebelião das Máquinas (2020)	dub=0:35458,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=713825&versao=dub	leg=0:62217,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=713825&versao=leg
-A Rebelião de (1907)	dub=https://embedplayer2.xyz/cdn/hls/5b6d6305573539bd003608cb61b18fd9/master.txt,0:240,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13221&versao=dub	leg=0:62227,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13221&versao=leg
+A Rebelião de (1907)	dub=0:240,https://embedplayer2.xyz/cdn/hls/5b6d6305573539bd003608cb61b18fd9/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13221&versao=dub	leg=0:62227,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13221&versao=leg
 A Rebelião de 1907 (2023)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13221&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13221&versao=leg
 A REBELIÃO DOS MORTAIS CONTRA OS IMORTAIS	leg=0:303068
 A Reciclagem do Rei Shakir	dub=2:1863844,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=985103&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=985103&versao=leg
@@ -32,7 +32,7 @@ A Reconquista	dub=0:1741,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=549
 A Recruta Hollywood	dub=0:12719,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15616&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15616&versao=leg
 A Rede	dub=2:1886434,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=37799&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=37799&versao=leg
 A Rede Antissocial: Dos Memes ao Caos (2024)	dub=https://embedplayer2.xyz/cdn/hls/1e883f8b69c5ddfc0770d674cf48fcc5/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1242384&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1242384&versao=leg
-A Rede do Tráfico	dub=https://embedplayer2.xyz/cdn/hls/c90147ffafcfffc313ae0f880b65e220/master.txt,0:21082,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1036903&versao=dub	leg=0:62232,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1036903&versao=leg
+A Rede do Tráfico	dub=0:21082,https://embedplayer2.xyz/cdn/hls/c90147ffafcfffc313ae0f880b65e220/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1036903&versao=dub	leg=0:62232,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1036903&versao=leg
 A Rede Social	dub=0:22996,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=37799&versao=dub	leg=0:311851,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=37799&versao=leg
 A Redenção	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1366865&versao=dub	leg=0:62242,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1366865&versao=leg
 A Redenção (2019)	dub=0:23000,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=605375&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=605375&versao=leg
@@ -49,7 +49,7 @@ A Resistência (2010)	dub=0:58323,https://saimo-tv.pages.dev/api/stream?tipo=mov
 A Ressaca	dub=0:12721,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=23048&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=23048&versao=leg
 A Ressaca 2	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=243938&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=243938&versao=leg
 A Ressaca 2 (2015)	dub=0:12725,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=243938&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=243938&versao=leg
-A Ressurreicao da Mumia (2023)	dub=https://embedplayer2.xyz/cdn/hls/2ae075a16806a2c5d409f35ad0637b61/master.txt,0:47366,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=984105&versao=dub	leg=0:62272,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=984105&versao=leg
+A Ressurreicao da Mumia (2023)	dub=0:47366,https://embedplayer2.xyz/cdn/hls/2ae075a16806a2c5d409f35ad0637b61/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=984105&versao=dub	leg=0:62272,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=984105&versao=leg
 A Ressurreição de Charles Manson	dub=0:47367,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=942251&versao=dub	leg=0:62277,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=942251&versao=leg
 A Ressurreição de Jesus	dub=0:23010,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=811114&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=811114&versao=leg
 A Restauração (2024)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1180173&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1180173&versao=leg
@@ -95,10 +95,10 @@ O Recomeço	dub=0:250826,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=750
 O RECOMECO AGORA SOU TITIA DO PRINCIPE ARREPENDIDO	leg=0:301753
 O Redentor (2014)	dub=0:31107,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=289198&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=464723&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=464723&versao=leg
 O Reencontro da Turma	dub=0:17980,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=869597&versao=dub	leg=0:83600,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=869597&versao=leg
-O Refem Atentado em Madri (2023)	dub=https://embedplayer2.xyz/cdn/hls/d8408b412b0cd22e31f59502f3cef183/master.txt,0:29674,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1053592&versao=dub	leg=0:83609,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1053592&versao=leg
+O Refem Atentado em Madri (2023)	dub=0:29674,https://embedplayer2.xyz/cdn/hls/d8408b412b0cd22e31f59502f3cef183/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1053592&versao=dub	leg=0:83609,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1053592&versao=leg
 O Reflexo do Lago	dub=2:1866112,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=665773&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=665773&versao=leg
 O Reformatório Nickel	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1028196&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1028196&versao=leg
-O Reformatório Nickel (2024)	dub=https://embedplayer2.xyz/cdn/hls/7ccc62eb43559f877bae07e3c4575527/master.txt,0:57654,0:29662,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1028196&versao=dub	leg=0:83606,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1028196&versao=leg
+O Reformatório Nickel (2024)	dub=0:57654,0:29662,https://embedplayer2.xyz/cdn/hls/7ccc62eb43559f877bae07e3c4575527/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1028196&versao=dub	leg=0:83606,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1028196&versao=leg
 O Refugiado	dub=0:29665,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=328796&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=328796&versao=leg
 O Refugio	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=799882&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=799882&versao=leg
 O Refúgio	dub=0:98559,0:98564,0:29669,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=799882&versao=dub	leg=0:83642,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=799882&versao=leg
@@ -115,12 +115,12 @@ O Rei da Comédia	dub=0:17987,https://saimo-tv.pages.dev/api/stream?tipo=movie&i
 O Rei da Escocia	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1523&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1523&versao=leg
 O Rei da Escócia	dub=0:29680,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1523&versao=dub	leg=0:83612,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1523&versao=leg
 O Rei da Feira	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1272845&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1272845&versao=leg
-O Rei da Feira (2025)	dub=https://embedplayer2.xyz/cdn/hls/72967a5ed6fe35f94b08c39d023400c8/master.txt,0:57664,0:905,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1272845&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1272845&versao=leg
+O Rei da Feira (2025)	dub=0:57664,0:905,https://embedplayer2.xyz/cdn/hls/72967a5ed6fe35f94b08c39d023400c8/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1272845&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1272845&versao=leg
 O Rei da Festa	dub=0:29689,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=574249&versao=dub	leg=0:83617,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=574249&versao=leg
 O Rei da Internet	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1272129&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1272129&versao=leg
 O Rei da Internet (2026)	dub=0:313732,0:313743,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1272129&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1272129&versao=leg
 O Rei da Montanha	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=444090&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=444090&versao=leg
-O Rei da Montanha (2017)	dub=https://embedplayer2.xyz/cdn/hls/45c7dcdcf861c9afbf6e51f5bd3b1497/master.txt,0:12033,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=444090&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=444090&versao=leg
+O Rei da Montanha (2017)	dub=0:12033,https://embedplayer2.xyz/cdn/hls/45c7dcdcf861c9afbf6e51f5bd3b1497/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=444090&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=444090&versao=leg
 O Rei da Selva	dub=2:1827350,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11002&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=598892&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11002&versao=leg,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=598892&versao=leg
 O Rei da Vela	dub=0:253436,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=456131&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=456131&versao=leg
 O Rei das Armas (2010)	dub=2:1878265,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=51250&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=51250&versao=leg
@@ -135,10 +135,10 @@ O Rei do Show	dub=0:29694,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=31
 O Rei do Texas (2002)	dub=0:58740,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47913&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47913&versao=leg
 O Rei dos Assassinos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1024127&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1024127&versao=leg
 O Rei dos Assassinos (1998)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10616&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10616&versao=leg
-O Rei dos Assassinos (2023)	dub=https://embedplayer2.xyz/cdn/hls/668c0bd1e72f7d8e62c6c686966b672d/master.txt,0:5980,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1024127&versao=dub	leg=0:83650,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1024127&versao=leg
+O Rei dos Assassinos (2023)	dub=0:5980,https://embedplayer2.xyz/cdn/hls/668c0bd1e72f7d8e62c6c686966b672d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1024127&versao=dub	leg=0:83650,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1024127&versao=leg
 O Rei dos Clones	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1127211&versao=dub	leg=0:83654,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1127211&versao=leg
 O Rei dos Ladrões (2009)	dub=0:31147,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36389&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36389&versao=leg
-O Rei dos Reis	dub=https://embedplayer2.xyz/cdn/hls/f6f17ccf1ab0d4b18cb53089a80a5680/master.txt,0:10460,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1181107&versao=dub	leg=0:83659,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1181107&versao=leg
+O Rei dos Reis	dub=0:10460,https://embedplayer2.xyz/cdn/hls/f6f17ccf1ab0d4b18cb53089a80a5680/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1181107&versao=dub	leg=0:83659,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1181107&versao=leg
 O Rei dos Reis (2025)	dub=https://embedplayer2.xyz/cdn/hls/f6f17ccf1ab0d4b18cb53089a80a5680/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1181107&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1181107&versao=leg
 O Rei e os Trapalhões	dub=0:38882,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=303651&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=303651&versao=leg
 O REI GUARDIAO DISCRETO	leg=0:301736
@@ -153,7 +153,7 @@ O Rei Macaco	dub=0:10477,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=832
 O Rei Macaco: A Lenda Começa	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=634210&versao=dub	leg=0:83678,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=634210&versao=leg
 O Rei Perdido	dub=0:17992,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=914216&versao=dub	leg=0:83688,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=914216&versao=leg
 O Rei Piu-Piu	dub=0:10481,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=952217&versao=dub	leg=0:83673,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=952217&versao=leg
-O Rei Tirano	dub=https://embedplayer2.xyz/cdn/hls/a4bab5df9c3e1af58a2d835f78a9ecb2/master.txt,0:255424,0:255492,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1051486&versao=dub	leg=0:255460,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1051486&versao=leg
+O Rei Tirano	dub=0:255424,0:255492,https://embedplayer2.xyz/cdn/hls/a4bab5df9c3e1af58a2d835f78a9ecb2/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1051486&versao=dub	leg=0:255460,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1051486&versao=leg
 O Reino (2012)	dub=0:54629,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=471282&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4349&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4349&versao=leg
 O Reino das Espadas	dub=0:5993,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=466361&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=466361&versao=leg
 O Reino de Chopper na Ilha dos Estranhos Animais	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44725&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44725&versao=leg
@@ -164,9 +164,9 @@ O Reino dos Golfinhos	dub=0:10488,https://saimo-tv.pages.dev/api/stream?tipo=mov
 O Reino dos Pesadelos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1201126&versao=dub	leg=0:83694,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1201126&versao=leg
 O Reino dos Primatas (2015)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=295592&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=295592&versao=leg
 O Reino Gelado	dub=0:52830,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=164372&versao=dub	leg=0:83701,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=164372&versao=leg
-O Reino Gelado 1	dub=https://embedplayer2.xyz/cdn/hls/36062f2456b61c3bd158c0aedc668769/master.txt,0:10486
+O Reino Gelado 1	dub=0:10486,https://embedplayer2.xyz/cdn/hls/36062f2456b61c3bd158c0aedc668769/master.txt
 O Reino Gelado 2	dub=0:10493,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=292014&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=292014&versao=leg
-O Reino Gelado 3 (2016)	dub=https://embedplayer2.xyz/cdn/hls/36062f2456b61c3bd158c0aedc668769/master.txt,0:10496,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=362058&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=362058&versao=leg
+O Reino Gelado 3 (2016)	dub=0:10496,https://embedplayer2.xyz/cdn/hls/36062f2456b61c3bd158c0aedc668769/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=362058&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=362058&versao=leg
 O Reino Gelado 3: Fogo e Gelo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=362058&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=362058&versao=leg
 O Reino Gelado: A Terra dos Espelhos	dub=2:1823989,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=564145&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=564145&versao=leg
 O Reino Proibido	dub=0:5996,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1729&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1729&versao=leg
@@ -189,9 +189,9 @@ O Resgate de Uma Vida (2016)	dub=https://embedplayer2.xyz/cdn/hls/37f28155009b30
 O Resgate Do Bilionario	leg=0:302982
 O Resgate do Papai (2009)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22084&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22084&versao=leg
 O Resgate Do Soldado Ryan	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857&versao=leg
-O Resgate do Soldado Ryan (1998)	dub=https://embedplayer2.xyz/cdn/hls/99adb55ac6b7053b8a186d4b344d635e/master.txt,0:29714,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857&versao=dub	leg=0:83721,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857&versao=leg
+O Resgate do Soldado Ryan (1998)	dub=0:29714,https://embedplayer2.xyz/cdn/hls/99adb55ac6b7053b8a186d4b344d635e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857&versao=dub	leg=0:83721,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857&versao=leg
 O Resgate do Voo 771 (1993)	dub=2:1822126,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16312&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16312&versao=leg
-O Resgate: O Dia da Redencao (2021)	dub=https://embedplayer2.xyz/cdn/hls/d1f608661cca714f3a4937c186c97f7e/master.txt,0:6000,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=767304&versao=dub	leg=0:83725,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=767304&versao=leg
+O Resgate: O Dia da Redencao (2021)	dub=0:6000,https://embedplayer2.xyz/cdn/hls/d1f608661cca714f3a4937c186c97f7e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=767304&versao=dub	leg=0:83725,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=767304&versao=leg
 O Resort	dub=0:50823,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=810271&versao=dub	leg=0:83767,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=810271&versao=leg
 O Resto	dub=0:308411,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=879748&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=879748&versao=leg
 O Retiro de Natal	dub=0:40216,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1003485&versao=dub	leg=0:83731,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1003485&versao=leg
@@ -231,9 +231,9 @@ O Retorno dos Thundermans	dub=0:57690,0:18009,https://saimo-tv.pages.dev/api/str
 O Retorno dos Tomates Assassinos	dub=0:18005,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15482&versao=dub	leg=0:83747,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15482&versao=leg
 O Retorno Triunfal do Deus Infinito	dub=0:98181
 O Retrato	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695088&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695088&versao=leg
-O Retrato (2023)	dub=https://embedplayer2.xyz/cdn/hls/af291bc37fe0fe01777974e38325a43e/master.txt,0:50828,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1177411&versao=dub	leg=0:83762,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1177411&versao=leg
+O Retrato (2023)	dub=0:50828,https://embedplayer2.xyz/cdn/hls/af291bc37fe0fe01777974e38325a43e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1177411&versao=dub	leg=0:83762,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1177411&versao=leg
 O Retrato de Dorian Gray (2009)	dub=2:1857519,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=23488&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=23488&versao=leg
-O Retrato do Amor	dub=https://embedplayer2.xyz/cdn/hls/18ced9e4ca11b2ffe298e2b6fb0dc162/master.txt,0:29733,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1006307&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1006307&versao=leg
+O Retrato do Amor	dub=0:29733,https://embedplayer2.xyz/cdn/hls/18ced9e4ca11b2ffe298e2b6fb0dc162/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1006307&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1006307&versao=leg
 O Réu de Si Mesmo	dub=2:1866215,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=935912&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=935912&versao=leg
 O Reverso Da Fortuna	dub=0:29752,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=38718&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=38718&versao=leg
 O Rio das Almas Perdidas	dub=0:35135,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1936&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1936&versao=leg
@@ -244,10 +244,10 @@ O Rio Perdido	dub=0:29738,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16
 O Rio Selvagem (1994)	dub=0:45925,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8987&versao=dub
 O Risco de uma Decisão (1975)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=32617&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=32617&versao=leg
 O Ritmo da Selva: O Filme	dub=0:10501,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=663459&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=663459&versao=leg
-O Ritmo da Vinganca (2020)	dub=https://embedplayer2.xyz/cdn/hls/a61dfa60936f39ccab945ca593a2a551/master.txt,0:6028,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=466622&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=466622&versao=leg
+O Ritmo da Vinganca (2020)	dub=0:6028,https://embedplayer2.xyz/cdn/hls/a61dfa60936f39ccab945ca593a2a551/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=466622&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=466622&versao=leg
 O Rito da Dança	dub=0:57704,0:98570,0:29743,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1058617&versao=dub	leg=0:83774,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1058617&versao=leg
-O Ritual	dub=https://embedplayer2.xyz/cdn/hls/8b7ba1d01c4e202f9bb28ce723ea2d4e/master.txt,0:50888,0:301396,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1278950&versao=dub	leg=0:83779,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1278950&versao=leg
-O Ritual (2011)	dub=https://embedplayer2.xyz/cdn/hls/3f98c350b2f344e397a1746099644d7f/master.txt,0:50838,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=48171&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=48171&versao=leg
+O Ritual	dub=0:50888,0:301396,https://embedplayer2.xyz/cdn/hls/8b7ba1d01c4e202f9bb28ce723ea2d4e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1278950&versao=dub	leg=0:83779,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1278950&versao=leg
+O Ritual (2011)	dub=0:50838,https://embedplayer2.xyz/cdn/hls/3f98c350b2f344e397a1746099644d7f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=48171&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=48171&versao=leg
 O Ritual (2017)	dub=https://embedplayer2.xyz/cdn/hls/8b7ba1d01c4e202f9bb28ce723ea2d4e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=433808&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=433808&versao=leg
 O Ritual (2025)	dub=https://embedplayer2.xyz/cdn/hls/d3811ca3b38c0674f2700a9c0884f19a/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1278950&versao=dub	leg=0:301191,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1278950&versao=leg
 O Ritual do Livro Vermelho	dub=0:50843,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=928391&versao=dub	leg=0:83784,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=928391&versao=leg
@@ -257,18 +257,18 @@ O ROMANCE DA CHEFE EM UMA CIDADE PEQUENA	leg=0:302134
 O Romance Morreu	dub=0:308727,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=497864&versao=dub	leg=0:308652,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=497864&versao=leg
 O Roqueiro	dub=0:18014,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10186&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10186&versao=leg
 O Roteiro Assombrado	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1066313&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1066313&versao=leg
-O Roteiro Assombrado (2023)	dub=https://embedplayer2.xyz/cdn/hls/aa26be480ee0c3ff6b6d80900cd7cca5/master.txt,0:251503,0:917,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1066313&versao=dub	leg=0:83790,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1066313&versao=leg
+O Roteiro Assombrado (2023)	dub=0:251503,0:917,https://embedplayer2.xyz/cdn/hls/aa26be480ee0c3ff6b6d80900cd7cca5/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1066313&versao=dub	leg=0:83790,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1066313&versao=leg
 O Roubo da Taça	dub=0:308412,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=381066&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=381066&versao=leg
 O Roubo das Calcinhas	dub=0:308667,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=278312&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=278312&versao=leg
 O Roubo de 88	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1170944&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1170944&versao=leg
-O Roubo de 88 (2023)	dub=https://embedplayer2.xyz/cdn/hls/b209527432d98d449506aece7bdfc107/master.txt,0:57699,0:21731,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1170944&versao=dub	leg=0:83794,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1170944&versao=leg
+O Roubo de 88 (2023)	dub=0:57699,0:21731,https://embedplayer2.xyz/cdn/hls/b209527432d98d449506aece7bdfc107/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1170944&versao=dub	leg=0:83794,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1170944&versao=leg
 O Roubo do Cão	dub=0:38887,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1573858&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1573858&versao=leg
 O Roubo do Quadrado Negro	dub=0:21734,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=840576&versao=dub	leg=0:83796,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=840576&versao=leg
-O Roubo do Seculo (2020)	dub=https://embedplayer2.xyz/cdn/hls/559a1883da57713f94a586cf33718709/master.txt,0:18018,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=609242&versao=dub	leg=0:83871,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=609242&versao=leg
+O Roubo do Seculo (2020)	dub=0:18018,https://embedplayer2.xyz/cdn/hls/559a1883da57713f94a586cf33718709/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=609242&versao=dub	leg=0:83871,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=609242&versao=leg
 O Roubo dos Diamantes	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=983793&versao=dub	leg=0:83850,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=983793&versao=leg
 O Roubo dos Sapatos de Mágico de Oz	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1536191&versao=dub	leg=0:83801,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1536191&versao=leg
 Os Radley	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139713&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139713&versao=leg
-Os Radley (2024)	dub=https://embedplayer2.xyz/cdn/hls/a5749dc0e0019e4c3b12734fa75b9b2c/master.txt,0:57917,0:51178,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139713&versao=dub	leg=0:85402,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139713&versao=leg
+Os Radley (2024)	dub=0:57917,0:51178,https://embedplayer2.xyz/cdn/hls/a5749dc0e0019e4c3b12734fa75b9b2c/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139713&versao=dub	leg=0:85402,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139713&versao=leg
 Os Rapazes da Banda	dub=0:30279,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=34377&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=34377&versao=leg
 Os Ratos: Uma História de The Witcher	dub=0:30293,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1571470&versao=dub	leg=0:85406,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1571470&versao=leg
 Os Reféns de Gladbeck (2022)	dub=2:1865173,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=975923&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=975923&versao=leg
@@ -283,21 +283,21 @@ Os Reis do Mambo	dub=0:314459,https://saimo-tv.pages.dev/api/stream?tipo=movie&i
 Os Reis do Mundo	dub=0:30304,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848112&versao=dub	leg=0:85432,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848112&versao=leg
 Os Reis do Verão (2013)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=156700&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=156700&versao=leg
 Os Rejeitados	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=840430&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=840430&versao=leg
-Os Rejeitados (2023)	dub=https://embedplayer2.xyz/cdn/hls/164a0b4f07258b1211862bc415a09659/master.txt,0:57937,0:18397,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=840430&versao=dub	leg=0:40513,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=840430&versao=leg
+Os Rejeitados (2023)	dub=0:57937,0:18397,https://embedplayer2.xyz/cdn/hls/164a0b4f07258b1211862bc415a09659/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=840430&versao=dub	leg=0:40513,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=840430&versao=leg
 Os Renegados	dub=0:6429,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=581644&versao=dub	leg=0:85427,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=581644&versao=leg
 Os Rifles da Desforra	dub=0:35198,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=38680&versao=dub	leg=0:85422,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=38680&versao=leg
-Os Roses Ate Que a Morte Os Separe (2025)	dub=https://embedplayer2.xyz/cdn/hls/90fdce1da5793967b736bc3616b0a106/master.txt,0:977,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1267905&versao=dub	leg=0:85437,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1267905&versao=leg
+Os Roses Ate Que a Morte Os Separe (2025)	dub=0:977,https://embedplayer2.xyz/cdn/hls/90fdce1da5793967b736bc3616b0a106/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1267905&versao=dub	leg=0:85437,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1267905&versao=leg
 R.I.P.D. 2: Rise of the Damned	dub=0:6729,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1013860&versao=dub	leg=0:87602,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1013860&versao=leg
 R.I.P.D Agentes do Alem	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49524&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49524&versao=leg
 R.I.P.D.: Agentes do Além	dub=0:34645,0:34650,0:289495,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49524&versao=dub	leg=0:314565,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49524&versao=leg
 Raat Akeli Hai	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=589615&versao=dub	leg=0:52896,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=589615&versao=leg
 Rabbids: A Invasão – Missão para Marte	dub=0:11007,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=879097&versao=dub	leg=0:87601,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=879097&versao=leg
 Rabbit Trap	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1193824&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1193824&versao=leg
-Rabbit Trap (2025)	dub=https://embedplayer2.xyz/cdn/hls/8f055220740386be03ad6d66424a5d2b/master.txt,0:99920,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1193824&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/67a809a74defa364d26cd61df8773ecd/master.txt,0:87607,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1193824&versao=leg
+Rabbit Trap (2025)	dub=0:99920,https://embedplayer2.xyz/cdn/hls/8f055220740386be03ad6d66424a5d2b/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1193824&versao=dub	leg=0:87607,https://embedplayer2.xyz/cdn/hls/67a809a74defa364d26cd61df8773ecd/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1193824&versao=leg
 Rabid	dub=0:36424,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=29437&versao=dub	leg=0:87613,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=29437&versao=leg
 Rabid Legendado	leg=0:87611
 Raça	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=841881&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=841881&versao=leg
-Raça (2016)	dub=https://embedplayer2.xyz/cdn/hls/1c3a38951e770432f88269a41f924918/master.txt,0:31070,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=323677&versao=dub	leg=0:87715,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=323677&versao=leg
+Raça (2016)	dub=0:31070,https://embedplayer2.xyz/cdn/hls/1c3a38951e770432f88269a41f924918/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=323677&versao=dub	leg=0:87715,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=323677&versao=leg
 Raça da Ganância	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1325697&versao=dub	leg=0:87717,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1325697&versao=leg
 Raça das Trevas	dub=0:51616,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20481&versao=dub	leg=0:87722,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20481&versao=leg
 Raça e Redenção	dub=0:31078,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=458131&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=458131&versao=leg
@@ -305,12 +305,12 @@ Raça Negra - Ao Vivo (2004)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movi
 Racetime - Hora da Corrida	dub=0:11019,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=534313&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=534313&versao=leg
 Racionais: Das Ruas de São Paulo pro Mundo	dub=2:1888154,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1033303&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1033303&versao=leg
 RADAR: As Aventuras do Cão Biônico	dub=0:19113,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1116410&versao=dub	leg=0:87619,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1116410&versao=leg
-Radical (2023)	dub=https://embedplayer2.xyz/cdn/hls/13dbdcf781f3ee63ca157a902d5c5e82/master.txt,0:1064,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1058694&versao=dub	leg=0:87630,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1058694&versao=leg
+Radical (2023)	dub=0:1064,https://embedplayer2.xyz/cdn/hls/13dbdcf781f3ee63ca157a902d5c5e82/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1058694&versao=dub	leg=0:87630,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1058694&versao=leg
 Radical Ensinamentos de Um Professor (2023)	dub=https://embedplayer2.xyz/cdn/hls/13dbdcf781f3ee63ca157a902d5c5e82/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1058694&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1058694&versao=leg
 Radio Flyer	dub=0:31029,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20763&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20763&versao=leg
 Rádio Pesadelo	dub=0:51752,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1035798&versao=dub	leg=0:88648,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1035798&versao=leg
 Radioactive	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=480857&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=480857&versao=leg
-Radioactive (2020)	dub=https://embedplayer2.xyz/cdn/hls/60509631ecdfe5e9266337474dddc49f/master.txt,0:31034,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=480857&versao=dub	leg=0:87624,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=480857&versao=leg
+Radioactive (2020)	dub=0:31034,https://embedplayer2.xyz/cdn/hls/60509631ecdfe5e9266337474dddc49f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=480857&versao=dub	leg=0:87624,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=480857&versao=leg
 Radium Girls (2020)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=461115&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=461115&versao=leg
 Rafa Márquez: O Capitão	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1290627&versao=dub	leg=0:87636,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1290627&versao=leg
 Rafinha Bastos: Ultimato (2018)	dub=2:1807727,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=549443&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=549443&versao=leg
@@ -330,7 +330,7 @@ RAINHA DAS CINZAS	leg=0:302610
 Rainha de Copas	dub=0:31044,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=519465&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=519465&versao=leg
 Rainha de Espadas	dub=0:51611,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=829358&versao=dub	leg=0:87642,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=829358&versao=leg
 Rainha De Katwe	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=317557&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=317557&versao=leg
-Rainha de Katwe (2016)	dub=https://embedplayer2.xyz/cdn/hls/d15013e174e394ab32eca29b988f6cb5/master.txt,0:31048,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=317557&versao=dub	leg=0:87647,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=317557&versao=leg
+Rainha de Katwe (2016)	dub=0:31048,https://embedplayer2.xyz/cdn/hls/d15013e174e394ab32eca29b988f6cb5/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=317557&versao=dub	leg=0:87647,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=317557&versao=leg
 Rainha do Carvão	dub=0:1069,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1321656&versao=dub	leg=0:87649,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1321656&versao=leg
 Rainha do Everest: No Topo com Lhakpa Sherpa	dub=https://embedplayer2.xyz/cdn/hls/2c22309aa4cb4e8a48fd274226f15079/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1156649&versao=dub	leg=0:87654,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1156649&versao=leg
 Rainha do Natal	dub=0:40251,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=826451&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=826451&versao=leg
@@ -338,12 +338,12 @@ Rainha do Ring	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1144932&v
 Rainha Lycan retorna Lycan Queen Fights Back	leg=0:303168
 Rainhas do Crime	dub=0:6744,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=487680&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=487680&versao=leg
 Rainhas em Fuga	dub=0:19108,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1101799&versao=dub	leg=0:87661,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1101799&versao=leg
-Raio-X Banco Master	dub=https://embedplayer2.xyz/cdn/hls/0b692e14a8c836eb303f58d881985e98/master.txt,0:98705,0:99794,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1641789&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1641789&versao=leg
+Raio-X Banco Master	dub=0:98705,0:99794,https://embedplayer2.xyz/cdn/hls/0b692e14a8c836eb303f58d881985e98/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1641789&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1641789&versao=leg
 Raising Buchanan (2019)	dub=2:1808940,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=617644&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=617644&versao=leg
 Raiva	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=510228&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=510228&versao=leg
-Raiva (2023)	dub=https://embedplayer2.xyz/cdn/hls/974f3aabd65ffe8b40a64a90095431e9/master.txt,0:51600,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1129932&versao=dub	leg=0:87679,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1129932&versao=leg
+Raiva (2023)	dub=0:51600,https://embedplayer2.xyz/cdn/hls/974f3aabd65ffe8b40a64a90095431e9/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1129932&versao=dub	leg=0:87679,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1129932&versao=leg
 Raízes de Sangue	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=420915&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=420915&versao=leg
-Raízes de Sangue (2018)	dub=https://embedplayer2.xyz/cdn/hls/2c587a37df7d762bf215839660adf49f/master.txt,0:45843,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=420915&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=420915&versao=leg
+Raízes de Sangue (2018)	dub=0:45843,https://embedplayer2.xyz/cdn/hls/2c587a37df7d762bf215839660adf49f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=420915&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=420915&versao=leg
 Raizes Do Amor	dub=0:31050,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=472497&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=472497&versao=leg
 Raízes do Céu (1958)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75799&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75799&versao=leg
 Raízes do Sertão 2 (2012)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1394214&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1394214&versao=leg
@@ -376,7 +376,7 @@ Rânia	dub=2:2332031,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=171597&
 Rapida e Mortal	dub=0:35236,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12106&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12106&versao=leg
 Rápida Vingança	dub=0:31347,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=41283&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=41283&versao=leg
 Rápidos e Perigosos 2	dub=0:7065,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=417503&versao=dub	leg=0:88639,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=417503&versao=leg
-Rapidos e Perigosos (2014)	dub=https://embedplayer2.xyz/cdn/hls/0d8a75b16a71606c0a926fc3fae2adbc/master.txt,0:7061,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=284279&versao=dub	leg=0:88644,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=284279&versao=leg
+Rapidos e Perigosos (2014)	dub=0:7061,https://embedplayer2.xyz/cdn/hls/0d8a75b16a71606c0a926fc3fae2adbc/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=284279&versao=dub	leg=0:88644,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=284279&versao=leg
 Raposa de Fogo	dub=0:6778,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10724&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10724&versao=leg
 Rapsódia Para o Homem Negro	dub=6:6071542,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=360312&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=360312&versao=leg
 Rapto (2019)	dub=0:5956,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=588658&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=588658&versao=leg
@@ -392,16 +392,16 @@ Rastos de Sangue	dub=0:21828,https://saimo-tv.pages.dev/api/stream?tipo=movie&id
 Rastreado	dub=0:307579,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371151&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371151&versao=leg
 Rastro De Maldade	dub=0:51605,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=294963&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=294963&versao=leg
 Rastro de Violência	dub=0:21837,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=526964&versao=dub	leg=0:87688,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=526964&versao=leg
-Rastro do Ouro	dub=https://embedplayer2.xyz/cdn/hls/60df743573a6421780c4545726850650/master.txt,0:254219,0:254823,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1669929&versao=dub	leg=0:254236,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1669929&versao=leg
-Rastro Mortal (2019)	dub=https://embedplayer2.xyz/cdn/hls/96f5d95c2bfc0bc9cdc4d5775340f531/master.txt,0:6782,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=565214&versao=dub	leg=0:87696,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=565214&versao=leg
+Rastro do Ouro	dub=0:254219,0:254823,https://embedplayer2.xyz/cdn/hls/60df743573a6421780c4545726850650/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1669929&versao=dub	leg=0:254236,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1669929&versao=leg
+Rastro Mortal (2019)	dub=0:6782,https://embedplayer2.xyz/cdn/hls/96f5d95c2bfc0bc9cdc4d5775340f531/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=565214&versao=dub	leg=0:87696,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=565214&versao=leg
 Rastro Perdido (2006)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=275631&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=275631&versao=leg
 Rastros da Violência	dub=0:255369,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=100544&versao=dub	leg=0:255393,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=100544&versao=leg
 Rastros de Ódio	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=3114&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=3114&versao=leg
 Rastros de Ódio (1956)	dub=0:96740,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=3114&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=3114&versao=leg
 Rastros de um Crime	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=876024&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=876024&versao=leg
-Rastros de um Crime (2021)	dub=https://embedplayer2.xyz/cdn/hls/5dfdde1ed6a43b290c8bf3e51049dd8e/master.txt,0:21832,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=876024&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=876024&versao=leg
+Rastros de um Crime (2021)	dub=0:21832,https://embedplayer2.xyz/cdn/hls/5dfdde1ed6a43b290c8bf3e51049dd8e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=876024&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=876024&versao=leg
 Rastros de um Sequestro	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=488623&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=488623&versao=leg
-Rastros de um Sequestro (2017)	dub=https://embedplayer2.xyz/cdn/hls/1b73a873b1692a8bb1ae74035db23e81/master.txt,0:45828,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=488623&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=488623&versao=leg
+Rastros de um Sequestro (2017)	dub=0:45828,https://embedplayer2.xyz/cdn/hls/1b73a873b1692a8bb1ae74035db23e81/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=488623&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=488623&versao=leg
 Rastros de Vingança	dub=0:96721,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=35381&versao=dub	leg=0:96868,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=35381&versao=leg
 Rastros Do Alem	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=448095&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=448095&versao=leg
 Rastros do Além	dub=0:45837,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=448095&versao=dub	leg=0:87691,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=448095&versao=leg
@@ -429,7 +429,7 @@ Re Animator Fase Terminal	dub=0:34659,https://saimo-tv.pages.dev/api/stream?tipo
 Re/Member (2022)	dub=https://embedplayer2.xyz/cdn/hls/d0d3d88c86ed8b625f9b8587015b6ec4/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=991814&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=991814&versao=leg
 Re Member The Last Night	dub=https://embedplayer2.xyz/cdn/hls/388b2b0e41278f896abe332d1ca5269f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1451398&versao=dub	leg=0:99642,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1451398&versao=leg
 Reação em Cadeia	dub=0:6786,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12123&versao=dub	leg=0:312025,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12123&versao=leg
-Reading Lolita in Tehran	dub=https://embedplayer2.xyz/cdn/hls/b5f6c7862d7a0a4345291acc7a138a0d/master.txt,0:31082,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1096846&versao=dub	leg=0:87732,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1096846&versao=leg
+Reading Lolita in Tehran	dub=0:31082,https://embedplayer2.xyz/cdn/hls/b5f6c7862d7a0a4345291acc7a138a0d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1096846&versao=dub	leg=0:87732,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1096846&versao=leg
 Ready or Not Legendado	leg=0:87728
 Reagan	dub=0:31088,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=647245&versao=dub	leg=0:87740,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=647245&versao=leg
 Real Madrid - O Filme	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=194308&versao=dub	leg=2:1865491,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=194308&versao=leg
@@ -444,16 +444,16 @@ Reaper (2014)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=298026&ver
 Rebecca - A Mulher Inesquecível	dub=6:4431182,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=223&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=223&versao=leg
 Rebecca - A Mulher Inesquecível (2020)	dub=0:42761,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=505379&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=505379&versao=leg
 Rebel Moon - Parte 1: A Menina do Fogo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848326&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848326&versao=leg
-Rebel Moon Parte 1: A Menina do Fogo (2023)	dub=https://embedplayer2.xyz/cdn/hls/abb342f12d1c76a4725a0b84769587f2/master.txt,0:58266,0:58267,0:36438,0:36443,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848326&versao=dub	leg=0:87757,0:87762,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848326&versao=leg
+Rebel Moon Parte 1: A Menina do Fogo (2023)	dub=0:58266,0:58267,0:36438,0:36443,https://embedplayer2.xyz/cdn/hls/abb342f12d1c76a4725a0b84769587f2/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848326&versao=dub	leg=0:87757,0:87762,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848326&versao=leg
 Rebel Moon - Parte 2: A Marcadora de Cicatrizes	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=934632&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=934632&versao=leg
-Rebel Moon Parte 2: A Marcadora de Cicatrizes (2024)	dub=https://embedplayer2.xyz/cdn/hls/d3b04050c213aedf0f58ca33999097a3/master.txt,0:58278,0:36448,0:36452,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=934632&versao=dub	leg=0:87769,0:87774,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=934632&versao=leg
+Rebel Moon Parte 2: A Marcadora de Cicatrizes (2024)	dub=0:58278,0:36448,0:36452,https://embedplayer2.xyz/cdn/hls/d3b04050c213aedf0f58ca33999097a3/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=934632&versao=dub	leg=0:87769,0:87774,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=934632&versao=leg
 Rebel Ridge	dub=0:58293,0:6795,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=646097&versao=dub	leg=0:87779,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=646097&versao=leg
 Rebelde Com Causa	dub=0:19118,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22327&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22327&versao=leg
 Rebelde da Rádio (2012)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=89185&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=89185&versao=leg
 Rebelde ou Herói? (1970)	dub=2:1890324,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11202&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11202&versao=leg
 Rebeldes	dub=0:6799,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=788914&versao=dub	leg=0:87785,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=788914&versao=leg
 Rebeldes aos 16	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=923857&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=923857&versao=leg
-Rebeldes aos 16 (2021)	dub=https://embedplayer2.xyz/cdn/hls/0453417bc2a681836cd9a1a4fb0b2cde/master.txt,0:19128,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=923857&versao=dub	leg=0:87802,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=923857&versao=leg
+Rebeldes aos 16 (2021)	dub=0:19128,https://embedplayer2.xyz/cdn/hls/0453417bc2a681836cd9a1a4fb0b2cde/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=923857&versao=dub	leg=0:87802,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=923857&versao=leg
 Rebeldes e Heróis	dub=0:6804,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10750&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10750&versao=leg
 Rebeldia Indomável	dub=0:308625,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=903&versao=dub	leg=0:308655,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=903&versao=leg
 Rebeliao	dub=0:33518,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=429471&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=429471&versao=leg
@@ -470,7 +470,7 @@ REC (2007)	dub=https://embedplayer2.xyz/cdn/hls/920cb8de42a3c27d27728d45c4ee3293
 REC 3 (2012)	dub=https://embedplayer2.xyz/cdn/hls/8ccc9262a11a325ed136784fbb4bb059/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=80280&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=80280&versao=leg
 RECASAMENTO COM O AMIGO DO MEU EX-MARIDO	leg=0:302715
 Receba!	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=900587&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=900587&versao=leg
-Receba! (2024)	dub=https://embedplayer2.xyz/cdn/hls/f76527da13c71e1aa46e4fef4591ef45/master.txt,0:250510,0:254824,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=900587&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=900587&versao=leg
+Receba! (2024)	dub=0:250510,0:254824,https://embedplayer2.xyz/cdn/hls/f76527da13c71e1aa46e4fef4591ef45/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=900587&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=900587&versao=leg
 Receita para Amar	dub=0:42766,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=635887&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=635887&versao=leg
 RECEITA PARA FINGIR UM CASAMENTO	leg=0:302883
 Receita Secreta	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1364791&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1364791&versao=leg
@@ -486,7 +486,7 @@ Reconhecidos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1449001&ver
 RECONQUISTANDO MINHA EX BILIONARIA ESPOSA	leg=0:302727
 Recontagem	dub=0:308624,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14050&versao=dub	leg=0:308656,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14050&versao=leg
 Recreo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=503445&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=503445&versao=leg
-Recreo (2018)	dub=https://embedplayer2.xyz/cdn/hls/d478149a664f8e856ed5fef04b433128/master.txt,0:31093,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=503445&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=503445&versao=leg
+Recreo (2018)	dub=0:31093,https://embedplayer2.xyz/cdn/hls/d478149a664f8e856ed5fef04b433128/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=503445&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=503445&versao=leg
 Recrutas da Pesada (1981)	dub=6:6078133,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10890&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10890&versao=leg
 Recuerda (2022)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1082360&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1082360&versao=leg
 Recuerdos del mal	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1050001&versao=dub	leg=0:315424,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1050001&versao=leg
@@ -499,7 +499,7 @@ Red: Crescer é Uma Fera	dub=0:58272,0:11028,https://saimo-tv.pages.dev/api/stre
 Red Riding Hood (1987)	dub=0:33699,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=66176&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=66176&versao=leg
 Red Right Hand (2024)	dub=https://embedplayer2.xyz/cdn/hls/584d1f47ee4c16b5d56e24a532247be3/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1227816&versao=dub	leg=0:87823,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1227816&versao=leg
 Red Rocket	dub=0:19139,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=763329&versao=dub	leg=0:87829,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=763329&versao=leg
-Red Rooms	dub=https://embedplayer2.xyz/cdn/hls/2e303adbc1bfed53326dfefa951019cb/master.txt,0:31109,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912480&versao=dub	leg=0:87818,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912480&versao=leg
+Red Rooms	dub=0:31109,https://embedplayer2.xyz/cdn/hls/2e303adbc1bfed53326dfefa951019cb/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912480&versao=dub	leg=0:87818,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912480&versao=leg
 Red Rooms: Obsessão Doentia (2023)	dub=0:76878,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912480&versao=dub
 Red Shoes And The Seven Dwarfs	dub=https://embedplayer2.xyz/cdn/hls/50b71f35236482653fa66f76c0907bac/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=486589&versao=dub	leg=0:87834,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=486589&versao=leg
 Red Sonja (2025)	dub=https://embedplayer2.xyz/cdn/hls/c1ee11d5d9fcd5d7bceb61506270f031/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9626&versao=dub	leg=0:87837,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9626&versao=leg
@@ -538,10 +538,10 @@ REENCONTRO DO AMOR (2016)	leg=0:301785
 Refavela 40	dub=2:1888211,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=669317&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=669317&versao=leg
 Refazendo Laços	dub=0:31121,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=964913&versao=dub	leg=0:87878,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=964913&versao=leg
 Refém	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1263012&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1263012&versao=leg
-Refém (2005)	dub=https://embedplayer2.xyz/cdn/hls/050d9d8751b7eaabf1da225a0b79d46a/master.txt,0:6836,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2026&versao=dub	leg=0:87883,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2026&versao=leg
+Refém (2005)	dub=0:6836,https://embedplayer2.xyz/cdn/hls/050d9d8751b7eaabf1da225a0b79d46a/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2026&versao=dub	leg=0:87883,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2026&versao=leg
 Refém da Paixão	dub=0:31132,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=130150&versao=dub	leg=0:87894,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=130150&versao=leg
 Refém de Uma Mentira	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=977074&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=977074&versao=leg
-Refém de Uma Mentira (2023)	dub=0:31127,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=977074&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/ab9be8563444df41237ce19629d1a0b0/master.txt,0:87901,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=977074&versao=leg
+Refém de Uma Mentira (2023)	dub=0:31127,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=977074&versao=dub	leg=0:87901,https://embedplayer2.xyz/cdn/hls/ab9be8563444df41237ce19629d1a0b0/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=977074&versao=leg
 Refem Do Espirito	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14098&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14098&versao=leg
 Refém do Jogo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=421658&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=421658&versao=leg
 Refem do Medo	dub=0:31123,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=329981&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=329981&versao=leg
@@ -552,7 +552,7 @@ Refém Rebelde	dub=0:6845,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=82
 Reféns	dub=0:255417,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1081012&versao=dub	leg=0:255394,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1081012&versao=leg
 Reféns da Guerra	dub=0:31135,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=820682&versao=dub	leg=0:87911,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=820682&versao=leg
 Reféns da Noite	dub=6:4426240,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75419&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75419&versao=leg
-Reféns da Noite (2022)	dub=https://embedplayer2.xyz/cdn/hls/78fd61e19911eff5fa0accbcb9b9f27a/master.txt,0:21842,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=960705&versao=dub	leg=0:87917,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=960705&versao=leg
+Reféns da Noite (2022)	dub=0:21842,https://embedplayer2.xyz/cdn/hls/78fd61e19911eff5fa0accbcb9b9f27a/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=960705&versao=dub	leg=0:87917,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=960705&versao=leg
 Reféns da Terra	dub=0:1079,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1178065&versao=dub	leg=0:87922,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1178065&versao=leg
 Reféns de Um Fantasma	dub=0:20013,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1050746&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1050746&versao=leg
 Refens Do Crime	dub=0:6832,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27004&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27004&versao=leg
@@ -560,7 +560,7 @@ Reféns do Desconhecido	dub=0:6850,https://saimo-tv.pages.dev/api/stream?tipo=mo
 Reféns em Saratov (2013)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=224076&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=224076&versao=leg
 Reféns na Noite	dub=0:307340,0:307356,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1241231&versao=dub	leg=0:307307,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1241231&versao=leg
 Reféns na Ponte	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1081012&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1081012&versao=leg
-Reféns na Ponte (2024)	dub=https://embedplayer2.xyz/cdn/hls/bf400d335f0b4eab916591eefe7d00bc/master.txt,0:6858,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1081012&versao=dub	leg=0:87927,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1081012&versao=leg
+Reféns na Ponte (2024)	dub=0:6858,https://embedplayer2.xyz/cdn/hls/bf400d335f0b4eab916591eefe7d00bc/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1081012&versao=dub	leg=0:87927,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1081012&versao=leg
 Reflexões de um Liquidificador	dub=0:39194,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=158921&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=158921&versao=leg
 Reflexões no Espelho (2022)	dub=2:1809403,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=929449&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=929449&versao=leg
 Reforma com Romance	dub=0:1065,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1380983&versao=dub	leg=0:87877,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1380983&versao=leg
@@ -568,7 +568,7 @@ Reforma e Amor	dub=0:40254,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1
 Reforma e Amor (2022)	dub=https://embedplayer2.xyz/cdn/hls/c63fc7eb06c98f1cce1dabf4941dc7c8/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1015169&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1015169&versao=leg
 Refugiado (2019)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=603651&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=603651&versao=leg
 Refugiado Americano	dub=0:51627,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=827315&versao=dub	leg=0:87889,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=827315&versao=leg
-Refugio (2021)	dub=0:36462,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=760873&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/fa600dd894f348b553c60e4000edcf98/master.txt,0:87938,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=760873&versao=leg
+Refugio (2021)	dub=0:36462,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=760873&versao=dub	leg=0:87938,https://embedplayer2.xyz/cdn/hls/fa600dd894f348b553c60e4000edcf98/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=760873&versao=leg
 Refúgio de Inverno	dub=0:308344,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1125701&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1125701&versao=leg
 Refúgio do Medo	dub=0:45877,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=207933&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=207933&versao=leg
 Refúgio dos Pássaros	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1399267&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1399267&versao=leg
@@ -590,7 +590,7 @@ Regresso a Halloweentown (2006)	dub=2:1822168,https://saimo-tv.pages.dev/api/str
 Regresso do Mal	dub=0:34669,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=290637&versao=dub	leg=0:87970,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=290637&versao=leg
 Rei Arthur	dub=0:6854,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9477&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9477&versao=leg
 Rei Arthur: A Lenda da Espada	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=274857&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=274857&versao=leg
-Rei Arthur: A Lenda da Espada (2017)	dub=https://embedplayer2.xyz/cdn/hls/be6feeb59f915bf97e47dedf2f12e5bd/master.txt,0:6862,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=274857&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=274857&versao=leg
+Rei Arthur: A Lenda da Espada (2017)	dub=0:6862,https://embedplayer2.xyz/cdn/hls/be6feeb59f915bf97e47dedf2f12e5bd/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=274857&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=274857&versao=leg
 Rei Arthur - A Volta da Excalibur	dub=0:311085,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=447427&versao=dub	leg=0:311095,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=447427&versao=leg
 REI BASTARDO DA LUTA	dub=0:302214	leg=0:301746
 Rei Charles III	dub=0:31137,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=456187&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=456187&versao=leg
@@ -600,12 +600,12 @@ Rei David	dub=0:6867,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=42040&v
 Rei do Ringue: A História de Jem Belcher	dub=0:31140,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=943822&versao=dub	leg=0:87986,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=943822&versao=leg
 Rei do Rio	dub=0:31142,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=186100&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=186100&versao=leg
 Rei Dos Ladroes	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=520360&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=520360&versao=leg
-Rei dos Ladroes (2018)	dub=https://embedplayer2.xyz/cdn/hls/4c7ec2733b06b27242b73f5983133d92/master.txt,0:31147,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=520360&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=520360&versao=leg
+Rei dos Ladroes (2018)	dub=0:31147,https://embedplayer2.xyz/cdn/hls/4c7ec2733b06b27242b73f5983133d92/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=520360&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=520360&versao=leg
 REI DOS TRUQUES A VINGANCA COMECA	leg=0:303077
 REI NOTURNO DE VOLTA AO SETIMO CEU	leg=0:302606
 Reine Sobre Mim	dub=0:31152,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2355&versao=dub	leg=0:87981,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2355&versao=leg
 Reino Animal	dub=0:83683,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44629&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44629&versao=leg
-Reino de Deus	dub=https://embedplayer2.xyz/cdn/hls/88955645abd1c4771b40f43c7e7aeeb5/master.txt,0:42781,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=428493&versao=dub	leg=0:87975,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=428493&versao=leg
+Reino de Deus	dub=0:42781,https://embedplayer2.xyz/cdn/hls/88955645abd1c4771b40f43c7e7aeeb5/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=428493&versao=dub	leg=0:87975,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=428493&versao=leg
 Reino de Fogo	dub=0:6871,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6278&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6278&versao=leg
 Reino do Superman	dub=0:11031,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=487672&versao=dub	leg=0:87987,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=487672&versao=leg
 Reino Dos Assassinos	dub=0:6875,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44092&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44092&versao=leg
@@ -633,18 +633,18 @@ Relatos do Mundo	dub=0:80286,https://saimo-tv.pages.dev/api/stream?tipo=movie&id
 Relatos Selvagens	dub=0:31168,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=265195&versao=dub	leg=0:253383,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=265195&versao=leg
 Relay	dub=https://embedplayer2.xyz/cdn/hls/cd838af85931810243ec2de7e12f2f78/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1088166&versao=dub	leg=0:87999,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1088166&versao=leg
 Relay: Contrato Perigoso	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1088166&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1088166&versao=leg
-Relay: Contrato Perigoso (2025)	dub=https://embedplayer2.xyz/cdn/hls/cd838af85931810243ec2de7e12f2f78/master.txt,0:45868,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1088166&versao=dub	leg=0:88004,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1088166&versao=leg
+Relay: Contrato Perigoso (2025)	dub=0:45868,https://embedplayer2.xyz/cdn/hls/cd838af85931810243ec2de7e12f2f78/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1088166&versao=dub	leg=0:88004,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1088166&versao=leg
 Relic	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11015&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11015&versao=leg
 Relíquia Macabra	dub=0:45872,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=539181&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=539181&versao=leg
 Remando para o Ouro	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=823452&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=823452&versao=leg
-Remando para o Ouro (2023)	dub=https://embedplayer2.xyz/cdn/hls/64c612767061880468f7dbe120023ee4/master.txt,0:58283,0:31162,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=823452&versao=dub	leg=0:88020,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=823452&versao=leg
+Remando para o Ouro (2023)	dub=0:58283,0:31162,https://embedplayer2.xyz/cdn/hls/64c612767061880468f7dbe120023ee4/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=823452&versao=dub	leg=0:88020,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=823452&versao=leg
 Remanescentes - Esquecidos Por Deus	dub=0:45882,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=280002&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=280002&versao=leg
 Remédio Amargo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=701175&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=701175&versao=leg
-Remédio Amargo (2020)	dub=https://embedplayer2.xyz/cdn/hls/e20b12c169b15af507aea635f518aaea/master.txt,0:45887,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=701175&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=701175&versao=leg
-Remember (2022)	dub=https://embedplayer2.xyz/cdn/hls/d0d3d88c86ed8b625f9b8587015b6ec4/master.txt,0:51633,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1087756&versao=dub	leg=0:88025,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1087756&versao=leg
+Remédio Amargo (2020)	dub=0:45887,https://embedplayer2.xyz/cdn/hls/e20b12c169b15af507aea635f518aaea/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=701175&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=701175&versao=leg
+Remember (2022)	dub=0:51633,https://embedplayer2.xyz/cdn/hls/d0d3d88c86ed8b625f9b8587015b6ec4/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1087756&versao=dub	leg=0:88025,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1087756&versao=leg
 Remp-It 2 (2022)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1051056&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1051056&versao=leg
 RENASCENDO DAS CINZAS	leg=0:301788
-ReNascer (2023)	dub=https://embedplayer2.xyz/cdn/hls/e8c531295e7f43d06baefd6f691324e5/master.txt,0:313701,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1058638&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1058638&versao=leg
+ReNascer (2023)	dub=0:313701,https://embedplayer2.xyz/cdn/hls/e8c531295e7f43d06baefd6f691324e5/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1058638&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1058638&versao=leg
 Renascer da Terra	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1679036&versao=dub	leg=0:301234,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1679036&versao=leg
 Renascer para Terminar os Três Casamentos	dub=0:98114
 RENASCEU COMO A QUERIDINHA DO CEO	leg=0:302326
@@ -697,74 +697,74 @@ Resgate 2	dub=0:58298,0:6892,https://saimo-tv.pages.dev/api/stream?tipo=movie&id
 Resgate Abaixo de Zero	dub=0:31172,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9036&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9036&versao=leg
 Resgate do Coração	dub=0:42790,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=531438&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=531438&versao=leg
 Resgate em 12 Horas	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1048300&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1048300&versao=leg
-Resgate em 12 Horas (2022)	dub=https://embedplayer2.xyz/cdn/hls/51f610ba21b97680521b225ae67bd29d/master.txt,0:6904,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1048300&versao=dub	leg=0:88081,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1048300&versao=leg
-Resgate em Alta Velocidade	dub=https://embedplayer2.xyz/cdn/hls/f00d9bfad07bdfa7fafeddad3e8b879e/master.txt,0:6908,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=146227&versao=dub	leg=0:88089,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=146227&versao=leg
+Resgate em 12 Horas (2022)	dub=0:6904,https://embedplayer2.xyz/cdn/hls/51f610ba21b97680521b225ae67bd29d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1048300&versao=dub	leg=0:88081,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1048300&versao=leg
+Resgate em Alta Velocidade	dub=0:6908,https://embedplayer2.xyz/cdn/hls/f00d9bfad07bdfa7fafeddad3e8b879e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=146227&versao=dub	leg=0:88089,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=146227&versao=leg
 Resgate em Alta Velocidade (2013)	dub=https://embedplayer2.xyz/cdn/hls/f00d9bfad07bdfa7fafeddad3e8b879e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=146227&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=146227&versao=leg
 Resgate em Alta Velocidade (2020)	dub=https://embedplayer2.xyz/cdn/hls/f00d9bfad07bdfa7fafeddad3e8b879e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=809267&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=809267&versao=leg
 Resgate em Amsterdã	dub=0:6913,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=996154&versao=dub	leg=0:88083,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=996154&versao=leg
-Resgate em Grande Altitude (2025)	dub=https://embedplayer2.xyz/cdn/hls/96f4fadfc7f3f8fe0e99a7f89b0343a0/master.txt,0:253696,0:254828,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1125899&versao=dub	leg=0:253403,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1125899&versao=leg
+Resgate em Grande Altitude (2025)	dub=0:253696,0:254828,https://embedplayer2.xyz/cdn/hls/96f4fadfc7f3f8fe0e99a7f89b0343a0/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1125899&versao=dub	leg=0:253403,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1125899&versao=leg
 Resgate em Malibu (2019)	dub=2:2381094,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=576040&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=576040&versao=leg
 Resgate em Malibu: A Próxima Onda	dub=0:6917,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695596&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695596&versao=leg
 Resgate em Medelín	dub=0:58307,0:6921,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=961718&versao=dub	leg=0:88094,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=961718&versao=leg
 Resgate Fantástico	dub=0:45891,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=31690&versao=dub	leg=0:88098,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=31690&versao=leg
 Resgate Final (2024)	dub=https://embedplayer2.xyz/cdn/hls/0da6640e44a7730827255d76c9b2cd83/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1164892&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/ce3da980b2e989de8086be90abb9a7d4/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1164892&versao=leg
 Resgate Implacável	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1197306&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1197306&versao=leg
-Resgate Implacável (2025)	dub=https://embedplayer2.xyz/cdn/hls/4bfa83608b1bbe7a06855fceb6b0ce3c/master.txt,0:58309,0:6925,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1197306&versao=dub	leg=0:88100,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1197306&versao=leg
+Resgate Implacável (2025)	dub=0:58309,0:6925,https://embedplayer2.xyz/cdn/hls/4bfa83608b1bbe7a06855fceb6b0ce3c/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1197306&versao=dub	leg=0:88100,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1197306&versao=leg
 Resgate Impossível (2012)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=82206&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=82206&versao=leg
 Resgate Impossível: 70 Dias Sob a Terra	dub=2:1865684,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1492965&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1492965&versao=leg
 Resgate Mortal	dub=0:6929,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=551910&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=551910&versao=leg
 Resgate na Mina	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1131409&versao=dub	leg=0:88106,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1131409&versao=leg
 RESGATE NO FRIO EXTREMO	leg=0:302653
 Resgate no Golfo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=339849&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=339849&versao=leg
-Resgate no Golfo (2025)	dub=https://embedplayer2.xyz/cdn/hls/d052066f657eb6a4384c3748c906c642/master.txt,0:250599,0:254826,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=339849&versao=dub	leg=0:250591,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=339849&versao=leg
+Resgate no Golfo (2025)	dub=0:250599,0:254826,https://embedplayer2.xyz/cdn/hls/d052066f657eb6a4384c3748c906c642/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=339849&versao=dub	leg=0:250591,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=339849&versao=leg
 Resgate no Oeste	dub=0:35245,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=398265&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=398265&versao=leg
-Resgate Polar	dub=https://embedplayer2.xyz/cdn/hls/a15460c01b2ef142071dc9e62e748230/master.txt,0:249736,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=973211&versao=dub	leg=0:249752,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=973211&versao=leg
+Resgate Polar	dub=0:249736,https://embedplayer2.xyz/cdn/hls/a15460c01b2ef142071dc9e62e748230/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=973211&versao=dub	leg=0:249752,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=973211&versao=leg
 Resgate Sem Limites	dub=0:6933,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12542&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=12542&versao=leg
 Resgate Suicida	dub=0:35290,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=395817&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=395817&versao=leg
 Resident Evil 2: Apocalipse	dub=0:51642,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1577&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1577&versao=leg
-Resident Evil (2026)	dub=https://apiflix.duckdns.org/media/hls/index.m3u8?url=https%3A%2F%2Fwatch.brstream.cc%2Fm3u8%2F12%2Fbb5e2c8c1c4b94480182b27de9e59821%2Fmaster.txt%3Fs%3D1%26id%3D41420%26cache%3D1&ua=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F127.0.0.0%20Mobile%20Safari%2F537.36&referer=https%3A%2F%2Fwatch.brstream.cc%2Fwatch%3Fv%3DRHWAIJ2L&seg=direct,https://comprarebom.xyz/cdn/down/b7c8fd00fd1a330395fa152a/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1423191&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1423191&versao=leg
+Resident Evil (2026)	dub=https://comprarebom.xyz/cdn/down/b7c8fd00fd1a330395fa152a/index.m3u8,https://apiflix.duckdns.org/media/hls/index.m3u8?url=https%3A%2F%2Fwatch.brstream.cc%2Fm3u8%2F12%2Fbb5e2c8c1c4b94480182b27de9e59821%2Fmaster.txt%3Fs%3D1%26id%3D41420%26cache%3D1&ua=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F127.0.0.0%20Mobile%20Safari%2F537.36&referer=https%3A%2F%2Fwatch.brstream.cc%2Fwatch%3Fv%3DRHWAIJ2L&seg=direct,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1423191&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1423191&versao=leg
 Resident Evil 3: A Extinção	dub=0:51643,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=7737&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=7737&versao=leg
 Resident Evil 4: Recomeço	dub=0:51648,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=35791&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=35791&versao=leg
-Resident Evil 5: Retribuicao (2012)	dub=https://embedplayer2.xyz/cdn/hls/a0bcf1f8b9d2d70234bb33d6c8ba4d58/master.txt,0:51653,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=71679&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=71679&versao=leg
+Resident Evil 5: Retribuicao (2012)	dub=0:51653,https://embedplayer2.xyz/cdn/hls/a0bcf1f8b9d2d70234bb33d6c8ba4d58/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=71679&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=71679&versao=leg
 Resident Evil 6: O Capítulo Final	dub=0:51656,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=173897&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=173897&versao=leg
 Resident Evil: A Vingança	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=400136&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=400136&versao=leg
-Resident Evil: A Vingança (2017)	dub=https://embedplayer2.xyz/cdn/hls/f31df4dbbcf2c00959452b95b2a96a64/master.txt,0:11037,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=400136&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=400136&versao=leg
+Resident Evil: A Vingança (2017)	dub=0:11037,https://embedplayer2.xyz/cdn/hls/f31df4dbbcf2c00959452b95b2a96a64/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=400136&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=400136&versao=leg
 Resident Evil: Bem-Vindo a Raccoon City	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=460458&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=460458&versao=leg
-Resident Evil: Bem-Vindo a Raccoon City (2021)	dub=https://embedplayer2.xyz/cdn/hls/ba5f682f9a77ec5956aee193668987e7/master.txt,0:58313,0:51662,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=460458&versao=dub	leg=0:88107,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=460458&versao=leg
+Resident Evil: Bem-Vindo a Raccoon City (2021)	dub=0:58313,0:51662,https://embedplayer2.xyz/cdn/hls/ba5f682f9a77ec5956aee193668987e7/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=460458&versao=dub	leg=0:88107,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=460458&versao=leg
 Resident Evil: Condenação	dub=0:11043,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=133121&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=133121&versao=leg
 Resident Evil: Degeneração	dub=0:11046,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13648&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13648&versao=leg
-Resident Evil Ilha da Morte (2023)	dub=https://embedplayer2.xyz/cdn/hls/57094d11676f208e2597b2ee8aa5bbbd/master.txt,0:58318,0:11051,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1083862&versao=dub	leg=0:88119,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1083862&versao=leg
+Resident Evil Ilha da Morte (2023)	dub=0:58318,0:11051,https://embedplayer2.xyz/cdn/hls/57094d11676f208e2597b2ee8aa5bbbd/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1083862&versao=dub	leg=0:88119,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1083862&versao=leg
 Resident Evil: O Hóspede Maldito	dub=0:51665,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1576&versao=dub	leg=0:301235,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1576&versao=leg
 Residente (2017)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=433413&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=433413&versao=leg
 Resiliência	dub=6:6377483,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=715257&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=715257&versao=leg
 RESISTA AO SR. LLOYD ROMANCE DIFERENCA DE IDADE	leg=0:302720
 Resistance	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=491926&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=491926&versao=leg
-Resistência	dub=https://embedplayer2.xyz/cdn/hls/68802e57515c2dc521871f99475a42c0/master.txt,0:58323,0:6937,0:306441,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=670292&versao=dub	leg=0:88130,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=670292&versao=leg
+Resistência	dub=0:58323,0:6937,0:306441,https://embedplayer2.xyz/cdn/hls/68802e57515c2dc521871f99475a42c0/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=670292&versao=dub	leg=0:88130,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=670292&versao=leg
 Resistencia (2023)	dub=https://embedplayer2.xyz/cdn/hls/68802e57515c2dc521871f99475a42c0/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=670292&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=670292&versao=leg
 Resistentes	dub=2:1866472,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1286227&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1286227&versao=leg
 Resistindo às Tentações	dub=0:19157,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22309&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22309&versao=leg
 Respect: A História de Aretha Franklin	dub=0:31180,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=592863&versao=dub	leg=0:88117,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=592863&versao=leg
 RESPIRAR	dub=0:301480,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=527275&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=527275&versao=leg
 Respire	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=270400&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=270400&versao=leg
-Respire (2024)	dub=https://embedplayer2.xyz/cdn/hls/92d60d26c77335070cdb8e18b3b67028/master.txt,0:58328,0:36466,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=720321&versao=dub	leg=0:88125,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=720321&versao=leg
+Respire (2024)	dub=0:58328,0:36466,https://embedplayer2.xyz/cdn/hls/92d60d26c77335070cdb8e18b3b67028/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=720321&versao=dub	leg=0:88125,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=720321&versao=leg
 Respire Fundo	dub=0:31176,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=714195&versao=dub	leg=0:88131,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=714195&versao=leg
 Resplendor	dub=2:1866091,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=608289&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=608289&versao=leg
 Ressaca de Amor (2008)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9870&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9870&versao=leg
 Ressignificar	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1187745&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1187745&versao=leg
 Ressurreição	dub=0:31182,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8078&versao=dub	leg=0:88136,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8078&versao=leg
 Ressurreição do Mal	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=584004&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=584004&versao=leg
-Ressurreição do Mal (2023)	dub=https://embedplayer2.xyz/cdn/hls/ca04c7d3241d353fa36313838baa01a1/master.txt,0:51670,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=584004&versao=dub	leg=0:88146,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=584004&versao=leg
+Ressurreição do Mal (2023)	dub=0:51670,https://embedplayer2.xyz/cdn/hls/ca04c7d3241d353fa36313838baa01a1/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=584004&versao=dub	leg=0:88146,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=584004&versao=leg
 Ressurreição - Retalhos de Um Crime	dub=0:21846,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10359&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10359&versao=leg
 Ressuscitada e Casada com o Tio do Meu Ex!	leg=0:303356
 RESTAM TRES MESES OS ASSUNTOS MALUCOS DA SRA. GUSMAO	leg=0:302721
 Resurgence (2021)	dub=2:1865444,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=850554&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=850554&versao=leg
 Resurrection	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8078&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8078&versao=leg
 Resurrection (2022)	dub=0:31191,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=872497&versao=dub	leg=0:88141,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=872497&versao=leg
-Retaliação	dub=https://embedplayer2.xyz/cdn/hls/fc997e47dc11a44157b0244cdf62bfa1/master.txt,0:51673,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=447665&versao=dub	leg=0:88151,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=447665&versao=leg
+Retaliação	dub=0:51673,https://embedplayer2.xyz/cdn/hls/fc997e47dc11a44157b0244cdf62bfa1/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=447665&versao=dub	leg=0:88151,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=447665&versao=leg
 Retiro do Amor	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1158693&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1158693&versao=leg
-Retiro do Amor (2023)	dub=https://embedplayer2.xyz/cdn/hls/ec9cfb8b21f09803409e71a38782d205/master.txt,0:42795,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1158693&versao=dub	leg=0:88153,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1158693&versao=leg
+Retiro do Amor (2023)	dub=0:42795,https://embedplayer2.xyz/cdn/hls/ec9cfb8b21f09803409e71a38782d205/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1158693&versao=dub	leg=0:88153,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1158693&versao=leg
 Retiro Mortal	dub=0:45896,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=605121&versao=dub	leg=0:88160,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=605121&versao=leg
-Retiro Mortal 2	dub=https://embedplayer2.xyz/cdn/hls/28a4e0c4969e712bbd1bec2f6eb70fc8/master.txt,0:51679,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1138037&versao=dub	leg=0:88158,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1138037&versao=leg
+Retiro Mortal 2	dub=0:51679,https://embedplayer2.xyz/cdn/hls/28a4e0c4969e712bbd1bec2f6eb70fc8/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1138037&versao=dub	leg=0:88158,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1138037&versao=leg
 Retorno	dub=0:45901,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1384216&versao=dub	leg=0:88165,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1384216&versao=leg
 Retorno a Seul	dub=0:31186,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=952701&versao=dub	leg=0:88174,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=952701&versao=leg
 RETORNO AOS 18 O MEU REINADO SOBRE MIL TERRAS	dub=0:302619
@@ -787,7 +787,7 @@ REUNIDO	leg=0:302079
 Reunidos no Natal (2018)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=550084&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=550084&versao=leg
 Reunion	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=71552&versao=dub	leg=0:13026,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=71552&versao=leg
 REV: Adrenalina Total	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=649392&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=649392&versao=leg
-REV: Adrenalina Total (2020)	dub=https://embedplayer2.xyz/cdn/hls/db98494c76e2a65e8d5fe13e78b19be7/master.txt,0:6942,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=649392&versao=dub	leg=0:88205,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=649392&versao=leg
+REV: Adrenalina Total (2020)	dub=0:6942,https://embedplayer2.xyz/cdn/hls/db98494c76e2a65e8d5fe13e78b19be7/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=649392&versao=dub	leg=0:88205,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=649392&versao=leg
 Revelação (2020)	dub=0:31205,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=763019&versao=dub	leg=0:88201,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=763019&versao=leg
 Revelação Fatal	dub=0:45906,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1076605&versao=dub	leg=0:88210,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1076605&versao=leg
 Revelações	dub=0:58334,0:31215,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1210938&versao=dub	leg=0:88216,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1210938&versao=leg
@@ -811,7 +811,7 @@ Rewind	dub=2:1865994,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=4953&ve
 Rewind (2019)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=597615&versao=dub	leg=0:88253,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=597615&versao=leg
 Reza a Lenda (2016)	dub=2:1891209,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=359787&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=359787&versao=leg
 Rezando por uma SEGUNDA CHANCE	leg=0:303365,0:303372
-Reze Depois de Ler	dub=https://embedplayer2.xyz/cdn/hls/34f9c59c15242e46961a2de8d69f0581/master.txt,0:51675,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1002258&versao=dub	leg=0:88255,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1002258&versao=leg
+Reze Depois de Ler	dub=0:51675,https://embedplayer2.xyz/cdn/hls/34f9c59c15242e46961a2de8d69f0581/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1002258&versao=dub	leg=0:88255,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1002258&versao=leg
 Reze para Sair	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13555&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13555&versao=leg
 Reze Pela Sua Morte (1968)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=83122&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=83122&versao=leg
 Rheingold: O Roubo do Sucesso (2022)	dub=2:1887181,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912726&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912726&versao=leg
@@ -823,17 +823,17 @@ Ricki and the Flash De Volta pra Casa	dub=https://saimo-tv.pages.dev/api/stream?
 Ricki and the Flash De Volta pra Casa (2015)	dub=0:300938,0:19161,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=275601&versao=dub	leg=0:255464,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=275601&versao=leg
 Ricky Bobby: A Toda Velocidade	dub=0:19166,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9718&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9718&versao=leg
 Ricky Stanicky	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1022690&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1022690&versao=leg
-Ricky Stanicky (2024)	dub=https://embedplayer2.xyz/cdn/hls/11e44345041b5b8156e3ded6900f2ae4/master.txt,0:58339,0:19170,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1022690&versao=dub	leg=0:88266,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1022690&versao=leg
+Ricky Stanicky (2024)	dub=0:58339,0:19170,https://embedplayer2.xyz/cdn/hls/11e44345041b5b8156e3ded6900f2ae4/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1022690&versao=dub	leg=0:88266,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1022690&versao=leg
 Ricochete	dub=0:301353,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=95807&versao=dub	leg=0:301237,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=95807&versao=leg
 Ricos de Amor	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=656563&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=656563&versao=leg
 Ricos de Amor 2	dub=0:58343,0:42800,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1126852&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1126852&versao=leg
 Ricos de Amor 2 (2023)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1126852&versao=dub
-Ricos de Amor (2020)	dub=https://embedplayer2.xyz/cdn/hls/b60b88d93018fff19ab377f26b9cad79/master.txt,0:19179,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=656563&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=656563&versao=leg
+Ricos de Amor (2020)	dub=0:19179,https://embedplayer2.xyz/cdn/hls/b60b88d93018fff19ab377f26b9cad79/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=656563&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=656563&versao=leg
 Riddick 1	dub=0:34664,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2787&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2787&versao=leg
 Riddick 2	dub=0:34674,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2789&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2789&versao=leg
 Riddick 3	dub=0:34678,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=87421&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=87421&versao=leg
 Ride	dub=2:1877113,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=864168&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=864168&versao=leg
-Ride (2018)	dub=https://embedplayer2.xyz/cdn/hls/4c96ed9aeb0f2ac881711d20c3e009a3/master.txt,0:21851,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=535561&versao=dub	leg=0:88270,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=535561&versao=leg
+Ride (2018)	dub=0:21851,https://embedplayer2.xyz/cdn/hls/4c96ed9aeb0f2ac881711d20c3e009a3/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=535561&versao=dub	leg=0:88270,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=535561&versao=leg
 Riff Raff (2025)	dub=https://embedplayer2.xyz/cdn/hls/16e480bd03bca5774c2b584a365a1d5d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1127767&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1127767&versao=leg
 Rihanna - Good Girl Gone Bad Live	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=25924&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=25924&versao=leg
 Riki: O Rinoceronte Corajoso	dub=0:11065,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=666875&versao=dub	leg=0:88276,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=666875&versao=leg
@@ -856,7 +856,7 @@ Rios Vermelhos 2 - Anjos do Apocalipse (2004)	dub=https://saimo-tv.pages.dev/api
 Rios Vermelhos (2000)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=60670&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=60670&versao=leg
 Rip Tide: A Garota da Hora (2017)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=457262&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=457262&versao=leg
 Riphagen	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=400387&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=400387&versao=leg
-Riphagen (2016)	dub=https://embedplayer2.xyz/cdn/hls/e9c2c9aefa997a011b7ca5d228426a28/master.txt,0:31224,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=400387&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=400387&versao=leg
+Riphagen (2016)	dub=0:31224,https://embedplayer2.xyz/cdn/hls/e9c2c9aefa997a011b7ca5d228426a28/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=400387&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=400387&versao=leg
 Riqueza Perdida (2000)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44853&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=44853&versao=leg
 Riquinho	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11011&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11011&versao=leg
 Riquinho (1994)	dub=0:300939,0:19175,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11011&versao=dub	leg=0:249884,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11011&versao=leg
@@ -867,7 +867,7 @@ Riscado	dub=0:31229,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=141747&v
 Risco Absoluto (2009)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=28465&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=28465&versao=leg
 Risco Duplo	dub=0:45930,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10398&versao=dub	leg=0:249234,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10398&versao=leg
 Risco Imediato	dub=0:45920,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=262338&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=262338&versao=leg
-Risco Máximo	dub=https://embedplayer2.xyz/cdn/hls/c6def765b1a7653b7a351a3be3cd35a3/master.txt,0:6946,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10861&versao=dub	leg=0:306399,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10861&versao=leg
+Risco Máximo	dub=0:6946,https://embedplayer2.xyz/cdn/hls/c6def765b1a7653b7a351a3be3cd35a3/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10861&versao=dub	leg=0:306399,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10861&versao=leg
 Risco Maximo (2017)	dub=https://embedplayer2.xyz/cdn/hls/c6def765b1a7653b7a351a3be3cd35a3/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=421313&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=421313&versao=leg
 Risco Total	dub=0:6950,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9350&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9350&versao=leg
 Rise	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=713704&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=713704&versao=leg
@@ -881,14 +881,14 @@ Rita Lee: Mania de Você (2025)	dub=https://embedplayer2.xyz/cdn/hls/3e99cb310a0
 Ritas	dub=0:39206,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1444695&versao=dub	leg=0:88321,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1444695&versao=leg
 Ritmo Cubano	dub=0:19184,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=201086&versao=dub	leg=0:88324,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=201086&versao=leg
 Ritmo de Natal	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1175787&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1175787&versao=leg
-Ritmo de Natal (2023)	dub=https://embedplayer2.xyz/cdn/hls/0d5e0e98ea610c0358a1eb8dbb05d94d/master.txt,0:58354,0:40264,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1175787&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1175787&versao=leg
+Ritmo de Natal (2023)	dub=0:58354,0:40264,https://embedplayer2.xyz/cdn/hls/0d5e0e98ea610c0358a1eb8dbb05d94d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1175787&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1175787&versao=leg
 Ritmo De Um Sonho	dub=0:31238,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10476&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10476&versao=leg
 Ritmo do Amor	dub=0:42805,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16004&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16004&versao=leg
 Ritmo Total	dub=0:31243,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13497&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13497&versao=leg
 Ritmo Total 2: A Nova Batida (2014)	dub=2:1888615,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=299513&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=299513&versao=leg
 Ritual das Bruxas	dub=0:51690,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=646542&versao=dub	leg=0:88333,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=646542&versao=leg
 Ritual das Trevas	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1255208&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1255208&versao=leg
-Ritual das Trevas (2024)	dub=https://embedplayer2.xyz/cdn/hls/879a336db7c36c5aefc0de1b61321a4f/master.txt,0:51685,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1255208&versao=dub	leg=0:88330,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1255208&versao=leg
+Ritual das Trevas (2024)	dub=0:51685,https://embedplayer2.xyz/cdn/hls/879a336db7c36c5aefc0de1b61321a4f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1255208&versao=dub	leg=0:88330,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1255208&versao=leg
 Ritual de Inverno	dub=0:51695,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=551608&versao=dub	leg=0:88341,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=551608&versao=leg
 Ritual Maldito	dub=0:51701,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=696070&versao=dub	leg=0:88346,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=696070&versao=leg
 Rivais	dub=0:58355,0:42814,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=937287&versao=dub	leg=0:88335,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=937287&versao=leg
@@ -899,7 +899,7 @@ Riverdance: Uma Aventura Dançante	dub=0:11080,https://saimo-tv.pages.dev/api/st
 Rize	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2287&versao=dub	leg=2:1865554,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2287&versao=leg
 Road to Damascus (2021)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=803906&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=803906&versao=leg
 Road Wars: Max Fury (2024)	dub=https://embedplayer2.xyz/cdn/hls/e22f0f402e9ff516444121564c8459c2/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1288104&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/7408f74c0bfb7d0459889e91fc3f9b8f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1288104&versao=leg
-Rob Peace	dub=https://embedplayer2.xyz/cdn/hls/d1adc3acb4f1269cf0e16f498781dba2/master.txt,0:58365,0:97679,0:31246,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1084514&versao=dub	leg=0:88365,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1084514&versao=leg
+Rob Peace	dub=0:58365,0:97679,0:31246,https://embedplayer2.xyz/cdn/hls/d1adc3acb4f1269cf0e16f498781dba2/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1084514&versao=dub	leg=0:88365,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1084514&versao=leg
 Rob1n: Inteligência Assassina (2025)	dub=https://embedplayer2.xyz/cdn/hls/d5829b501d88a8bea61433ee5c0267f0/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1443260&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1443260&versao=leg
 Robert The Bruce	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=532812&versao=dub	leg=0:29680,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=532812&versao=leg
 Roberto Farias - Memórias de um Cineasta	dub=0:1091,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1148047&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1148047&versao=leg
@@ -911,15 +911,15 @@ Robin Hood – O Invencível	dub=0:6966,https://saimo-tv.pages.dev/api/stream?ti
 Robin Hood: O Príncipe dos Ladrões	dub=0:310649,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8367&versao=dub	leg=0:310696,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8367&versao=leg
 Robin Williams: Entre na Minha Mente	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=493100&versao=dub	leg=0:88370,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=493100&versao=leg
 Robô	dub=0:6970,2:1882403,https://comprarebom.xyz/cdn/down/cbe65018df3be06c2f996cf5/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2048&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1184918&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2048&versao=leg,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1184918&versao=leg
-Robo Selvagem (2024)	dub=https://embedplayer2.xyz/cdn/hls/6e911e0817db27ffad845769028b8a3b/master.txt,0:58370,0:11085,https://comprarebom.xyz/cdn/down/cbe65018df3be06c2f996cf5/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1184918&versao=dub	leg=0:88381,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1184918&versao=leg
+Robo Selvagem (2024)	dub=0:58370,0:11085,https://embedplayer2.xyz/cdn/hls/6e911e0817db27ffad845769028b8a3b/master.txt,https://comprarebom.xyz/cdn/down/cbe65018df3be06c2f996cf5/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1184918&versao=dub	leg=0:88381,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1184918&versao=leg
 Robô Selvagem (2024)	dub=https://comprarebom.xyz/cdn/down/cbe65018df3be06c2f996cf5/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1184918&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1184918&versao=leg
 RoboCop	dub=0:36475,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5548&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5548&versao=leg
 RoboCop 2	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5549&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5549&versao=leg
-RoboCop 2 (1990)	dub=https://embedplayer2.xyz/cdn/hls/c40a9bb649ad880e8d5312a454b5d8e3/master.txt,0:36480,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5549&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5549&versao=leg
+RoboCop 2 (1990)	dub=0:36480,https://embedplayer2.xyz/cdn/hls/c40a9bb649ad880e8d5312a454b5d8e3/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5549&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5549&versao=leg
 RoboCop 3	dub=0:6962,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5550&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5550&versao=leg
 RoboCop O Policial do Futuro	dub=0:6958,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5548&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=5548&versao=leg
 RoboCop: Primeiras Diretivas (2001)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=74236&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=74236&versao=leg
-Robos (2005)	dub=https://embedplayer2.xyz/cdn/hls/f51fc1119cb404377f78e02238264f3e/master.txt,0:11089,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9928&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9928&versao=leg
+Robos (2005)	dub=0:11089,https://embedplayer2.xyz/cdn/hls/f51fc1119cb404377f78e02238264f3e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9928&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9928&versao=leg
 Robosapien - Meu Melhor Amigo (2013)	dub=2:1826053,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=187462&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=187462&versao=leg
 Roboshark (2015)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=349135&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=349135&versao=leg
 Robot Chicken Adult Swim Special	leg=0:314566
@@ -952,7 +952,7 @@ Rocky V	dub=0:31293,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1375&ver
 Roda de Fogo	dub=0:6979,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=56087&versao=dub	leg=0:97089,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=56087&versao=leg
 Roda Gigante	dub=0:31298,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=429189&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=429189&versao=leg
 Rodada Final	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=484972&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=484972&versao=leg
-Rodada Final (2018)	dub=https://embedplayer2.xyz/cdn/hls/509bf6595cd755991c83e7478a8842cd/master.txt,0:31307,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=484972&versao=dub	leg=0:88424,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=484972&versao=leg
+Rodada Final (2018)	dub=0:31307,https://embedplayer2.xyz/cdn/hls/509bf6595cd755991c83e7478a8842cd/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=484972&versao=dub	leg=0:88424,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=484972&versao=leg
 Rodas de Fogo (2003)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=77606&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=77606&versao=leg
 RODEADO DE BELAS DONZELAS	leg=0:301739
 Rodeio Rock	dub=0:42809,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=999501&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=999501&versao=leg
@@ -962,11 +962,11 @@ Rodrigo Sant&#039;Anna: Cheguei (2022)	dub=2:1811124,https://saimo-tv.pages.dev/
 Rodrigo Sant'Anna: Cheguei (2022)	dub=https://embedplayer2.xyz/cdn/hls/fd1a3753e148451bda4ecffd2987fc60/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=968488&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=968488&versao=leg
 Rogai Por Nós	dub=0:58375,0:51700,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=632357&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=632357&versao=leg
 Rogue	dub=https://comprarebom.xyz/cdn/down/a571876c64e06dd17815ac74/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=177677&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=177677&versao=leg
-Rogue (2020)	dub=https://embedplayer2.xyz/cdn/hls/6d6c180f873e87b0c1f5e19a126dd1ae/master.txt,0:6987,https://comprarebom.xyz/cdn/down/a571876c64e06dd17815ac74/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=718444&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=718444&versao=leg
+Rogue (2020)	dub=0:6987,https://embedplayer2.xyz/cdn/hls/6d6c180f873e87b0c1f5e19a126dd1ae/master.txt,https://comprarebom.xyz/cdn/down/a571876c64e06dd17815ac74/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=718444&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=718444&versao=leg
 Rogue Hostage	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=825997&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=825997&versao=leg
 Rogue o Assassino	dub=0:6992,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10431&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10431&versao=leg
 Rogue One: Uma Historia Star Wars	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=330459&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=330459&versao=leg
-Rogue One: Uma Historia Star Wars (2016)	dub=https://embedplayer2.xyz/cdn/hls/932e6be4e8d571a7230bf3103c870112/master.txt,0:6996,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=330459&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=330459&versao=leg
+Rogue One: Uma Historia Star Wars (2016)	dub=0:6996,https://embedplayer2.xyz/cdn/hls/932e6be4e8d571a7230bf3103c870112/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=330459&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=330459&versao=leg
 Rogue Warfare 2 A Cacada	dub=0:7000,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=635776&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=635776&versao=leg
 Rogue Warfare 3 A Morte De Uma Nacao	dub=0:7004,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=635780&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=635780&versao=leg
 Rogue Warfare Ameaca Global	dub=0:7008,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=627879&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=627879&versao=leg
@@ -985,35 +985,35 @@ Romance e Cigarros	dub=0:19194,https://saimo-tv.pages.dev/api/stream?tipo=movie&
 Romance na Ficção	dub=0:98802,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1085648&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1085648&versao=leg
 Romance nas Alturas	dub=0:42823,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=723266&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=723266&versao=leg
 Romance no Ar Uma Garota Apaixonada	dub=0:42828,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371540&versao=dub	leg=0:88445,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371540&versao=leg
-Romance Real na Estrada	dub=https://embedplayer2.xyz/cdn/hls/b69d7d9d6906d31bc0bc968517200c7b/master.txt,0:97662,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=944946&versao=dub	leg=0:97644,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=944946&versao=leg
+Romance Real na Estrada	dub=0:97662,https://embedplayer2.xyz/cdn/hls/b69d7d9d6906d31bc0bc968517200c7b/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=944946&versao=dub	leg=0:97644,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=944946&versao=leg
 Romeu e Julieta	dub=0:39212,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6003&versao=dub	leg=0:314567,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6003&versao=leg
 Romeu + Julieta	dub=0:31318,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=454&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=454&versao=leg
 Romeu: O Vira Lata Atrapalhado (2008)	dub=2:2332160,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20653&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20653&versao=leg
 Romeu Tem Que Morrer	dub=0:7001,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2085&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2085&versao=leg
-ROMI (2023)	dub=https://embedplayer2.xyz/cdn/hls/4e5c74ad2b8c131c7e5dc3d9fc492972/master.txt,0:53431,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139296&versao=dub	leg=0:88456,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139296&versao=leg
+ROMI (2023)	dub=0:53431,https://embedplayer2.xyz/cdn/hls/4e5c74ad2b8c131c7e5dc3d9fc492972/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139296&versao=dub	leg=0:88456,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139296&versao=leg
 Romi: A Assistente Virtual (2023)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1139296&versao=dub
 Romina (2018)	dub=2:1874491,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=535488&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=535488&versao=leg
 Rompendo Barreiras: Nosso Planeta (2021)	dub=2:1867452,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=828146&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=828146&versao=leg
 Rompendo Para Viver A Antiga	leg=0:303144
 Rompendo Rochas	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1400793&versao=dub	leg=0:308657,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1400793&versao=leg
-Ron Bugado (2021)	dub=https://embedplayer2.xyz/cdn/hls/2d7bbe77ef2616e68c9c69b9ab71a077/master.txt,0:58380,0:36485,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=482321&versao=dub	leg=0:88461,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=482321&versao=leg
+Ron Bugado (2021)	dub=0:58380,0:36485,https://embedplayer2.xyz/cdn/hls/2d7bbe77ef2616e68c9c69b9ab71a077/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=482321&versao=dub	leg=0:88461,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=482321&versao=leg
 Ronaldo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=361931&versao=dub	leg=0:253641,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=361931&versao=leg
 Ronda Noturna	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=660330&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=660330&versao=leg
-Ronda Noturna (2020)	dub=https://embedplayer2.xyz/cdn/hls/25ef6c1c8d27a151f42f4ca870f4b159/master.txt,0:31309,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=660330&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=660330&versao=leg
+Ronda Noturna (2020)	dub=0:31309,https://embedplayer2.xyz/cdn/hls/25ef6c1c8d27a151f42f4ca870f4b159/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=660330&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=660330&versao=leg
 Ronin (1998)	dub=2:1878151,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8195&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8195&versao=leg
 Rookie: Um Profissional do Perigo	dub=0:249847,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6723&versao=dub	leg=0:249885,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6723&versao=leg
 Room Taken	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1204623&versao=dub	leg=0:97093,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1204623&versao=leg
 Rooney	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=233559&versao=dub	leg=2:1867412,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=233559&versao=leg
 Rory McIlroy: The Masters Wait	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1646341&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1646341&versao=leg
 Rosa Amarela	dub=0:31313,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=593427&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=593427&versao=leg
-Rosa de Versalhes	dub=https://embedplayer2.xyz/cdn/hls/cd93a7c46c14d61c06089b1e93a0cdd9/master.txt,0:11107,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1021679&versao=dub	leg=0:88493,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1021679&versao=leg
+Rosa de Versalhes	dub=0:11107,https://embedplayer2.xyz/cdn/hls/cd93a7c46c14d61c06089b1e93a0cdd9/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1021679&versao=dub	leg=0:88493,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1021679&versao=leg
 Rosa e Momo	dub=0:31320,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=667869&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=667869&versao=leg
 Rosa Negra (2014)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=272610&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=272610&versao=leg
 ROSA & PINHEIRO AMOR NO PODER	leg=0:302781
 Rosalina	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=826769&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=826769&versao=leg
-Rosalina (2022)	dub=https://embedplayer2.xyz/cdn/hls/4544ad743aa4ea35fa27a647c0c312a9/master.txt,0:58385,0:19189,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=826769&versao=dub	leg=0:88472,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=826769&versao=leg
+Rosalina (2022)	dub=0:58385,0:19189,https://embedplayer2.xyz/cdn/hls/4544ad743aa4ea35fa27a647c0c312a9/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=826769&versao=dub	leg=0:88472,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=826769&versao=leg
 Rosario	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1297028&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1297028&versao=leg
-Rosario (2025)	dub=https://embedplayer2.xyz/cdn/hls/d137aa6162d229872bd9c0d640e7574d/master.txt,0:51709,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1297028&versao=dub	leg=0:88499,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1297028&versao=leg
+Rosario (2025)	dub=0:51709,https://embedplayer2.xyz/cdn/hls/d137aa6162d229872bd9c0d640e7574d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1297028&versao=dub	leg=0:88499,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1297028&versao=leg
 Rosario Tijeras	dub=0:21855,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10810&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10810&versao=leg
 Rose	dub=0:31323,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1176962&versao=dub	leg=0:88477,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1176962&versao=leg
 Rose Matafeo: Sem Parar	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1390010&versao=dub	leg=0:88482,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1390010&versao=leg
@@ -1052,23 +1052,23 @@ RRRrrrr!!! - Na Idade da Pedra (2004)	dub=0:19204,https://saimo-tv.pages.dev/api
 Rua Cloverfield 10	dub=0:51712,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=333371&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=333371&versao=leg
 Rua Descalça	dub=0:53365,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=714891&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=714891&versao=leg
 Rua do Medo: 1666 – Parte 3	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591275&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591275&versao=leg
-Rua do Medo: 1666 – Parte 3 (2021)	dub=https://embedplayer2.xyz/cdn/hls/ae9fdb662b07cdd60e7933c5e552f785/master.txt,0:45935,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591275&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591275&versao=leg
+Rua do Medo: 1666 – Parte 3 (2021)	dub=0:45935,https://embedplayer2.xyz/cdn/hls/ae9fdb662b07cdd60e7933c5e552f785/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591275&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591275&versao=leg
 Rua do Medo: 1978 - Parte 2	dub=0:51722,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591274&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591274&versao=leg
 Rua do Medo: 1994 - Parte 1	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591273&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591273&versao=leg
-Rua do Medo: 1994 - Parte 1 (2021)	dub=https://embedplayer2.xyz/cdn/hls/77aeb469b87ba4d4c998b5b1044d5e0f/master.txt,0:51725,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591273&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591273&versao=leg
+Rua do Medo: 1994 - Parte 1 (2021)	dub=0:51725,https://embedplayer2.xyz/cdn/hls/77aeb469b87ba4d4c998b5b1044d5e0f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591273&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=591273&versao=leg
 Rua do Medo: Rainha do Baile	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1001414&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1001414&versao=leg
-Rua do Medo: Rainha do Baile (2025)	dub=https://embedplayer2.xyz/cdn/hls/9ef1793e035dd6e247c2b7b93702ebfb/master.txt,0:58410,0:51728,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1001414&versao=dub	leg=0:88551,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1001414&versao=leg
+Rua do Medo: Rainha do Baile (2025)	dub=0:58410,0:51728,https://embedplayer2.xyz/cdn/hls/9ef1793e035dd6e247c2b7b93702ebfb/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1001414&versao=dub	leg=0:88551,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1001414&versao=leg
 Rua dos Pecados	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695569&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695569&versao=leg
-Rua dos Pecados (2020)	dub=https://embedplayer2.xyz/cdn/hls/1b6b18517d0daa8efdad6bc9e658b9cb/master.txt,0:51732,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695569&versao=dub	leg=0:88553,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695569&versao=leg
+Rua dos Pecados (2020)	dub=0:51732,https://embedplayer2.xyz/cdn/hls/1b6b18517d0daa8efdad6bc9e658b9cb/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695569&versao=dub	leg=0:88553,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695569&versao=leg
 Ruas da Glória	dub=0:307338,0:307357,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1134517&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1134517&versao=leg
 Ruas da Liberdade	dub=0:251207,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27141&versao=dub	leg=0:251241,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27141&versao=leg
 Ruas de Fogo (1984)	dub=2:1860600,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14746&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14746&versao=leg
-Ruas Em Guerra (2019)	dub=https://embedplayer2.xyz/cdn/hls/7e164558aac1e626b2694f4b79977d30/master.txt,0:7057,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=538207&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=538207&versao=leg
+Ruas Em Guerra (2019)	dub=0:7057,https://embedplayer2.xyz/cdn/hls/7e164558aac1e626b2694f4b79977d30/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=538207&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=538207&versao=leg
 Ruas Sangrentas - O Acerto Final	dub=0:7052,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9917&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9917&versao=leg
 Rubikon	dub=0:36489,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=793961&versao=dub	leg=0:88557,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=793961&versao=leg
 Rubikon: Ponto Sem Retorno	dub=0:314466,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=793961&versao=dub	leg=0:314126,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=793961&versao=leg
 Ruby Marinho - Monstro Adolescente	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1040148&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1040148&versao=leg
-Ruby Marinho Monstro Adolescente (2023)	dub=https://embedplayer2.xyz/cdn/hls/542bb97ca4ef22a216b2141255fab245/master.txt,0:58415,0:58420,0:11115,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1040148&versao=dub	leg=0:88563,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1040148&versao=leg
+Ruby Marinho Monstro Adolescente (2023)	dub=0:58415,0:58420,0:11115,https://embedplayer2.xyz/cdn/hls/542bb97ca4ef22a216b2141255fab245/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1040148&versao=dub	leg=0:88563,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1040148&versao=leg
 Ruby Sparks - A Namorada Perfeita (2012)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=103332&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=103332&versao=leg
 Rúcula com Tomate Seco (2017)	dub=2:1817826,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=488158&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=488158&versao=leg
 Rudy	dub=0:31336,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14534&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14534&versao=leg
@@ -1076,12 +1076,12 @@ Rufus 2 (2017)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=435737&ve
 Rufus (2016)	dub=0:10411,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=378221&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=378221&versao=leg
 Ruido	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1390154&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1390154&versao=leg
 Ruido (2022)	dub=0:42842,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=960519&versao=dub	leg=0:88581,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=960519&versao=leg
-Ruido Branco (2022)	dub=https://embedplayer2.xyz/cdn/hls/064b57dd8054ab1bd0daae7167a03961/master.txt,0:58428,0:19208,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=744594&versao=dub	leg=0:88623,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=744594&versao=leg
+Ruido Branco (2022)	dub=0:58428,0:19208,https://embedplayer2.xyz/cdn/hls/064b57dd8054ab1bd0daae7167a03961/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=744594&versao=dub	leg=0:88623,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=744594&versao=leg
 Ruído da Morte	dub=0:249174,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1159518&versao=dub	leg=0:249235,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1159518&versao=leg
-Ruidos (2025)	dub=https://embedplayer2.xyz/cdn/hls/53f74fac641921bc0786534f1e5d3beb/master.txt,0:99754,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1194963&versao=dub	leg=0:99648,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1194963&versao=leg
+Ruidos (2025)	dub=0:99754,https://embedplayer2.xyz/cdn/hls/53f74fac641921bc0786534f1e5d3beb/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1194963&versao=dub	leg=0:99648,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1194963&versao=leg
 Ruim pra Cachorro	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912908&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912908&versao=leg
-Ruim pra Cachorro (2023)	dub=https://embedplayer2.xyz/cdn/hls/85250b963e9b07b0d33c93341ca13923/master.txt,0:58426,0:19199,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912908&versao=dub	leg=0:88574,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912908&versao=leg
-Rumble Through the Dark	dub=https://embedplayer2.xyz/cdn/hls/9a2c82296015b13040a59f30ff525055/master.txt,0:45940,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=844416&versao=dub	leg=0:88564,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=844416&versao=leg
+Ruim pra Cachorro (2023)	dub=0:58426,0:19199,https://embedplayer2.xyz/cdn/hls/85250b963e9b07b0d33c93341ca13923/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912908&versao=dub	leg=0:88574,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=912908&versao=leg
+Rumble Through the Dark	dub=0:45940,https://embedplayer2.xyz/cdn/hls/9a2c82296015b13040a59f30ff525055/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=844416&versao=dub	leg=0:88564,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=844416&versao=leg
 Rumbos	dub=0:7048,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=391618&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=391618&versao=leg
 RUMO A RUINA PAGAR AS SUAS ACOES	dub=0:303342	leg=0:302063
 Rumo ao Paraíso	dub=0:31333,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=206&versao=dub	leg=0:88569,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=206&versao=leg
@@ -1093,14 +1093,14 @@ Run Rabbit Run	dub=0:51737,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=7
 Runaway - Fora de Controle (1984)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9507&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9507&versao=leg
 Running for Good: The Fiona Oakes Documentary (2018)	dub=2:1865140,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=554071&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=554071&versao=leg
 Running with the Devil	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=523077&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=523077&versao=leg
-Rush - No Limite da Emocao (2013)	dub=https://embedplayer2.xyz/cdn/hls/1f8c641ff65880a2880ede10983db17a/master.txt,0:31338,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=96721&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=96721&versao=leg
+Rush - No Limite da Emocao (2013)	dub=0:31338,https://embedplayer2.xyz/cdn/hls/1f8c641ff65880a2880ede10983db17a/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=96721&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=96721&versao=leg
 Rust	dub=https://embedplayer2.xyz/cdn/hls/43c5de308a22e4feb5a894024456c74c/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=710258&versao=dub	leg=0:88606,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=710258&versao=leg
 Rust: A Lei do Oeste	dub=0:35249,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=710258&versao=dub	leg=0:88611,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=710258&versao=leg
 Rust: A Lei do Oeste (2024)	dub=https://embedplayer2.xyz/cdn/hls/43c5de308a22e4feb5a894024456c74c/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=710258&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=710258&versao=leg
 Rustin	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=291727&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=291727&versao=leg
 Rustin (2023)	dub=0:31343,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=898713&versao=dub	leg=0:88616,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=898713&versao=leg
 Rute e Boaz	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371189&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371189&versao=leg
-Rute e Boaz (2025)	dub=https://embedplayer2.xyz/cdn/hls/1cd7550112f3c63ac2099be0a705f1c2/master.txt,0:42852,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371189&versao=dub	leg=0:88620,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371189&versao=leg
+Rute e Boaz (2025)	dub=0:42852,https://embedplayer2.xyz/cdn/hls/1cd7550112f3c63ac2099be0a705f1c2/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371189&versao=dub	leg=0:88620,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1371189&versao=leg
 Ruth e Alex	dub=0:98910,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=286521&versao=dub	leg=0:99119,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=286521&versao=leg
 Rye Lane: Um Amor Inesperado	dub=0:58431,0:42857,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1049638&versao=dub	leg=0:88633,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1049638&versao=leg
 Ryusoulger Vs. Lupinranger Vs. Patranger	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=657227&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=657227&versao=leg
@@ -1111,13 +1111,13 @@ The Reckoning (2021)	dub=https://embedplayer2.xyz/cdn/hls/be0311f7d9003fcd398974
 The Red Book Ritual: Gates of Hell (2025)	dub=https://embedplayer2.xyz/cdn/hls/58ff274c9ee1ecf42a111a8a8ca34091/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1499885&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1499885&versao=leg
 The Red Sea Makes Me Wanna Cry	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1116242&versao=dub	leg=0:91856,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1116242&versao=leg
 The Rental	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=587496&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=587496&versao=leg
-The Requin	dub=https://embedplayer2.xyz/cdn/hls/8e97f89adc0a20f844f394391ca2e54b/master.txt,0:46175,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=803114&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=803114&versao=leg
+The Requin	dub=0:46175,https://embedplayer2.xyz/cdn/hls/8e97f89adc0a20f844f394391ca2e54b/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=803114&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=803114&versao=leg
 The Rifleman (2020)	dub=2:1865092,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=750087&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=750087&versao=leg
 The Rising Hawk	dub=https://embedplayer2.xyz/cdn/hls/b750e2665f33b5d0b74d1532e872cfcc/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=468816&versao=dub	leg=0:91866,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=468816&versao=leg
 The Rocky Horror Picture Show	dub=0:19882,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36685&versao=dub	leg=0:91869,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36685&versao=leg
 The Roots of To Your Eternity	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1534811&versao=dub	leg=0:91890,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1534811&versao=leg
 The Rover: A Caçada	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=157845&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=157845&versao=leg
 The Royal Hotel	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=944952&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=944952&versao=leg
-The Royal Hotel (2023)	dub=https://embedplayer2.xyz/cdn/hls/d0c17ec0930ca79774983c281d24a9b0/master.txt,0:46180,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=944952&versao=dub	leg=0:91880,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=944952&versao=leg
+The Royal Hotel (2023)	dub=0:46180,https://embedplayer2.xyz/cdn/hls/d0c17ec0930ca79774983c281d24a9b0/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=944952&versao=dub	leg=0:91880,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=944952&versao=leg
 The Rule of Jenny Pen	dub=https://embedplayer2.xyz/cdn/hls/523ad250841d4d20900da8bba1b0e9ea/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1212742&versao=dub	leg=0:91873,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1212742&versao=leg
 The Runaways - Garotas do Rock	dub=0:32151,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27586&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=27586&versao=leg

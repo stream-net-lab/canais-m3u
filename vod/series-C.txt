@@ -1,7 +1,7 @@
-Campus Drivers		0	6
-Carrie, a Estranha		0	8
+A Casa do Dragão		0	26
+Carrie, a Estranha		0	1
 Casadas e Cacadoras		0	8
 Chainsaw Man		0	12
 CIA		0	12
 O Cavaleiro dos Sete Reinos		0	6
-The Chosen: Os Escolhidos		0	41
+The Chosen: Os Escolhidos		0	40

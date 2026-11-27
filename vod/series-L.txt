@@ -1,4 +1,3 @@
-A Leste do Éden		0	7
-Lanternas		0	8
+Lanternas		0	5
 LEGO ONE PIECE: A Série		0	2
-Lupin		0	25
+Lupin		0	17

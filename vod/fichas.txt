@@ -5220,9 +5220,9 @@ f	Como Os Anos Me Deixaram	1038130	/yVIe897guSz9i7S2MkuqCqRvrnw.jpg	Comédia
 f	Como Perder Sua Popularidade	1480025	/dClmfjS3cMam0NDfThWeeJMioJM.jpg	Romance
 f	Como Perder um Homem em 10 Dias	9919	/qxwgxjFUtZ3qf7vib9na6tdPfwT.jpg	Comédia
 f	Como Pétalas que Caem	890322	/24kV2SUWZN1GTsoEIg6Y90CO8v.jpg	Drama
-f	Como Roubar um Banco	1437511	/pEcf4yThzfVA438WEEwMWmWpn1z.jpg	
-f	Como Roubar um Banco (2024)	1291143	/wbpo8IBtg1NZ4FHJxMaRTPJoBUg.jpg	
-f	Como Roubar um Banco (2026)	1437511	/6QOVs2PMyxHtE4tHiMZS1eIboxl.jpg	
+f	Como Roubar um Banco	1437511	/pEcf4yThzfVA438WEEwMWmWpn1z.jpg	Crime
+f	Como Roubar um Banco (2024)	1291143	/wbpo8IBtg1NZ4FHJxMaRTPJoBUg.jpg	Documentário
+f	Como Roubar um Banco (2026)	1437511	/6QOVs2PMyxHtE4tHiMZS1eIboxl.jpg	Ação
 f	Como Sair de Buffalo	547012	/cBZG2akI4aMbIb2pyeZAzKli1Qr.jpg	Comédia
 f	Como Salvar o Papai Noel	238302	/d0S6G2piQgTBHAExYP1FhVmv8C3.jpg	Animação
 f	Como Se Fosse a Primeira Vez	1824	/yIInx3jyBXtjRXMnzufwJfB5AYG.jpg	Comédia
@@ -6216,7 +6216,7 @@ f	The Curse of La Llorona Legendado	0	/x7GUGVMn8c9sMZeD1jZRsLoGQUc.jpg
 f	The Curse of the Necklace	1293263	/stU9sQl1DBMrGMFuExnIIOrbdWs.jpg	Terror
 f	The Cursed	630392	/bewmBcjJxHeipS1PNu9Lfyvt3zY.jpg	Terror
 f	The Cycle (2026)	1290418	/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg	Crime
-s	Campus Drivers	0	/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg	Séries
+s	A Casa do Dragão	0	/oKJDm4QCKbp6mR4FnxXrFlPJP8Y.jpg	Séries
 s	Carrie, a Estranha	0	/pgi67D7ERtedbywBHXY9Tj2vk2L.jpg	Séries
 s	Casadas e Cacadoras	0	/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg	Séries
 s	Chainsaw Man	114410	/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg	Animes
@@ -7753,14 +7753,12 @@ f	The Dutchman	1180417	/zvRBvOyDifX3HNgqscIBtQO9jtP.jpg	Drama
 s	Death Note	0	/iigTJJskR1PcjjXqxdyJwVB3BoU.jpg	Animes
 s	Demon Slayer Kimetsu no Yaiba	0	/7Uj6vqmznWQ3w3hpQ1eIY9mMyMw.jpg	Animes
 s	Dexter: Ressurreição	0	/wnQ99OpwyVUxRZbfeqhNE1aab6h.jpg	Séries
-s	Diários de uma Apotecária	220542	/t8fC3K3XnwE6Iso6b1bi5Fdo93n.jpg	Séries
 s	Dragon Ball Daima	0	/qlLJvJO8rsltmnWWbKgT13hP90I.jpg	Animes
 s	Dragon Ball GT	0	/kxXsfMR9lQr3Gem6aDFbvmyRyqd.jpg	Animes
 s	Dragon Ball Super	62715	/cQDCIp92rTzTnd8mjb1syLhrAqy.jpg	Animes
 s	Dragon Ball Super: Beerus	0	/w5ai45092PIlV1Vbt7kswry2C03.jpg	Animes
 s	Dragon Ball Z	12971	/kbkuYkaFsDwL6cyMgnBf77LczEo.jpg	Animes
 s	Dragon Ball Z Kai	0	/uAZmpZY9oCRgJ06f342sagwdjYL.jpg	Animes
-s	The Daily Life of a Part Time Torturer	305163	/bDQVbF2zrLOrbbx3FQgI5MZb8IU.jpg	Séries
 f	A Edição do Nordeste (2023)	1141546	/iCY5jx25RLZT9HeI5fxOFoQhhl5.jpg	Documentário
 f	A Elefanta do Mágico	776835	/g7weieVLynnkcFqOWA5WAmjffNB.jpg	Animação
 f	A Empregada	1368166	/qaqAdyuk8Fcgfsj19Cj3OpJ8hN.jpg	Mistério
@@ -9081,6 +9079,7 @@ f	The Elephant Queen	541572	/2abZpw9BA2anG2qHKZekrrd6aAX.jpg	Documentário
 f	The End (2024)	881366	/kYMLpw3DQjQjp2jzNrg3KvNFIr6.jpg	Drama
 f	The End We Start From (2023)	973778	/S9U0axheNakD9LQusEpFijDgSe.jpg	Drama
 f	The Eternal Daughter (2022)	790867	/rxj58LlmNjkT71EINzzAuNt6IQc.jpg	Drama
+s	Eu Vou Te Encontrar	0	/hHr1U9i91X5RTAX0DyUwNhZLs7i.jpg	Séries
 f	A Fábrica de Fake News	1007127	/9BzHo1CfB1yFAowe3E0THzucek6.jpg	Crime
 f	A Fábrica de Humanos (2020)	718135	/kUBdezb7neVwRH0PBYbZVllvNfV.jpg	Terror
 f	A Fabulosa Aventura da Sharpay (2011)	60405	/rwZe91BYGQLVhQ1opbKwRf1hQV5.jpg	Família
@@ -10934,7 +10933,6 @@ f	The Great Lillian Hall (2024)	800513	/2ogNnNAmteEYlhf8iW4rPXgfYNW.jpg	Drama
 f	The Groove Under the Groove: Os Sons de Paulinho da Costa	1648652	/iHPwjxigZNC743OZPLjEHYG9dyD.jpg	
 f	The Group	84278	/sdi14MruD5SJEAxmJisPwE3ZJNI.jpg	Drama
 f	The Grudge	1970	/A0VKYaw1rs6VTn48ijhTWN8P1pi.jpg	Terror
-s	Grey's Anatomy	0	/vrChGRs0DsoCoaeHif8PlZY637Q.jpg	Séries
 f	A Herança	1140346	/1fsHFRdqYQdxMtPxCuTIhKlOQga.jpg	Novela
 f	A Herança (2024)	1140346	/hvwA6rkBVQY9SMIe2ImfD1PEOCN.jpg	Terror
 f	A Herança (2025)	1140346	/hvwA6rkBVQY9SMIe2ImfD1PEOCN.jpg	Terror
@@ -11701,7 +11699,6 @@ f	The Hummingbird Project Legendado	0	/co43RxflrWS5OqdhdxYPaCPWiWk.jpg
 f	The Hunt	514847	/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg	Ação
 f	The Hunting of the Snark (2023)	1236614	/wSBGdtqp2QvQfSldxJLH8QIgXDR.jpg	Fantasia
 f	The Huntress: Rune of the Dead Legendado	0	/oiQcXvOgw9HjlaEufrNEG7amK15.jpg	
-s	Hana Kimi	0	/4BoA0q0oh1FJiRe9PlZCxlqX26T.jpg	Séries
 s	Hunter x Hunter	46298	/eobAuhCJA8oRp814V67WhezVXtQ.jpg	Animes
 f	A Ideia Mais Magnífica do Mundo	644984	/A6U4TVaLkQKcOlZD9FMFzlv520n.jpg	Animação
 f	A IDENTIDADE	2501	/q18OhXWdS0WncHminNK7A7uiEvc.jpg	Ação
@@ -12344,7 +12341,7 @@ f	The Invisible Man	570670	/67gVCA33yHpFkFyqhDJrt21MvYI.jpg	Suspense
 f	The Invite (2021)	880557	/yXLx87GoPrM1ofZyIdFJOaqCjKP.jpg	Comédia
 f	The Island (2023)	1147827	/xxE3yZh33Y26OWGMRAymx9CetLV.jpg	
 f	The Isolate Thief	1404304	/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg	Faroeste
-s	A Imperatriz Se Casou Novamente	0	/oef7j9VDmSTlnb6pQQz8Wpb5ATa.jpg	Séries
+s	A Imperatriz	0	/7TAbbWAbuqz66a8jYR5BajHDKlf.jpg	Séries
 f	A Janela Secreta	1586	/dJ2XE9EQVixJVLfMUSF85E4TiaA.jpg	Mistério
 f	A Jangada	889357	/5b5JmtUvQZxJdDCBKyr9hBde2o.jpg	Aventura
 f	A Jangada (2020)	985101	/5b5JmtUvQZxJdDCBKyr9hBde2o.jpg	Aventura
@@ -12925,7 +12922,6 @@ f	Os Jovens Titas em Acao Vs. Os Jovens Titas	556901	/mj4UgJWzCPhvUSqB9kMh1cJRCt
 f	Os Jovens Titãs: Missão Tóquio	16237	/oGBqTcA3sTLbcUy4s07RIYcGy2J.jpg	Animação
 s	JoJo's Bizarre Adventure	45790	/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg	Séries
 s	Jujutsu Kaisen	95479	/8R1mMSC1gX1cg5ed7ns49JOEqw3.jpg	Animes
-s	O Jogo do Diabo	0	/49YUKZ5N0GTeVaEoRpdyfWUlskV.jpg	Séries
 f	A Kind of Madness	1453280	/eQxybFsZbs9FXaaqje5BJ01WuQo.jpg	Drama
 f	A King Like Me	1193865	/dr9ouxc6vP7oF6loXKc9dISuezQ.jpg	Documentário
 f	K-9: D.P.: Um Policial Bom pra Cachorro	47354	/AvfWX5HMqrbol6i0Td57rv0XXis.jpg	Ação
@@ -14058,7 +14054,6 @@ f	The Loud House: O Filme	410113	/hTZe8H3vhgmGEyxvhcoEuFFGEtU.jpg	Animação
 f	The Loud House: Um Natal Muito Loud	674610	/kfJ5CTqYwC094H5HoVH4FnjJ514.jpg	Família
 f	The Loud House: Uma Verdadeira Família Assombrada	1146147	/3TT1na5ox9EfWrRiWfmjIysIN81.jpg	
 f	The Loud House: Uma Verdadeira Família Assombrada (2023)	1146147	/3TT1na5ox9EfWrRiWfmjIysIN81.jpg	
-s	A Leste do Éden	0	/3j5f8RkkbHIoBR1W4NwAQo61giR.jpg	Séries
 s	Lanternas	0	/wiF1C97GuJEOBSKWrtub517THjF.jpg	Séries
 s	LEGO ONE PIECE: A Série	318918	/lNEzS2CbwpIwMmhhlj3Utw8MhY7.jpg	Animes
 s	Lupin	0	/sOUWRai0215iUSMackrZx3Y1j05.jpg	Séries
@@ -16276,7 +16271,6 @@ f	The Munsters	804413	/ySrC3UYRmesDCV2MmFAqMZmgAiv.jpg	Comédia
 f	The Mustang (2019)	500860	/wk4ci9iK4CaUW7uhzQxmFz1bU0T.jpg	Drama
 f	The Mustang Legendado	0	/wk4ci9iK4CaUW7uhzQxmFz1bU0T.jpg	
 f	The Mustangs	1533932	/wk4ci9iK4CaUW7uhzQxmFz1bU0T.jpg	Drama
-s	A Mesa Final	0	/zKe37CgrobSBfBqdiNrWapgeCJX.jpg	Séries
 s	Marshals: Uma História de Yellowstone	0	/kqzWUZKQYomcJhXA5mDcaZFTWiG.jpg	Séries
 s	Monstro: A História de Lizzie Borden	0	/zeUdYvw2DKRsiabu2ptTaUlairp.jpg	Séries
 s	Mugyutto! Black Clover	97067	/wc421LF4gcEFDgKZFCyniYB0i8X.jpg	Animes
@@ -17953,6 +17947,7 @@ f	The Owners	659986	/oLuIH5Mkl9OBefhNC1NtJRTDb1H.jpg	Terror
 s	Off Campus: Amores Improváveis	0	/iQ1WbmoC08ql4qRZkfUD2LlzNOL.jpg	Séries
 s	One Piece	37854	/aesLt9fsKSA6KCgGxA60VVxjtLk.jpg	Animes
 s	Origem	0	/eK9ZDIq7gPFRJ0GGaWvgrXLZgXX.jpg	Séries
+s	Outlander: Blood of My Blood	0	/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg	Séries
 s	Overgeared	324502	/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg	Séries
 f	A Paisana (2025)	1255718	/9NVBrFkIYVgx4jEtfLvFqwmJi2M.jpg	Drama
 f	A Paixão de Billu (2020)	709681	/qKHZwJ6RoklVq1pWWJ3XfxBZ3Ub.jpg	Drama
@@ -19747,7 +19742,6 @@ f	The Professor Legendado	0	/26x0NqVPCfw7QvHtwsyaBHcnUjG.jpg
 f	The Promised Neverland (2020)	634521	/8RWcKSmCbwsN8porFyTOB5e2cDG.jpg	Animação
 s	Parede de Gelo	283428	/d03KBIFklbUjz3aHP77dqo9iagN.jpg	Séries
 s	Percy Jackson e os Olimpianos	0	/4sLiVmCiRiX9abW4niJyNZx15bK.jpg	Séries
-s	Petals of Reincarnation	261780	/ur7wRcNIO7ELC4YjZcvKRvxGCZc.jpg	Séries
 f	A Qualquer Custo	338766	/fz3RPQPquiyb4xi0isCIf6lIx7F.jpg	Faroeste
 f	A Qualquer Preço (2015)	289191	/tDI9givmfg5rihgAOnydLsWi19S.jpg	Drama
 f	A Queda	985939	/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg	Suspense
@@ -21125,8 +21119,8 @@ f	The Royal Hotel (2023)	944952	/oJwb2PV1LGxDp6Q3lynrjADxOIv.jpg	Drama
 f	The Rule of Jenny Pen	1212742	/xFuOp0qrLgona5P30n41BUNt762.jpg	Terror
 f	The Runaways - Garotas do Rock	27586	/v2BcOL7pAYB4EhuRfJ1jCn9d3yd.jpg	Drama
 s	O Rastreador	0	/xvtWn3DfjiN6fBfOZmpJYfFNufr.jpg	Séries
+s	R.J. Decker: Investigador Privado	0	/6fl67oS4Ia60jitn7L0uxqqRhIa.jpg	Séries
 s	Rancho Dutton	0	/aJVroxZZKReiSlASpODQ23qrdGa.jpg	Séries
-s	Reacher	0	/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg	Séries
 s	Rivais	0	/7WfpVftZuo9eSGcPdXEYhnMERRf.jpg	Séries
 f	A Sabiá Sabiazinha	649928	/aNh44s4NuVpZO0hOzs2o3pAx59B.jpg	Animação
 f	A Sacada	301608	/xpbOOqMlbAVD7IVhybqbAP4njrs.jpg	Ação
@@ -23049,10 +23043,11 @@ s	Os Simpsons	456	/1jGPgDDcmg3Xgs3WO8sfYfbnFoA.jpg	Séries
 s	Scrubs	0	/76dabsXy5SpOXDm7a5m8zdprD8Q.jpg	Séries
 s	Solo Leveling	127532	/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg	Animes
 s	South Park	2190	/ojwZ7dO7CUVUjbUDW81XaBjqy6h.jpg	Séries
+s	Spider-Noir	0	/rfrzXSaiuvRMLo8PRQds0TfFrZC.jpg	Séries
 s	SPY x FAMILY	120089	/vaIREdPGZOnW9Jrs86mheVVlIQQ.jpg	Animes
 s	Stick	0	/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg	Séries
-s	Stranger Things	0	/twfKp60THrcOIep9sjHODOOfO8d.jpg	Séries
 s	Super Dragon Ball Heroes	0	/79C1S70I2nR4o0WpVETIezT3jyG.jpg	Animes
+s	Sweetpea	0	/feoDYCy0AUD031gLqBmA9gC4pw1.jpg	Séries
 f	A Tabacaria (2018)	538061	/ufrrXI2BYCEcPuRf2MYhmOxGh73.jpg	
 f	A Taberna do Inferno (1978)	23916	/tF3YenU48fn1Ml0AMRvsG6nSP9V.jpg	Ação
 f	A Tática do Guepardo (2022)	930846	/A0KDrF3rivzXPaaRCYjZe0Qh6Kt.jpg	Documentário
@@ -24282,6 +24277,7 @@ f	Twisters (2024)	718821	/oLOKgN4U6oJxLSGdIIURa6MaELT.jpg	Ação
 f	Twitches: As Bruxinhas Gêmeas (2005)	21481	/gh38WKlXn3GX3ujh8gxsGvCC4iV.jpg	Comédia
 f	Tycus - Impacto Mortal	2096	/i8fBwpNdxnHB4gV6b5VEvV6JJJd.jpg	Ação
 s	Terra da Máfia	0	/jM7bH9b9QT22PtkTyHzxbXx4lDI.jpg	Séries
+s	Tulsa King	0	/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg	Séries
 f	A Ultima Aventura Nos Bastidores de Stranger Things 5 (2026)	1610413	/4C1EXyRhkG8WrNBVaA9rKo9pqxq.jpg	Documentário
 f	A Ultima Caçada (2022)	754452	/5JQv2JqtN6dRs670yEn99FjNrKf.jpg	Faroeste
 f	A Ultima Ceia	1751565	/ttDQPbpeaQUEbKcOMjC1WH2wud6.jpg	Drama
@@ -25494,8 +25490,6 @@ f	Utopia Distopia	740842	/amMBFvXCv8Opc0RrAtRRmy3AnsI.jpg	Documentário
 f	Utopia Muda	1262577	/8T17fu0qEeO7O9OXrDTYOBzrzaL.jpg	Documentário
 f	Utopia Tropical	1174816	/xAfC8VZ61857ul9tQ5AweQAeaNj.jpg	Documentário
 f	Uýra - A Retomada da Floresta	967831	/auVsD3LaFdnQg2K3OZ9n5aQ0guL.jpg	Documentário
-s	Um Choque de Amor	0	/ncqFauZ8eT5jq6E7jNxsopMwd8m.jpg	Séries
-s	Um Trabalho do Inferno	0	/lhQY8ilmv0XrB58pSgJr66XBVz9.jpg	Séries
 f	A Vastidão da Noite	565743	/vcZb17z4szf7ovmsjTGc2qDmaoQ.jpg	Drama
 f	A Velha Com a Faca	1247002	/du65x58CJrMMThuiT85kBFMYi0Z.jpg	Ação
 f	A Venezuela em Solo Brasileiro	1151772	/cdYFiGE3ClOCd4eocV2VQnVRbxj.jpg	Documentário
@@ -26364,7 +26358,6 @@ f	Vulcao Whakaari: Resgate na Nova Zelandia (2022)	1018645	/gSTZ7B1yn6AeTAbxKvwq
 f	Vulcões: A Tragédia de Katia e Maurice Krafft	913823	/jT8R2lqEpC49odCc1fCzAi6Z0ZE.jpg	Documentário
 f	Vulcões e Tubarões: Havaí	1126543	/q3N44XL6l1AHRyDgTN1BRTEfRvV.jpg	Documentário
 s	Verdade Oculta	0	/mM3vPLFMzE1J4Yc8WJPkDgNiyuX.jpg	Séries
-s	VisionQuest	0	/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg	Séries
 f	A Wedding for Belle (2025)	1501192	/fGIG9GhObggqyvJ6Cri0SN0GA6v.jpg	
 f	A Weekend to Forget	1174928	/qwO7vjOcmcGLGzirCILSqmQVa32.jpg	Suspense
 f	As We Speak: Rap Music on Trial (2024)	1214516	/7JnegXpSsxbghd7suwovP2PdDqv.jpg	Música

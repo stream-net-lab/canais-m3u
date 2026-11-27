@@ -6616,7 +6616,7 @@ The Curse of La Llorona Legendado	f	C
 The Curse of the Necklace	f	C	
 The Cursed	f	C	
 The Cycle (2026)	f	C	2026
-Campus Drivers	s	C	
+A Casa do Dragão	s	C	
 Carrie, a Estranha	s	C	
 Casadas e Cacadoras	s	C	
 Chainsaw Man	s	C	
@@ -8283,14 +8283,12 @@ The Dutchman	f	D
 Death Note	s	D	
 Demon Slayer Kimetsu no Yaiba	s	D	
 Dexter: Ressurreição	s	D	
-Diários de uma Apotecária	s	D	
 Dragon Ball Daima	s	D	
 Dragon Ball GT	s	D	
 Dragon Ball Super	s	D	
 Dragon Ball Super: Beerus	s	D	
 Dragon Ball Z	s	D	
 Dragon Ball Z Kai	s	D	
-The Daily Life of a Part Time Torturer	s	D	
 A Edição do Nordeste (2023)	f	E	2023
 A Elefanta do Mágico	f	E	
 A Empregada	f	E	
@@ -9728,6 +9726,7 @@ The Elephant Queen	f	E
 The End (2024)	f	E	2024
 The End We Start From (2023)	f	E	2023
 The Eternal Daughter (2022)	f	E	2022
+Eu Vou Te Encontrar	s	E	
 A Fábrica de Fake News	f	F	
 A Fábrica de Humanos (2020)	f	F	2020
 A Fabulosa Aventura da Sharpay (2011)	f	F	2011
@@ -11647,7 +11646,6 @@ The Great Lillian Hall (2024)	f	G	2024
 The Groove Under the Groove: Os Sons de Paulinho da Costa	f	G	
 The Group	f	G	
 The Grudge	f	G	
-Grey's Anatomy	s	G	
 A Herança	f	H	
 A Herança (2024)	f	H	2024
 A Herança (2025)	f	H	2025
@@ -12445,7 +12443,6 @@ The Hummingbird Project Legendado	f	H
 The Hunt	f	H	
 The Hunting of the Snark (2023)	f	H	2023
 The Huntress: Rune of the Dead Legendado	f	H	
-Hana Kimi	s	H	
 Hunter x Hunter	s	H	
 A Ideia Mais Magnífica do Mundo	f	I	
 A IDENTIDADE	f	I	
@@ -13112,7 +13109,7 @@ The Invisible Man	f	I
 The Invite (2021)	f	I	2021
 The Island (2023)	f	I	2023
 The Isolate Thief	f	I	
-A Imperatriz Se Casou Novamente	s	I	
+A Imperatriz	s	I	
 A Janela Secreta	f	J	
 A Jangada	f	J	
 A Jangada (2020)	f	J	2020
@@ -13717,7 +13714,6 @@ Os Jovens Titas em Acao Vs. Os Jovens Titas	f	J
 Os Jovens Titãs: Missão Tóquio	f	J	
 JoJo's Bizarre Adventure	s	J	
 Jujutsu Kaisen	s	J	
-O Jogo do Diabo	s	J	
 A Kind of Madness	f	K	
 A King Like Me	f	K	
 K-9: D.P.: Um Policial Bom pra Cachorro	f	K	
@@ -14892,7 +14888,6 @@ The Loud House: O Filme	f	L
 The Loud House: Um Natal Muito Loud	f	L	
 The Loud House: Uma Verdadeira Família Assombrada	f	L	
 The Loud House: Uma Verdadeira Família Assombrada (2023)	f	L	2023
-A Leste do Éden	s	L	
 Lanternas	s	L	
 LEGO ONE PIECE: A Série	s	L	
 Lupin	s	L	
@@ -17318,7 +17313,6 @@ The Munsters	f	M
 The Mustang (2019)	f	M	2019
 The Mustang Legendado	f	M	
 The Mustangs	f	M	
-A Mesa Final	s	M	
 Marshals: Uma História de Yellowstone	s	M	
 Monstro: A História de Lizzie Borden	s	M	
 Mugyutto! Black Clover	s	M	
@@ -19100,6 +19094,7 @@ The Owners	f	O
 Off Campus: Amores Improváveis	s	O	
 One Piece	s	O	
 Origem	s	O	
+Outlander: Blood of My Blood	s	O	
 Overgeared	s	O	
 A Paisana (2025)	f	P	2025
 A Paixão de Billu (2020)	f	P	2020
@@ -20987,7 +20982,6 @@ The Professor Legendado	f	P
 The Promised Neverland (2020)	f	P	2020
 Parede de Gelo	s	P	
 Percy Jackson e os Olimpianos	s	P	
-Petals of Reincarnation	s	P	
 A Qualquer Custo	f	Q	
 A Qualquer Preço (2015)	f	Q	2015
 A Queda	f	Q	
@@ -22510,8 +22504,8 @@ The Royal Hotel (2023)	f	R	2023
 The Rule of Jenny Pen	f	R	
 The Runaways - Garotas do Rock	f	R	
 O Rastreador	s	R	
+R.J. Decker: Investigador Privado	s	R	
 Rancho Dutton	s	R	
-Reacher	s	R	
 Rivais	s	R	
 A Sabiá Sabiazinha	f	S	
 A Sacada	f	S	
@@ -24553,10 +24547,11 @@ Os Simpsons	s	S
 Scrubs	s	S	
 Solo Leveling	s	S	
 South Park	s	S	
+Spider-Noir	s	S	
 SPY x FAMILY	s	S	
 Stick	s	S	
-Stranger Things	s	S	
 Super Dragon Ball Heroes	s	S	
+Sweetpea	s	S	
 A Tabacaria (2018)	f	T	2018
 A Taberna do Inferno (1978)	f	T	1978
 A Tática do Guepardo (2022)	f	T	2022
@@ -25835,6 +25830,7 @@ Twisters (2024)	f	T	2024
 Twitches: As Bruxinhas Gêmeas (2005)	f	T	2005
 Tycus - Impacto Mortal	f	T	
 Terra da Máfia	s	T	
+Tulsa King	s	T	
 A Ultima Aventura Nos Bastidores de Stranger Things 5 (2026)	f	U	2026
 A Ultima Caçada (2022)	f	U	2022
 A Ultima Ceia	f	U	
@@ -27083,8 +27079,6 @@ Utopia Distopia	f	U
 Utopia Muda	f	U	
 Utopia Tropical	f	U	
 Uýra - A Retomada da Floresta	f	U	
-Um Choque de Amor	s	U	
-Um Trabalho do Inferno	s	U	
 A Vastidão da Noite	f	V	
 A Velha Com a Faca	f	V	
 A Venezuela em Solo Brasileiro	f	V	
@@ -28014,7 +28008,6 @@ Vulcao Whakaari: Resgate na Nova Zelandia (2022)	f	V	2022
 Vulcões: A Tragédia de Katia e Maurice Krafft	f	V	
 Vulcões e Tubarões: Havaí	f	V	
 Verdade Oculta	s	V	
-VisionQuest	s	V	
 A Wedding for Belle (2025)	f	W	2025
 A Weekend to Forget	f	W	
 As We Speak: Rap Music on Trial (2024)	f	W	2024

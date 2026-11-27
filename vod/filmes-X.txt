@@ -12,7 +12,7 @@ X-Men: O Confronto Final	dub=0:59367,0:8213,https://saimo-tv.pages.dev/api/strea
 X-Men: O Filme	dub=0:59369,0:8219,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36657&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36657&versao=leg
 X-Men Origens: Wolverine	dub=0:8222,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2080&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2080&versao=leg
 X-Men: Primeira Classe	dub=0:59374,0:8226,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49538&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49538&versao=leg
-Xama O Exorcista Pagao (2025)	dub=https://embedplayer2.xyz/cdn/hls/7e85cf09d3c1bac2d6cb3b04fbc4cea2/master.txt,0:1326,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339166&versao=dub	leg=0:96236,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339166&versao=leg
+Xama O Exorcista Pagao (2025)	dub=0:1326,https://embedplayer2.xyz/cdn/hls/7e85cf09d3c1bac2d6cb3b04fbc4cea2/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339166&versao=dub	leg=0:96236,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339166&versao=leg
 Xanadu (1980)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15668&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15668&versao=leg
 XENO Amizade do Além (2025)	dub=https://embedplayer2.xyz/cdn/hls/6ad1d933a18a52d1bb9964ec78e034cc/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1119377&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1119377&versao=leg
 Xenophobia (2019)	dub=2:1881403,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=620014&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=620014&versao=leg
@@ -38,4 +38,4 @@ Xuxinha e Guto Contra os Monstros do Espaço (2005)	dub=https://saimo-tv.pages.d
 XXX	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47971&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47971&versao=leg
 xXx 2: Estado de Emergência	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11679&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11679&versao=leg
 xXx Reativado	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47971&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47971&versao=leg
-xXx Reativado (2017)	dub=https://embedplayer2.xyz/cdn/hls/3c97a5470a961f22f95c68e37c496c5e/master.txt,0:8231,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47971&versao=dub	leg=0:308399,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47971&versao=leg
+xXx Reativado (2017)	dub=0:8231,https://embedplayer2.xyz/cdn/hls/3c97a5470a961f22f95c68e37c496c5e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47971&versao=dub	leg=0:308399,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47971&versao=leg

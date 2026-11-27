@@ -2,13 +2,11 @@ capa: https://image.tmdb.org/t/p/w342
 fila	Em Alta
 f	Obsessão	O		/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg
 f	A Odisseia	O		/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg
-f	Como Roubar um Banco (2024)	C	2024	/wbpo8IBtg1NZ4FHJxMaRTPJoBUg.jpg
 f	Razão e Sensibilidade	R		/orYPEKHsB734AFFINcCbjT57Ifa.jpg
 f	Razão e Sensibilidade (2026)	R	2026	/kuSSXcjitZy1LLGGoB9XqLBPCYl.jpg
 f	Sacrifício (2016)	S	2016	/gMXvBWlDqJZ0Gow7KAc96fChrzD.jpg
 f	Sacrifício (2026)	S	2026	/gMXvBWlDqJZ0Gow7KAc96fChrzD.jpg
 f	Breeder	B		/kUBdezb7neVwRH0PBYbZVllvNfV.jpg
-f	Como Roubar um Banco	C		/pEcf4yThzfVA438WEEwMWmWpn1z.jpg
 f	Obsessao	O		/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg
 fila	Lançamentos 2026
 f	Maldicao da Mumia (2026)	M	2026	/fI6XBw8k5CWNwxLEYZwpjA89TPg.jpg
@@ -37,29 +35,29 @@ f	Avatar Aang: O Último Mestre do Ar (2026)	A	2026	/tiUtJXN4OZaK2PQM0q8mbbBgKS4
 f	Caminhos do Crime (2026)	C	2026	/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg
 fila	Séries em Destaque
 s	Os Simpsons	S		/1jGPgDDcmg3Xgs3WO8sfYfbnFoA.jpg
-s	Grey's Anatomy	G		/vrChGRs0DsoCoaeHif8PlZY637Q.jpg
 s	JoJo's Bizarre Adventure	J		/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg
 s	South Park	S		/ojwZ7dO7CUVUjbUDW81XaBjqy6h.jpg
 s	Quem Ama Cuida	Q		/p97unAJ9n9gpNrICCwEKuZdrb1t.jpg
-s	Rivais	R		/7WfpVftZuo9eSGcPdXEYhnMERRf.jpg
-s	Diários de uma Apotecária	D		/t8fC3K3XnwE6Iso6b1bi5Fdo93n.jpg
-s	Stranger Things	S		/twfKp60THrcOIep9sjHODOOfO8d.jpg
 s	O Rastreador	R		/xvtWn3DfjiN6fBfOZmpJYfFNufr.jpg
-s	The Chosen: Os Escolhidos	C		/9lL4etMuaZnqlSzkf0zEm3gbvlR.jpg
 s	Origem	O		/eK9ZDIq7gPFRJ0GGaWvgrXLZgXX.jpg
-s	Hana Kimi	H		/4BoA0q0oh1FJiRe9PlZCxlqX26T.jpg
-s	Reacher	R		/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg
+s	The Chosen: Os Escolhidos	C		/9lL4etMuaZnqlSzkf0zEm3gbvlR.jpg
+s	Tulsa King	T		/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg
 s	Yellowjackets	Y		/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg
-s	Petals of Reincarnation	P		/ur7wRcNIO7ELC4YjZcvKRvxGCZc.jpg
-s	Lupin	L		/sOUWRai0215iUSMackrZx3Y1j05.jpg
-s	O Jogo do Diabo	J		/49YUKZ5N0GTeVaEoRpdyfWUlskV.jpg
+s	A Casa do Dragão	C		/oKJDm4QCKbp6mR4FnxXrFlPJP8Y.jpg
 s	Scrubs	S		/76dabsXy5SpOXDm7a5m8zdprD8Q.jpg
 s	Dexter: Ressurreição	D		/wnQ99OpwyVUxRZbfeqhNE1aab6h.jpg
-s	Parede de Gelo	P		/d03KBIFklbUjz3aHP77dqo9iagN.jpg
-s	Marshals: Uma História de Yellowstone	M		/kqzWUZKQYomcJhXA5mDcaZFTWiG.jpg
-s	Terra da Máfia	T		/jM7bH9b9QT22PtkTyHzxbXx4lDI.jpg
+s	Lupin	L		/sOUWRai0215iUSMackrZx3Y1j05.jpg
 s	Overgeared	O		/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg
 s	O Senhor dos Anéis: Os Anéis de Poder	S		/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg
+s	Percy Jackson e os Olimpianos	P		/4sLiVmCiRiX9abW4niJyNZx15bK.jpg
+s	Parede de Gelo	P		/d03KBIFklbUjz3aHP77dqo9iagN.jpg
+s	Rivais	R		/7WfpVftZuo9eSGcPdXEYhnMERRf.jpg
+s	Avatar: Os Sete Refúgios	A		/l8qbsNAr1CZK2tZ60l5lrJdT5mW.jpg
+s	Marshals: Uma História de Yellowstone	M		/kqzWUZKQYomcJhXA5mDcaZFTWiG.jpg
+s	A Imperatriz	I		/7TAbbWAbuqz66a8jYR5BajHDKlf.jpg
+s	CIA	C		/8XbgWv137Umc8resTDeWh9ff7Y0.jpg
+s	Aprendendo a Licao	A		/oXjXhXUzwlRevYcFapt1Q2R9WRF.jpg
+s	O Segredo de Widow's Bay	S		/hazWZ75ml5Er3MQsFetIzoeWs99.jpg
 fila	Ação
 f	Supergirl (2026)	S	2026	/lzth7xKSu8Sr9Bys6xo1ajqwgiO.jpg
 f	Jack Ryan de Tom Clancy: Guerra Fantasma (2026)	J	2026	/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg
