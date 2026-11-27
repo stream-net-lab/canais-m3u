@@ -1,14 +1,14 @@
 ﻿{
-  "tag": "v4.1.2",
-  "versao": "4.1.2",
-  "codigo": 40102,
+  "tag": "v4.1.3",
+  "versao": "4.1.3",
+  "codigo": 40103,
   "data": "2026-11-26",
-  "notas": "TV & Filmes v4.1.2: Fundo preto puro de alto contraste, fonte e layout adaptativos para celular e TV, lista de canais compacta, catalogo de filmes e series integrado, audio em portugues priorizado, URLs criptografadas (AES-256-GCM) e menu limpo sem Apoie nem Criar Conta.",
+  "notas": "TV & Filmes v4.1.3: Foco dos menus, configuracoes, servidores e player com contorno vermelho sobre fundo escuro (texto 100% legivel sem fundo branco), fundo preto puro, fonte adaptativa para celular/TV e catalogo de filmes/series integrado.",
   "arquivos": {
     "tvbox": {
       "url": "https://stream-net-lab.github.io/canais-m3u/tv-filmes.apk",
-      "bytes": 4037518,
-      "sha256": "6fe1a731e74350ac809a51e48c9f95263a7756b1b7a1ea56fe30ae59c21d521f"
+      "bytes": 4037603,
+      "sha256": "67d21f65bb252718a45618cbb69bdf261d20075a19e9db070337498634e12b7f"
     }
   }
 }
