@@ -1,5 +1,5 @@
 @Black Clover	
-1	1	dub	1:35885,http://cdn.vdcdpstop.lat/series/play/089e85cc-4531-41f2-8106-61a3b448261e/2847/163463.mp4
+1	1	dub	http://cdn.vdcdpstop.lat/series/play/089e85cc-4531-41f2-8106-61a3b448261e/2847/163463.mp4,1:35885
 1	1	leg	55:1,https://saimo-tv.pages.dev/api/stream?tipo=series&id=73223&s=1&e=1&versao=leg
 1	2	dub	1:35886,https://saimo-tv.pages.dev/api/stream?tipo=series&id=73223&s=1&e=2&versao=dub
 1	2	leg	55:2,https://saimo-tv.pages.dev/api/stream?tipo=series&id=73223&s=1&e=2&versao=leg

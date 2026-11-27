@@ -1,23 +1,17 @@
 {
-  "data": "2026-11-27T16:04:19.129523+00:00",
+  "data": "2026-11-27T23:30:25.173476+00:00",
   "servidores_testados": 32,
-  "servidores_ativos": 15,
-  "servidores_caidos": 17,
+  "servidores_ativos": 23,
+  "servidores_caidos": 9,
   "hosts_caidos": [
-    "apiflix.duckdns.org",
-    "aponteiecair.lat:80",
-    "cdn--xn.s13-st1001604.lat",
-    "cdn-s01.mywallpaper-4k-image.net",
-    "cdn-sv01.maximaimg.online",
     "comprarebom.xyz",
-    "corruptx.org:80",
     "dry-frost-f2e2.gin4uxm3xv9o.workers.dev",
-    "f9ec309df904c55ffa8c4deae0051b47.r2.cloudflarestorage.com",
     "husky-denny-fenixflixaddon-ec8e842b.koyeb.app",
     "muddy-art-490f.playerscdnns.workers.dev",
     "nsrv1.appanimeplus.tk",
     "passing-melinda-onomed1-d0cbec40.koyeb.app",
-    "solitary-field-9699.playercdnxx.workers.dev",
-    "sparkling-art-6d5f.playerscdnn.workers.dev"
+    "sparkling-art-6d5f.playerscdnn.workers.dev",
+    "streaming-de-2.flyfile.app",
+    "zunderflix.lat"
   ]
 }

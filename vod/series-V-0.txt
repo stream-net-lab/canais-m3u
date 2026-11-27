@@ -1,9 +1,9 @@
 @Verdade Oculta	
 1	1	dub	1:76108
 1	2	dub	1:76109
-1	3	dub	1:76110,https://embedplayer2.xyz/cdn/hls/16268ddfe6d39584356dbe70cc09ba8d/master.txt
+1	3	dub	https://embedplayer2.xyz/cdn/hls/16268ddfe6d39584356dbe70cc09ba8d/master.txt,1:76110
 1	4	dub	1:76112
-1	5	dub	1:76113,https://embedplayer2.xyz/cdn/hls/7a860c573e9ba8e62c2e1e6c8260c218/master.txt
+1	5	dub	https://embedplayer2.xyz/cdn/hls/7a860c573e9ba8e62c2e1e6c8260c218/master.txt,1:76113
 1	6	dub	1:76114
 1	7	dub	1:76115
 1	8	dub	1:76116

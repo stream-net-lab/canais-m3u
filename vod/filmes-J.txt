@@ -21,7 +21,7 @@ A Jovem Rainha Vitória	dub=0:22703,https://saimo-tv.pages.dev/api/stream?tipo=m
 A Juíza (2018)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=493099&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=493099&versao=leg
 A Jurada	dub=0:43589,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9623&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9623&versao=leg
 A Justiceira	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=458594&versao=dub	leg=0:61282,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=458594&versao=leg
-A Juventude	dub=0:22705,https://embedplayer2.xyz/cdn/hls/9513b9a04ba05a6546f2cd0b5a045bda/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1098006&versao=dub	leg=0:61287,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1098006&versao=leg
+A Juventude	dub=https://embedplayer2.xyz/cdn/hls/9513b9a04ba05a6546f2cd0b5a045bda/master.txt,0:22705,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1098006&versao=dub	leg=0:61287,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1098006&versao=leg
 J. Edgar	dub=0:26975,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=88794&versao=dub	leg=0:75622,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=88794&versao=leg
 j-hope IN THE BOX (2023)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1076443&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1076443&versao=leg
 Já Era Hora	dub=0:15873,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=881462&versao=dub	leg=0:76198,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=881462&versao=leg
@@ -41,13 +41,13 @@ Jack &amp; Jill Nos Passos do Amor (2022)	dub=https://saimo-tv.pages.dev/api/str
 Jack Chega A Tempo Para O Natal	dub=0:39844,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1388232&versao=dub	leg=0:75654,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1388232&versao=leg
 Jack e a Mecânica do Coração (2014)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=204436&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=204436&versao=leg
 Jack e Jill Nos Passos do Amor (2022)	dub=https://embedplayer2.xyz/cdn/hls/87d47a8e956b82d75b7d45dc9c7a0dba/master.txt
-Jack & Jill Nos Passos do Amor	dub=0:42077,https://embedplayer2.xyz/cdn/hls/87d47a8e956b82d75b7d45dc9c7a0dba/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1032124&versao=dub	leg=0:75637,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1032124&versao=leg
+Jack & Jill Nos Passos do Amor	dub=https://embedplayer2.xyz/cdn/hls/87d47a8e956b82d75b7d45dc9c7a0dba/master.txt,0:42077,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1032124&versao=dub	leg=0:75637,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1032124&versao=leg
 Jack: O Caçador de Gigantes	dub=0:34035,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=81005&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=81005&versao=leg
 Jack Osbourne: Em Busca dos Ovnis (2022)	dub=https://embedplayer2.xyz/cdn/hls/f5895ec8e289f883a4680e49e198f3be/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1020191&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1020191&versao=leg
 Jack Reacher o Ultimo Tiro	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75780&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75780&versao=leg
-Jack Reacher o Ultimo Tiro (2012)	dub=0:4320,https://embedplayer2.xyz/cdn/hls/bff5e0f70391c2d7c8b64717fcdc889b/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75780&versao=dub	leg=0:315686,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75780&versao=leg
+Jack Reacher o Ultimo Tiro (2012)	dub=https://embedplayer2.xyz/cdn/hls/bff5e0f70391c2d7c8b64717fcdc889b/master.txt,0:4320,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75780&versao=dub	leg=0:315686,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=75780&versao=leg
 Jack Reacher - Sem Retorno	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=343611&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=343611&versao=leg
-Jack Reacher: Sem Retorno (2016)	dub=0:4319,0:306280,https://embedplayer2.xyz/cdn/hls/6cefeb5d364ee2df026cfa2036c2f0c5/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=343611&versao=dub	leg=0:301117,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=343611&versao=leg
+Jack Reacher: Sem Retorno (2016)	dub=https://embedplayer2.xyz/cdn/hls/6cefeb5d364ee2df026cfa2036c2f0c5/master.txt,0:4319,0:306280,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=343611&versao=dub	leg=0:301117,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=343611&versao=leg
 Jack Ryan de Tom Clancy: Guerra Fantasma (2026)	dub=0:300825,0:256148,0:256149,0:256150,0:290824,0:314397,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1380291&versao=dub	leg=0:314515,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1380291&versao=leg
 Jackass 2.5	dub=0:251196,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14158&versao=dub	leg=0:251229,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14158&versao=leg
 Jackass 2.5 (2007)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14158&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14158&versao=leg
@@ -87,17 +87,17 @@ Jane Austen Destruiu Minha Vida	dub=0:15749	leg=0:75711
 Jane Eyre	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47333&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47333&versao=leg
 Jane Eyre (2011)	dub=0:26970,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=38684&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=38684&versao=leg
 Jane Goodall: A Esperança	dub=0:34040,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=694059&versao=dub	leg=0:75716,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=694059&versao=leg
-Jane Não Está Bem	dub=0:250522,0:254762,https://embedplayer2.xyz/cdn/hls/9907e980ec0c33259d34d29bbbea686c/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=598355&versao=dub	leg=0:250478,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=598355&versao=leg
+Jane Não Está Bem	dub=https://embedplayer2.xyz/cdn/hls/9907e980ec0c33259d34d29bbbea686c/master.txt,0:250522,0:254762,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=598355&versao=dub	leg=0:250478,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=598355&versao=leg
 Janela Indiscreta (1954)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=567&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=567&versao=leg
 Janela Para a Morte (2018)	dub=2:1874655,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=502193&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=502193&versao=leg
 Janelas Para o Mundo	dub=0:26988,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=584900&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=584900&versao=leg
 Jantar Sangrento (2024)	dub=https://embedplayer2.xyz/cdn/hls/a0671c9c7c59ed044ad4aa6657a70ae2/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1267643&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1267643&versao=leg
-Jardim do Eden (2025)	dub=0:97338,https://embedplayer2.xyz/cdn/hls/983ebfd4269966db297a54d6e3ba89f5/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1128619&versao=dub	leg=0:97274,https://embedplayer2.xyz/cdn/hls/d14f174c6925d6ea55ff00cbd2523967/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1128619&versao=leg
+Jardim do Eden (2025)	dub=https://embedplayer2.xyz/cdn/hls/983ebfd4269966db297a54d6e3ba89f5/master.txt,0:97338,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1128619&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/d14f174c6925d6ea55ff00cbd2523967/master.txt,0:97274,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1128619&versao=leg
 Jardim dos Desejos	dub=0:26979,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=869612&versao=dub	leg=0:75721,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=869612&versao=leg
-Jardim dos Girassóis	dub=0:38385,https://embedplayer2.xyz/cdn/hls/bebb37f05279569ec5d4ef32ad1f3df7/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1226077&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1226077&versao=leg
+Jardim dos Girassóis	dub=https://embedplayer2.xyz/cdn/hls/bebb37f05279569ec5d4ef32ad1f3df7/master.txt,0:38385,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1226077&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1226077&versao=leg
 Jasão e o Velo de Ouro (1963)	dub=2:1863760,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11533&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11533&versao=leg
 Jason Bourne	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=324668&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=324668&versao=leg
-Jason Bourne (2016)	dub=0:300824,0:4332,https://embedplayer2.xyz/cdn/hls/341055970015ee9acc81a02c6e01b9f8/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=324668&versao=dub	leg=0:253637,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=324668&versao=leg
+Jason Bourne (2016)	dub=https://embedplayer2.xyz/cdn/hls/341055970015ee9acc81a02c6e01b9f8/master.txt,0:300824,0:4332,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=324668&versao=dub	leg=0:253637,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=324668&versao=leg
 Jason Vai para o Inferno: A Última Sexta-Feira	dub=0:49368,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10285&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10285&versao=leg
 Jason X	dub=0:49382,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11470&versao=dub	leg=0:75732,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11470&versao=leg
 Jaula	dub=0:49373,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=960875&versao=dub	leg=0:75726,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=960875&versao=leg
@@ -105,14 +105,14 @@ Javier Milei: A Revolução Liberal	dub=2:1875662,https://saimo-tv.pages.dev/api
 Javier Milei: la revolución liberal	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1155525&versao=dub	leg=2:1875662,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1155525&versao=leg
 Jaws vs. the Meg	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1159566&versao=dub	leg=0:75742,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1159566&versao=leg
 Jay Kelly	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1069905&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1069905&versao=leg
-Jay Kelly (2025)	dub=0:602,https://embedplayer2.xyz/cdn/hls/ab098827ccbd3aa4c291e0f9811be193/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1069905&versao=dub	leg=0:75757,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1069905&versao=leg
+Jay Kelly (2025)	dub=https://embedplayer2.xyz/cdn/hls/ab098827ccbd3aa4c291e0f9811be193/master.txt,0:602,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1069905&versao=dub	leg=0:75757,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1069905&versao=leg
 JCVD: A Maior Luta de Sua Vida	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13672&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13672&versao=leg
 Je Suis Karl	dub=0:26984,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=683641&versao=dub	leg=0:75747,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=683641&versao=leg
 Jeca Contra o Capeta (1976)	dub=2:1871031,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=147619&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=147619&versao=leg
 Jeca e Seu Filho Preto	dub=0:38380,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=144050&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=144050&versao=leg
 Jéca Tatu (1959)	dub=2:1811185,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=120753&versao=dub
 Jecão... Um Fofoqueiro no Céu (1977)	dub=0:16462,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=232474&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=232474&versao=leg
-Jeff Buckley	dub=0:99782,2:1888854,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1400381&versao=dub	leg=0:99540,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1400381&versao=leg
+Jeff Buckley	dub=2:1888854,0:99782,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1400381&versao=dub	leg=0:99540,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1400381&versao=leg
 Jenifer – Instinto Assassino (2005)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=299438&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=299438&versao=leg
 Jennifer 8 - A Próxima Vítima	dub=0:21474,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10424&versao=dub	leg=0:75752,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10424&versao=leg
 Jennifer Lopez: Halftime (2022)	dub=2:1887390,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=962192&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=962192&versao=leg
@@ -135,8 +135,8 @@ Jesse Stone: Perdido no Paraíso (2015)	dub=2:1822221,https://saimo-tv.pages.dev
 Jesse Stone: Sem Remorso	dub=0:99369,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43263&versao=dub	leg=0:99556,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43263&versao=leg
 Jesse Stone: Tempo de Despertar	dub=0:99387,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26114&versao=dub	leg=0:99561,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26114&versao=leg
 Jester 2 Nao Da para Enganar A Morte Duas Vezes (2025)	dub=https://embedplayer2.xyz/cdn/hls/248ce5bdd84bc27a0facde4d63a13e5f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1519168&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1519168&versao=leg
-Jester A Morte Sorri (2023)	dub=0:49377,https://embedplayer2.xyz/cdn/hls/dec6f613f6e0abdc7c6c6e919806bac8/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1118595&versao=dub	leg=0:75768,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1118595&versao=leg
-Jester: Não Dá para Enganar A Morte Duas Vezes	dub=0:254240,0:254767,https://embedplayer2.xyz/cdn/hls/248ce5bdd84bc27a0facde4d63a13e5f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1519168&versao=dub	leg=0:254229,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1519168&versao=leg
+Jester A Morte Sorri (2023)	dub=https://embedplayer2.xyz/cdn/hls/dec6f613f6e0abdc7c6c6e919806bac8/master.txt,0:49377,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1118595&versao=dub	leg=0:75768,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1118595&versao=leg
+Jester: Não Dá para Enganar A Morte Duas Vezes	dub=https://embedplayer2.xyz/cdn/hls/248ce5bdd84bc27a0facde4d63a13e5f/master.txt,0:254240,0:254767,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1519168&versao=dub	leg=0:254229,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1519168&versao=leg
 Jesus	dub=0:40828,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=691777&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=691777&versao=leg
 Jesus - A História do Nascimento	dub=0:40836,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2447&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2447&versao=leg
 Jesus: A Maior História de Todos os Tempos (1999)	dub=https://embedplayer2.xyz/cdn/hls/75bbee85a7f8a5bb1b0abebfd4d89581/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2331&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2331&versao=leg
@@ -148,7 +148,7 @@ Jesus de Nazaré - O Filho de Deus (2019)	dub=https://saimo-tv.pages.dev/api/str
 Jesús de Nazareth (1942)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=432375&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=432375&versao=leg
 Jesus Kid	dub=0:15758,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=853666&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=853666&versao=leg
 Jeungin	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=223610&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=223610&versao=leg
-Jewel Thief - The Heist Begins	dub=0:4339,https://embedplayer2.xyz/cdn/hls/9d2984f8edaca827c644815e8fc65d72/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1225915&versao=dub	leg=0:75784,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1225915&versao=leg
+Jewel Thief - The Heist Begins	dub=https://embedplayer2.xyz/cdn/hls/9d2984f8edaca827c644815e8fc65d72/master.txt,0:4339,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1225915&versao=dub	leg=0:75784,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1225915&versao=leg
 Jexi	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=620725&versao=dub	leg=2:1808312,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=620725&versao=leg
 Jexi: Um Celular Sem Filtro	dub=0:15762,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=620725&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=620725&versao=leg
 JFK: A História Não Contada (2013)	dub=0:33834,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=209262&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=209262&versao=leg
@@ -173,14 +173,14 @@ João Gilberto?	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=435681&v
 Joaquim (2017)	dub=2:1876482,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=436349&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=436349&versao=leg
 Jobs (2013)	dub=2:1875501,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=115782&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=115782&versao=leg
 Jockey	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1104937&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1104937&versao=leg
-Jockey (2021)	dub=0:27002,https://embedplayer2.xyz/cdn/hls/bd21993372e6cb8601d3581d37b3db1d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=776511&versao=dub	leg=0:75825,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=776511&versao=leg
+Jockey (2021)	dub=https://embedplayer2.xyz/cdn/hls/bd21993372e6cb8601d3581d37b3db1d/master.txt,0:27002,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=776511&versao=dub	leg=0:75825,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=776511&versao=leg
 Joderism	dub=0:38389,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=664795&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=664795&versao=leg
 Joe Bell	dub=0:27007,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=552269&versao=dub	leg=0:75830,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=552269&versao=leg
 Joe Bell: Você Nunca Andará Sozinho (2020)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=552269&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=552269&versao=leg
 Joe + Belle	dub=0:8939,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=144271&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=144271&versao=leg
 Joe Contra o Vulcão	dub=0:15766,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2565&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2565&versao=leg
 Joe e a Viagem de Carro	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1243460&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1243460&versao=leg
-Joe e a Viagem de Carro (2026)	dub=0:98732,0:97506,https://embedplayer2.xyz/cdn/hls/11019d2377e803d2468b7a9829b8075e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1243460&versao=dub	leg=0:97528,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1243460&versao=leg
+Joe e a Viagem de Carro (2026)	dub=https://embedplayer2.xyz/cdn/hls/11019d2377e803d2468b7a9829b8075e/master.txt,0:98732,0:97506,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1243460&versao=dub	leg=0:97528,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1243460&versao=leg
 Joe e as Baratas	dub=0:15770,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11962&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11962&versao=leg
 Joe Kidd	dub=0:254256,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14881&versao=dub	leg=0:254266,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14881&versao=leg
 Joe Sujo (2001)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10956&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10956&versao=leg
@@ -190,7 +190,7 @@ Jogada Certa	dub=0:42083,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=380
 Jogada da Vida (2024)	dub=0:307258,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=856161&versao=dub
 Jogada De Amor	dub=0:15779,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=654895&versao=dub	leg=0:75845,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=654895&versao=leg
 Jogada de Gênio	dub=0:27016,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14914&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14914&versao=leg
-Jogada de Mestre (2015)	dub=0:97000,https://embedplayer2.xyz/cdn/hls/70ef289af576d427b8d3d6415b6415b6/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=228968&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=228968&versao=leg
+Jogada de Mestre (2015)	dub=https://embedplayer2.xyz/cdn/hls/70ef289af576d427b8d3d6415b6415b6/master.txt,0:97000,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=228968&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=228968&versao=leg
 Jogada de Verão	dub=0:15774,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26602&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26602&versao=leg
 Jogada Decisiva	dub=0:27025,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9469&versao=dub	leg=0:75841,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9469&versao=leg
 Jogada Divina	dub=0:4343,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=281298&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=281298&versao=leg
@@ -199,15 +199,15 @@ Jogador N° 1	dub=0:56406,0:253801,https://saimo-tv.pages.dev/api/stream?tipo=mo
 Jogador No 1	dub=0:34030
 Jogador Numero 1	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=333339&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=333339&versao=leg
 Jogando a Linha	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=863858&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=863858&versao=leg
-Jogando a Linha (2023)	dub=0:56416,0:27021,https://embedplayer2.xyz/cdn/hls/abbcc52c0863028dee2af16cbb703a5d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=863858&versao=dub	leg=0:75850,https://embedplayer2.xyz/cdn/hls/4cdd7ac98c0acf80750e81d6fd923533/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=863858&versao=leg
+Jogando a Linha (2023)	dub=https://embedplayer2.xyz/cdn/hls/abbcc52c0863028dee2af16cbb703a5d/master.txt,0:56416,0:27021,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=863858&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/4cdd7ac98c0acf80750e81d6fd923533/master.txt,0:75850,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=863858&versao=leg
 Jogando com o Amor	dub=0:42087,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=672772&versao=dub	leg=0:75851,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=672772&versao=leg
 Jogando com Prazer	dub=0:15788,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=19918&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=19918&versao=leg
 JOGANDO DE ACORDO COM AS REGRAS DO MULTIMILIONARIO	leg=0:302865
 Jogando Pelas Regras do Bilionario	leg=0:303295
 Jogando Sujo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=696002&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=696002&versao=leg
-Jogando Sujo (2020)	dub=0:4358,https://embedplayer2.xyz/cdn/hls/8340fe83ffdfeb071d78c3b6fcc3ccec/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=696002&versao=dub	leg=0:75861,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=696002&versao=leg
+Jogando Sujo (2020)	dub=https://embedplayer2.xyz/cdn/hls/8340fe83ffdfeb071d78c3b6fcc3ccec/master.txt,0:4358,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=696002&versao=dub	leg=0:75861,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=696002&versao=leg
 Jogo Assassino	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=441282&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=441282&versao=leg
-Jogo Assassino (2019)	dub=0:27029,https://embedplayer2.xyz/cdn/hls/439446e30c007b8a15ec5f0ea73b2585/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=441282&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=441282&versao=leg
+Jogo Assassino (2019)	dub=https://embedplayer2.xyz/cdn/hls/439446e30c007b8a15ec5f0ea73b2585/master.txt,0:27029,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=441282&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=441282&versao=leg
 Jogo Bonito	dub=0:312037,0:27034,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857655&versao=dub	leg=0:75857,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857655&versao=leg
 Jogo Bruto	dub=0:4351,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2099&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2099&versao=leg
 Jogo da Morte (1978)	dub=https://embedplayer2.xyz/cdn/hls/8566b1ae6389e737aaa8db12747c6596/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13333&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13333&versao=leg
@@ -220,7 +220,7 @@ Jogo de Amor Em Las Vegas	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&i
 Jogo de Amor em Las Vegas	dub=0:15783,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9029&versao=dub	leg=0:75868,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9029&versao=leg
 Jogo de Assassinato	dub=0:44756,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=812666&versao=dub	leg=0:75863,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=812666&versao=leg
 Jogo de Assassinos (1997)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26103&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=26103&versao=leg
-Jogo de Bruxas	dub=0:49387,https://embedplayer2.xyz/cdn/hls/f1f392d8170f7d8eef79b13e4c643585/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1067833&versao=dub	leg=0:75884,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1067833&versao=leg
+Jogo de Bruxas	dub=https://embedplayer2.xyz/cdn/hls/f1f392d8170f7d8eef79b13e4c643585/master.txt,0:49387,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1067833&versao=dub	leg=0:75884,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1067833&versao=leg
 Jogo de Cena (2007)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=86321&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=86321&versao=leg
 JOGO DE CRIACAO EU SO QUERO DINHEIRO!	dub=0:302568	leg=0:302762
 Jogo de Espiões	dub=0:4354,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1535&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1535&versao=leg
@@ -229,14 +229,14 @@ Jogo de Intrigas	dub=0:27054,https://saimo-tv.pages.dev/api/stream?tipo=movie&id
 Jogo de Poder	dub=0:4362,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=38363&versao=dub	leg=0:75879,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=38363&versao=leg
 JOGO DE RENDA COM O CEO	dub=0:301647
 Jogo de Risco	dub=0:4370,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14527&versao=dub	leg=0:75889,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=14527&versao=leg
-Jogo de Sacrifício	dub=0:49399,https://embedplayer2.xyz/cdn/hls/17e414568bc03a8d45c6278fe68d991e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=973471&versao=dub	leg=0:75892,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=973471&versao=leg
+Jogo de Sacrifício	dub=https://embedplayer2.xyz/cdn/hls/17e414568bc03a8d45c6278fe68d991e/master.txt,0:49399,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=973471&versao=dub	leg=0:75892,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=973471&versao=leg
 Jogo de Sedução	dub=0:27063,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18538&versao=dub	leg=0:75901,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=18538&versao=leg
 JOGO DE SEDUCAO COM O CEO	leg=0:301980
 Jogo de Traições - A Origem	dub=0:27058,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=467432&versao=dub	leg=0:75905,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=467432&versao=leg
 JOGO DE TROCA DE MARIDOS	dub=0:302565
 Jogo de Xadrez (2014)	dub=2:1860984,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=254443&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=254443&versao=leg
 Jogo do Amor	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=462181&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=462181&versao=leg
-Jogo do Amor (2022)	dub=0:42092,https://embedplayer2.xyz/cdn/hls/e9611a94c5f90a765375a3e329b915b1/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=888479&versao=dub	leg=0:301118,0:75895,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=888479&versao=leg
+Jogo do Amor (2022)	dub=https://embedplayer2.xyz/cdn/hls/e9611a94c5f90a765375a3e329b915b1/master.txt,0:42092,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=888479&versao=dub	leg=0:301118,0:75895,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=888479&versao=leg
 Jogo do desejo	leg=0:303031
 Jogo do Destino	dub=0:21488,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1053587&versao=dub	leg=0:75907,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1053587&versao=leg
 Jogo do Dinheir (2016)	dub=https://embedplayer2.xyz/cdn/hls/d27af81c6f46a79180a6a408a87dc352/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=303858&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=303858&versao=leg
@@ -248,7 +248,7 @@ Jogo Mortal (2009)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20184
 Jogo Pela Sobrevivência	dub=0:98824,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9753&versao=dub	leg=0:99021,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9753&versao=leg
 Jogo Perfeito (2022)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=842934&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/429632244049e4b0a9aaa9b72d1006b0/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=842934&versao=leg
 Jogo Perigoso	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=343674&versao=dub	leg=0:75919,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=343674&versao=leg
-Jogo Perigoso (2017)	dub=0:27077,https://embedplayer2.xyz/cdn/hls/12460429e4ea2ee262512a7e1a28a55e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=343674&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=343674&versao=leg
+Jogo Perigoso (2017)	dub=https://embedplayer2.xyz/cdn/hls/12460429e4ea2ee262512a7e1a28a55e/master.txt,0:27077,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=343674&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=343674&versao=leg
 Jogo Perigoso (2022)	dub=https://embedplayer2.xyz/cdn/hls/12460429e4ea2ee262512a7e1a28a55e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1027385&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1027385&versao=leg
 Jogo Perigoso Vitimas da Heranca (2022)	dub=https://embedplayer2.xyz/cdn/hls/7f0e905430e8e70dd5e6f3293185a2c6/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1027385&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1027385&versao=leg
 Jogo Perigoso: Vítimas da Legado	dub=https://embedplayer2.xyz/cdn/hls/7f0e905430e8e70dd5e6f3293185a2c6/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1027385&versao=dub	leg=0:75921,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1027385&versao=leg
@@ -264,7 +264,7 @@ Jogos de Caça (2023)	dub=0:251430,0:4374,https://saimo-tv.pages.dev/api/stream?
 Jogos de Estrada	dub=0:44761,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43089&versao=dub	leg=0:75940,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=43089&versao=leg
 Jogos de Guerra (1983)	dub=2:1881475,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=860&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=860&versao=leg
 Jogos de Sedução	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1236197&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1236197&versao=leg
-Jogos de Sedução (2025)	dub=0:56433,0:42107,https://embedplayer2.xyz/cdn/hls/0c598f73d80c169d07530ab29be944ea/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1236197&versao=dub	leg=0:75935,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1236197&versao=leg
+Jogos de Sedução (2025)	dub=https://embedplayer2.xyz/cdn/hls/0c598f73d80c169d07530ab29be944ea/master.txt,0:56433,0:42107,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1236197&versao=dub	leg=0:75935,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1236197&versao=leg
 Jogos do Apocalipse (2013)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=198287&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=198287&versao=leg
 Jogos do Poder	dub=0:15793,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6538&versao=dub	leg=0:314516,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=6538&versao=leg
 Jogos Entre Amigos	dub=0:15797,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=472815&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=472815&versao=leg
@@ -278,22 +278,22 @@ Jogos Mortais II	dub=0:49413,https://saimo-tv.pages.dev/api/stream?tipo=movie&id
 Jogos Mortais III	dub=0:49409,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=214&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=214&versao=leg
 Jogos Mortais IV	dub=0:49418,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=663&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=663&versao=leg
 Jogos Mortais: Jigsaw	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=298250&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=298250&versao=leg
-Jogos Mortais: Jigsaw (2017)	dub=0:49420,https://embedplayer2.xyz/cdn/hls/7666c91abb58510f2a7e7160cf0668e6/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=298250&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=298250&versao=leg
+Jogos Mortais: Jigsaw (2017)	dub=https://embedplayer2.xyz/cdn/hls/7666c91abb58510f2a7e7160cf0668e6/master.txt,0:49420,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=298250&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=298250&versao=leg
 Jogos Mortais: O Final	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=41439&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=41439&versao=leg
-Jogos Mortais: O Final (2010)	dub=0:49428,https://embedplayer2.xyz/cdn/hls/1da5e445c8fb99a8b29f43cb75365d87/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=41439&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=41439&versao=leg
+Jogos Mortais: O Final (2010)	dub=https://embedplayer2.xyz/cdn/hls/1da5e445c8fb99a8b29f43cb75365d87/master.txt,0:49428,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=41439&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=41439&versao=leg
 Jogos Mortais V	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11917&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11917&versao=leg
-Jogos Mortais V (2008)	dub=0:49423,https://embedplayer2.xyz/cdn/hls/1108645130533e96a971982adc31a651/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11917&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11917&versao=leg
+Jogos Mortais V (2008)	dub=https://embedplayer2.xyz/cdn/hls/1108645130533e96a971982adc31a651/master.txt,0:49423,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11917&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11917&versao=leg
 Jogos Mortais VI	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22804&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22804&versao=leg
-Jogos Mortais VI (2009)	dub=0:49433,https://embedplayer2.xyz/cdn/hls/2c420c48532a15aba0780b589177c730/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22804&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22804&versao=leg
+Jogos Mortais VI (2009)	dub=https://embedplayer2.xyz/cdn/hls/2c420c48532a15aba0780b589177c730/master.txt,0:49433,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22804&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=22804&versao=leg
 Jogos Mortais X	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=951491&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=951491&versao=leg
-Jogos Mortais X (2023)	dub=0:56438,0:56443,0:49443,https://embedplayer2.xyz/cdn/hls/840ade8f9aac5db901fb309f1630c048/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=951491&versao=dub	leg=0:75967,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=951491&versao=leg
+Jogos Mortais X (2023)	dub=https://embedplayer2.xyz/cdn/hls/840ade8f9aac5db901fb309f1630c048/master.txt,0:56438,0:56443,0:49443,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=951491&versao=dub	leg=0:75967,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=951491&versao=leg
 Jogos Patrióticos	dub=0:27082,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9869&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9869&versao=leg
-Jogos Psicologicos (2021)	dub=0:27086,https://embedplayer2.xyz/cdn/hls/294ede4631e1cfdfbdd886e967b276f8/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=773543&versao=dub	leg=0:75959,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=773543&versao=leg
+Jogos Psicologicos (2021)	dub=https://embedplayer2.xyz/cdn/hls/294ede4631e1cfdfbdd886e967b276f8/master.txt,0:27086,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=773543&versao=dub	leg=0:75959,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=773543&versao=leg
 Jogos Sombrios	dub=0:49438,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=880004&versao=dub	leg=0:75956,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=880004&versao=leg
 Jogos Trapacas e Dois Canos Fumegantes	dub=0:15806,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=100&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=100&versao=leg
 Jogos Virtuais: O Início	dub=0:15824,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=583247&versao=dub	leg=0:75950,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=583247&versao=leg
 Jogos Vorazes	dub=0:4386,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=70160&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=70160&versao=leg
-Jogos Vorazes A Cantiga dos Passaros e das Serpentes (2023)	dub=0:56445,0:35976,https://embedplayer2.xyz/cdn/hls/bc5a50e7858200e6d38b59e4c4d3d153/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695721&versao=dub	leg=0:75973,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695721&versao=leg
+Jogos Vorazes A Cantiga dos Passaros e das Serpentes (2023)	dub=https://embedplayer2.xyz/cdn/hls/bc5a50e7858200e6d38b59e4c4d3d153/master.txt,0:56445,0:35976,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695721&versao=dub	leg=0:75973,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=695721&versao=leg
 Jogos Vorazes: A Esperança - O Final	dub=0:4390,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=131634&versao=dub	leg=0:75983,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=131634&versao=leg
 Jogos Vorazes: A Esperança - Parte 1	dub=0:4394,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=131631&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=131631&versao=leg
 Jogos Vorazes: A Esperança - Parte 1 (2014)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=131631&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=131631&versao=leg
@@ -304,14 +304,14 @@ JOGUEI O BUQUE NO LIXO	leg=0:301518
 Johatsu - Die sich in Luft auflösen	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1249236&versao=dub	leg=0:307583,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1249236&versao=leg
 John Candy: Eu Me Amo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1492608&versao=dub	leg=2:1866832,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1492608&versao=leg
 John Carter: Entre Dois Mundos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49529&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49529&versao=leg
-John Carter: Entre Dois Mundos (2012)	dub=0:4402,https://embedplayer2.xyz/cdn/hls/ba53b62f0e7a37e5bafdccd65cc6d289/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49529&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49529&versao=leg
+John Carter: Entre Dois Mundos (2012)	dub=https://embedplayer2.xyz/cdn/hls/ba53b62f0e7a37e5bafdccd65cc6d289/master.txt,0:4402,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49529&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49529&versao=leg
 John e o Potrinho Mágico	dub=0:11986,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=576784&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=576784&versao=leg
 John Farnham: Finding the Voice	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1071647&versao=dub	leg=0:75988,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1071647&versao=leg
 John Wick 1	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=245891&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=245891&versao=leg
 John Wick 2	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=324552&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=324552&versao=leg
 John Wick 2: Um Novo Dia para Matar	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=324552&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=324552&versao=leg
 John Wick 3	dub=0:56451,0:4418,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=458156&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=458156&versao=leg
-John Wick 3: Parabellum (2019)	dub=0:311991,https://embedplayer2.xyz/cdn/hls/aee8ad4558b7e1e1d9eb5cb72087a564/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=458156&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=458156&versao=leg
+John Wick 3: Parabellum (2019)	dub=https://embedplayer2.xyz/cdn/hls/aee8ad4558b7e1e1d9eb5cb72087a564/master.txt,0:311991,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=458156&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=458156&versao=leg
 John Wick 4: Baba Yaga	dub=0:56456,0:254580,0:4414,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=603692&versao=dub	leg=0:75997,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=603692&versao=leg
 John Wick Chapter 3 Parabellum Legendado	leg=0:75993
 John Wick - De Volta ao Jogo	dub=0:311990,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=245891&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=245891&versao=leg
@@ -319,13 +319,13 @@ John Wick: Um Novo Dia para Matar	dub=0:311992,https://saimo-tv.pages.dev/api/st
 Johnny &amp; Clyde - Parceiros no Crime (2023)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857553&versao=dub
 Johnny &amp; June (2005)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=69&versao=dub
 Johnny Bom de Transa	dub=0:15815,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20443&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=20443&versao=leg
-Johnny & Clyde - Parceiros no Crime (2023)	dub=0:4423,https://embedplayer2.xyz/cdn/hls/7f96cb58992f2484e88c1716ea683e4f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857553&versao=dub	leg=0:76000,https://embedplayer2.xyz/cdn/hls/f96fedd6fc7bd6436425654475514fdb/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857553&versao=leg
+Johnny & Clyde - Parceiros no Crime (2023)	dub=https://embedplayer2.xyz/cdn/hls/7f96cb58992f2484e88c1716ea683e4f/master.txt,0:4423,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857553&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/f96fedd6fc7bd6436425654475514fdb/master.txt,0:76000,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=857553&versao=leg
 Johnny English	dub=0:4431,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9486&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9486&versao=leg
 Johnny English 3.0	dub=0:4420,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=463272&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=463272&versao=leg
 Johnny & June	dub=0:27091,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=69&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=69&versao=leg
 Johnny Kapahala: De Volta ao Havaí	dub=0:313908,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=62527&versao=dub	leg=0:313940,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=62527&versao=leg
 Johnny Todos Tem Uma Missão Especial	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=82878&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=82878&versao=leg
-Johnny Todos Tem Uma Missão Especial (2010)	dub=0:27096,https://embedplayer2.xyz/cdn/hls/7ec5f599a0b5c1dbad9da766fbe7ed4d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=82878&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=82878&versao=leg
+Johnny Todos Tem Uma Missão Especial (2010)	dub=https://embedplayer2.xyz/cdn/hls/7ec5f599a0b5c1dbad9da766fbe7ed4d/master.txt,0:27096,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=82878&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=82878&versao=leg
 Joias Brutas	dub=0:27101,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=473033&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=473033&versao=leg
 Joika: Uma Americana no Bolshoi	dub=0:27105,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=714675&versao=dub	leg=0:76015,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=714675&versao=leg
 Jojo Rabbit	dub=0:56461,0:15811,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=515001&versao=dub	leg=0:76005,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=515001&versao=leg
@@ -367,9 +367,9 @@ Jornada nas Estrelas: O Filme	dub=6:6075520,https://saimo-tv.pages.dev/api/strea
 Jornada nas Estrelas V: A Última Fronteira (1989)	dub=6:6075537,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=172&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=172&versao=leg
 Jornada nas Estrelas VI: A Terra Desconhecida	dub=6:6075529,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=174&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=174&versao=leg
 Jornada Para Belém	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1092329&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1092329&versao=leg
-Jornada Para Belém (2023)	dub=0:53117,https://embedplayer2.xyz/cdn/hls/7028822f6a90ccadef30004956fe27b9/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1092329&versao=dub	leg=0:76051,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1092329&versao=leg
+Jornada Para Belém (2023)	dub=https://embedplayer2.xyz/cdn/hls/7028822f6a90ccadef30004956fe27b9/master.txt,0:53117,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1092329&versao=dub	leg=0:76051,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1092329&versao=leg
 Jornada Para o Inferno	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=843846&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=843846&versao=leg
-Jornada Para o Inferno (2023)	dub=0:35036,https://embedplayer2.xyz/cdn/hls/c1e7e963b8adcfcf90bd6fa64e4c7694/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=843846&versao=dub	leg=0:76046,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=843846&versao=leg
+Jornada Para o Inferno (2023)	dub=https://embedplayer2.xyz/cdn/hls/c1e7e963b8adcfcf90bd6fa64e4c7694/master.txt,0:35036,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=843846&versao=dub	leg=0:76046,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=843846&versao=leg
 Jornada Pela Justiça	dub=0:27119,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=45104&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=45104&versao=leg
 Jornada pela Liberdade	dub=0:27110,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15163&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=15163&versao=leg
 José (1995)	dub=0:46976,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2405&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2405&versao=leg
@@ -397,7 +397,7 @@ Jovens Demais para Morrer	dub=0:35050,https://saimo-tv.pages.dev/api/stream?tipo
 Jovens Feiticeiras	dub=0:49462,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=476929&versao=dub	leg=0:76083,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=476929&versao=leg
 Jovens Infelizes ou Um Homem que Grita Não é um Urso que Dança	dub=0:314620,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=381141&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=381141&versao=leg
 Jovens Justiceiros	dub=0:35041,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13496&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13496&versao=leg
-Jovens Maes (2025)	dub=0:254222,0:254763,https://embedplayer2.xyz/cdn/hls/deca0f12118e9e8c29b0b56c2b3c4b8c/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1242015&versao=dub	leg=0:254230,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1242015&versao=leg
+Jovens Maes (2025)	dub=https://embedplayer2.xyz/cdn/hls/deca0f12118e9e8c29b0b56c2b3c4b8c/master.txt,0:254222,0:254763,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1242015&versao=dub	leg=0:254230,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1242015&versao=leg
 Jovens Mulheres	dub=0:27114,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=483347&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=483347&versao=leg
 Jovens Polacas	dub=0:27123,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=678292&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=678292&versao=leg
 Jovens Titãs: O Contrato de Judas	dub=0:35985,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=408647&versao=dub	leg=0:76078,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=408647&versao=leg
@@ -418,7 +418,7 @@ Judy: Muito Além do Arco-Íris	dub=0:27142,https://saimo-tv.pages.dev/api/strea
 Jugaremos en el bosque (2024)	dub=https://embedplayer2.xyz/cdn/hls/b1164b07104bbaf2ff0a42ad333613d0/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1249013&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/8410f59bfdc4df141d7981cb9293db87/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1249013&versao=leg
 Juízo (2007)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=151401&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=151401&versao=leg
 Juízo Final (2008)	dub=0:36536,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13460&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13460&versao=leg
-Jujutsu Kaisen 0: O Filme (2021)	dub=0:9718,https://embedplayer2.xyz/cdn/hls/274c0492fb72a1f142bb41e2ad8a560f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=810693&versao=dub	leg=0:76105,https://embedplayer2.xyz/cdn/hls/bec00ddbed1a4e2ce5b006c47b1b3405/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=810693&versao=leg
+Jujutsu Kaisen 0: O Filme (2021)	dub=https://embedplayer2.xyz/cdn/hls/274c0492fb72a1f142bb41e2ad8a560f/master.txt,0:9718,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=810693&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/bec00ddbed1a4e2ce5b006c47b1b3405/master.txt,0:76105,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=810693&versao=leg
 JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1338799&versao=dub	leg=0:301123,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1338799&versao=leg
 Julgamento (2007)	dub=0:29163,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=105516&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=105516&versao=leg
 Julgamento em Nuremberg (1961)	dub=2:1876658,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=821&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=821&versao=leg
@@ -427,7 +427,7 @@ Julgamento: O Estado Contra Um Homem Comum	dub=https://saimo-tv.pages.dev/api/st
 Julho Sangrento	dub=0:27147,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=244509&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=244509&versao=leg
 Julia y el celacanto (1961)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=103135&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=103135&versao=leg
 Julie &amp; Julia (2009)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24803&versao=dub
-Julie & Julia (2009)	dub=0:42102,https://embedplayer2.xyz/cdn/hls/fb20504b1d5e60d664805caaa158d278/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24803&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24803&versao=leg
+Julie & Julia (2009)	dub=https://embedplayer2.xyz/cdn/hls/fb20504b1d5e60d664805caaa158d278/master.txt,0:42102,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24803&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=24803&versao=leg
 Julieta	dub=0:42111,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=332872&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=332872&versao=leg
 Julieta dos Espíritos (1965)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=19120&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=19120&versao=leg
 Jumanji	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=512200&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=512200&versao=leg
@@ -437,12 +437,12 @@ Jumanji: Próxima Fase	dub=0:56471,0:56476,0:4432,https://saimo-tv.pages.dev/api
 Jumanji The Next Level	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=512200&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=512200&versao=leg
 Jumbo	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1049082&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1049082&versao=leg
 Jumbo (2019)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=594448&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=594448&versao=leg
-Jumbo: Um Coração Gigante	dub=0:99883,https://embedplayer2.xyz/cdn/hls/1ef12a10f763d3d748149b832124594d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1049082&versao=dub	leg=0:99899,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1049082&versao=leg
+Jumbo: Um Coração Gigante	dub=https://embedplayer2.xyz/cdn/hls/1ef12a10f763d3d748149b832124594d/master.txt,0:99883,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1049082&versao=dub	leg=0:99899,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1049082&versao=leg
 Jumper	dub=0:4435,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8247&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=8247&versao=leg
 June	dub=0:56481,0:606,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=69&versao=dub	leg=0:76111,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=69&versao=leg
 June (2023)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=976574&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=976574&versao=leg
 June e John	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1216571&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1216571&versao=leg
-June e John (2025)	dub=0:42114,https://embedplayer2.xyz/cdn/hls/9cd78ae75120cdb830756d64f66a559f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1216571&versao=dub	leg=0:76118,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1216571&versao=leg
+June e John (2025)	dub=https://embedplayer2.xyz/cdn/hls/9cd78ae75120cdb830756d64f66a559f/master.txt,0:42114,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1216571&versao=dub	leg=0:76118,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1216571&versao=leg
 Jung_E	dub=0:35995,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=843794&versao=dub	leg=0:76129,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=843794&versao=leg
 Jungle Boy	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=957447&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=957447&versao=leg
 Jungle Cruise	dub=0:56486,0:4439,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=451048&versao=dub	leg=0:76124,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=451048&versao=leg
@@ -477,11 +477,11 @@ Jurassic Predator (2018)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id
 Jurassic Shark 3: Seavenge (2024)	dub=https://embedplayer2.xyz/cdn/hls/0bc194cb4982fb651e01e861ce7a2e2e/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1098335&versao=dub	leg=https://embedplayer2.xyz/cdn/hls/32933d5a7a1d8c28e022ddec8f10a69d/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1098335&versao=leg
 Jurassic Triangle (2024)	dub=2:1883328,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1032448&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1032448&versao=leg
 Jurassic World	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1234821&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1234821&versao=leg
-Jurassic World 2 - Reino Ameacado	dub=0:34110,https://embedplayer2.xyz/cdn/hls/61b89b7353f0ae3af850fe3b2f39f716/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=351286&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=351286&versao=leg
+Jurassic World 2 - Reino Ameacado	dub=https://embedplayer2.xyz/cdn/hls/61b89b7353f0ae3af850fe3b2f39f716/master.txt,0:34110,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=351286&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=351286&versao=leg
 Jurassic World: Domínio	dub=0:56510,0:11999,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=507086&versao=dub	leg=0:76165,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=507086&versao=leg
 Jurassic World: O Mundo dos Dinossauros (2015)	dub=https://embedplayer2.xyz/cdn/hls/78ae1e3fbc0a11d5d2f7abc77602fb61/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=135397&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=135397&versao=leg
 Jurassic World: Recomeço	dub=0:56509,0:35999,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1234821&versao=dub	leg=0:76141,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1234821&versao=leg
-Jurassic World: Reino Ameacado (2018)	dub=0:56504,https://embedplayer2.xyz/cdn/hls/61b89b7353f0ae3af850fe3b2f39f716/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=351286&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=351286&versao=leg
+Jurassic World: Reino Ameacado (2018)	dub=https://embedplayer2.xyz/cdn/hls/61b89b7353f0ae3af850fe3b2f39f716/master.txt,0:56504,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=351286&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=351286&versao=leg
 JUREI TE AMAR APRENDI TE LARGAR	dub=0:302772
 JURISGOSTOSA E SEU CHEFE DE GELO	dub=0:302792
 Just a Father	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=58400&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=58400&versao=leg
@@ -490,7 +490,7 @@ Just Mercy	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=522212&versao
 Justiça	dub=2:1866649,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=141052&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=141052&versao=leg
 Justiça (2004)	dub=0:56621,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=228398&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=228398&versao=leg
 Justiça Além do Sistema (2021)	dub=0:21576,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=624789&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=624789&versao=leg
-Justica Artificial (2026)	dub=0:98264,0:97711,https://embedplayer2.xyz/cdn/hls/c83215bc95923e5e65f28f686ee4029f/master.txt,https://embedplayer2.xyz/cdn/hls/eae31dffb7fa272834c0d40bac6d6018/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1236153&versao=dub	leg=0:97746,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1236153&versao=leg
+Justica Artificial (2026)	dub=https://embedplayer2.xyz/cdn/hls/c83215bc95923e5e65f28f686ee4029f/master.txt,https://embedplayer2.xyz/cdn/hls/eae31dffb7fa272834c0d40bac6d6018/master.txt,0:98264,0:97711,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1236153&versao=dub	leg=0:97746,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1236153&versao=leg
 Justiça Brutal	dub=0:4471,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438674&versao=dub	leg=0:76182,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=438674&versao=leg
 Justiça Cega	dub=0:21500,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11060&versao=dub	leg=0:76184,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11060&versao=leg
 JUSTICA DO AMOR A BATALHA DA ESPOSA	leg=0:302465
@@ -502,11 +502,11 @@ Justiça - Entre a Lei e a Vingança (2017)	dub=2:1890701,https://saimo-tv.pages
 Justiça - Entre o Poder e a Lei	dub=0:27167,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=290541&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=290541&versao=leg
 JUSTICA NAS SOMBRAS	dub=0:301615
 JUSTICA NO AMOR A BATALHA DA ESPOSA	leg=0:302686
-Justiça para o Meu Filho (2023)	dub=0:251431,https://embedplayer2.xyz/cdn/hls/8b98b510484e2ead04f5d5cd923e5d9c/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1191890&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1191890&versao=leg
+Justiça para o Meu Filho (2023)	dub=https://embedplayer2.xyz/cdn/hls/8b98b510484e2ead04f5d5cd923e5d9c/master.txt,0:251431,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1191890&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1191890&versao=leg
 Justiça para Todos	dub=0:27171,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=17443&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=17443&versao=leg
 Justiça Paranormal (2023)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1321930&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1321930&versao=leg
 Justiça Sem Fronteiras	dub=0:27176,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=550506&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=550506&versao=leg
-Justiça Sem Limites	dub=0:614,https://embedplayer2.xyz/cdn/hls/542411f8b99f020fd0ea5d4c187f9110/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1138749&versao=dub	leg=0:76193,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1138749&versao=leg
+Justiça Sem Limites	dub=https://embedplayer2.xyz/cdn/hls/542411f8b99f020fd0ea5d4c187f9110/master.txt,0:614,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1138749&versao=dub	leg=0:76193,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1138749&versao=leg
 Justiça Urbana	dub=0:96698,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=17317&versao=dub	leg=0:100021,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=17317&versao=leg
 Justiça Vermelha	dub=0:21505,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9407&versao=dub	leg=0:76200,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=9407&versao=leg
 Justice League Snyders Cut	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=791373&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=791373&versao=leg
@@ -526,8 +526,8 @@ Juventudes Roubadas (2015)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&
 Juwanna Mann	dub=0:290726,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=35696&versao=dub	leg=0:290769,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=35696&versao=leg
 O Jantar (1998)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=65485&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=401546&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=401546&versao=leg
 O Jantar Está Servido	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=818342&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=818342&versao=leg
-O Jantar Está Servido (2020)	dub=0:50537,https://embedplayer2.xyz/cdn/hls/23cbf643256c0780a7ddc9b68c9d9bcc/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=669770&versao=dub	leg=0:82590,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=669770&versao=leg
-O Jardim da Fe (2021)	dub=0:29114,https://embedplayer2.xyz/cdn/hls/45a694974d876acc13a290fa01b22ac3/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=814094&versao=dub	leg=0:82601,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=814094&versao=leg
+O Jantar Está Servido (2020)	dub=https://embedplayer2.xyz/cdn/hls/23cbf643256c0780a7ddc9b68c9d9bcc/master.txt,0:50537,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=669770&versao=dub	leg=0:82590,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=669770&versao=leg
+O Jardim da Fe (2021)	dub=https://embedplayer2.xyz/cdn/hls/45a694974d876acc13a290fa01b22ac3/master.txt,0:29114,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=814094&versao=dub	leg=0:82601,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=814094&versao=leg
 O Jardim das Aflicoes	dub=0:29161,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=423303&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=423303&versao=leg
 O Jardim de Isabel	dub=0:29128,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1275457&versao=dub	leg=0:82602,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1275457&versao=leg
 O Jardim dos Esquecidos	dub=0:29142,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=236399&versao=dub	leg=0:82596,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=236399&versao=leg
@@ -536,37 +536,37 @@ O Jardim Secreto de Mariana	dub=0:53172,https://saimo-tv.pages.dev/api/stream?ti
 O Jardineiro	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1985&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1985&versao=leg
 O Jardineiro (2021)	dub=0:5781,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=894432&versao=dub	leg=0:82612,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=894432&versao=leg
 O Jardineiro Fiel	dub=0:29133,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1985&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1985&versao=leg
-O Jarro de Natal	dub=0:849,https://embedplayer2.xyz/cdn/hls/6413369740750f8d8586681b9ca86e96/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1394389&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1394389&versao=leg
+O Jarro de Natal	dub=https://embedplayer2.xyz/cdn/hls/6413369740750f8d8586681b9ca86e96/master.txt,0:849,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1394389&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1394389&versao=leg
 O Jeca e a Égua Milagrosa	dub=0:256232,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=229882&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=229882&versao=leg
 O Jeremias	dub=0:17750,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=296867&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=296867&versao=leg
 O Jogo da Espionagem	dub=0:5784,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=872542&versao=dub	leg=0:82607,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=872542&versao=leg
 O Jogo da Garrafa	dub=0:57479,0:50532,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1030983&versao=dub	leg=0:82617,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1030983&versao=leg
 O Jogo da Imitacao	dub=0:29146,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=205596&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=205596&versao=leg
 O Jogo da Invocação	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=926599&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=926599&versao=leg
-O Jogo da Invocação (2023)	dub=0:50542,https://embedplayer2.xyz/cdn/hls/3848982ab296028b3c23b908529b13aa/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=926599&versao=dub	leg=0:82622,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=926599&versao=leg
+O Jogo da Invocação (2023)	dub=https://embedplayer2.xyz/cdn/hls/3848982ab296028b3c23b908529b13aa/master.txt,0:50542,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=926599&versao=dub	leg=0:82622,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=926599&versao=leg
 O Jogo da Morte	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=953035&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=953035&versao=leg
 O Jogo da Morte 2	dub=0:5788,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=48773&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=48773&versao=leg
-O Jogo da Morte (2024)	dub=0:5792,https://embedplayer2.xyz/cdn/hls/6413795dbc40032a7220be955fdabbc6/master.txt,https://embedplayer2.xyz/cdn/hls/8566b1ae6389e737aaa8db12747c6596/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=714567&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=714567&versao=leg
+O Jogo da Morte (2024)	dub=https://embedplayer2.xyz/cdn/hls/6413795dbc40032a7220be955fdabbc6/master.txt,https://embedplayer2.xyz/cdn/hls/8566b1ae6389e737aaa8db12747c6596/master.txt,0:5792,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=714567&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=714567&versao=leg
 O Jogo da Paixão	dub=0:29151,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10478&versao=dub	leg=0:82627,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=10478&versao=leg
 O Jogo da Rainha	dub=0:29156,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848439&versao=dub	leg=0:82632,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848439&versao=leg
 O Jogo da Tentação	dub=0:50547,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1130276&versao=dub	leg=0:82637,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1130276&versao=leg
 O Jogo da Verdade	dub=0:290729,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=68274&versao=dub	leg=0:290776,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=68274&versao=leg
 O Jogo da Vida (2022)	dub=0:27039,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=913496&versao=dub,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=195156&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=195156&versao=leg
-O Jogo da Viuva (2025)	dub=0:251518,0:253565,0:45261,https://embedplayer2.xyz/cdn/hls/0d7a444f5a3e4fa6f23417324f5633e6/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1397832&versao=dub	leg=0:45275,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1397832&versao=leg
+O Jogo da Viuva (2025)	dub=https://embedplayer2.xyz/cdn/hls/0d7a444f5a3e4fa6f23417324f5633e6/master.txt,0:251518,0:253565,0:45261,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1397832&versao=dub	leg=0:45275,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1397832&versao=leg
 O Jogo de Amor –	dub=0:57489,0:42422,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=603661&versao=dub	leg=0:82648,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=603661&versao=leg
 O Jogo de Amor – &quot;Odio&quot; (2021)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=603661&versao=dub
 O Jogo de Geri	dub=0:10402,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13929&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13929&versao=leg
 O Jogo do Abismo (2017)	dub=2:1869086,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=409137&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=409137&versao=leg
 O Jogo do Amor	dub=0:42092,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=462181&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=462181&versao=leg
 O Jogo do Assassino	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=507241&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=507241&versao=leg
-O Jogo do Assassino (2024)	dub=0:57504,0:5796,https://embedplayer2.xyz/cdn/hls/965e9e90b2ff7a9f7bee4c0c24d03ed3/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=507241&versao=dub	leg=0:82643,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=507241&versao=leg
+O Jogo do Assassino (2024)	dub=https://embedplayer2.xyz/cdn/hls/965e9e90b2ff7a9f7bee4c0c24d03ed3/master.txt,0:57504,0:5796,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=507241&versao=dub	leg=0:82643,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=507241&versao=leg
 O Jogo do Bunker	dub=0:50552,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=794234&versao=dub	leg=0:82652,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=794234&versao=leg
-O Jogo do Disfarce (2023)	dub=0:57494,0:5800,https://embedplayer2.xyz/cdn/hls/05542f8493c66686322524c1942199d6/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848187&versao=dub	leg=0:301181,0:82659,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848187&versao=leg
+O Jogo do Disfarce (2023)	dub=https://embedplayer2.xyz/cdn/hls/05542f8493c66686322524c1942199d6/master.txt,0:57494,0:5800,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848187&versao=dub	leg=0:301181,0:82659,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=848187&versao=leg
 O Jogo do Elevador	dub=0:50556,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1015303&versao=dub	leg=0:82654,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1015303&versao=leg
-O Jogo do Medo	dub=0:50561,https://embedplayer2.xyz/cdn/hls/757087cd070d4ff047f071dd175523b9/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=812488&versao=dub	leg=0:82664,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=812488&versao=leg
+O Jogo do Medo	dub=https://embedplayer2.xyz/cdn/hls/757087cd070d4ff047f071dd175523b9/master.txt,0:50561,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=812488&versao=dub	leg=0:82664,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=812488&versao=leg
 O Jogo do Poder	dub=0:306318,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=464600&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=464600&versao=leg
 O Jogo do Predador	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1318447&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1318447&versao=leg
-O Jogo do Predador (2026)	dub=0:253400,0:311231,0:253365,0:254791,https://embedplayer2.xyz/cdn/hls/a07d2c0a09a0a487f2853d6be6a483d0/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1318447&versao=dub	leg=0:253379,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1318447&versao=leg
+O Jogo do Predador (2026)	dub=https://embedplayer2.xyz/cdn/hls/a07d2c0a09a0a487f2853d6be6a483d0/master.txt,0:253400,0:311231,0:253365,0:254791,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1318447&versao=dub	leg=0:253379,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1318447&versao=leg
 O JOGO VIROU REALIDADE	dub=0:301465
 O Jovem Frankenstein (1974)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=3034&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=3034&versao=leg
 O Jovem Kieslowski	dub=0:17746,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=273912&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=273912&versao=leg
@@ -587,7 +587,7 @@ O Júri	dub=0:29166,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11329&ve
 O Justiceiro	dub=0:5812,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=7220&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=7220&versao=leg
 O Justiceiro: Em Zona de Guerra (2008)	dub=6:6376817,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13056&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=13056&versao=leg
 O Justiceiro Estrada do Caos	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=296695&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=296695&versao=leg
-O Justiceiro Uma Ultima Morte (2026)	dub=0:254582,0:256153,0:254584,0:254796,https://embedplayer2.xyz/cdn/hls/f05300cc8343124bcdcaf47523774f1f/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1439930&versao=dub	leg=0:254659,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1439930&versao=leg
+O Justiceiro Uma Ultima Morte (2026)	dub=https://embedplayer2.xyz/cdn/hls/f05300cc8343124bcdcaf47523774f1f/master.txt,0:254582,0:256153,0:254584,0:254796,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1439930&versao=dub	leg=0:254659,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1439930&versao=leg
 O Justiceiro: Uma Última Morte (2026)	dub=0:254584,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1439930&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1439930&versao=leg
 Os Japão	dub=0:18316,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=529209&versao=dub	leg=0:85268,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=529209&versao=leg
 Os Jetsons: O Filme (1990)	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=17009&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=17009&versao=leg
@@ -596,7 +596,7 @@ Os Jovens Amantes	dub=0:42552,https://saimo-tv.pages.dev/api/stream?tipo=movie&i
 Os Jovens Pistoleiros	dub=0:35186,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11967&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=11967&versao=leg
 Os Jovens Titans	dub=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1528081&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1528081&versao=leg
 Os Jovens Titãs Assistem A Space Jam	dub=0:7446,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=834404&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=834404&versao=leg
-Os Jovens Titãs em Ação! e DC Super Hero Girls Caos no Multiverso (2022)	dub=0:300896,0:10669,https://embedplayer2.xyz/cdn/hls/4bafcfc28db14edfefd2c779b9557e20/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=913205&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=913205&versao=leg
+Os Jovens Titãs em Ação! e DC Super Hero Girls Caos no Multiverso (2022)	dub=https://embedplayer2.xyz/cdn/hls/4bafcfc28db14edfefd2c779b9557e20/master.txt,0:300896,0:10669,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=913205&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=913205&versao=leg
 Os Jovens Titas em Acao! Nos Cinemas	dub=0:10678,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=474395&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=474395&versao=leg
 Os Jovens Titas em Acao Vs. Os Jovens Titas	dub=0:10664,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=556901&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=556901&versao=leg
 Os Jovens Titãs: Missão Tóquio	dub=0:52837,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16237&versao=dub	leg=0:85274,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=16237&versao=leg
