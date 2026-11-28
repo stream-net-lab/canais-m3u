@@ -313,10 +313,9 @@
     </div>
 
     <div class="card">
-      <h2>Executar Robô Agora (PC Pai Joaquim)</h2>
-      <button class="btn btn-green" id="btnAoVivo" onclick="acionarPC('aovivo')">📺 Atualizar Canais Ao Vivo (PC Pai Joaquim)</button>
-      <button class="btn btn-blue" id="btnCompleto" onclick="acionarPC('completo')">🎬 Atualização Completa TV + Filmes (PC Pai Joaquim)</button>
-      <button class="btn btn-sec" style="margin-top:4px" onclick="disparar('aovivo.yml')">☁️ Plano B: Rodar na Nuvem (GitHub Actions)</button>
+      <h2>Executar Robô Agora</h2>
+      <button class="btn btn-green" id="btnAoVivo" onclick="disparar('aovivo.yml')">📺 Atualizar Canais Ao Vivo</button>
+      <button class="btn btn-blue" id="btnCompleto" onclick="disparar('atualizar.yml')">🎬 Atualização Completa (TV + Filmes)</button>
       <div id="msgDisparo" class="msg"></div>
       <div id="statusPC" class="resumo-box"></div>
     </div>
@@ -388,12 +387,20 @@
       msg.textContent = `Enviando ${linhas.length} lista(s) para o robô testar e mesclar...`;
 
       try {
-        const ok = await enviarComandoPJ('aovivo', linhas.join('\n'), msg);
-        if (ok) {
+        const r = await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/aovivo.yml/dispatches`, {
+          method: 'POST',
+          headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json' },
+          body: JSON.stringify({ ref: 'main', inputs: { novas_listas: linhas.join('\n') } })
+        });
+        if (r.status === 204) {
           msg.className = 'msg ok';
-          msg.textContent = `Enviado para o PC de Pai Joaquim! Ele vai testar ${linhas.length} servidor(es) no IP local, adicionar os ativos e publicar na nuvem (1 a 2 min).`;
+          msg.textContent = `Recebido! O robô está testando ${linhas.length} servidor(es), adicionando os ativos à lista mestre e ordenando por velocidade (1 a 2 min).`;
           document.getElementById('inputNovasListas').value = '';
-          setTimeout(carregarTudo, 8000);
+          setTimeout(carregarTudo, 5000);
+        } else {
+          const d = await r.json().catch(() => ({}));
+          msg.className = 'msg err';
+          msg.textContent = `Erro (${r.status}): ${d.message || 'Verifique se o Token tem permissão Actions/Workflow.'}`;
         }
       } catch (e) {
         msg.className = 'msg err';
