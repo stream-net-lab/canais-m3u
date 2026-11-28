@@ -1,7 +1,7 @@
 {
-  "data": "2026-11-28T00:41:15.250994+00:00",
-  "links_testados": 7487,
-  "links_ativos": 548,
-  "links_caidos": 6939,
-  "canais_removidos": 0
+  "data": "2026-11-28T12:16:50.686193+00:00",
+  "links_testados": 7729,
+  "links_ativos": 7352,
+  "links_caidos": 377,
+  "canais_removidos": 38
 }
