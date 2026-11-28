@@ -1,14 +1,14 @@
-﻿{
-  "tag": "v4.1.3",
-  "versao": "4.1.3",
-  "codigo": 40103,
-  "data": "2026-11-26",
-  "notas": "TV & Filmes v4.1.3: Foco dos menus, configuracoes, servidores e player com contorno vermelho sobre fundo escuro (texto 100% legivel sem fundo branco), fundo preto puro, fonte adaptativa para celular/TV e catalogo de filmes/series integrado.",
+{
+  "tag": "v4.1.4",
+  "versao": "4.1.4",
+  "codigo": 40104,
+  "data": "2026-11-28",
+  "notas": "TV & Filmes v4.1.4: Correção de tela cheia após seleção de servidor/fonte no painel lateral; restauração garantida de tela cheia com proteção contra concorrência e retorno pelo botão voltar.",
   "arquivos": {
     "tvbox": {
       "url": "https://stream-net-lab.github.io/canais-m3u/tv-filmes.apk",
-      "bytes": 4037603,
-      "sha256": "67d21f65bb252718a45618cbb69bdf261d20075a19e9db070337498634e12b7f"
+      "bytes": 4038529,
+      "sha256": "f545c1a026a0226768553ef91347bd921a8a7d3608251fd01cb25b6cf09aa730"
     }
   }
 }
